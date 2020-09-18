@@ -63,5 +63,18 @@
  "telegram": "uruncles",
  "operatorName": "",
  "github": "bobdobs"
+},
+{
+ "ticker": "STR8",
+ "poolId": "000006d97fd0415d2dafdbb8b782717a3d3ff32f865792b8df7ddd00",
+ "social": {
+   "twitter": "Straightpool4",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "ChrisSTR8",
+ "operatorName": "Chris",
+ "github": "Straightpool"
 }
 ]
