@@ -2,7 +2,9 @@
 
 In this repo Members can register to be a member of the Single Pool Alliance.
 
-Registration Json file Exmple.
+Simply create a pool request with the information of your pool in the registry.json file
+
+Registration Json Exmple.
 
 ```
 {
