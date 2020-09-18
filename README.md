@@ -2,7 +2,7 @@
 
 In this repo Members can register to be a member of the Single Pool Alliance.
 
-By submitting a pool request you agree that all the submited information will be publicly avalable to everyone.
+By submitting a pull request you agree that all the submited information will be publicly avalable to everyone.
 
 Also by submitting you agree that you will fight for the full decentralization of Cardano by only running a single pool and reporting members are breaking the rules by running multiple pools.
 
