@@ -1,15 +1,29 @@
 [
+
 {
- "ticker": "BSP",                                                      
- "poolId": "89eba2781e5cd11ccda6be56503702a39e9941e522f04cd5bba22957", 
+
+ "ticker": "CO2P",                                                      
+
+ "poolId": "11cad31f95526b86724c84b818228fc2500bca5ce9b2864a85b94058", 
+
  "social": {                                                           
-   "twitter": "BrothershipPool",
-   "facebook": "brothershipool",  
+
+   "twitter": "CO2Pool",
+
+   "facebook": "",  
+
    "instagram": " ",
+
    "youtube": " "
+
  },
- "telegram": "Leandros42",                                            
- "operatorName": "Leandros Holleman",                                
- "github": "leo42"                                               
+
+ "telegram": "CO2Pool",                                            
+
+ "operatorName": "",                                
+
+ "github": "CO2-Pool"                                               
+
 }
+
 ]
