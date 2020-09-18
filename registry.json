@@ -50,5 +50,18 @@
  "telegram": "yatoharlock",
  "operatorName": "",
  "github": "lophre"
+},
+{
+ "ticker": "ADAGE",
+ "poolId": "83b259c187f8b88eda564b1f56ce2786360a9dc224f737fcdd8703c1",
+ "social": {
+   "twitter": "Uruncles",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "uruncles",
+ "operatorName": "",
+ "github": "bobdobs"
 }
 ]
