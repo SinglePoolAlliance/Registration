@@ -6,7 +6,7 @@ By submitting a pull request you agree that all the submited information will be
 
 Also by submitting you agree that you will fight for the full decentralization of Cardano by only running a single pool and reporting members that are breaking the rules by running multiple pools.
 
-Simply create a pool request with the information of your pool in the registry.json file
+Simply create a pull request with the information of your pool in the registry.json file
 
 Registration Json Exmple.
 
