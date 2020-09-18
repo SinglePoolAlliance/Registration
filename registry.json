@@ -24,5 +24,18 @@
  "telegram": "CO2Pool",                                            
  "operatorName": "",                                
  "github": "CO2-Pool"                                               
+},
+{
+ "ticker": "OHOH7",                                                      
+ "poolId": "d4b5b8d5c83e97b2cd90a0fd818f3c9d8e7388bcc7706327a92d2092", 
+ "social": {                                                           
+   "twitter": "Ohoh7C",
+   "facebook": "",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "OHOH7_CSP",                                            
+ "operatorName": "",                                
+ "github": "ohoh7"                                               
 }
 ]
