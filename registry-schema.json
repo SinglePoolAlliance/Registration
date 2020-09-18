@@ -1,0 +1,176 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "http://example.com/example.json",
+    "type": "array",
+    "title": "The root schema",
+    "description": "The root schema comprises the entire JSON document.",
+    "default": [],
+    "examples": [
+        [
+            {
+                "ticker": "BSP",
+                "poolId": "89eba2781e5cd11ccda6be56503702a39e9941e522f04cd5bba22957",
+                "social": {
+                    "twitter": "BrothershipPool",
+                    "facebook": "brothershipool",
+                    "instagram": " ",
+                    "youtube": " "
+                },
+                "telegram": "Leandros42",
+                "operatorName": "Leandros Holleman",
+                "github": "leo42"
+            }
+        ]
+    ],
+    "additionalItems": true,
+    "items": {
+        "$id": "#/items",
+        "anyOf": [
+            {
+                "$id": "#/items/anyOf/0",
+                "type": "object",
+                "title": "The first anyOf schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": {},
+                "examples": [
+                    {
+                        "ticker": "BSP",
+                        "poolId": "89eba2781e5cd11ccda6be56503702a39e9941e522f04cd5bba22957",
+                        "social": {
+                            "twitter": "BrothershipPool",
+                            "facebook": "brothershipool",
+                            "instagram": " ",
+                            "youtube": " "
+                        },
+                        "telegram": "Leandros42",
+                        "operatorName": "Leandros Holleman",
+                        "github": "leo42"
+                    }
+                ],
+                "required": [
+                    "ticker",
+                    "poolId",
+                    "social",
+                    "telegram"
+                ],
+                "properties": {
+                    "ticker": {
+                        "$id": "#/items/anyOf/0/properties/ticker",
+                        "type": "string",
+                        "title": "The ticker schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "BSP"
+                        ]
+                    },
+                    "poolId": {
+                        "$id": "#/items/anyOf/0/properties/poolId",
+                        "type": "string",
+                        "title": "The poolId schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "89eba2781e5cd11ccda6be56503702a39e9941e522f04cd5bba22957"
+                        ]
+                    },
+                    "social": {
+                        "$id": "#/items/anyOf/0/properties/social",
+                        "type": "object",
+                        "title": "The social schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": {},
+                        "examples": [
+                            {
+                                "twitter": "BrothershipPool",
+                                "facebook": "brothershipool",
+                                "instagram": " ",
+                                "youtube": " "
+                            }
+                        ],
+                        "required": [
+                            "twitter",
+                            "facebook",
+                            "instagram",
+                            "youtube"
+                        ],
+                        "properties": {
+                            "twitter": {
+                                "$id": "#/items/anyOf/0/properties/social/properties/twitter",
+                                "type": "string",
+                                "title": "The twitter schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    "BrothershipPool"
+                                ]
+                            },
+                            "facebook": {
+                                "$id": "#/items/anyOf/0/properties/social/properties/facebook",
+                                "type": "string",
+                                "title": "The facebook schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    "brothershipool"
+                                ]
+                            },
+                            "instagram": {
+                                "$id": "#/items/anyOf/0/properties/social/properties/instagram",
+                                "type": "string",
+                                "title": "The instagram schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    " "
+                                ]
+                            },
+                            "youtube": {
+                                "$id": "#/items/anyOf/0/properties/social/properties/youtube",
+                                "type": "string",
+                                "title": "The youtube schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    " "
+                                ]
+                            }
+                        },
+                        "additionalProperties": true
+                    },
+                    "telegram": {
+                        "$id": "#/items/anyOf/0/properties/telegram",
+                        "type": "string",
+                        "title": "The telegram schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "Leandros42"
+                        ]
+                    },
+                    "operatorName": {
+                        "$id": "#/items/anyOf/0/properties/operatorName",
+                        "type": "string",
+                        "title": "The operatorName schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "Leandros Holleman"
+                        ]
+                    },
+                    "github": {
+                        "$id": "#/items/anyOf/0/properties/github",
+                        "type": "string",
+                        "title": "The github schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "leo42"
+                        ]
+                    }
+                },
+                "additionalProperties": true
+            }
+        ]
+    }
+}
