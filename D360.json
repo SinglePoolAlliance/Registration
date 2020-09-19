@@ -1,0 +1,13 @@
+{
+ "ticker": "D360",                                                      # Mandatory
+ "poolId": "881e3af880ac65f96cbf9b85d3f054f72aa7bb9c77fe365bbf36f4c7",  # Mandatory
+ "social": {                                                            # At least 1 Mandatory more optional
+   "twitter": "@dapp360",
+   "facebook": "@dapp360",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "https://t.me/dapp360pool",                            # Mandatory
+ "operatorName": "Hassan Michael"                                   # Optional
+ "github": "https://github.com/DApp360"                             # Optional
+}
