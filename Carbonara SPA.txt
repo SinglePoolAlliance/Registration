@@ -7,7 +7,7 @@
    "instagram": " ",
    "youtube": " "
  },
- "telegram": "Yiannis (CARBO)",                                             
+ "telegram": "Yiannis_CARBO",                                             
  "operatorName": ""                                  
  "github": ""                                                    
 }
