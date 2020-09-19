@@ -65,6 +65,19 @@
  "github": "bobdobs"
 },
 {
+ "ticker": "ADADE",
+ "poolId": "599b872f42ab78df0429d1aebfe2d0a81676e50ba23097a532912b46",
+ "social": {
+   "twitter": "AdadeTom",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "Tom_H4A",
+ "operatorName": "Tom",
+ "github": "ADADE-Pool"
+},
+{
  "ticker": "STR8",
  "poolId": "000006d97fd0415d2dafdbb8b782717a3d3ff32f865792b8df7ddd00",
  "social": {
