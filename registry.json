@@ -115,5 +115,18 @@
  "telegram": "https://t.me/dapp360pool",                             
  "operatorName": "Hassan Michael",                                    
  "github": "https://github.com/DApp360"                              
+},
+{
+ "ticker": "VIBE",                                                      
+ "poolId": "131719731bf99518d44caadc1dfd37f9a7ddb86109f82011cd2ccb5c", 
+ "social": {                                                           
+   "twitter": "AdavibeSP",
+   "facebook": " ",  
+   "instagram": " ",
+   "youtube": "ADAVibe Stakepool"
+ },
+ "telegram": "FrMixx",                                            
+ "operatorName": "Michael F",                                
+ "github": "mixxaz"                                               
 }
 ]
