@@ -76,5 +76,18 @@
  "telegram": "ChrisSTR8",
  "operatorName": "Chris",
  "github": "Straightpool"
-}
+},
+{
+  "ticker": "HYPER",
+  "poolId": "263498e010c7a49bbfd7c4e1aab29809fca7ed993f9e14192a75871e",
+  "social": {
+    "twitter": "HYPERLINKPOOL",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "telegram": "HYPERLINKPOOL",
+  "operatorName": "",
+  "github": "hyperlinkpool"
+ }
 ]
