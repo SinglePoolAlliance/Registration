@@ -128,5 +128,18 @@
  "telegram": "FrMixx",                                            
  "operatorName": "Michael F",                                
  "github": "mixxaz"                                               
+},
+ {
+ "ticker": "CARBO",                                                       
+ "poolId": "8b8417759d9a4361d475945e1f8ff8d367a09d4afd96a509bffec9e0",  
+ "social": {                                                            
+   "twitter": "CarbonaraPool",
+   "facebook": "",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "Yiannis_CARBO",                                             
+ "operatorName": ""                                  
+ "github": ""                                                    
 }
 ]
