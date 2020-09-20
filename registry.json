@@ -128,5 +128,18 @@
  "telegram": "FrMixx",                                            
  "operatorName": "Michael F",                                
  "github": "mixxaz"                                               
+},
+{
+ "ticker": "TEST",                                                      
+ "poolId": "000000000000000000000000000000000000000000000000000000000000000", 
+ "social": {                                                           
+   "twitter": "test",
+   "facebook": " ",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "test",                                            
+ "operatorName": "test",                                
+ "github": "test"                                               
 }
 ]
