@@ -52,6 +52,19 @@
  "github": "lophre"
 },
 {
+ "ticker": "LOCO",
+ "poolId": "99541bed40b1015a1d81083184973b59a3f50bce4392492e99ff0bef",
+ "social": {
+   "twitter": "LocoAdaPool",
+   "facebook": "LocoAdaPool",
+   "instagram": "LocoAdaPool",
+   "youtube": "LocoAdaPool"
+ },
+ "telegram": "LocoAdaPool",
+ "operatorName": "Loco",
+ "github": "locoada"
+},
+{
  "ticker": "ADAGE",
  "poolId": "83b259c187f8b88eda564b1f56ce2786360a9dc224f737fcdd8703c1",
  "social": {
