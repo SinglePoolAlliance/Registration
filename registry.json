@@ -13,6 +13,19 @@
  "github": "leo42"                                               
 },
 {
+ "ticker": "LOCO",
+ "poolId": "99541bed40b1015a1d81083184973b59a3f50bce4392492e99ff0bef",
+ "social": {
+   "twitter": "LocoAdaPool",
+   "facebook": "LocoAdaPool",
+   "instagram": "LocoAdaPool",
+   "youtube": ""
+ },
+ "telegram": "locoada",
+ "operatorName": "Craig",
+ "github": "locoada"
+},
+{
  "ticker": "CO2P",                                                      
  "poolId": "11cad31f95526b86724c84b818228fc2500bca5ce9b2864a85b94058", 
  "social": {                                                           
