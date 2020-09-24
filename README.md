@@ -8,6 +8,9 @@ Also by submitting you agree that you will fight for the full decentralization o
 
 Simply create a pull request with the information of your pool in the registry.json file
 
+Step-By-Step Guide: 
+https://medium.com/@leantrosh/single-pool-alliance-step-by-step-registration-guide-5c12d849f543
+
 Registration Json Exmple.
 
 ```

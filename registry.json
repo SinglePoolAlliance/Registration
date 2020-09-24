@@ -13,6 +13,19 @@
  "github": "leo42"                                               
 },
 {
+ "ticker": "LOCO",
+ "poolId": "99541bed40b1015a1d81083184973b59a3f50bce4392492e99ff0bef",
+ "social": {
+   "twitter": "LocoAdaPool",
+   "facebook": "LocoAdaPool",
+   "instagram": "LocoAdaPool",
+   "youtube": ""
+ },
+ "telegram": "locoada",
+ "operatorName": "Craig",
+ "github": "locoada"
+},
+{
  "ticker": "CO2P",                                                      
  "poolId": "11cad31f95526b86724c84b818228fc2500bca5ce9b2864a85b94058", 
  "social": {                                                           
@@ -102,6 +115,7 @@
   "telegram": "HYPERLINKPOOL",
   "operatorName": "",
   "github": "hyperlinkpool"
+
 },
 {
  "ticker": "THOR",                                                      
@@ -115,5 +129,44 @@
  "telegram": "thor_pool",                                   
  "operatorName": "Andre Halvorsen",                              
  "github": "ADATHOR"                                            
+ },
+ {
+ "ticker": "D360",                                                       
+ "poolId": "881e3af880ac65f96cbf9b85d3f054f72aa7bb9c77fe365bbf36f4c7",   
+ "social": {                                                             
+   "twitter": "@dapp360",
+   "facebook": "@dapp360",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "https://t.me/dapp360pool",                             
+ "operatorName": "Hassan Michael",                                    
+ "github": "https://github.com/DApp360"                              
+},
+{
+ "ticker": "VIBE",                                                      
+ "poolId": "131719731bf99518d44caadc1dfd37f9a7ddb86109f82011cd2ccb5c", 
+ "social": {                                                           
+   "twitter": "AdavibeSP",
+   "facebook": " ",  
+   "instagram": " ",
+   "youtube": "ADAVibe Stakepool"
+ },
+ "telegram": "FrMixx",                                            
+ "operatorName": "Michael F",                                
+ "github": "mixxaz"                                               
+},
+ {
+ "ticker": "CARBO",                                                       
+ "poolId": "8b8417759d9a4361d475945e1f8ff8d367a09d4afd96a509bffec9e0",  
+ "social": {                                                            
+   "twitter": "CarbonaraPool",
+   "facebook": "",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "Yiannis_CARBO",                                             
+ "operatorName": "",                                  
+ "github": ""                                                    
 }
 ]
