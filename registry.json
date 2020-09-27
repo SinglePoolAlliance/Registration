@@ -168,5 +168,18 @@
  "telegram": "Yiannis_CARBO",                                             
  "operatorName": "",                                  
  "github": ""                                                    
+},
+ {
+  "ticker": "FRUIT",
+  "poolId": "afc65ca69d52a68a1b1c50ee1b5b07d72890aaa3a2272d5d9391b706",
+  "social": {
+    "twitter": "dfruitpool",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "telegram": "adalapuz",
+  "operatorName": "",
+  "github": "bitteks"
 }
 ]
