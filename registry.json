@@ -181,5 +181,18 @@
   "telegram": "adalapuz",
   "operatorName": "",
   "github": "bitteks"
+},
+{
+ "ticker": "SPEC",
+ "poolId": "079c374160b0ae34a5a20b8e95a5b5c8766239b2984f13d7ab962791",
+ "social": {
+     "twitter": "SpectrumPool",
+     "facebook": "",
+     "instagram": "",
+     "youtube": " "
+ },
+ "telegram": "spectrumcrypto",
+ "operatorName": "Kiriakos Krastillis",
+ "github": "SpectrumPool"
 }
 ]
