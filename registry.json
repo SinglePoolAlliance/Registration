@@ -13,6 +13,19 @@
  "github": "leo42"                                               
 },
 {
+ "ticker": "ANP",                                                      
+ "poolId": "0000fc522cea692e3e714b392d90cec75e4b87542c5f9638bf9a363a", 
+ "social": {                                                           
+   "twitter": "@adanorthpool",
+   "facebook": " ",  
+   "instagram": " ",
+   "youtube": "ADA North Pool"
+ },
+ "telegram": "@Eysteinh",                                            
+ "operatorName": "Eystein Hansen",                                
+ "github": "Willburn"                                               
+},
+{
  "ticker": "LOCO",
  "poolId": "99541bed40b1015a1d81083184973b59a3f50bce4392492e99ff0bef",
  "social": {
