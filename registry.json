@@ -207,5 +207,18 @@
  "telegram": "spectrumcrypto",
  "operatorName": "Kiriakos Krastillis",
  "github": "SpectrumPool"
+},
+ {
+ "ticker": "ANQA”,                                                       
+ "poolId": "6749c8ed350238d3673f2389491a46e8a9a260837c5630d775078aaa",  
+ "social": {
+   "twitter": "ankachain",
+   "facebook": "",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "lawale4me",                                             
+ "operatorName": "Ahmed Oladele",                                   
+ "github": "lawale4me”
 }
 ]
