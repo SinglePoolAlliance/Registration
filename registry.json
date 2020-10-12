@@ -207,5 +207,18 @@
  "telegram": "spectrumcrypto",
  "operatorName": "Kiriakos Krastillis",
  "github": "SpectrumPool"
+},
+ {
+ "ticker": "FRESH",
+ "poolId": "b3dde9d069334484982439b4bf0924d052e18695867d915cc6cb546f",
+ "social": {
+     "twitter": "pool_fresh",
+     "facebook": "freshadapool",
+     "instagram": "",
+     "youtube": "Fresh Ada"
+ },
+ "telegram": "GeorgeBosancu",
+ "operatorName": "George Bosancu",
+ "github": "Horhel"
 }
 ]
