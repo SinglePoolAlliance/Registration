@@ -220,5 +220,17 @@
   "telegram": "lawale4me",
   "operatorName": "Ahmed Oladele",
   "github": "lawale4me"
+},
+{
+  "ticker": "PEGA",
+  "poolId": "bbbe8bd9d3942563c7cf02e2d605516fb8376e3a49689d9b028cc2ab",
+  "social": {
+    "twitter": "PegasusPool",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "telegram": "mask_88",
+  "github": "PegasusPool"
 }
 ]
