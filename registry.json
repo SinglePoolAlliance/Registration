@@ -208,6 +208,19 @@
  "operatorName": "Kiriakos Krastillis",
  "github": "SpectrumPool"
 },
+ {
+ "ticker": "FRESH",
+ "poolId": "b3dde9d069334484982439b4bf0924d052e18695867d915cc6cb546f",
+ "social": {
+     "twitter": "pool_fresh",
+     "facebook": "freshadapool",
+     "instagram": "",
+     "youtube": "Fresh Ada"
+ },
+ "telegram": "GeorgeBosancu",
+ "operatorName": "George Bosancu",
+ "github": "Horhel"
+ },
 {
   "ticker": "ANQA",
   "poolId": "6749c8ed350238d3673f2389491a46e8a9a260837c5630d775078aaa",
@@ -232,5 +245,6 @@
   },
   "telegram": "mask_88",
   "github": "PegasusPool"
+
 }
 ]
