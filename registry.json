@@ -220,5 +220,31 @@
  "telegram": "GeorgeBosancu",
  "operatorName": "George Bosancu",
  "github": "Horhel"
+ },
+{
+  "ticker": "ANQA",
+  "poolId": "6749c8ed350238d3673f2389491a46e8a9a260837c5630d775078aaa",
+  "social": {
+    "twitter": "ankachain",
+    "facebook": "",
+    "instagram": " ",
+    "youtube": " "
+  },
+  "telegram": "lawale4me",
+  "operatorName": "Ahmed Oladele",
+  "github": "lawale4me"
+},
+{
+  "ticker": "PEGA",
+  "poolId": "bbbe8bd9d3942563c7cf02e2d605516fb8376e3a49689d9b028cc2ab",
+  "social": {
+    "twitter": "PegasusPool",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "telegram": "mask_88",
+  "github": "PegasusPool"
+
 }
 ]
