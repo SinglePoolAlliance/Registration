@@ -246,5 +246,17 @@
   "telegram": "mask_88",
   "github": "PegasusPool"
 
+},
+ {
+ "ticker": "UFO",
+ "poolId": "4d7ec46826abed9fdeb6effba91a7a4cf88592e35bb5740903f747e2",
+ "social": {
+   "twitter": "ADAUFOPool",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "DB|UFO|adaufopool.eu",
+ "github": "ufopool"
 }
 ]
