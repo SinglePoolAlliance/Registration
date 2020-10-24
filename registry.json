@@ -247,6 +247,18 @@
   "github": "PegasusPool"
 
 },
+ {
+ "ticker": "UFO",
+ "poolId": "4d7ec46826abed9fdeb6effba91a7a4cf88592e35bb5740903f747e2",
+ "social": {
+   "twitter": "ADAUFOPool",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "DB|UFO|adaufopool.eu",
+ "github": "ufopool"
+ },
 {
   "ticker": "ADAGL",
   "poolId": "8b9c6073d09171c9e3b1460ffe4c0b11f34e4ca1b8ee0a28fe7a79fd",
