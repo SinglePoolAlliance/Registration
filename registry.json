@@ -246,5 +246,18 @@
   "telegram": "mask_88",
   "github": "PegasusPool"
 
+},
+{
+  "ticker": "ADAGL",
+  "poolId": "8b9c6073d09171c9e3b1460ffe4c0b11f34e4ca1b8ee0a28fe7a79fd",
+  "social": {
+    "twitter": "GlobeAda",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "telegram": "ADAGlobe",
+  "github": "mestakepool"
+
 }
 ]
