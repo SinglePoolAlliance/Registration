@@ -269,8 +269,7 @@
     "youtube": ""
   },
   "telegram": "ADAGlobe",
-  "github": "mestakepool"
- 
+  "github": "mestakepool" 
  },
 {
   "ticker": "LIV",
@@ -283,5 +282,17 @@
   },
   "telegram": "LiverPool_ADA",
   "github": "BabbageBlockchain"
+},
+{
+  "ticker": "ADI",
+  "poolId": "0a423fa44f23b13cba59474427d11746136672af66b2d80b4499dd1d",
+  "social": {
+    "twitter": "cardanesia",
+    "facebook": "",
+    "instagram": "cardanesia",
+    "youtube": ""
+  },
+  "telegram": "cardanesia",
+  "github": ""
 }
 ]
