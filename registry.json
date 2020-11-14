@@ -294,5 +294,18 @@
   },
   "telegram": "cardanesia",
   "github": ""
+},
+{
+  "ticker": "SOBIT",
+  "poolId": "cdae4a1a08974113e77ea332cb1da97d9e3fca5cf797f9394739214b",
+  "social": {
+    "twitter": "SOBITADA",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "operatorName": "Kevin Haller",
+  "telegram": "khaller",
+  "github": "sobitada"
 }
 ]
