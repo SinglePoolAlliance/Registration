@@ -1,5 +1,20 @@
 [
 {
+ "ticker": "MAIN",                                                      
+ "poolId": "450e3fa88c42639766d50c012fdfde01c4ad95311c855d852f1677b6", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "MAIN_Pool",
+   "website": "https://main-hamburger-pool.de/",  
+   "reddit": "https://www.reddit.com/user/MAIN_Hamburger_Pool",  
+   "instagram": " https://www.instagram.com/main_hamburger_pool/",
+   "youtube": "https://www.youtube.com/channel/UCjFAy_a9Cx8rTmWhgghSzvg"
+ },
+ "telegram": "Olaizola13",                                            
+ "operatorName": "Juanma Olaizola",                                
+ "github": "Olaizola13"                                               
+},
+{
  "ticker": "BSP",                                                      
  "poolId": "89eba2781e5cd11ccda6be56503702a39e9941e522f04cd5bba22957", 
  "social": {                                                           
