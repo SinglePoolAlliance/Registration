@@ -309,5 +309,19 @@
   "operatorName": "Kevin Haller",
   "telegram": "khaller",
   "github": "sobitada"
+} ,
+{
+ "ticker": "FARM",
+ "poolId": "6879ab43e837d11c606e37dbf3e743f13f303c9dff53be602f263d6d",
+ "social": {
+   "twitter": "ADAFarmio",
+   "facebook": "adafarmio",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "Adafarmio",
+ "operatorName": "Glen",
+ "github": "fajjafarm"
 }
+]
 ]
