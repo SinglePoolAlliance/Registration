@@ -309,5 +309,18 @@
   "operatorName": "Kevin Haller",
   "telegram": "khaller",
   "github": "sobitada"
+},
+{
+ "ticker": "DOXA",                                                      
+ "poolId": "a6d3691e1ff660bc6f6da75feea466a26b7f8a21c0f41d74940a7639", 
+ "social": {                                                           
+   "twitter": "DoxaCrypto",
+   "facebook": " ",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "petercarr",                                            
+ "operatorName": "Peter Carr",                                
+ "github": "doxacrypto"                                               
 }
 ]
