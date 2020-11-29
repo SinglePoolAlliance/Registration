@@ -309,5 +309,19 @@
   "operatorName": "Kevin Haller",
   "telegram": "khaller",
   "github": "sobitada"
+},
+
+{
+ "ticker": "CHRTY",               
+ "poolId": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256",
+ "social": {                               
+   "twitter": "ChrtyPool",
+   "facebook": " ",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "charitypool",
+ "operatorName": "Alexandru Dragnescu",
+ "github": "Alexd1985"
 }
 ]
