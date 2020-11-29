@@ -314,13 +314,16 @@
  "ticker": "CHRTY",               
  "poolId": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256",
  "social": {                               
-   "twitter": "ChrtyPool"
-    }
+     "twitter": "ChrtyPool",
+     "facebook": " ",  
+     "instagram": " ",
+     "youtube": " "
+    },
   "telegram": "charitypool",
   "operatorName": "Alexandru Dragnescu",
   "github": "Alexd1985"
  },
-  {
+ {
  "ticker": "DOXA",                                                      
  "poolId": "a6d3691e1ff660bc6f6da75feea466a26b7f8a21c0f41d74940a7639", 
  "social": {                                                           
@@ -332,7 +335,7 @@
  "telegram": "petercarr",                                            
  "operatorName": "Peter Carr",                                
  "github": "doxacrypto"
-} ,
+},
 {
  "ticker": "FARM",
  "poolId": "6879ab43e837d11c606e37dbf3e743f13f303c9dff53be602f263d6d",
