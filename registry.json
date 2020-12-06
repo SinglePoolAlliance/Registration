@@ -348,5 +348,18 @@
  "telegram": "Adafarmio",
  "operatorName": "Glen",
  "github": "fajjafarm"
+},
+ {
+ "ticker": "ARM1",
+ "poolId": "a2ccd8e93f5a518d4400790cb081673e79ed41e4bf1132f740f26a28",
+ "social": {
+   "twitter": "ArmADApool",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "ArmADApool",
+ "operatorName": "Vio",
+ "github": ""
 }
 ]
