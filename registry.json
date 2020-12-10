@@ -348,5 +348,18 @@
  "telegram": "Adafarmio",
  "operatorName": "Glen",
  "github": "fajjafarm"
+},
+ {
+ "ticker": "CPOOL",                                                      
+ "poolId": "1940494163c3e8f9c907fefce31287f5768e454a613f29adb0dd0083", 
+ "social": {                                                           
+   "twitter": "Cardanpool_ADA",
+   "facebook": "Cardanpool",  
+   "instagram": " ",
+   "youtube": "https://www.youtube.com/channel/UCx0gI1oM4Wm2DnmVPZnExFQ"
+  },
+ "telegram": "ssssaaamm92",                                            
+ "operatorName": "Samuel Nuñez",                                
+ "github": "cardanpool"
 }
 ]
