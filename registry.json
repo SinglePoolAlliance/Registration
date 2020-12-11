@@ -364,6 +364,19 @@
  "operatorName": "Glen",
  "github": "fajjafarm"
 },
+{
+ "ticker": "AIR",
+ "poolId": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1",
+ "social": {
+   "twitter": "ADABreathes",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "ADABreathes",
+ "operatorName": "Anselmo Reis",
+ "github": "adabreathes"
+},
  {
  "ticker": "CPOOL",                                                      
  "poolId": "1940494163c3e8f9c907fefce31287f5768e454a613f29adb0dd0083", 
