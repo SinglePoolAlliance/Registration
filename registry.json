@@ -364,6 +364,19 @@
  "operatorName": "Glen",
  "github": "fajjafarm"
 },
+ {
+ "ticker": "CPOOL",                                                      
+ "poolId": "1940494163c3e8f9c907fefce31287f5768e454a613f29adb0dd0083", 
+ "social": {                                                           
+   "twitter": "Cardanpool_ADA",
+   "facebook": "Cardanpool",  
+   "instagram": " ",
+   "youtube": "https://www.youtube.com/channel/UCx0gI1oM4Wm2DnmVPZnExFQ"
+  },
+ "telegram": "ssssaaamm92",                                            
+ "operatorName": "Samuel Nuñez",                                
+ "github": "cardanpool"
+ },
 {
  "ticker": "BEER",
  "poolId": "9c2157ad46bdfd35a027c77d1e28cd3d8449c5a85a4b24dde4a7ac6e",
