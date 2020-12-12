@@ -11,7 +11,7 @@ Simply create a pull request with the information of your pool in the registry.j
 Step-By-Step Guide: 
 https://medium.com/@leantrosh/single-pool-alliance-step-by-step-registration-guide-5c12d849f543
 
-Registration JSON Exmple.
+Registration JSON Example.
 
 ```
 {
@@ -29,6 +29,6 @@ Registration JSON Exmple.
 }
 ```
 
-If you want to play an active role in this Alliance, vote on our direction and help with the maximum decentralization of Cardano please join our Telegram group:
+If you want to play an active role in this Alliance, vote on our direction and help with the maximum decentralization of Cardano, please join our Telegram group:
 https://t.me/onepoolalliance
 
