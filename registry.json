@@ -364,6 +364,19 @@
  "operatorName": "Glen",
  "github": "fajjafarm"
 },
+ {
+ "ticker": "ARM1",
+ "poolId": "a2ccd8e93f5a518d4400790cb081673e79ed41e4bf1132f740f26a28",
+ "social": {
+   "twitter": "ArmADApool",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "ArmADApool",
+ "operatorName": "",
+ "github": ""
+ },
 {
  "ticker": "AIR",
  "poolId": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1",
