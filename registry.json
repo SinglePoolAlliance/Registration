@@ -428,5 +428,18 @@
  "telegram": "svrn_sleepingnatives",                                            
  "operatorName": "Philip de Souza",                                
  "github": "Sleeping-Natives-Productions"                                               
+},
+{ 
+ "ticker": "KIND", 
+ "poolId": "969b78926481d5e944e5f680f04611c16e1120d57da58056be55f5bf",
+ "social": {  
+   "twitter": "KindStakePool",
+   "facebook": "Kind-Staking-Pool-Cardano-112722210597819",  
+   "instagram": "",
+   "youtube": "channel/UCmbbstzXldgpLuR0wR5wqfQ"
+ },
+ "telegram": "Cedric_KIND_Pool", 
+ "operatorName": "Cedric",  
+ "github": ""
 }
 ] 
