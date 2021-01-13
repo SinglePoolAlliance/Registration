@@ -443,5 +443,20 @@
  "telegram": "svrn_sleepingnatives",                                            
  "operatorName": "Philip de Souza",                                
  "github": "Sleeping-Natives-Productions"                                               
+},
+ {
+ "ticker": "MONKY",                                                      
+ "poolId": "a3ee9595fc779621978c97960b4835e14fd2dfea7fff28ccb977b56b", 
+ "social": {                                                           
+  "facebook": "consensusmonky", 
+  "twitter": "consensusmonky",
+   "website": "https://consensusmonky.de/",  
+   "reddit": "",  
+   "instagram": "https://www.instagram.com/denkweise.blog/",
+   "youtube": ""
+ },
+ "telegram": "ConsensusMonky | GER Cardano ADA Stakepool",                                            
+ "operatorName": "Phillip",                                
+ "github": "pheelLikeWater"                                               
 }
 ] 
