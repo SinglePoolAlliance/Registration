@@ -458,5 +458,18 @@
  "telegram": "ConsensusMonky | GER Cardano ADA Stakepool",                                            
  "operatorName": "Phillip",                                
  "github": "pheelLikeWater"                                               
+},
+{
+ "ticker": "FEEL",
+ "poolId": "455778840915ea2ec843bfee7269c1e0963b08ce5d1cdf029e39cb59",
+ "social": {
+   "twitter": "FeelStakepool",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "FeelStakepool",
+ "operatorName": "Gonçalo Alberto",
+ "github": "feelstakepool"
 }
 ] 
