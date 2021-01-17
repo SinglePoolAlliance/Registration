@@ -458,5 +458,20 @@
  "telegram": "ConsensusMonky | GER Cardano ADA Stakepool",                                            
  "operatorName": "Phillip",                                
  "github": "pheelLikeWater"                                               
+},
+ {
+ "ticker": "CASTE",                                                      
+ "poolId": "f1e470e5967d43d257e8128b82928ab45e607fdceca826c0020f4b27", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "CastleCardano",
+   "website": "https://castlecardano.com",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "benayoun13",                                            
+ "operatorName": "",                                
+ "github": "castlecardano"                                               
 }
 ] 
