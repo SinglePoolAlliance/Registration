@@ -40,6 +40,17 @@
    "instagram": "",
    "youtube": ""
  },
+ {
+ "ticker": "TTS17",                                                      
+ "poolId": "5790d62ab1ba703e861fe800f9cefaaf1485c3ca42c6ba9ce74690a1", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "TTS17",
+   "website": "https://www.tts17.com/",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+ },
  "telegram": "GR88nD84L",                                            
  "operatorName": "Pierre Kaklamanos",                                
  "github": "PierreManos"                                               
