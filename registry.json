@@ -40,20 +40,24 @@
    "instagram": "",
    "youtube": ""
  },
+ "telegram": "GR88nD84L",                                            
+ "operatorName": "Pierre Kaklamanos",                                
+ "github": "PierreManos"                                               
+},
  {
  "ticker": "TTS17",                                                      
  "poolId": "5790d62ab1ba703e861fe800f9cefaaf1485c3ca42c6ba9ce74690a1", 
  "social": {                                                           
   "facebook": "", 
-  "twitter": "TTS17",
+  "twitter": "TTS1710",
    "website": "https://www.tts17.com/",  
    "reddit": "",  
    "instagram": "",
    "youtube": ""
  },
- "telegram": "GR88nD84L",                                            
- "operatorName": "Pierre Kaklamanos",                                
- "github": "PierreManos"                                               
+ "telegram": "pool_tts17",                                            
+ "operatorName": "Thomas Tsipoulanis",                                
+ "github": "hubthom"                                               
 },
 {
  "ticker": "BSP",                                                      
