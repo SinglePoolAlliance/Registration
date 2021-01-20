@@ -460,6 +460,19 @@
  "github": "Sleeping-Natives-Productions"                                               
 },
 { 
+ "ticker": "KIND", 
+ "poolId": "969b78926481d5e944e5f680f04611c16e1120d57da58056be55f5bf",
+ "social": {  
+   "twitter": "KindStakePool",
+   "facebook": "Kind-Staking-Pool-Cardano-112722210597819",  
+   "instagram": "",
+   "youtube": "channel/UCmbbstzXldgpLuR0wR5wqfQ"
+ },
+ "telegram": "Cedric_KIND_Pool", 
+ "operatorName": "Cedric",  
+ "github": ""
+},
+  {
  "ticker": "GOSLO",                                                      
  "poolId": "50ec1c61547baef8efd5fb3a0bce4759cbcdf72a62948022834d7cf2", 
  "social": {                                                           
@@ -528,6 +541,6 @@
  },
  "telegram": "Bryan [CABU]",                                            
  "operatorName": "Bryan",                                
- "github": "Boinnex"                                               
+ "github": "Boinnex"                                              
 }
 ] 
