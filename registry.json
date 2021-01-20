@@ -458,5 +458,20 @@
  "telegram": "ConsensusMonky | GER Cardano ADA Stakepool",                                            
  "operatorName": "Phillip",                                
  "github": "pheelLikeWater"                                               
+},
+{
+ "ticker": "ATLAS",                                                      
+ "poolId": "e6ac159ee8063742eadcb48be45f29d9a67b4158439070032f42d10c", 
+ "social": {                                                           
+  "facebook": "https://facebook.com/atlasstakepool", 
+  "twitter": "https://twitter.com/AtlasStakePool",
+   "website": "https://atlasstakepool.com",  
+   "reddit": "u/AtlasStakePool",  
+   "instagram": "https://instagram.com/atlasstakepool",
+   "youtube": ""
+ },
+ "telegram": "https://t.me/AtlasStakePool",                                            
+ "operatorName": "Wolfgang",                                
+ "github": "zorrbass"                                               
 }
 ] 
