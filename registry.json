@@ -44,6 +44,21 @@
  "operatorName": "Pierre Kaklamanos",                                
  "github": "PierreManos"                                               
 },
+ {
+ "ticker": "TTS17",                                                      
+ "poolId": "5790d62ab1ba703e861fe800f9cefaaf1485c3ca42c6ba9ce74690a1", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "TTS1710",
+   "website": "https://www.tts17.com/",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "pool_tts17",                                            
+ "operatorName": "Thomas Tsipoulanis",                                
+ "github": "hubthom"                                               
+},
 {
  "ticker": "BSP",                                                      
  "poolId": "89eba2781e5cd11ccda6be56503702a39e9941e522f04cd5bba22957", 
@@ -444,6 +459,19 @@
  "operatorName": "Philip de Souza",                                
  "github": "Sleeping-Natives-Productions"                                               
 },
+{ 
+ "ticker": "GOSLO",                                                      
+ "poolId": "50ec1c61547baef8efd5fb3a0bce4759cbcdf72a62948022834d7cf2", 
+ "social": {                                                           
+   "twitter": "GosloPool",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": "channel/UC3ddCa4-HM3v4ndt5tknIjw"
+ },
+ "telegram": "JanGOSLOPool",                                            
+ "operatorName": "Slo Admin",                                
+ "github": "Testernode"                                               
+},
  {
  "ticker": "MONKY",                                                      
  "poolId": "a3ee9595fc779621978c97960b4835e14fd2dfea7fff28ccb977b56b", 
@@ -473,5 +501,20 @@
  "telegram": "benayoun13",                                            
  "operatorName": "",                                
  "github": "castlecardano"                                               
+ },
+  {
+ "ticker": "CABU",                                                      
+ "poolId": "0db403b246e3eafac8407b42bf2719208a4e53dfd9a9884f275ef19a", 
+ "social": {                                                           
+  "facebook": "Boinnexeire/", 
+  "twitter": "boinnexeire",
+   "website": "https://cardanoabu.com//",  
+   "reddit": "",  
+   "instagram": "boinnex.crypto.eire",
+   "youtube": "https://www.youtube.com/channel/UC15HCsCujDeNO_NjoP00Mhw"
+ },
+ "telegram": "Bryan [CABU]",                                            
+ "operatorName": "Bryan",                                
+ "github": "Boinnex"                                               
 }
 ] 
