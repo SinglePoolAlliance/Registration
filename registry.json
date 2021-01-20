@@ -458,5 +458,20 @@
  "telegram": "ConsensusMonky | GER Cardano ADA Stakepool",                                            
  "operatorName": "Phillip",                                
  "github": "pheelLikeWater"                                               
+},
+  {
+ "ticker": "CABU",                                                      
+ "poolId": "0db403b246e3eafac8407b42bf2719208a4e53dfd9a9884f275ef19a", 
+ "social": {                                                           
+  "facebook": "Boinnexeire/", 
+  "twitter": "boinnexeire",
+   "website": "https://cardanoabu.com//",  
+   "reddit": "",  
+   "instagram": "boinnex.crypto.eire",
+   "youtube": "https://www.youtube.com/channel/UC15HCsCujDeNO_NjoP00Mhw"
+ },
+ "telegram": "Bryan [CABU]",                                            
+ "operatorName": "Bryan",                                
+ "github": "Boinnex"                                               
 }
 ] 
