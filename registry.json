@@ -444,6 +444,19 @@
  "operatorName": "Philip de Souza",                                
  "github": "Sleeping-Natives-Productions"                                               
 },
+{ 
+ "ticker": "GOSLO",                                                      
+ "poolId": "50ec1c61547baef8efd5fb3a0bce4759cbcdf72a62948022834d7cf2", 
+ "social": {                                                           
+   "twitter": "GosloPool",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": "channel/UC3ddCa4-HM3v4ndt5tknIjw"
+ },
+ "telegram": "JanGOSLOPool",                                            
+ "operatorName": "Slo Admin",                                
+ "github": "Testernode"                                               
+},
  {
  "ticker": "MONKY",                                                      
  "poolId": "a3ee9595fc779621978c97960b4835e14fd2dfea7fff28ccb977b56b", 
