@@ -1,5 +1,20 @@
 [
  {
+ "ticker": "SNAKE",                                                      
+ "poolId": "342350284fd76ba9dbd7fd4ed579b2a2058d5ee558f8872b37817b28", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "adasnakepool",
+   "website": "https://www.adasnakepool.com/",  
+   "reddit": "",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "adasnakepool",                                            
+ "operatorName": "Emanuele Concotelli",                                
+ "github": "asnakep"                                               
+ },
+ {
  "ticker": "MAIN",                                                      
  "poolId": "450e3fa88c42639766d50c012fdfde01c4ad95311c855d852f1677b6", 
  "social": {                                                           
@@ -28,6 +43,21 @@
  "telegram": "GR88nD84L",                                            
  "operatorName": "Pierre Kaklamanos",                                
  "github": "PierreManos"                                               
+},
+ {
+ "ticker": "TTS17",                                                      
+ "poolId": "5790d62ab1ba703e861fe800f9cefaaf1485c3ca42c6ba9ce74690a1", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "TTS1710",
+   "website": "https://www.tts17.com/",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "pool_tts17",                                            
+ "operatorName": "Thomas Tsipoulanis",                                
+ "github": "hubthom"                                               
 },
 {
  "ticker": "BSP",                                                      
@@ -441,5 +471,76 @@
  "telegram": "Cedric_KIND_Pool", 
  "operatorName": "Cedric",  
  "github": ""
+},
+  {
+ "ticker": "GOSLO",                                                      
+ "poolId": "50ec1c61547baef8efd5fb3a0bce4759cbcdf72a62948022834d7cf2", 
+ "social": {                                                           
+   "twitter": "GosloPool",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": "channel/UC3ddCa4-HM3v4ndt5tknIjw"
+ },
+ "telegram": "JanGOSLOPool",                                            
+ "operatorName": "Slo Admin",                                
+ "github": "Testernode"                                               
+},
+ {
+ "ticker": "MONKY",                                                      
+ "poolId": "a3ee9595fc779621978c97960b4835e14fd2dfea7fff28ccb977b56b", 
+ "social": {                                                           
+  "facebook": "consensusmonky", 
+  "twitter": "consensusmonky",
+   "website": "https://consensusmonky.de/",  
+   "reddit": "",  
+   "instagram": "https://www.instagram.com/denkweise.blog/",
+   "youtube": ""
+ },
+ "telegram": "ConsensusMonky | GER Cardano ADA Stakepool",                                            
+ "operatorName": "Phillip",                                
+ "github": "pheelLikeWater"                                               
+},
+{
+ "ticker": "FEEL",
+ "poolId": "455778840915ea2ec843bfee7269c1e0963b08ce5d1cdf029e39cb59",
+ "social": {
+   "twitter": "FeelStakepool",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "FeelStakepool",
+ "operatorName": "Gonçalo Alberto",
+ "github": "feelstakepool"
+},
+  {
+ "ticker": "CASTE",                                                      
+ "poolId": "f1e470e5967d43d257e8128b82928ab45e607fdceca826c0020f4b27", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "CastleCardano",
+   "website": "https://castlecardano.com",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "benayoun13",                                            
+ "operatorName": "",                                
+ "github": "castlecardano"                                               
+ },
+  {
+ "ticker": "CABU",                                                      
+ "poolId": "0db403b246e3eafac8407b42bf2719208a4e53dfd9a9884f275ef19a", 
+ "social": {                                                           
+  "facebook": "Boinnexeire/", 
+  "twitter": "boinnexeire",
+   "website": "https://cardanoabu.com//",  
+   "reddit": "",  
+   "instagram": "boinnex.crypto.eire",
+   "youtube": "https://www.youtube.com/channel/UC15HCsCujDeNO_NjoP00Mhw"
+ },
+ "telegram": "Bryan [CABU]",                                            
+ "operatorName": "Bryan",                                
+ "github": "Boinnex"                                              
 }
 ] 
