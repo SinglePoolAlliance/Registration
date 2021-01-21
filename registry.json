@@ -501,6 +501,21 @@
  "github": "pheelLikeWater"                                               
 },
 {
+ "ticker": "ATLAS",                                                      
+ "poolId": "e6ac159ee8063742eadcb48be45f29d9a67b4158439070032f42d10c", 
+ "social": {                                                           
+  "facebook": "atlasstakepool", 
+  "twitter": "AtlasStakePool",
+   "website": "https://atlasstakepool.com",  
+   "reddit": "u/AtlasStakePool",  
+   "instagram": "https://instagram.com/atlasstakepool",
+   "youtube": ""
+ },
+ "telegram": "woolf_p",                                            
+ "operatorName": "Wolfgang",                                
+ "github": "zorrbass"                                               
+},
+{
  "ticker": "FEEL",
  "poolId": "455778840915ea2ec843bfee7269c1e0963b08ce5d1cdf029e39cb59",
  "social": {
