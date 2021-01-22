@@ -557,5 +557,20 @@
  "telegram": "Bryan [CABU]",                                            
  "operatorName": "Bryan",                                
  "github": "Boinnex"                                              
+},
+  {
+ "ticker": "YORK",                                                      
+ "poolId": "9aa5e16dda2a131764018bbb9546a18fc9695a152e0f5dff2046e7b4", 
+ "social": {                                                           
+  "facebook": "freeyorkpool", 
+  "twitter": "fyorkpool",
+   "website": "https://free-york.com",  
+   "reddit": "",  
+   "instagram": "freeyorkpool",
+   "youtube": ""
+ },
+ "telegram": "fyorkpool",                                            
+ "operatorName": "",                                
+ "github": ""                                              
 }
 ] 
