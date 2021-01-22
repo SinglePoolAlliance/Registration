@@ -21,6 +21,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: '0'
 
       - name: Setup python
         uses: actions/setup-python@v2
@@ -36,8 +38,8 @@ jobs:
       - name: Run python script
         run: python3 .github/scripts/createJSON.py
 
-      - name: Show local dir
-        run: ls -la
+      - name: Show local JSON file
+        run: cat adapools.json
 
       - name: Prepare git for local push to repo
         run: |

@@ -5,10 +5,11 @@ def get_date_from_commit(repo, linenumber ,file):
     raw_blame=repo.git.blame('HEAD', '-L ' + linenumber + ',' + linenumber, file)
 
     commit_id = raw_blame.split(' ')[0].replace('^','')
-
+    
     commit = repo.commit(commit_id)
-
+    
     commit_date = time.strftime("%Y-%m-%d", time.gmtime(commit.committed_date))
+    
     return commit_date
 
 #Defining global variables
@@ -36,7 +37,7 @@ with open(registryfile,'r') as pools_file:
             for line in pools_file2:
                 linenumber += 1
                 if ticker in line:
-                    print(linenumber)
+                    
                     join_date = get_date_from_commit(repo,str(linenumber),registryfile)
                     break
         poolinfo['pool_id'] = poolid
