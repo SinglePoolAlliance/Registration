@@ -49,7 +49,7 @@ json_member_part = {}
 for pool in sortedpools:
     json_member_part[str(sortedpools.index(pool))] = pool
 
-spa_about['members'] = json_member_part
+spa_about['adapools']['members'] = json_member_part
 
 
 with open(r'adapools.json','w') as json_file:
