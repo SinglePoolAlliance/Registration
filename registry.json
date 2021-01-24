@@ -559,16 +559,16 @@
  "github": "Boinnex"                                              
 },
 {
- "ticker": "VRITS",                                                       # Mandatory
- "poolId": "f137e6702bb09babf88cc93c93dffd64379d5d43bdbe3ce870ff5c54",  # Mandatory
- "social": {                                                            # At least 1 Mandatory more optional
+ "ticker": "VRITS",
+ "poolId": "f137e6702bb09babf88cc93c93dffd64379d5d43bdbe3ce870ff5c54",
+ "social": {
    "twitter": "ThaiTheoVRITS",
-   "facebook": "groups/760881408000350",  
+   "facebook": "groups/760881408000350",
    "instagram": " ",
    "youtube": " "
  },
- "telegram": "ThaiTheo",                                             # Mandatory
- "operatorName": "Theo van Raaij"                                   # Optional
- "github": "leo42"                                                     # Optional
+ "telegram": "ThaiTheo",
+ "operatorName": "Theo van Raaij",
+ "github": "leo42"
 } 
 ] 
