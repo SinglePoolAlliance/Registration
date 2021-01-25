@@ -559,6 +559,34 @@
  "github": "Boinnex"                                              
 },
 {
+ "ticker": "YORK",                                                      
+ "poolId": "9aa5e16dda2a131764018bbb9546a18fc9695a152e0f5dff2046e7b4", 
+ "social": {                                                           
+  "facebook": "freeyorkpool", 
+  "twitter": "fyorkpool",
+   "website": "https://free-york.com",  
+   "reddit": "",  
+   "instagram": "freeyorkpool",
+   "youtube": ""
+ },
+ "telegram": "fyorkpool",                                            
+ "operatorName": "",                                
+ "github": ""                                              
+},
+{
+ "ticker": "VRITS",
+ "poolId": "f137e6702bb09babf88cc93c93dffd64379d5d43bdbe3ce870ff5c54",
+ "social": {
+   "twitter": "ThaiTheoVRITS",
+   "facebook": "groups/760881408000350",
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "ThaiTheo",
+ "operatorName": "Theo van Raaij",
+ "github": "ThaiTheo"
+},
+{  
  "ticker": "PILOT",                                                      
  "poolId": "c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82", 
  "social": {                                                           
@@ -569,6 +597,6 @@
  },
  "telegram": "ADA_Pilot",                                            
  "operatorName": "Steven",                                
- "github": "StevieMac415"                                               
+ "github": "StevieMac415" 
 }
 ] 
