@@ -232,6 +232,21 @@
         "pool_id": "0db403b246e3eafac8407b42bf2719208a4e53dfd9a9884f275ef19a",
         "member_since": "2021-01-20",
         "name": "CABU"
+      },
+      "42": {
+        "pool_id": "9aa5e16dda2a131764018bbb9546a18fc9695a152e0f5dff2046e7b4",
+        "member_since": "2021-01-22",
+        "name": "YORK"
+      },
+      "43": {
+        "pool_id": "f137e6702bb09babf88cc93c93dffd64379d5d43bdbe3ce870ff5c54",
+        "member_since": "2021-01-24",
+        "name": "VRITS"
+      },
+      "44": {
+        "pool_id": "c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82",
+        "member_since": "2021-01-24",
+        "name": "PILOT"
       }
     }
   }
