@@ -558,7 +558,7 @@
  "operatorName": "Bryan",                                
  "github": "Boinnex"                                              
 },
-  {
+{
  "ticker": "YORK",                                                      
  "poolId": "9aa5e16dda2a131764018bbb9546a18fc9695a152e0f5dff2046e7b4", 
  "social": {                                                           
@@ -572,5 +572,18 @@
  "telegram": "fyorkpool",                                            
  "operatorName": "",                                
  "github": ""                                              
+},
+{
+ "ticker": "VRITS",
+ "poolId": "f137e6702bb09babf88cc93c93dffd64379d5d43bdbe3ce870ff5c54",
+ "social": {
+   "twitter": "ThaiTheoVRITS",
+   "facebook": "groups/760881408000350",
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "ThaiTheo",
+ "operatorName": "Theo van Raaij",
+ "github": "ThaiTheo"
 }
 ] 
