@@ -598,5 +598,18 @@
  "telegram": "ADA_Pilot",                                            
  "operatorName": "Steven",                                
  "github": "StevieMac415" 
+},
+{  
+ "ticker": "BZH",                                                      
+ "poolId": "9b9ad921921db31ca91cd6dfdf11f5efee8c1ab94671a6b4a8edc748", 
+ "social": {                                                           
+   "twitter": "BreizhPool",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "bzhsp",                                            
+ "operatorName": "Yann",                                
+ "github": "ArbrazLinux" 
 }
 ] 
