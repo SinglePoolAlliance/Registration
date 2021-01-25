@@ -585,5 +585,18 @@
  "telegram": "ThaiTheo",
  "operatorName": "Theo van Raaij",
  "github": "ThaiTheo"
+},
+{  
+ "ticker": "PILOT",                                                      
+ "poolId": "c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82", 
+ "social": {                                                           
+   "twitter": "ada_pilot",
+   "facebook": "",  
+   "instagram": "https://www.instagram.com/ada_pilot",
+   "youtube": ""
+ },
+ "telegram": "ADA_Pilot",                                            
+ "operatorName": "Steven",                                
+ "github": "StevieMac415" 
 }
 ] 
