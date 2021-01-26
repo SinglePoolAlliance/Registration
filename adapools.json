@@ -1,0 +1,263 @@
+{
+  "adapools": {
+    "about": {
+      "name": "Cardano Single Pool Alliance",
+      "description_short": "Cardano Single Pool Alliance is a loosely connected group of separate stake pool operators who have all vowed to run a single stake pool for the sole purpose of providing the Cardano ecosystem with True Decentralization.",
+      "description_long": "The CSPA\u2019s primary goal to  promote True Decentralization for the Cardano blockchain. CSPA has no central authority or leadership. As a group, we aspire to an ideal \u2013 that only an abundance of single-owner-single-pool can shield Cardano against any attack.  We are bonded together by a single focus \u2013 that each stake pool operator should operate a single stake pool in the Cardano ecosystem. ",
+      "website": "https://singlepoolalliance.net/",
+      "url_png_icon_64x64": "https://singlepoolalliance.net/static/spa%20logo%2064x64.png",
+      "url_png_logo": "https://singlepoolalliance.net/static/spa%20logo%2046KB.png",
+      "social": {
+        "twitter_handle": "CardanoSPA",
+        "telegram_handle": "onepoolalliance",
+        "facebook_handle": "",
+        "youtube_handle": "",
+        "twitch_handle": "",
+        "discord_handle": "",
+        "github_handle": "SinglePoolAlliance"
+      },
+      "types": {
+        "charity": false,
+        "business": false,
+        "beneficial": true
+      }
+    },
+    "members": {
+      "0": {
+        "pool_id": "89eba2781e5cd11ccda6be56503702a39e9941e522f04cd5bba22957",
+        "member_since": "2020-09-18",
+        "name": "BSP"
+      },
+      "1": {
+        "pool_id": "11cad31f95526b86724c84b818228fc2500bca5ce9b2864a85b94058",
+        "member_since": "2020-09-18",
+        "name": "CO2P"
+      },
+      "2": {
+        "pool_id": "d4b5b8d5c83e97b2cd90a0fd818f3c9d8e7388bcc7706327a92d2092",
+        "member_since": "2020-09-18",
+        "name": "OHOH7"
+      },
+      "3": {
+        "pool_id": "6aef3925b53d98084e8a9ec0145c1770e7eb57f84cd2d2613bb4c19a",
+        "member_since": "2020-09-18",
+        "name": "LPR"
+      },
+      "4": {
+        "pool_id": "83b259c187f8b88eda564b1f56ce2786360a9dc224f737fcdd8703c1",
+        "member_since": "2020-09-18",
+        "name": "ADAGE"
+      },
+      "5": {
+        "pool_id": "000006d97fd0415d2dafdbb8b782717a3d3ff32f865792b8df7ddd00",
+        "member_since": "2020-09-18",
+        "name": "STR8"
+      },
+      "6": {
+        "pool_id": "599b872f42ab78df0429d1aebfe2d0a81676e50ba23097a532912b46",
+        "member_since": "2020-09-19",
+        "name": "ADADE"
+      },
+      "7": {
+        "pool_id": "263498e010c7a49bbfd7c4e1aab29809fca7ed993f9e14192a75871e",
+        "member_since": "2020-09-19",
+        "name": "HYPER"
+      },
+      "8": {
+        "pool_id": "131719731bf99518d44caadc1dfd37f9a7ddb86109f82011cd2ccb5c",
+        "member_since": "2020-09-19",
+        "name": "VIBE"
+      },
+      "9": {
+        "pool_id": "99541bed40b1015a1d81083184973b59a3f50bce4392492e99ff0bef",
+        "member_since": "2020-09-20",
+        "name": "LOCO"
+      },
+      "10": {
+        "pool_id": "8b8417759d9a4361d475945e1f8ff8d367a09d4afd96a509bffec9e0",
+        "member_since": "2020-09-20",
+        "name": "CARBO"
+      },
+      "11": {
+        "pool_id": "40d04c1367c25e6da2521f906f71bbb07858dc1d2209025364369173",
+        "member_since": "2020-09-23",
+        "name": "THOR"
+      },
+      "12": {
+        "pool_id": "afc65ca69d52a68a1b1c50ee1b5b07d72890aaa3a2272d5d9391b706",
+        "member_since": "2020-09-27",
+        "name": "FRUIT"
+      },
+      "13": {
+        "pool_id": "079c374160b0ae34a5a20b8e95a5b5c8766239b2984f13d7ab962791",
+        "member_since": "2020-10-06",
+        "name": "SPEC"
+      },
+      "14": {
+        "pool_id": "0000fc522cea692e3e714b392d90cec75e4b87542c5f9638bf9a363a",
+        "member_since": "2020-10-09",
+        "name": "ANP"
+      },
+      "15": {
+        "pool_id": "b3dde9d069334484982439b4bf0924d052e18695867d915cc6cb546f",
+        "member_since": "2020-10-12",
+        "name": "FRESH"
+      },
+      "16": {
+        "pool_id": "6749c8ed350238d3673f2389491a46e8a9a260837c5630d775078aaa",
+        "member_since": "2020-10-12",
+        "name": "ANQA"
+      },
+      "17": {
+        "pool_id": "bbbe8bd9d3942563c7cf02e2d605516fb8376e3a49689d9b028cc2ab",
+        "member_since": "2020-10-15",
+        "name": "PEGA"
+      },
+      "18": {
+        "pool_id": "4d7ec46826abed9fdeb6effba91a7a4cf88592e35bb5740903f747e2",
+        "member_since": "2020-10-19",
+        "name": "UFO"
+      },
+      "19": {
+        "pool_id": "8b9c6073d09171c9e3b1460ffe4c0b11f34e4ca1b8ee0a28fe7a79fd",
+        "member_since": "2020-10-24",
+        "name": "ADAGL"
+      },
+      "20": {
+        "pool_id": "0a423fa44f23b13cba59474427d11746136672af66b2d80b4499dd1d",
+        "member_since": "2020-10-25",
+        "name": "ADI"
+      },
+      "21": {
+        "pool_id": "6f9ecffc4bc41068db87bd193e5842577df08a464cb7c001865c8b60",
+        "member_since": "2020-10-28",
+        "name": "LIV"
+      },
+      "22": {
+        "pool_id": "cdae4a1a08974113e77ea332cb1da97d9e3fca5cf797f9394739214b",
+        "member_since": "2020-11-06",
+        "name": "SOBIT"
+      },
+      "23": {
+        "pool_id": "450e3fa88c42639766d50c012fdfde01c4ad95311c855d852f1677b6",
+        "member_since": "2020-11-20",
+        "name": "MAIN"
+      },
+      "24": {
+        "pool_id": "6879ab43e837d11c606e37dbf3e743f13f303c9dff53be602f263d6d",
+        "member_since": "2020-11-22",
+        "name": "FARM"
+      },
+      "25": {
+        "pool_id": "a6d3691e1ff660bc6f6da75feea466a26b7f8a21c0f41d74940a7639",
+        "member_since": "2020-11-26",
+        "name": "DOXA"
+      },
+      "26": {
+        "pool_id": "34a89f77c5fcf0563d129bde9b255f20b269a2dda1561c65d418ec40",
+        "member_since": "2020-11-29",
+        "name": "GREEN"
+      },
+      "27": {
+        "pool_id": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256",
+        "member_since": "2020-11-29",
+        "name": "CHRTY"
+      },
+      "28": {
+        "pool_id": "9c2157ad46bdfd35a027c77d1e28cd3d8449c5a85a4b24dde4a7ac6e",
+        "member_since": "2020-11-30",
+        "name": "BEER"
+      },
+      "29": {
+        "pool_id": "a2ccd8e93f5a518d4400790cb081673e79ed41e4bf1132f740f26a28",
+        "member_since": "2020-12-06",
+        "name": "ARM1"
+      },
+      "30": {
+        "pool_id": "1940494163c3e8f9c907fefce31287f5768e454a613f29adb0dd0083",
+        "member_since": "2020-12-10",
+        "name": "CPOOL"
+      },
+      "31": {
+        "pool_id": "5059d31b0c8c11d6d2404266844e31f13dab05eae77815db8994a598",
+        "member_since": "2020-12-10",
+        "name": "SVRN"
+      },
+      "32": {
+        "pool_id": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1",
+        "member_since": "2020-12-11",
+        "name": "AIR"
+      },
+      "33": {
+        "pool_id": "342350284fd76ba9dbd7fd4ed579b2a2058d5ee558f8872b37817b28",
+        "member_since": "2021-01-07",
+        "name": "SNAKE"
+      },
+      "34": {
+        "pool_id": "a3ee9595fc779621978c97960b4835e14fd2dfea7fff28ccb977b56b",
+        "member_since": "2021-01-08",
+        "name": "MONKY"
+      },
+      "35": {
+        "pool_id": "969b78926481d5e944e5f680f04611c16e1120d57da58056be55f5bf",
+        "member_since": "2021-01-09",
+        "name": "KIND"
+      },
+      "36": {
+        "pool_id": "455778840915ea2ec843bfee7269c1e0963b08ce5d1cdf029e39cb59",
+        "member_since": "2021-01-15",
+        "name": "FEEL"
+      },
+      "37": {
+        "pool_id": "f1e470e5967d43d257e8128b82928ab45e607fdceca826c0020f4b27",
+        "member_since": "2021-01-17",
+        "name": "CASTE"
+      },
+      "38": {
+        "pool_id": "5790d62ab1ba703e861fe800f9cefaaf1485c3ca42c6ba9ce74690a1",
+        "member_since": "2021-01-18",
+        "name": "TTS17"
+      },
+      "39": {
+        "pool_id": "50ec1c61547baef8efd5fb3a0bce4759cbcdf72a62948022834d7cf2",
+        "member_since": "2021-01-19",
+        "name": "GOSLO"
+      },
+      "40": {
+        "pool_id": "e6ac159ee8063742eadcb48be45f29d9a67b4158439070032f42d10c",
+        "member_since": "2021-01-20",
+        "name": "ATLAS"
+      },
+      "41": {
+        "pool_id": "0db403b246e3eafac8407b42bf2719208a4e53dfd9a9884f275ef19a",
+        "member_since": "2021-01-20",
+        "name": "CABU"
+      },
+      "42": {
+        "pool_id": "9aa5e16dda2a131764018bbb9546a18fc9695a152e0f5dff2046e7b4",
+        "member_since": "2021-01-22",
+        "name": "YORK"
+      },
+      "43": {
+        "pool_id": "f137e6702bb09babf88cc93c93dffd64379d5d43bdbe3ce870ff5c54",
+        "member_since": "2021-01-24",
+        "name": "VRITS"
+      },
+      "44": {
+        "pool_id": "c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82",
+        "member_since": "2021-01-24",
+        "name": "PILOT"
+      },
+      "45": {
+        "pool_id": "7c81fb493350d7fc6ae12d027b56efade2d4edb844d1dd736e0a861e",
+        "member_since": "2021-01-25",
+        "name": "CCIO"
+      },
+      "46": {
+        "pool_id": "9fa14b049b735e287da702a2b0a7c2a6612e81db9cc4284339a6a2f1",
+        "member_since": "2021-01-25",
+        "name": "RABIT"
+      }
+    }
+  }
+}
