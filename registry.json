@@ -598,5 +598,18 @@
  "telegram": "ADA_Pilot",                                            
  "operatorName": "Steven",                                
  "github": "StevieMac415" 
+},
+{  
+ "ticker": "DINGO",                                                      
+ "poolId": "0dda2d4271340a92116cb8032c16b49117b27752ab0ff8b3d6813021", 
+ "social": {                                                           
+   "twitter": "TheStakeDingo",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "Stake Dingo",                                            
+ "operatorName": "Nick",                                
+ "github": "StakeDingo" 
 }
 ] 
