@@ -668,5 +668,20 @@
  "telegram": "rabbitholepools",                                            
  "operatorName": "Adrem",                                
  "github": "adrem1"                                               
+ },
+ {
+ "ticker": "PARIS",                                                      
+ "poolId": "310daa501ac5ead2953ccb9cbb35d23516c48de31019b766fb560229", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "ParisStakePool",
+   "website": "https://parisadastakepool.fr/",  
+   "reddit": "",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "ParisAdaStakepool",                                            
+ "operatorName": "Laurent",                                
+ "github": "paris-ada-stakepool"                                               
  } 
 ] 
