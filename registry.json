@@ -214,7 +214,7 @@
  },
  "telegram": "FrMixx",                                            
  "operatorName": "Michael F",                                
- "github": "mixxaz"                                               
+ "github": "adavibesp"                                               
 },
  {
  "ticker": "CARBO",                                                       
@@ -611,5 +611,20 @@
  "telegram": "jjadaprincess",                                            
  "operatorName": "JasieJay",                                
  "github": "Cardano-TH" 
-}
+},
+ {
+ "ticker": "RABIT",                                                      
+ "poolId": "9fa14b049b735e287da702a2b0a7c2a6612e81db9cc4284339a6a2f1", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "rabbitholepools",
+   "website": "https://rabbitholepools.io/",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": "https://www.youtube.com/channel/UC1_T_adN8v-PDqaiJ0dYXLg"
+ },
+ "telegram": "rabbitholepools",                                            
+ "operatorName": "Adrem",                                
+ "github": "adrem1"                                               
+ } 
 ] 
