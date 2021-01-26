@@ -1,4 +1,19 @@
-[
+[ 
+ {
+ "ticker": "SNAKE",                                                      
+ "poolId": "342350284fd76ba9dbd7fd4ed579b2a2058d5ee558f8872b37817b28", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "adasnakepool",
+   "website": "https://www.adasnakepool.com/",  
+   "reddit": "",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "adasnakepool",                                            
+ "operatorName": "Emanuele Concotelli",                                
+ "github": "asnakep"                                               
+ },
  {
  "ticker": "XSTAR",                                                      
  "poolId": "b4f0bba1b4481c76fae113cee9ec2d05df939e1458d1f2f83dfde089", 
