@@ -615,6 +615,20 @@
  "github": "StevieMac415" 
 },
 {  
+ "ticker": "BZH",                                                      
+ "poolId": "9b9ad921921db31ca91cd6dfdf11f5efee8c1ab94671a6b4a8edc748", 
+ "social": {                                                           
+   "twitter": "BreizhPool",
+   "website": "https://breizhstakepool.io",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "YannLgrnd",                                            
+ "operatorName": "Yann",                                
+ "github": "ArbrazLinux" 
+},
+  {
  "ticker": "BKK",                                                      
  "poolId": "96aa57f4af0652c800cde0d25288bf6d1e35aefd11770d60e6bf8f0a", 
  "social": {                                                           
