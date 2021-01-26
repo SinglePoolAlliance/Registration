@@ -673,12 +673,15 @@
  "ticker": "AFRIK",                                                      
  "poolId": "pool1l5t2lytxxx7jn0ujd5ssmfzaf24g2gjzjeddqmqjgun0z7r3gwv", 
  "social": {                                                           
-  "facebook": "", 
-  "twitter": "Cardano_Afrik",
-   "website": "https://cardano.afrikpool.org/",  
+   "facebook": "", 
+   "twitter": "Cardano_Afrik",
+   "website": "https://cardano.afrikpool.org/",
+   "reddit": "",
+   "instagram": "",
    "youtube": "https://www.youtube.com/channel/UC-MTKXd0S-nkDNlNlQd853Q"
  },
- "telegram": "cardano_afrik",                                            
+ "telegram": "cardano_afrik",
+ "operatorName": "",
  "github": "afrikpool"                                  
- } 
+ }
 ]
