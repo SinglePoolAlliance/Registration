@@ -599,6 +599,19 @@
  "operatorName": "Steven",                                
  "github": "StevieMac415" 
 },
+{
+  "ticker": "CCIO",
+  "poolId": "7c81fb493350d7fc6ae12d027b56efade2d4edb844d1dd736e0a861e",
+  "social": {
+    "twitter": "ChainCrucial_io",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "telegram": "TL_Benson",
+  "operatorName": "Trevor",
+  "github": "TrevorBenson"
+},
  {
  "ticker": "RABIT",                                                      
  "poolId": "9fa14b049b735e287da702a2b0a7c2a6612e81db9cc4284339a6a2f1", 
