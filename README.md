@@ -23,7 +23,7 @@ Registration JSON Example.
    "instagram": " ",
    "youtube": " "
  },
- "telegram": "Leandros42",                                             # Mandatory
+ "telegram": "Leandros42",                                             # Mandatory Personal Telegram Handle
  "operatorName": "Leandros Holleman"                                   # Optional
  "github": "leo42"                                                     # Optional
 }

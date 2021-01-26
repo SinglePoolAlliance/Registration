@@ -1,4 +1,4 @@
-[
+[ 
  {
  "ticker": "SNAKE",                                                      
  "poolId": "342350284fd76ba9dbd7fd4ed579b2a2058d5ee558f8872b37817b28", 
@@ -13,6 +13,21 @@
  "telegram": "adasnakepool",                                            
  "operatorName": "Emanuele Concotelli",                                
  "github": "asnakep"                                               
+ },
+ {
+ "ticker": "XSTAR",                                                      
+ "poolId": "b4f0bba1b4481c76fae113cee9ec2d05df939e1458d1f2f83dfde089", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "@infinitypool",
+   "website": "https://www.xstar-pool.com/",  
+   "reddit": "",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "mit.p",                                            
+ "operatorName": "Pramit Patel",                                
+ "github": "mitp78"                                               
  },
  {
  "ticker": "MAIN",                                                      
@@ -612,6 +627,32 @@
  "telegram": "YannLgrnd",                                            
  "operatorName": "Yann",                                
  "github": "ArbrazLinux" 
+},
+  {
+ "ticker": "BKK",                                                      
+ "poolId": "96aa57f4af0652c800cde0d25288bf6d1e35aefd11770d60e6bf8f0a", 
+ "social": {                                                           
+   "twitter": "Cardano_TH",
+   "facebook": "groups/cardanoadathailand",  
+   "instagram": "",
+   "youtube": "https://youtube.com/channel/UCQTLMy750RFvBIIVj093ebw"
+ },
+ "telegram": "jjadaprincess",                                            
+ "operatorName": "JasieJay",                                
+ "github": "Cardano-TH" 
+},
+{
+  "ticker": "CCIO",
+  "poolId": "7c81fb493350d7fc6ae12d027b56efade2d4edb844d1dd736e0a861e",
+  "social": {
+    "twitter": "ChainCrucial_io",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "telegram": "TL_Benson",
+  "operatorName": "Trevor",
+  "github": "TrevorBenson"
 },
  {
  "ticker": "RABIT",                                                      
