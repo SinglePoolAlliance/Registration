@@ -668,5 +668,17 @@
  "telegram": "rabbitholepools",                                            
  "operatorName": "Adrem",                                
  "github": "adrem1"                                               
+ },
+ {
+ "ticker": "AFRIK",                                                      
+ "poolId": "pool1l5t2lytxxx7jn0ujd5ssmfzaf24g2gjzjeddqmqjgun0z7r3gwv", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "Cardano_Afrik",
+   "website": "https://cardano.afrikpool.org/",  
+   "youtube": "https://www.youtube.com/channel/UC-MTKXd0S-nkDNlNlQd853Q"
+ },
+ "telegram": "cardano_afrik",                                            
+ "github": "afrikpool"                                  
  } 
-] 
+]
