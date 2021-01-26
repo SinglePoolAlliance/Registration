@@ -668,5 +668,20 @@
  "telegram": "rabbitholepools",                                            
  "operatorName": "Adrem",                                
  "github": "adrem1"                                               
- } 
+ },
+  {
+ "ticker": "BBHMM",                                                      
+ "poolId": "7874e696cf4baca102c098067ca483f2370d2bdc958ad322dadf650b", 
+ "social": {                                                           
+  "facebook": "https://www.facebook.com/bbhmmStakePools", 
+  "twitter": "adasnakepool",
+   "website": "https://www.bbhmm.net/",  
+   "reddit": "https://www.reddit.com/user/BBHMM_Stake_Pool",  
+   "instagram": " ",
+   "youtube": "https://www.youtube.com/channel/UCq8FRB9Q6JOYR1C7ne8Li1Q"
+ },
+ "telegram": "@chadle",                                            
+ "operatorName": "Chadle",                                
+ "github": "chadle-git"                                               
+ }
 ] 
