@@ -599,6 +599,19 @@
  "operatorName": "Steven",                                
  "github": "StevieMac415" 
 },
+{  
+ "ticker": "BKK",                                                      
+ "poolId": "96aa57f4af0652c800cde0d25288bf6d1e35aefd11770d60e6bf8f0a", 
+ "social": {                                                           
+   "twitter": "Cardano_TH",
+   "facebook": "groups/cardanoadathailand",  
+   "instagram": "",
+   "youtube": "https://youtube.com/channel/UCQTLMy750RFvBIIVj093ebw"
+ },
+ "telegram": "jjadaprincess",                                            
+ "operatorName": "JasieJay",                                
+ "github": "Cardano-TH" 
+},
 {
   "ticker": "CCIO",
   "poolId": "7c81fb493350d7fc6ae12d027b56efade2d4edb844d1dd736e0a861e",
