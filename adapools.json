@@ -247,6 +247,16 @@
         "pool_id": "c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82",
         "member_since": "2021-01-24",
         "name": "PILOT"
+      },
+      "45": {
+        "pool_id": "9fa14b049b735e287da702a2b0a7c2a6612e81db9cc4284339a6a2f1",
+        "member_since": "2021-01-25",
+        "name": "RABIT"
+      },
+      "46": {
+        "pool_id": "96aa57f4af0652c800cde0d25288bf6d1e35aefd11770d60e6bf8f0a",
+        "member_since": "2021-01-26",
+        "name": "BKK"
       }
     }
   }
