@@ -599,6 +599,19 @@
  "operatorName": "Steven",                                
  "github": "StevieMac415" 
 },
+{  
+ "ticker": "DINGO",                                                      
+ "poolId": "0dda2d4271340a92116cb8032c16b49117b27752ab0ff8b3d6813021", 
+ "social": {                                                           
+   "twitter": "TheStakeDingo",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "Stake Dingo",                                            
+ "operatorName": "Nick",                                
+ "github": "StakeDingo" 
+},
 {
   "ticker": "CCIO",
   "poolId": "7c81fb493350d7fc6ae12d027b56efade2d4edb844d1dd736e0a861e",
