@@ -668,5 +668,20 @@
  "telegram": "rabbitholepools",                                            
  "operatorName": "Adrem",                                
  "github": "adrem1"                                               
+ },
+ {
+ "ticker": "RAUSI",                                                      
+ "poolId": "cbd910f09f2c4f4804eeed10003da6dc8be4970950eaec93b7d76fc6", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "RausiP",
+   "website": "https://rausipool.fi/",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "RausiPool",                                            
+ "operatorName": "Rausi",                                
+ "github": "rausi"                                               
  } 
 ] 
