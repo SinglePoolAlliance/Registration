@@ -669,7 +669,22 @@
  "operatorName": "Adrem",                                
  "github": "adrem1"                                               
  },
-{
+ {
+ "ticker": "STKAR",                                                      
+ "poolId": "f908b93de306af12c111b6e591d319784a58500ea00775c4e84ebe80", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "StakeArg",
+   "website": "https://stake.ar/",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "arguser",                                            
+ "operatorName": "Leo",                                
+ "github": "arguser"                                               
+ },
+  {
  "ticker": "VLNS",
  "poolId": "45db53a3789c6d03a447741cd526fbed788380077efc880521ba9dd9",
  "social": {
