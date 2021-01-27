@@ -683,5 +683,63 @@
  "telegram": "arguser",                                            
  "operatorName": "Leo",                                
  "github": "arguser"                                               
+ },
+  {
+ "ticker": "VLNS",
+ "poolId": "45db53a3789c6d03a447741cd526fbed788380077efc880521ba9dd9",
+ "social": {
+   "facebook": "",
+   "twitter": "ValencePool",
+   "website": "https://valencepool.info",
+   "reddit": "EccentricBarad",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "eccentricbarad_valencepool",
+ "operatorName": "Kristiyan",
+ "github": "EccentricBarad"
+},
+ {
+ "ticker": "Parad",                                                      
+ "poolId": "227b824daf6762372bcb97da913e89d5d32ba591d39cdbce2d22ae90", 
+ "social": {                                                           
+  "facebook": "https://www.facebook.com/Crypto-Staking-102769118499897", 
+  "twitter": "MikeCChandler",
+   "website": "https://paradise-staking.com/",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": "https://www.youtube.com/channel/UC7-v_bmf5SVP-PKEvrFf0GQ"
+ },
+ "telegram": "ParadiseStaking",                                            
+ "operatorName": "Mike",                                
+ "github": "webnettricks"                                               
+ },
+ {
+  "ticker": "PHNIX",
+  "poolId": "fcd4729667b4d9687a5a05e92f1e8abcea7a3c34b7312a610b97b5e8",
+  "social": {
+    "twitter": "PHNIX_Pool",
+    "facebook": "",
+    "instagram": "",
+    "youtube": "https://www.youtube.com/channel/UC_u_F8U9lsQQw_NtDmZUZzQ"
+  },
+  "telegram": "Phoenix_Pool",
+  "operatorName": "Matt",
+  "github": ""
+},
+ {
+ "ticker": "PARIS",                                                      
+ "poolId": "310daa501ac5ead2953ccb9cbb35d23516c48de31019b766fb560229", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "ParisStakePool",
+   "website": "https://parisadastakepool.fr/",  
+   "reddit": "",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "ParisAdaStakepool",                                            
+ "operatorName": "Laurent",                                
+ "github": "paris-ada-stakepool"                                               
  } 
 ] 
