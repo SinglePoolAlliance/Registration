@@ -668,5 +668,20 @@
  "telegram": "rabbitholepools",                                            
  "operatorName": "Adrem",                                
  "github": "adrem1"                                               
+ },
+ {
+ "ticker": "STKAR",                                                      
+ "poolId": "f908b93de306af12c111b6e591d319784a58500ea00775c4e84ebe80", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "StakeArg",
+   "website": "https://stake.ar/",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "arguser",                                            
+ "operatorName": "Leo",                                
+ "github": "arguser"                                               
  } 
 ] 
