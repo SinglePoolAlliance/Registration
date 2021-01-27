@@ -669,6 +669,21 @@
  "operatorName": "Adrem",                                
  "github": "adrem1"                                               
  },
+{
+ "ticker": "VLNS",
+ "poolId": "45db53a3789c6d03a447741cd526fbed788380077efc880521ba9dd9",
+ "social": {
+   "facebook": "",
+   "twitter": "ValencePool",
+   "website": "https://valencepool.info",
+   "reddit": "EccentricBarad",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "eccentricbarad_valencepool",
+ "operatorName": "Kristiyan",
+ "github": "EccentricBarad"
+},
  {
  "ticker": "Parad",                                                      
  "poolId": "227b824daf6762372bcb97da913e89d5d32ba591d39cdbce2d22ae90", 
