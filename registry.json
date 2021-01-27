@@ -668,5 +668,20 @@
  "telegram": "rabbitholepools",                                            
  "operatorName": "Adrem",                                
  "github": "adrem1"                                               
+ },
+ {
+ "ticker": "CHAMP",                                                      
+ "poolId": "96d4a78a1459a66cea6b396fd92f7abba092bd59535d21ad3c0463c7", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "teamchampada",
+   "website": "https://champada.io/",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": "https://www.youtube.com/channel/UCM5AK98prC3Gxe8htB3r7FA"
+ },
+ "telegram": "darrenjs",                                            
+ "operatorName": "Darren S",                                
+ "github": "darrenjschumaker"                                               
  } 
 ] 
