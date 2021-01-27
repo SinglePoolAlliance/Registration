@@ -277,6 +277,11 @@
         "pool_id": "310daa501ac5ead2953ccb9cbb35d23516c48de31019b766fb560229",
         "member_since": "2021-01-26",
         "name": "PARIS"
+      },
+      "51": {
+        "pool_id": "fcd4729667b4d9687a5a05e92f1e8abcea7a3c34b7312a610b97b5e8",
+        "member_since": "2021-01-27",
+        "name": "PHNIX"
       }
     }
   }
