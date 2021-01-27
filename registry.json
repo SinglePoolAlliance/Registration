@@ -668,5 +668,20 @@
  "telegram": "rabbitholepools",                                            
  "operatorName": "Adrem",                                
  "github": "adrem1"                                               
- } 
+ },
+{
+ "ticker": "VLNS",
+ "poolId": "45db53a3789c6d03a447741cd526fbed788380077efc880521ba9dd9",
+ "social": {
+   "facebook": "",
+   "twitter": "ValencePool",
+   "website": "https://valencepool.info",
+   "reddit": "EccentricBarad",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "valencestakepool",
+ "operatorName": "Kristiyan",
+ "github": "EccentricBarad"
+} 
 ] 
