@@ -279,11 +279,16 @@
         "name": "PARIS"
       },
       "51": {
+        "pool_id": "45db53a3789c6d03a447741cd526fbed788380077efc880521ba9dd9",
+        "member_since": "2021-01-27",
+        "name": "VLNS"
+      },
+      "52": {
         "pool_id": "227b824daf6762372bcb97da913e89d5d32ba591d39cdbce2d22ae90",
         "member_since": "2021-01-27",
         "name": "Parad"
       },
-      "52": {
+      "53": {
         "pool_id": "fcd4729667b4d9687a5a05e92f1e8abcea7a3c34b7312a610b97b5e8",
         "member_since": "2021-01-27",
         "name": "PHNIX"
