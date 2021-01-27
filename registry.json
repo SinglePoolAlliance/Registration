@@ -683,5 +683,108 @@
   "telegram": "https://t.me/fornve",
   "operatorName": "Marek",
   "github": "fornve"
+ },
+  {
+ "ticker": "BBHMM",                                                      
+ "poolId": "7874e696cf4baca102c098067ca483f2370d2bdc958ad322dadf650b", 
+ "social": {                                                           
+  "facebook": "https://www.facebook.com/bbhmmStakePools", 
+  "twitter": "BBHMM_Stake",
+   "website": "https://www.bbhmm.net/",  
+   "reddit": "https://www.reddit.com/user/BBHMM_Stake_Pool",  
+   "instagram": " ",
+   "youtube": "https://www.youtube.com/channel/UCq8FRB9Q6JOYR1C7ne8Li1Q"
+ },
+ "telegram": "@chadle",                                            
+ "operatorName": "Chadle",                                
+ "github": "chadle-git"                                               
+ },
+ {
+ "ticker": "STKAR",                                                      
+ "poolId": "f908b93de306af12c111b6e591d319784a58500ea00775c4e84ebe80", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "StakeArg",
+   "website": "https://stake.ar/",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "arguser",                                            
+ "operatorName": "Leo",                                
+ "github": "arguser"                                               
+ },
+  {
+ "ticker": "VLNS",
+ "poolId": "45db53a3789c6d03a447741cd526fbed788380077efc880521ba9dd9",
+ "social": {
+   "facebook": "",
+   "twitter": "ValencePool",
+   "website": "https://valencepool.info",
+   "reddit": "EccentricBarad",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "eccentricbarad_valencepool",
+ "operatorName": "Kristiyan",
+ "github": "EccentricBarad"
+},
+ {
+ "ticker": "Parad",                                                      
+ "poolId": "227b824daf6762372bcb97da913e89d5d32ba591d39cdbce2d22ae90", 
+ "social": {                                                           
+  "facebook": "https://www.facebook.com/Crypto-Staking-102769118499897", 
+  "twitter": "MikeCChandler",
+   "website": "https://paradise-staking.com/",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": "https://www.youtube.com/channel/UC7-v_bmf5SVP-PKEvrFf0GQ"
+ },
+ "telegram": "ParadiseStaking",                                            
+ "operatorName": "Mike",                                
+ "github": "webnettricks"                                               
+ },
+ {
+  "ticker": "PHNIX",
+  "poolId": "fcd4729667b4d9687a5a05e92f1e8abcea7a3c34b7312a610b97b5e8",
+  "social": {
+    "twitter": "PHNIX_Pool",
+    "facebook": "",
+    "instagram": "",
+    "youtube": "https://www.youtube.com/channel/UC_u_F8U9lsQQw_NtDmZUZzQ"
+  },
+  "telegram": "Phoenix_Pool",
+  "operatorName": "Matt",
+  "github": ""
+},
+ {
+ "ticker": "PARIS",                                                      
+ "poolId": "310daa501ac5ead2953ccb9cbb35d23516c48de31019b766fb560229", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "ParisStakePool",
+   "website": "https://parisadastakepool.fr/",  
+   "reddit": "",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "ParisAdaStakepool",                                            
+ "operatorName": "Laurent",                                
+ "github": "paris-ada-stakepool"                                               
+ } ,
+ {
+ "ticker": "CHAMP",                                                      
+ "poolId": "96d4a78a1459a66cea6b396fd92f7abba092bd59535d21ad3c0463c7", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "teamchampada",
+   "website": "https://champada.io",  
+   "reddit": "",
+   "instagram": "",
+   "youtube": "https://www.youtube.com/channel/UCM5AK98prC3Gxe8htB3r7FA"
+ },
+ "telegram": "darrenjs",                                            
+ "operatorName": "Darren S",                                
+ "github": "darrenjschumaker"                                               
  }
 ] 
