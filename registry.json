@@ -668,5 +668,18 @@
  "telegram": "rabbitholepools",                                            
  "operatorName": "Adrem",                                
  "github": "adrem1"                                               
- } 
+ },
+{
+  "ticker": "PHNIX",
+  "poolId": "fcd4729667b4d9687a5a05e92f1e8abcea7a3c34b7312a610b97b5e8",
+  "social": {
+    "twitter": "PHNIX_Pool",
+    "facebook": "",
+    "instagram": "",
+    "youtube": "https://www.youtube.com/channel/UC_u_F8U9lsQQw_NtDmZUZzQ"
+  },
+  "telegram": "Phoenix_Pool",
+  "operatorName": "Matt",
+  "github": ""
+}
 ] 
