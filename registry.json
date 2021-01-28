@@ -1,5 +1,20 @@
 [ 
  {
+ "ticker": "SOON",                                                      
+ "poolId": "3a0905747c18cf0e4410832fe64b13aaad4c7d03634ddb9f66c22860", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "StakeSoon",
+   "website": "https://www.broekhuijse.net/",  
+   "reddit": "",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "SOONstake",                                            
+ "operatorName": "Jochum Broekhuijse",                                
+ "github": "jmbr03k"                                               
+ },
+{
  "ticker": "SNAKE",                                                      
  "poolId": "342350284fd76ba9dbd7fd4ed579b2a2058d5ee558f8872b37817b28", 
  "social": {                                                           
