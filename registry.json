@@ -1,5 +1,20 @@
 [ 
  {
+ "ticker": "STBL",                                                      
+ "poolId": "7472e0960f7e59253dff9ddd0245b69a8898b51e103dd0c95aea9ac6", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "pool_stable",
+   "website": "https://www.stablepool.de/",  
+   "reddit": "",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "",                                            
+ "operatorName": "Jim",                                
+ "github": "stablepool"                                               
+ },
+ {
  "ticker": "SNAKE",                                                      
  "poolId": "342350284fd76ba9dbd7fd4ed579b2a2058d5ee558f8872b37817b28", 
  "social": {                                                           
