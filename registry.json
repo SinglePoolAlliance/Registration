@@ -828,5 +828,20 @@
  "telegram": "darrenjs",                                            
  "operatorName": "Darren S",                                
  "github": "darrenjschumaker"                                               
- }
+ },
+ {
+ "ticker": "CRVS",
+ "poolId": "c39f74e6ea3a8d832ff61235ec2c6bafc9eeffecdd88a0d1b15fd31d",
+ "social": {
+  "facebook": "",
+  "twitter": "@BebicZoran",
+   "website": "https://cardanostake.crypto-verse.net",
+   "reddit": "",
+   "instagram": "",
+   "youtube": ""
+    },
+    "telegram": "zoranb",
+    "operatorName": "Zoran B",
+    "github": ""
+  }
 ]
