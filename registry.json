@@ -669,6 +669,21 @@
  "operatorName": "Adrem",                                
  "github": "adrem1"                                               
  },
+ {
+ "ticker": "AFRIK",                                                      
+ "poolId": "fd16af916631bd29bf926d210da45d4aaa852242965ad06c124726f1", 
+ "social": {                                                           
+   "facebook": "", 
+   "twitter": "Cardano_Afrik",
+   "website": "https://cardano.afrikpool.org/",
+   "reddit": "",
+   "instagram": "",
+   "youtube": "https://www.youtube.com/channel/UC-MTKXd0S-nkDNlNlQd853Q"
+ },
+ "telegram": "afrikpool",
+ "operatorName": "",
+ "github": "afrikpool"                                  
+ },
   {
  "ticker": "BBHMM",                                                      
  "poolId": "7874e696cf4baca102c098067ca483f2370d2bdc958ad322dadf650b", 
@@ -772,4 +787,4 @@
  "operatorName": "Darren S",                                
  "github": "darrenjschumaker"                                               
  }
-] 
+]
