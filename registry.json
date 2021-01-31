@@ -685,6 +685,21 @@
  "github": "adrem1"                                               
  },
  {
+  "ticker": "MESH",
+  "poolId": "23fe0d0e58b18df247484c5cd81852120bed80b82bf93ec58901c3cf",
+  "social": {
+   "facebook": "https://www.facebook.com/groups/adastakepool/",
+   "twitter": "",
+    "website": "",
+    "reddit": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "telegram": "https://t.me/fornve",
+  "operatorName": "Marek",
+  "github": "fornve"
+ },
+ {
  "ticker": "AFRIK",                                                      
  "poolId": "fd16af916631bd29bf926d210da45d4aaa852242965ad06c124726f1", 
  "social": {                                                           
