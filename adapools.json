@@ -322,6 +322,11 @@
         "pool_id": "96d4a78a1459a66cea6b396fd92f7abba092bd59535d21ad3c0463c7",
         "member_since": "2021-01-27",
         "name": "CHAMP"
+      },
+      "60": {
+        "pool_id": "c39f74e6ea3a8d832ff61235ec2c6bafc9eeffecdd88a0d1b15fd31d",
+        "member_since": "2021-01-30",
+        "name": "CRVS"
       }
     }
   }
