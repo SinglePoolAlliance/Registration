@@ -831,5 +831,20 @@
     "telegram": "zoranb",
     "operatorName": "Zoran B",
     "github": ""
+  },
+   {
+    "ticker": "VEGAN",
+    "poolId": "134b0ad4f7109b0b4514d666a838a5e14291e72ed99ff27488791dd5",
+    "social": {
+      "facebook": "",
+      "twitter": "@veganpool",
+      "website": "https://veganpool.org",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "veganpool",
+    "operatorName": "Richard May",
+    "github": ""
   }
 ]
