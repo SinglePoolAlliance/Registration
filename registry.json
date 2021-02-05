@@ -831,5 +831,20 @@
     "telegram": "zoranb",
     "operatorName": "Zoran B",
     "github": ""
+  },
+ {
+    "ticker": "ADABR",
+    "poolId": "d0507160a231932b401c64a1afc8dc21e682993e2e6c0cdba129fa77",
+    "social": {
+      "facebook": "",
+      "twitter": "@adabr_pool",
+      "website": "https://adabr-pool.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "binatof",
+    "operatorName": "Tauan B",
+    "github": "https://github.com/tauanbinato"
   }
 ]
