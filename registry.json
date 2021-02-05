@@ -831,5 +831,20 @@
     "telegram": "zoranb",
     "operatorName": "Zoran B",
     "github": ""
-  }
+  },
+ {
+ "ticker": "MUGGY",                                                      
+ "poolId": "4044aa415dec3609dcab41faa19b643719b9521ef16eb35945a64bd9", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "Muggy_Pool",
+   "website": "https://adapools.org/pool/4044aa415dec3609dcab41faa19b643719b9521ef16eb35945a64bd9",  
+   "reddit": "MuggyPool",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "Muggy_Pool",                                            
+ "operatorName": "Rich",                                
+ "github": "muggy-pool"                                               
+ }
 ]
