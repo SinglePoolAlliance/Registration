@@ -831,5 +831,16 @@
     "telegram": "zoranb",
     "operatorName": "Zoran B",
     "github": ""
-  }
+  },
+{
+  "ticker": "APOP",
+  "poolId": "pool1dxwgzj66pual956mnv9delkelg873yvgr2dd8s279m0hxqvr475",
+  "social": {
+    "facebook": "",
+    "twitter": "adapop_pool",
+    "website": "https://adapop.org/"
+  },
+  "telegram": "nullus2020",
+  "operatorName": "Nullus"
+}
 ]
