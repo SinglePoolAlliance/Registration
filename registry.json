@@ -831,5 +831,20 @@
     "telegram": "zoranb",
     "operatorName": "Zoran B",
     "github": ""
-  }
+  },
+  {
+  "ticker": "KALIX",
+  "poolId": "7d84a0594da08dfae29c885949bf8e1b05eb9df558ba51be2eaad084",
+  "social": {
+   "twitter": "KalixPool",
+   "facebook": "",
+   "instagram": "",
+   "youtube": "",
+   "website": "",
+   "reddit": ""
+  },
+  "telegram": "joachimlindback",
+  "operatorName": "Hans-Joachim Lindback"
+  "github": "joachimlindback"
+ }
 ]
