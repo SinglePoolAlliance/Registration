@@ -833,17 +833,17 @@
     "github": ""
   },
  {
- "ticker": "CHAIN",                                                       # Mandatory
- "poolId": "9e0ecc753046778548dedec598c021edbb71fea2a001de3b4298cb19",  # Mandatory
- "social": {                                                            # At least 1 Mandatory more optional
+ "ticker": "CHAIN",                                                       
+ "poolId": "9e0ecc753046778548dedec598c021edbb71fea2a001de3b4298cb19",  
+ "social": {                                                            
    "twitter": "ChainUpsSPO",
    "website": "https://chainups.com",
    "facebook": " ",  
    "instagram": " ",
    "youtube": " "
  },
- "telegram": "chainups",                                             # Mandatory Personal Telegram Handle
- "operatorName": "Mark Suleman",                                   # Optional
- "github": "chainups"                                                     # Optional
+ "telegram": "chainups",                                             
+ "operatorName": "Mark Suleman",                                   
+ "github": "chainups"                                                     
 }
 ]
