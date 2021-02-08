@@ -831,5 +831,20 @@
     "telegram": "zoranb",
     "operatorName": "Zoran B",
     "github": ""
+  },
+ {
+    "ticker": "DIYA",
+    "poolId": "bf8892369c5922d9d5e404ab733c9dbf75b6fb842fa1c09f46c60616",
+    "social": {
+      "facebook": "",
+      "twitter": "@bliss_cs",
+      "website": "https://diya.blissweb.co",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "blisscs",
+    "operatorName": "Suracheth Chawla",
+    "github": "blisscs"
   }
 ]
