@@ -848,6 +848,21 @@
     "github": ""
   },
  {
+ "ticker": "LvLUp",                                                     
+ "poolId": "91e34a10c60a797011bdafc723e0b86a2fdecd11731c8c9e403cfe6e",  
+ "social": {                                                           
+  "facebook": "LvLUpStakepool", 
+  "twitter": "",
+   "website": "https://www.lvlup-stakepool.com/",  
+   "reddit": "",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "Luckyslam",                                            
+ "operatorName": "Luc",                                
+ "github": "Luckyslam"                                               
+ },
+  {
  "ticker": "CLOUD",                                                      
  "poolId": "7df4ca8ac5a08b3c5b71c1417609f7cfbb54948db1c64a22610d7001", 
  "social": {                                                           
