@@ -1,4 +1,19 @@
 [ 
+  {
+ "ticker": "SOON",                                                      
+ "poolId": "3a0905747c18cf0e4410832fe64b13aaad4c7d03634ddb9f66c22860", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "StakeSoon",
+   "website": "https://www.broekhuijse.net/",  
+   "reddit": "",  
+   "instagram": " ",
+   "youtube": ""
+    },
+ "telegram": "JochumB",                                            
+ "operatorName": "Jochum Broekhuijse",                                
+ "github": "jmbr03k"                                               
+ },
  {
  "ticker": "KAKE1",                                                      
  "poolId": "8f8d157c7608c371b5fde9cd59004538b5fc3ddd77f073ddb2c86150", 
@@ -846,5 +861,35 @@
     "telegram": "binatof",
     "operatorName": "Tauan B",
     "github": "https://github.com/tauanbinato"
-  }
+  },
+  {
+  "ticker": "LvLUp",                                                     
+ "poolId": "91e34a10c60a797011bdafc723e0b86a2fdecd11731c8c9e403cfe6e",  
+ "social": {                                                           
+  "facebook": "LvLUpStakepool", 
+  "twitter": "",
+   "website": "https://www.lvlup-stakepool.com/",  
+   "reddit": "",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "Luckyslam",                                            
+ "operatorName": "Luc",                                
+ "github": "Luckyslam"                                               
+ },
+  {
+ "ticker": "CLOUD",                                                      
+ "poolId": "7df4ca8ac5a08b3c5b71c1417609f7cfbb54948db1c64a22610d7001", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "@cloud_ada",
+   "website": "https://www.adapool.cloud/",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "cloud_adapool",                                            
+ "operatorName": "Mark",                                
+ "github": "cloud-adapool"                                               
+ }
 ]
