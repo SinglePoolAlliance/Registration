@@ -224,19 +224,6 @@
  "github": "ADADE-Pool"
 },
 {
- "ticker": "STR8",
- "poolId": "000006d97fd0415d2dafdbb8b782717a3d3ff32f865792b8df7ddd00",
- "social": {
-   "twitter": "Straightpool4",
-   "facebook": "",
-   "instagram": "",
-   "youtube": ""
- },
- "telegram": "ChrisSTR8",
- "operatorName": "Chris",
- "github": "Straightpool"
-},
-{
   "ticker": "HYPER",
   "poolId": "263498e010c7a49bbfd7c4e1aab29809fca7ed993f9e14192a75871e",
   "social": {
