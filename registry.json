@@ -862,7 +862,21 @@
     "operatorName": "Zoran B",
     "github": ""
   },
- {
+{
+  "ticker": "APOP",
+  "poolId": "pool1dxwgzj66pual956mnv9delkelg873yvgr2dd8s279m0hxqvr475",
+  "social": {
+    "facebook": "",
+    "twitter": "adapop_pool",
+    "website": "https://adapop.org/",
+    "youtube": "",
+    "instagram": "",
+    "reddit": ""
+  },
+  "telegram": "nullus2020",
+  "operatorName": "Nullus"
+},
+  {
     "ticker": "ADABR",
     "poolId": "d0507160a231932b401c64a1afc8dc21e682993e2e6c0cdba129fa77",
     "social": {
