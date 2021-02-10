@@ -862,7 +862,21 @@
     "operatorName": "Zoran B",
     "github": ""
   },
-{
+ {
+ "ticker": "CHAIN",                                                       
+ "poolId": "9e0ecc753046778548dedec598c021edbb71fea2a001de3b4298cb19",  
+ "social": {                                                            
+   "twitter": "ChainUpsSPO",
+   "website": "https://chainups.com",
+   "facebook": " ",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "chainups",                                             
+ "operatorName": "Mark Suleman",                                   
+ "github": "chainups"                                                     
+},
+  {
   "ticker": "APOP",
   "poolId": "pool1dxwgzj66pual956mnv9delkelg873yvgr2dd8s279m0hxqvr475",
   "social": {
