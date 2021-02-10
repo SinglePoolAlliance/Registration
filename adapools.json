@@ -354,6 +354,11 @@
         "name": "APOP"
       },
       "66": {
+        "pool_id": "9e0ecc753046778548dedec598c021edbb71fea2a001de3b4298cb19",
+        "member_since": "2021-02-07",
+        "name": "CHAIN"
+      },
+      "67": {
         "pool_id": "91e34a10c60a797011bdafc723e0b86a2fdecd11731c8c9e403cfe6e",
         "member_since": "2021-02-10",
         "name": "LvLUp"
