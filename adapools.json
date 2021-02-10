@@ -344,21 +344,26 @@
         "name": "ADABR"
       },
       "64": {
+        "pool_id": "6ae0fb9fc19ad1b82521d6e4b9f6e9bad4d150529673c95c5b5cf4e4",
+        "member_since": "2021-02-06",
+        "name": "DSIO"
+      },
+      "65": {
         "pool_id": "pool1dxwgzj66pual956mnv9delkelg873yvgr2dd8s279m0hxqvr475",
         "member_since": "2021-02-06",
         "name": "APOP"
       },
-      "65": {
+      "66": {
         "pool_id": "9e0ecc753046778548dedec598c021edbb71fea2a001de3b4298cb19",
         "member_since": "2021-02-07",
         "name": "CHAIN"
       },
-      "66": {
+      "67": {
         "pool_id": "91e34a10c60a797011bdafc723e0b86a2fdecd11731c8c9e403cfe6e",
         "member_since": "2021-02-10",
         "name": "LvLUp"
       },
-      "67": {
+      "68": {
         "pool_id": "a37460a9b761e67b18f0262ad18f80263f6b6d143c33a9873965ecd3",
         "member_since": "2021-02-10",
         "name": "MAJOR"
