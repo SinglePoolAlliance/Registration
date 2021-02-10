@@ -30,6 +30,21 @@
  "github": "jmbr03k"                                               
  },
  {
+ "ticker": "DSIO",                                                      
+ "poolId": "6ae0fb9fc19ad1b82521d6e4b9f6e9bad4d150529673c95c5b5cf4e4", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "dynamic_io",
+   "website": "https://dynamicstrategies.io/",  
+   "reddit": "https://www.reddit.com/user/dynamicstrategies",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "dstrategies",                                            
+ "operatorName": "",                                
+ "github": "dynamicstrategies"                                               
+ },
+ {
  "ticker": "KAKE1",                                                      
  "poolId": "8f8d157c7608c371b5fde9cd59004538b5fc3ddd77f073ddb2c86150", 
  "social": {                                                           
