@@ -951,5 +951,20 @@
     "telegram": "edm0nd",
     "operatorName": "Edmond",
     "github": "spmedia"
+  },
+ {
+ "ticker": "BBFSH",                                                      
+ "poolId": "pool1tku2j0ypfu5l5n0unasq8zculw4vx30t2ymx4qrj4837v8tdtak", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "BabelfishP",
+   "website": "",  
+   "reddit": "BBFSH",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "babelfishpool",                                            
+ "operatorName": "Giorgos",                                
+ "github": "gkatsikhs"                                               
   }
 ]
