@@ -951,5 +951,20 @@
     "telegram": "edm0nd",
     "operatorName": "Edmond",
     "github": "spmedia"
+  },
+  {
+    "ticker": "BPRL",
+    "poolId": "cc3bf31353e971540a284bb7da30cfaac4b0d4138e03bbdf85013eca",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/BlackPearl_Pool",
+      "website": "https://www.blackpearlpool.com/",
+      "reddit": "https://www.reddit.com/user/CryptoOlejka",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "olejka_andreyev",
+    "operatorName": "Oleh",
+    "github": "olegandreyev"
   }
 ]
