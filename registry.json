@@ -951,5 +951,20 @@
     "telegram": "edm0nd",
     "operatorName": "Edmond",
     "github": "spmedia"
+  },
+{
+    "ticker": "LOTUS",
+    "poolId": "0126c482283df9e693f28a25fb7e0ad890db5a269c695361069dfc81",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/lotus_ada",
+      "website": "https://cryptolotus.github.io/lotus/",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "lotus_ada_pool",
+    "operatorName": "Inder",
+    "github": "cryptolotus"
   }
 ]
