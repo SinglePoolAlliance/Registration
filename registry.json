@@ -951,5 +951,20 @@
     "telegram": "edm0nd",
     "operatorName": "Edmond",
     "github": "spmedia"
-  }
+  },
+  {
+  "ticker": "MARTE",                                                     
+ "poolId": "9062e5b6e80e79a02691e05d41f03d0397ff044cc738424de93f2264",  
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "",
+   "website": "https://martestaking.eu/",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "bigdsc",                                            
+ "operatorName": "Big",                                
+ "github": "BigG-DSC"                                               
+ }
 ]
