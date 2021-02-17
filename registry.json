@@ -951,5 +951,20 @@
     "telegram": "edm0nd",
     "operatorName": "Edmond",
     "github": "spmedia"
+  },
+  {
+    "ticker": "ROOT",
+    "poolId": "756d13b231bedef4d4e7fe498278d51fbd8d091d329d17baeb1d935e",
+    "social": {
+      "facebook": "",
+      "twitter": "RootPool",
+      "website": "https://rootstakepool.eu/",
+      "reddit": "https://www.reddit.com/user/RootStakePool/",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "rootpool",
+    "operatorName": "Dorin",
+    "github": "rootpool"
   }
 ]
