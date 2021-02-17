@@ -951,5 +951,20 @@
     "telegram": "edm0nd",
     "operatorName": "Edmond",
     "github": "spmedia"
+  },
+  {
+    "ticker": "WELON",
+    "poolId": "d425fd2cf93347999106b8fbb463cc87af26791d8d31d957193204db",
+    "social": {
+      "facebook": "https://www.facebook.com/wisecapitalorg",
+      "twitter": "https://twitter.com/WiseCapital3",
+      "website": "http://www.wisecapital.org",
+      "reddit": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCD_mcuL3OBg0ljjoRsZBjpg"
+    },
+    "telegram": "jbarroswise",
+    "operatorName": "Wise Capital",
+    "github": "jbarros35"
   }
 ]
