@@ -951,5 +951,20 @@
     "telegram": "edm0nd",
     "operatorName": "Edmond",
     "github": "spmedia"
+  },
+  {
+    "ticker": "DOGE",
+    "poolId": "a64a9041d51b6d8566ee18b2812e052a05e79a9544c26b027fb9502d",
+    "social": {
+      "facebook": "",
+      "twitter": "cardanodoge",
+      "website": "https://dogepool.org/",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "ryanjnz",
+    "operatorName": "Shiba Inu",
+    "github": "dogepool"
   }
 ]
