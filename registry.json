@@ -951,6 +951,21 @@
  "operatorName": "Luc",                                
  "github": "Luckyslam"                                               
  },
+    {
+ "ticker": "HS0LO",                                                      
+ "poolId": "de7f214056fa551217d6ed21203bb09e7f479b34e8f4740bcf87f6f9", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "",
+   "website": "huths0lostakepool.com",  
+   "reddit": "Huth_S0lo",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "Huth S0LO",                                            
+ "operatorName": "The Huth",                                
+ "github": "huths0lo"                                               
+ },
   {
  "ticker": "CLOUD",                                                      
  "poolId": "7df4ca8ac5a08b3c5b71c1417609f7cfbb54948db1c64a22610d7001", 
