@@ -15,6 +15,21 @@
  "github": "stablepool"                                               
   },
   {
+ "ticker": "TAPIA",                                                      
+ "poolId": "4456f43e77f883d34d957d1dabc0e09328bea8d219ddd027a702ae5a", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "StakeTapia",
+   "website": "cardanostaking.tapiafamily.org",  
+   "reddit": "",  
+   "instagram": "kyle_tapia",
+   "youtube": ""
+ },
+ "telegram": "kyletap",                                            
+ "operatorName": "Jeff & Kyle Tapia",                                
+ "github": "kyle11866"                                               
+  },
+  {
  "ticker": "SOON",                                                      
  "poolId": "3a0905747c18cf0e4410832fe64b13aaad4c7d03634ddb9f66c22860", 
  "social": {                                                           
