@@ -15,6 +15,21 @@
  "github": "stablepool"                                               
   },
   {
+ "ticker": "TAPIA",                                                      
+ "poolId": "4456f43e77f883d34d957d1dabc0e09328bea8d219ddd027a702ae5a", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "StakeTapia",
+   "website": "cardanostaking.tapiafamily.org",  
+   "reddit": "",  
+   "instagram": "kyle_tapia",
+   "youtube": ""
+ },
+ "telegram": "kyletap",                                            
+ "operatorName": "Jeff & Kyle Tapia",                                
+ "github": "kyle11866"                                               
+  },
+  {
  "ticker": "SOON",                                                      
  "poolId": "3a0905747c18cf0e4410832fe64b13aaad4c7d03634ddb9f66c22860", 
  "social": {                                                           
@@ -865,7 +880,21 @@
     "github": ""
   },
  {
- "ticker": "CHAIN",                                                       
+    "ticker": "DIYA",
+    "poolId": "bf8892369c5922d9d5e404ab733c9dbf75b6fb842fa1c09f46c60616",
+    "social": {
+      "facebook": "",
+      "twitter": "@bliss_cs",
+      "website": "https://diya.blissweb.co",
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "blisscs",
+    "operatorName": "Suracheth Chawla",
+    "github": "blisscs"
+  },
+  {
+  "ticker": "CHAIN",                                                       
  "poolId": "9e0ecc753046778548dedec598c021edbb71fea2a001de3b4298cb19",  
  "social": {                                                            
    "twitter": "ChainUpsSPO",
@@ -922,6 +951,21 @@
  "operatorName": "Luc",                                
  "github": "Luckyslam"                                               
  },
+    {
+ "ticker": "HS0LO",                                                      
+ "poolId": "de7f214056fa551217d6ed21203bb09e7f479b34e8f4740bcf87f6f9", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "",
+   "website": "huths0lostakepool.com",  
+   "reddit": "Huth_S0lo",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "Huth S0LO",                                            
+ "operatorName": "The Huth",                                
+ "github": "huths0lo"                                               
+ },
   {
  "ticker": "CLOUD",                                                      
  "poolId": "7df4ca8ac5a08b3c5b71c1417609f7cfbb54948db1c64a22610d7001", 
@@ -966,5 +1010,35 @@
     "telegram": "jbarroswise",
     "operatorName": "Wise Capital",
     "github": "jbarros35"
+  },
+  {
+    "ticker": "ROOT",
+    "poolId": "756d13b231bedef4d4e7fe498278d51fbd8d091d329d17baeb1d935e",
+    "social": {
+      "facebook": "",
+      "twitter": "RootPool",
+      "website": "https://rootstakepool.eu/",
+      "reddit": "https://www.reddit.com/user/RootStakePool/",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "rootpool",
+    "operatorName": "Dorin",
+    "github": "rootpool"
+  },
+  {
+    "ticker": "BPRL",
+    "poolId": "cc3bf31353e971540a284bb7da30cfaac4b0d4138e03bbdf85013eca",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/BlackPearl_Pool",
+      "website": "https://www.blackpearlpool.com/",
+      "reddit": "https://www.reddit.com/user/CryptoOlejka",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "olejka_andreyev",
+    "operatorName": "Oleh",
+    "github": "olegandreyev"
   }
 ]
