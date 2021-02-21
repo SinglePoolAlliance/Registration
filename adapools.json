@@ -354,19 +354,44 @@
         "name": "APOP"
       },
       "66": {
-        "pool_id": "9e0ecc753046778548dedec598c021edbb71fea2a001de3b4298cb19",
-        "member_since": "2021-02-07",
-        "name": "CHAIN"
+        "pool_id": "bf8892369c5922d9d5e404ab733c9dbf75b6fb842fa1c09f46c60616",
+        "member_since": "2021-02-08",
+        "name": "DIYA"
       },
       "67": {
+        "pool_id": "9e0ecc753046778548dedec598c021edbb71fea2a001de3b4298cb19",
+        "member_since": "2021-02-10",
+        "name": "CHAIN"
+      },
+      "68": {
         "pool_id": "91e34a10c60a797011bdafc723e0b86a2fdecd11731c8c9e403cfe6e",
         "member_since": "2021-02-10",
         "name": "LvLUp"
       },
-      "68": {
+      "69": {
         "pool_id": "a37460a9b761e67b18f0262ad18f80263f6b6d143c33a9873965ecd3",
         "member_since": "2021-02-10",
         "name": "MAJOR"
+      },
+      "70": {
+        "pool_id": "cc3bf31353e971540a284bb7da30cfaac4b0d4138e03bbdf85013eca",
+        "member_since": "2021-02-13",
+        "name": "BPRL"
+      },
+      "71": {
+        "pool_id": "4456f43e77f883d34d957d1dabc0e09328bea8d219ddd027a702ae5a",
+        "member_since": "2021-02-16",
+        "name": "TAPIA"
+      },
+      "72": {
+        "pool_id": "de7f214056fa551217d6ed21203bb09e7f479b34e8f4740bcf87f6f9",
+        "member_since": "2021-02-17",
+        "name": "HS0LO"
+      },
+      "73": {
+        "pool_id": "756d13b231bedef4d4e7fe498278d51fbd8d091d329d17baeb1d935e",
+        "member_since": "2021-02-17",
+        "name": "ROOT"
       }
     }
   }
