@@ -997,7 +997,21 @@
     "github": "spmedia"
   },
   {
-    "ticker": "ROOT",
+    "ticker": "ABC",
+    "poolId": "478bc2098b2ef7117a4dc1a618ea75ca37516be7c6a65fab763f72a2",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/StakeWithABC",
+      "website": "https://abcstake.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "otnrx",
+    "operatorName": "",
+    "github": "ABCStake"
+  },
+  { "ticker": "ROOT",
     "poolId": "756d13b231bedef4d4e7fe498278d51fbd8d091d329d17baeb1d935e",
     "social": {
       "facebook": "",
