@@ -1039,5 +1039,20 @@
     "telegram": "olejka_andreyev",
     "operatorName": "Oleh",
     "github": "olegandreyev"
+  },
+  {
+ "ticker": "MOST",                                                      
+ "poolId": "4b4e09f1acb8957ecff8c36091b9a6dedce48c9df8f64d7744d2b080", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "mostakingc",
+   "website": "https://www.mostaking.com/",  
+   "reddit": "",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "Danmcg86 MOStaking.com",                                            
+ "operatorName": "Dan",                                
+ "github": "danmcg86"                                               
   }
 ]
