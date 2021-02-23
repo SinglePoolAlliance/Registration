@@ -1039,5 +1039,20 @@
     "telegram": "olejka_andreyev",
     "operatorName": "Oleh",
     "github": "olegandreyev"
+  },
+  {
+    "ticker": "VITAL",                                                      
+    "poolId": "075a870caa0a0cf20a3c2cf514be05e2064ef1ba71b2381e8f16a09e", 
+    "social": {                                                           
+      "facebook": "", 
+      "twitter": "ResponsibleSta3",
+      "website": "https://responsible-staking.at/",  
+      "reddit": "",  
+      "instagram": " ",
+      "youtube": ""
+    },
+    "telegram": "vital_stakepool",                                            
+    "operatorName": "Support",                                
+    "github": "ResponsibleStaking"                                               
   }
 ]
