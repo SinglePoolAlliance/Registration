@@ -1039,5 +1039,20 @@
     "telegram": "olejka_andreyev",
     "operatorName": "Oleh",
     "github": "olegandreyev"
+  },
+  {
+    "ticker": "CPH",
+    "poolId": "6bca327ee75b2c28ed7ae03fe8c922191a08cb59141c6097be8b365a",
+    "social": {
+      "facebook": "cloudpoolph",
+      "twitter": "junCloudPool",
+      "website": "https://www.cloudpool.info/",
+      "reddit": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UC2h1_PreBIRvjvnyPZoNf-g"
+    },
+    "telegram": "@junCloudPool",
+    "operatorName": "Jun",
+    "github": "jeremiah14"
   }
 ]
