@@ -1039,5 +1039,20 @@
     "telegram": "olejka_andreyev",
     "operatorName": "Oleh",
     "github": "olegandreyev"
+  },
+  {
+    "ticker": "MADT",
+    "poolId": "pool167rklq6c7hj8nt3g880x94pn2wc8kgqx5s8ml988y0qcccr6qsl",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/MADTURKpool",
+      "website": "https://mtpool.live",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "MADTURK_Pool",
+    "operatorName": "MAD TURK",
+    "github": "madturkpool"
   }
 ]
