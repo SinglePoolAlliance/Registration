@@ -1039,5 +1039,20 @@
     "telegram": "olejka_andreyev",
     "operatorName": "Oleh",
     "github": "olegandreyev"
+  },
+  {
+    "ticker": "CDA",
+    "poolId": "796ab264483c464e2df3add039a8cd04e3eed9c79f45507fba35bf02",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/DredgeCrypto",
+      "website": "https://crypto-dredge.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UC4HBqcsaEEcSW3XUaLGBxZQ"
+    },
+    "telegram": "cryptodredgepool",
+    "operatorName": "Monty Motz",
+    "github": "PrinzMonty"
   }
 ]
