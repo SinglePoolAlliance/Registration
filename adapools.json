@@ -397,6 +397,21 @@
         "pool_id": "756d13b231bedef4d4e7fe498278d51fbd8d091d329d17baeb1d935e",
         "member_since": "2021-02-21",
         "name": "ROOT"
+      },
+      "75": {
+        "pool_id": "9062e5b6e80e79a02691e05d41f03d0397ff044cc738424de93f2264",
+        "member_since": "2021-02-21",
+        "name": "MARTE"
+      },
+      "76": {
+        "pool_id": "d425fd2cf93347999106b8fbb463cc87af26791d8d31d957193204db",
+        "member_since": "2021-02-22",
+        "name": "WELON"
+      },
+      "77": {
+        "pool_id": "4b4e09f1acb8957ecff8c36091b9a6dedce48c9df8f64d7744d2b080",
+        "member_since": "2021-02-22",
+        "name": "MOST"
       }
     }
   }
