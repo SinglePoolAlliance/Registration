@@ -1,5 +1,19 @@
 [ 
   {
+ "ticker": "GULAS",                                                      
+ "poolId": "926a9ad87449ee8782926ce1ee07f6e718ca82d974d86d41b0dc7111", 
+ "social": {                                                           
+  "facebook": "adacoinhu", 
+  "twitter": "GoulashPool",
+  "website": "https://adacoin.hu/",  
+  "instagram": "adacoin.hu",
+   "youtube": ""
+ },
+ "telegram": "ittiswadevagyok",                                            
+ "operatorName": "wade", 
+ "github": ""                                               
+  },
+  {
  "ticker": "STBL",                                                      
  "poolId": "7472e0960f7e59253dff9ddd0245b69a8898b51e103dd0c95aea9ac6", 
  "social": {                                                           
