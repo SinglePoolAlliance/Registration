@@ -1041,6 +1041,21 @@
     "github": "olegandreyev"
   },
   {
+ "ticker": "MOST",                                                      
+ "poolId": "4b4e09f1acb8957ecff8c36091b9a6dedce48c9df8f64d7744d2b080", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "mostakingc",
+   "website": "https://www.mostaking.com/",  
+   "reddit": "",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "Danmcg86",                                            
+ "operatorName": "Dan",                                
+ "github": "danmcg86"                                               
+  },
+  {
     "ticker": "MARTE",                                                     
     "poolId": "9062e5b6e80e79a02691e05d41f03d0397ff044cc738424de93f2264",  
     "social": {                                                           
