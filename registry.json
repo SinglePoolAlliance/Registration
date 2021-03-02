@@ -1039,5 +1039,20 @@
     "telegram": "olejka_andreyev",
     "operatorName": "Oleh",
     "github": "olegandreyev"
+  },
+  {
+    "ticker": "ADAOZ",
+    "poolId": "6658713e2cbfa4e347691a0435953f5acbe9f03d330e94caa3a0cfb4",
+    "social": {
+      "facebook": "https://www.facebook.com/groups/239928447789168",
+      "twitter": "https://twitter.com/cardanodeau",
+      "website": "https://cardanode.com.au/",
+      "reddit": "https://www.reddit.com/user/astroboysoup",
+      "instagram": "",
+      "youtube": "https://youtube.com/channel/UCj-_2e7L2UgHaJLrGEOJRzA"
+    },
+    "telegram": "Astroboysoup",
+    "operatorName": "Peter",
+    "github": "pbwebdev"
   }
 ]
