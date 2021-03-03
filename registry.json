@@ -1128,5 +1128,20 @@
     "telegram": "bigdsc",                                            
     "operatorName": "Big",                                
     "github": "BigG-DSC"                                               
+  },
+  {
+    "ticker": "CDA",
+    "poolId": "796ab264483c464e2df3add039a8cd04e3eed9c79f45507fba35bf02",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/DredgeCrypto",
+      "website": "https://crypto-dredge.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UC4HBqcsaEEcSW3XUaLGBxZQ"
+    },
+    "telegram": "montymotz",
+    "operatorName": "",
+    "github": ""
   }
 ]
