@@ -404,14 +404,29 @@
         "name": "MARTE"
       },
       "76": {
-        "pool_id": "d425fd2cf93347999106b8fbb463cc87af26791d8d31d957193204db",
-        "member_since": "2021-02-22",
-        "name": "WELON"
-      },
-      "77": {
         "pool_id": "4b4e09f1acb8957ecff8c36091b9a6dedce48c9df8f64d7744d2b080",
         "member_since": "2021-02-22",
         "name": "MOST"
+      },
+      "77": {
+        "pool_id": "6bca327ee75b2c28ed7ae03fe8c922191a08cb59141c6097be8b365a",
+        "member_since": "2021-02-25",
+        "name": "CPH"
+      },
+      "78": {
+        "pool_id": "926a9ad87449ee8782926ce1ee07f6e718ca82d974d86d41b0dc7111",
+        "member_since": "2021-03-02",
+        "name": "GULAS"
+      },
+      "79": {
+        "pool_id": "6658713e2cbfa4e347691a0435953f5acbe9f03d330e94caa3a0cfb4",
+        "member_since": "2021-03-02",
+        "name": "ADAOZ"
+      },
+      "80": {
+        "pool_id": "d425fd2cf93347999106b8fbb463cc87af26791d8d31d957193204db",
+        "member_since": "2021-03-02",
+        "name": "WELON"
       }
     }
   }
