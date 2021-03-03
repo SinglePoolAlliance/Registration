@@ -1128,5 +1128,20 @@
     "telegram": "bigdsc",                                            
     "operatorName": "Big",                                
     "github": "BigG-DSC"                                               
+  },
+  {
+    "ticker": "SEAL",
+    "poolId": "7d59eb08203e86f74d3011c7e967ed50fbd0954001eab1cb00b69422",
+    "social": {
+      "facebook": "",
+      "twitter": "",
+      "website": "https://adaseal.eu/",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "",
+    "operatorName": "",
+    "github": ""          
   }
 ]
