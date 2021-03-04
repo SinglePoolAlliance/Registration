@@ -1128,5 +1128,20 @@
     "telegram": "bigdsc",                                            
     "operatorName": "Big",                                
     "github": "BigG-DSC"                                               
+  },
+  {
+    "ticker": "KRKN",                                                     
+    "poolId": "02a0713356dde60c05d703f63c3eecf87a23d655ea1d133efed8b1a5",  
+    "social": {                                                           
+      "facebook": "", 
+      "twitter": "https://twitter.com/KrakenStaking",
+      "website": "https://krakenstaking.wordpress.com",  
+      "reddit": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "KrakenStaking",                                            
+    "operatorName": "Matt",                                
+    "github": "zekraken-bot"                                               
   }
 ]
