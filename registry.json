@@ -1113,8 +1113,8 @@
  "telegram": "Danmcg86",                                            
  "operatorName": "Dan",                                
  "github": "danmcg86"                                               
-  },
-  {
+ },
+ {
     "ticker": "MARTE",                                                     
     "poolId": "9062e5b6e80e79a02691e05d41f03d0397ff044cc738424de93f2264",  
     "social": {                                                           
@@ -1128,5 +1128,18 @@
     "telegram": "bigdsc",                                            
     "operatorName": "Big",                                
     "github": "BigG-DSC"                                               
-  }
+ },
+ {
+  "ticker": "CROWD",
+  "poolId": "ae96cb925985079c1108a412e810be1871d68cab6dffb6eddbac9adb",
+  "social": {
+    "twitter": "Mendrinos_",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "telegram": "Mendrinos2",
+  "operatorName": "Ed",
+  "github": "ejane24" 
+ }
 ]
