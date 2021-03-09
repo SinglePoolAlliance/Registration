@@ -1128,5 +1128,20 @@
     "telegram": "bigdsc",                                            
     "operatorName": "Big",                                
     "github": "BigG-DSC"                                               
+  },
+  {
+    "ticker": "CDAN",                                                     
+    "poolId": "95d5d55c02d51cd6e9be66ee622d4ae75fb543fc4022a510510620c8",  
+    "social": {                                                           
+      "facebook": "", 
+      "twitter": "AdaCdan",
+      "website": "https://cdanstakepool.com/",  
+      "reddit": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "chathudan",                                            
+    "operatorName": "Chathura Wijesinghe",                                
+    "github": "chathudan"                                               
   }
 ]
