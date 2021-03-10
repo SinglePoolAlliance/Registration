@@ -1115,18 +1115,33 @@
  "github": "danmcg86"                                               
   },
   {
-    "ticker": "MARTE",                                                     
-    "poolId": "9062e5b6e80e79a02691e05d41f03d0397ff044cc738424de93f2264",  
-    "social": {                                                           
-      "facebook": "", 
-      "twitter": "https://twitter.com/MarteStaking",
-      "website": "https://martestaking.eu/",  
-      "reddit": "",  
-      "instagram": "",
-      "youtube": ""
-    },
-    "telegram": "bigdsc",                                            
-    "operatorName": "Big",                                
-    "github": "BigG-DSC"                                               
-  }
+  "ticker": "MARTE",                                                     
+  "poolId": "9062e5b6e80e79a02691e05d41f03d0397ff044cc738424de93f2264",  
+  "social": {                                                           
+    "facebook": "", 
+    "twitter": "https://twitter.com/MarteStaking",
+    "website": "https://martestaking.eu/",  
+    "reddit": "",  
+    "instagram": "",
+    "youtube": ""
+  },
+  "telegram": "bigdsc",                                            
+  "operatorName": "Big",                                
+  "github": "BigG-DSC"                                               
+  },
+  {
+   "ticker": "STOIC",                                                     
+   "poolId": "099d512b6ffedd552ae38a9ae2123c116b1d20e1f01bb42a1f539fba",  
+   "social": {                                                           
+     "facebook": "", 
+     "twitter": "https://twitter.com/StoicPool/",
+     "website": "https://stoicpool.com/",  
+     "reddit": "",  
+     "instagram": "https://instagram.com/stoicpool/",
+     "youtube": "https://www.youtube.com/c/StoicPool/"
+  },
+  "telegram": "StoicPool",                                            
+  "operatorName": "Rhys Morgan",                                
+  "github": "rhystmorgan"                                               
+ }
 ]
