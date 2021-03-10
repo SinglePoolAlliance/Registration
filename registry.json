@@ -1128,5 +1128,20 @@
     "telegram": "bigdsc",                                            
     "operatorName": "Big",                                
     "github": "BigG-DSC"                                               
+  },
+  {
+    "ticker": "LSS",                                                     
+    "poolId": "4d470d31f80c01d797996b43abdfe7339ae5b408fb31cc655a80ccd7",  
+    "social": {                                                           
+      "facebook": "", 
+      "twitter": "https://twitter.com/lss_cardanopool",
+      "website": "https://longshortsignal.com/cardanopool",  
+      "reddit": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "lss_cardanopool",                                            
+    "operatorName": "traddacharlie",                                
+    "github": "traddacharlie"                                               
   }
 ]
