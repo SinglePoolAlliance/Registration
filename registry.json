@@ -1,4 +1,19 @@
-[
+[ 
+  {
+ "ticker": "BIL",                                                      
+ "poolId": "7004d0436f52f905c68d6c23cf58938fa3b82b6193935e220f0183ef", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "BillionairePool",
+   "website": "http://www.billionairepool.com/",  
+   "reddit": "",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "BillionairePool",                                            
+ "operatorName": "Diego",                                
+ "github": ""                                               
+  },
 	{
 	"ticker": "FOOD",
 	"poolId": "fcc8a499e4711c9b23df11b9f3a39584ff47bb1cff7fb764f6f5ed9c",
