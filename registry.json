@@ -1203,6 +1203,19 @@
     "github": "BigG-DSC"                                               
   },
   {
+    "ticker": "MOA",                                                     
+    "poolId": "97a01b8ee302ff28aad1efef39cc310a4c07cf5b767f0292134f5d4d",  
+    "social": {
+      "reddit": "",  
+      "instagram": "",
+      "youtube": "",
+      "twitter": "https://twitter.com/moastakepool",
+      "website": "https://moa.stakepool.co.nz/",
+      "facebook": "" 
+    },
+    "telegram": "acktim"                                             
+  },
+  {
     "ticker": "KRKN",                                                     
     "poolId": "02a0713356dde60c05d703f63c3eecf87a23d655ea1d133efed8b1a5",  
     "social": {                                                           
