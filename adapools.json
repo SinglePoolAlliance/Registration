@@ -437,6 +437,11 @@
         "pool_id": "d425fd2cf93347999106b8fbb463cc87af26791d8d31d957193204db",
         "member_since": "2021-03-02",
         "name": "WELON"
+      },
+      "83": {
+        "pool_id": "796ab264483c464e2df3add039a8cd04e3eed9c79f45507fba35bf02",
+        "member_since": "2021-03-03",
+        "name": "CDA"
       }
     }
   }
