@@ -1,5 +1,20 @@
 [ 
   {
+     "ticker": "LACE",
+     "poolId": "c04742e0e70c0f52950b465038ef97c7c7e6fe71a20bd88c1b655b63",
+     "social": {
+       "twitter": "lacepool_com",
+       "website": "https://lacepool.com",
+       "facebook": "",
+       "reddit": "",
+       "instagram": "",
+       "youtube": ""
+     },
+     "telegram": "robinboening",
+     "operatorName": "Robin",
+     "github": "robinboening"
+  },
+  {
  "ticker": "BIL",                                                      
  "poolId": "7004d0436f52f905c68d6c23cf58938fa3b82b6193935e220f0183ef", 
  "social": {                                                           
