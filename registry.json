@@ -1131,7 +1131,7 @@
   },
  {
  "ticker": "HSP",                                                       
- "poolId": "pool17mr554wv653z4ttr3rydt5dsxg6r28ysu5mlz9cc5ax32gsleh9",  
+ "poolId": "f6c74a55ccd5222aad6388c8d5d1b03234351c90e537f11718a74d15",  
  "social": {                                                            
    "twitter": "https://twitter.com/HoneyPool6",
    "facebook": "https://www.facebook.com/Honeystake",  
@@ -1139,6 +1139,6 @@
    "website": "http://honeystake.com/",
    "youtube": "https://www.youtube.com/channel/UCKSdv5_LQkqEwu0DaYt6yqw/"
  },
- "telegram": "https://t.me/honeystake"                                                                                                
+ "telegram": "cbkmichi"                                                                                                
 }
 ]
