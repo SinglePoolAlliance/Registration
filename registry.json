@@ -1010,6 +1010,21 @@
     "operatorName": "Edmond",
     "github": "spmedia"
   },
+ {
+ "ticker": "BBFSH",                                                      
+ "poolId": "5db8a93c814f29fa4dfc9f60038b1cfbaac345eb51366a8072a9e3e6", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "BabelfishP",
+   "website": "",  
+   "reddit": "BBFSH",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "[BBFSH]",                                            
+ "operatorName": "Giorgos",                                
+ "github": "gkatsikhs"                                               
+ },
   {
     "ticker": "ABC",
     "poolId": "478bc2098b2ef7117a4dc1a618ea75ca37516be7c6a65fab763f72a2",
@@ -1055,6 +1070,21 @@
     "github": "olegandreyev"
   },
   {
+    "ticker": "VITAL",                                                      
+    "poolId": "075a870caa0a0cf20a3c2cf514be05e2064ef1ba71b2381e8f16a09e", 
+    "social": {                                                           
+      "facebook": "", 
+      "twitter": "ResponsibleSta3",
+      "website": "https://responsible-staking.at/",  
+      "reddit": "",  
+      "instagram": " ",
+      "youtube": ""
+    },
+    "telegram": "zwirny",                                            
+    "operatorName": "",                                
+    "github": "ResponsibleStaking"                                               
+  },
+  {
     "ticker": "ADAOZ",
     "poolId": "6658713e2cbfa4e347691a0435953f5acbe9f03d330e94caa3a0cfb4",
     "social": {
@@ -1083,21 +1113,6 @@
     "telegram": "@junCloudPool",
     "operatorName": "Jun",
     "github": "jeremiah14"
-  },
-  {
-  "ticker": "WELON",
-    "poolId": "d425fd2cf93347999106b8fbb463cc87af26791d8d31d957193204db",
-    "social": {
-      "facebook": "https://www.facebook.com/wisecapitalorg",
-      "twitter": "https://twitter.com/WiseCapital3",
-      "website": "http://www.wisecapital.org",
-      "reddit": "",
-      "instagram": "",
-      "youtube": "https://www.youtube.com/channel/UCD_mcuL3OBg0ljjoRsZBjpg"
-    },
-    "telegram": "jbarroswise",
-    "operatorName": "Jose Barros",
-    "github": "jbarros35"
   },
   {
  "ticker": "MOST",                                                      
@@ -1143,5 +1158,20 @@
     "telegram": "",
     "operatorName": "",
     "github": ""          
+  },
+  {
+    "ticker": "CDA",
+    "poolId": "796ab264483c464e2df3add039a8cd04e3eed9c79f45507fba35bf02",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/DredgeCrypto",
+      "website": "https://crypto-dredge.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UC4HBqcsaEEcSW3XUaLGBxZQ"
+    },
+    "telegram": "montymotz",
+    "operatorName": "",
+    "github": ""
   }
 ]
