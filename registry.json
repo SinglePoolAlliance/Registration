@@ -1128,5 +1128,17 @@
     "telegram": "bigdsc",                                            
     "operatorName": "Big",                                
     "github": "BigG-DSC"                                               
-  }
+  },
+  {
+ "ticker": "HSP",                                                       
+ "poolId": "pool17mr554wv653z4ttr3rydt5dsxg6r28ysu5mlz9cc5ax32gsleh9",  
+ "social": {                                                            
+   "twitter": "https://twitter.com/HoneyPool6",
+   "facebook": "https://www.facebook.com/Honeystake",  
+   "instagram": "https://www.instagram.com/honeystakepool/",
+   "website": "http://honeystake.com/",
+   "youtube": "https://www.youtube.com/channel/UCKSdv5_LQkqEwu0DaYt6yqw/"
+ },
+ "telegram": "https://t.me/honeystake",                                                                                                
+}
 ]
