@@ -1070,6 +1070,21 @@
     "github": "olegandreyev"
   },
   {
+    "ticker": "VITAL",                                                      
+    "poolId": "075a870caa0a0cf20a3c2cf514be05e2064ef1ba71b2381e8f16a09e", 
+    "social": {                                                           
+      "facebook": "", 
+      "twitter": "ResponsibleSta3",
+      "website": "https://responsible-staking.at/",  
+      "reddit": "",  
+      "instagram": " ",
+      "youtube": ""
+    },
+    "telegram": "zwirny",                                            
+    "operatorName": "",                                
+    "github": "ResponsibleStaking"                                               
+  },
+  {
     "ticker": "ADAOZ",
     "poolId": "6658713e2cbfa4e347691a0435953f5acbe9f03d330e94caa3a0cfb4",
     "social": {
