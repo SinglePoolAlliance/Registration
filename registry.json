@@ -1010,6 +1010,21 @@
     "operatorName": "Edmond",
     "github": "spmedia"
   },
+ {
+ "ticker": "BBFSH",                                                      
+ "poolId": "5db8a93c814f29fa4dfc9f60038b1cfbaac345eb51366a8072a9e3e6", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "BabelfishP",
+   "website": "",  
+   "reddit": "BBFSH",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "[BBFSH]",                                            
+ "operatorName": "Giorgos",                                
+ "github": "gkatsikhs"                                               
+ },
   {
     "ticker": "ABC",
     "poolId": "478bc2098b2ef7117a4dc1a618ea75ca37516be7c6a65fab763f72a2",
