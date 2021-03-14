@@ -1271,5 +1271,20 @@
     "telegram": "montymotz",
     "operatorName": "",
     "github": ""
+  },
+  {
+    "ticker": "BOOST",
+    "poolId": "6b5179aee4db62de5bec35029e4c9b02145366acfec872f1594924db",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/AdaBooster",
+      "website": "https://dbooster.io",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "JAS0",
+    "operatorName": "Caso",
+    "github": "jimcase"
   }
 ]
