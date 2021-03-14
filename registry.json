@@ -1,4 +1,19 @@
-[ 
+[
+  {
+ "ticker": "EUSKL",                                                      
+ "poolId": "pool1ksfzungz56vxa9sy6hr54v5hf6qx8rmcu6734gqm3qlxucveed6", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "euskalstakepool",
+   "website": "https://euskalstakepool.win",  
+   "reddit": "",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "euskalstakepool",                                            
+ "operatorName": "jonpa",                                
+ "github": ""                                               
+  },
   {
  "ticker": "BIL",                                                      
  "poolId": "7004d0436f52f905c68d6c23cf58938fa3b82b6193935e220f0183ef", 
