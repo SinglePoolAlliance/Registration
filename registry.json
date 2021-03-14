@@ -1271,5 +1271,20 @@
     "telegram": "montymotz",
     "operatorName": "",
     "github": ""
+  },
+  {
+    "ticker": "KAWAN",
+    "poolId": "40c5a505a4276c94e49b848c1b0aa62c4ea244574f4e2e28ebb29210",
+    "social": {
+      "facebook": "Kawanua Cardano Pool",
+      "twitter": "",
+      "website": "https://kawancardano.com/",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "@foczz",
+    "operatorName": "Andrew Ponto",
+    "github": "kawanua-pool"
   }
 ]
