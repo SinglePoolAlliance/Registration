@@ -1,4 +1,19 @@
 [ 
+	{
+ "ticker": "ICS",                                                      
+ "poolId": "dd678d67a7baec55d0e43563007f9f9fb0157740d880aa7b9c68d8bb", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "CryptoIcarusCom",
+   "website": "https://www.cryptoicarus.com/",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "CryptoIcarus",                                            
+ "operatorName": "Hoang",                                
+ "github": ""                                               
+  },
   {
  "ticker": "BIL",                                                      
  "poolId": "7004d0436f52f905c68d6c23cf58938fa3b82b6193935e220f0183ef", 
