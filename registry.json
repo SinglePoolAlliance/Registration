@@ -1,4 +1,19 @@
 [ 
+	  {
+ "ticker": "YOADA",                                                      
+ "poolId": "96553a437b99271fdcaa30c279e432224342e88147741db73872f03c", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "YoadaStakepool",
+   "website": "https://www.yoada.fr/",  
+   "reddit": "",  
+   "instagram": " ",
+   "youtube": ""
+ },
+ "telegram": "Yoann54",                                            
+ "operatorName": "Yoann",                                
+ "github": "yoann54"                                               
+  },
   {
  "ticker": "BIL",                                                      
  "poolId": "7004d0436f52f905c68d6c23cf58938fa3b82b6193935e220f0183ef", 
