@@ -1271,5 +1271,20 @@
     "telegram": "montymotz",
     "operatorName": "",
     "github": ""
-  }
+  },	
+ {
+    "ticker": "NEWFI",
+    "poolId": "b5edcd3af4dde2608dae8e060265fb13857b47061315c9cf90ebf0f8",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/newfi_stakepool",
+      "website": "https://newworldfinance.org/",
+      "reddit": "https://www.reddit.com/user/newworldfinance",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "newworldfinance",
+    "operatorName": "newfi",
+    "github": "jdk555"
+  }	
 ]
