@@ -1,4 +1,12 @@
 [ 
+ {
+ "ticker": "KNGHT",
+ "poolId": "41ddaaf2303176365dc36a58483aa8aba694da490d04d84783d418e1",
+ "social": {
+  "website": "https://knightsofcardano.com"
+ },
+ "telegram": "KnightsOfCardano",
+ },
   {
  "ticker": "BIL",                                                      
  "poolId": "7004d0436f52f905c68d6c23cf58938fa3b82b6193935e220f0183ef", 
