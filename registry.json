@@ -87,6 +87,21 @@
  "github": "jmbr03k"                                               
  },
  {
+ "ticker": "OFFSE",                                                      
+ "poolId": "1d2af62e81695d4f6530a5750dfc10c0992415909c3e0b36f4223669", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "OffsetPool",
+   "website": "https://twitter.com/OffsetPool",  
+   "reddit": "",  
+   "instagram": " ",
+   "youtube": ""
+    },
+ "telegram": "carbonoffsepool",                                            
+ "operatorName": "Antonino Scarpato",                                
+ "github": "toninosc89"                                               
+ },
+ {
  "ticker": "DSIO",                                                      
  "poolId": "6ae0fb9fc19ad1b82521d6e4b9f6e9bad4d150529673c95c5b5cf4e4", 
  "social": {                                                           
