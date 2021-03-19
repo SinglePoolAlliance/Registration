@@ -472,6 +472,26 @@
         "pool_id": "796ab264483c464e2df3add039a8cd04e3eed9c79f45507fba35bf02",
         "member_since": "2021-03-13",
         "name": "CDA"
+      },
+      "91": {
+        "pool_id": "b4122e4d02a6986e9604d5c74ab2974e80638f78e6bd1aa01b883e6e",
+        "member_since": "2021-03-19",
+        "name": "EUSKL"
+      },
+      "92": {
+        "pool_id": "c04742e0e70c0f52950b465038ef97c7c7e6fe71a20bd88c1b655b63",
+        "member_since": "2021-03-19",
+        "name": "LACE"
+      },
+      "93": {
+        "pool_id": "4d470d31f80c01d797996b43abdfe7339ae5b408fb31cc655a80ccd7",
+        "member_since": "2021-03-19",
+        "name": "LSS"
+      },
+      "94": {
+        "pool_id": "40c5a505a4276c94e49b848c1b0aa62c4ea244574f4e2e28ebb29210",
+        "member_since": "2021-03-19",
+        "name": "KAWAN"
       }
     }
   }
