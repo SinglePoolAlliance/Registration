@@ -1,4 +1,19 @@
-[
+[ 
+	{
+ "ticker": "ICS",                                                      
+ "poolId": "dd678d67a7baec55d0e43563007f9f9fb0157740d880aa7b9c68d8bb", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "CryptoIcarusCom",
+   "website": "https://www.cryptoicarus.com/",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "CryptoIcarus",                                            
+ "operatorName": "Hoang",                                
+ "github": ""                                               
+  },
   {
  "ticker": "EUSKL",                                                      
  "poolId": "b4122e4d02a6986e9604d5c74ab2974e80638f78e6bd1aa01b883e6e", 
