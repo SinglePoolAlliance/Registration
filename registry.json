@@ -1202,7 +1202,22 @@
     "operatorName": "Big",                                
     "github": "BigG-DSC"                                               
   },
- {
+  {
+    "ticker": "LSS",                                                     
+    "poolId": "4d470d31f80c01d797996b43abdfe7339ae5b408fb31cc655a80ccd7",  
+    "social": {                                                           
+      "facebook": "", 
+      "twitter": "https://twitter.com/lss_cardanopool",
+      "website": "https://longshortsignal.com/cardanopool",  
+      "reddit": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "traddacharlie",                                            
+    "operatorName": "traddacharlie",                                
+    "github": "traddacharlie"                                               
+  },
+  {
  "ticker": "HSP",                                                       
  "poolId": "f6c74a55ccd5222aad6388c8d5d1b03234351c90e537f11718a74d15",  
  "social": {                                                            
