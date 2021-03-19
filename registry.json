@@ -1376,6 +1376,22 @@
     "telegram": "montymotz",
     "operatorName": "",
     "github": ""
+  },
+	{
+    "ticker": "HELAS",
+    "poolId": "f765c73fa3700f6fa735310ebc0255265613db23fd7bb14e8d84e795",
+    "social": {
+      "facebook": "EllAda Cardano",
+      "twitter": "",
+      "website": "http://elladapool.online",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+     
+    "telegram": "innotivex",
+    "operatorName": "",
+    "github": ""
   },	
  {
     "ticker": "NEWFI",
@@ -1430,6 +1446,7 @@
       "instagram": "",
       "youtube": ""
     },
+
     "telegram": "@foczz",
     "operatorName": "Andrew Ponto",
     "github": "kawanua-pool"
