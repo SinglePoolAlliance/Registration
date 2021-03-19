@@ -1,5 +1,20 @@
 [ 
-	  {
+ {
+ "ticker": "ACOL",                                                      
+ "poolId": "1d1a0727f1cae44f801091fe2b80d5589f3ffed24c602a8df7cdb2a3", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "vmlinuz1974",
+   "website": "https://ada.countessoflovelace.io/",     
+   "reddit": "",  
+   "instagram": " ",
+   "youtube": ""
+  },
+   "telegram": "ACOLpool",                                            
+ "operatorName": "Sebastien",                                
+ "github": "" 
+},
+ {
  "ticker": "YOADA",                                                      
  "poolId": "96553a437b99271fdcaa30c279e432224342e88147741db73872f03c", 
  "social": {                                                           
