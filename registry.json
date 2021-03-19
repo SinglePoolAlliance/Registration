@@ -1,4 +1,19 @@
 [ 
+  {
+ "ticker": "ACID",                                                      
+ "poolId": "af6254651bde1e60fb9160d5f321010de5b2fa794e9b1a1163e592e0", 
+ "social": {                                                           
+  "facebook": "https://www.facebook.com/groups/acidpools", 
+  "twitter": "@AcidStakePool",
+   "website": "http://acidpools.com",     
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+  },
+   "telegram": "ACIDpools",                                            
+ "operatorName": "Stef",                                
+ "github": "stiiif" 
+},
  {
  "ticker": "ACOL",                                                      
  "poolId": "1d1a0727f1cae44f801091fe2b80d5589f3ffed24c602a8df7cdb2a3", 
