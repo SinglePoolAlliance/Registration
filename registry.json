@@ -1378,6 +1378,19 @@
     "github": ""
   },
   {
+    "ticker": "CONDE",
+    "poolId": "3ef4d626c6064d57a3209b164eb2fd689d2e97789dddc23e34e68ab2",
+    "social": {                                                            
+      "twitter": "https://twitter.com/condepool",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "militarpancho",                                             
+    "operatorName": "",
+    "github": ""
+  }, 
+  { 
     "ticker": "SHKTI",                                                      
     "poolId": "420d1ed89bb8bf46f867936b8c2a7b9b3e759d161e46d561cc6bd985", 
     "social": {                                                           
