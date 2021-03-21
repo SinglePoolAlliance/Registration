@@ -1,5 +1,20 @@
 [ 
   {
+ "ticker": "ASHA0",                                                      
+ "poolId": "49e19f98e8f21cd246eb1bf8ac0f1a16d937c08b934e347cd0947dd8", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "@0_stake",
+   "website": "https://www.ashastakepool.in",     
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+  },
+   "telegram": "Asha0PercentPoolASHA0",                                            
+ "operatorName": "Sharma",                                
+ "github": "" 
+},
+ {
  "ticker": "ACID",                                                      
  "poolId": "af6254651bde1e60fb9160d5f321010de5b2fa794e9b1a1163e592e0", 
  "social": {                                                           
@@ -14,7 +29,7 @@
  "operatorName": "Stef",                                
  "github": "stiiif" 
 },
- {
+{
  "ticker": "ACOL",                                                      
  "poolId": "1d1a0727f1cae44f801091fe2b80d5589f3ffed24c602a8df7cdb2a3", 
  "social": {                                                           
