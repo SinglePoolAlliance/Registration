@@ -1450,5 +1450,20 @@
     "telegram": "@foczz",
     "operatorName": "Andrew Ponto",
     "github": "kawanua-pool"
+  },
+  {
+    "ticker": "SPIDR",                                                      
+    "poolId": "5cff121b7239ea76035bcb79711674a29fdf35d0bbe83a212467fab9", 
+    "social": {                                                          
+      "facebook": "", 
+      "twitter": "weebl2000",
+      "website": "https://cardano.weebl.me",     
+      "reddit": "",  
+      "instagram": " ",
+      "youtube": ""
+  },
+  "telegram": "weebl2000",                                            
+  "operatorName": "Wessel",                                
+  "github": "weebl20000" 
   }
 ]
