@@ -1,4 +1,19 @@
 [ 
+  {
+ "ticker": "ASHA0",                                                      
+ "poolId": "49e19f98e8f21cd246eb1bf8ac0f1a16d937c08b934e347cd0947dd8", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "@0_stake",
+   "website": "https://www.ashastakepool.in",     
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+  },
+   "telegram": "Asha0PercentPoolASHA0",                                            
+ "operatorName": "Sharma",                                
+ "github": "" 
+},
  {
  "ticker": "KNGHT",
  "poolId": "41ddaaf2303176365dc36a58483aa8aba694da490d04d84783d418e1",
@@ -15,6 +30,21 @@
  "github": ""
  },
  {
+ "ticker": "ACID",                                                      
+ "poolId": "af6254651bde1e60fb9160d5f321010de5b2fa794e9b1a1163e592e0", 
+ "social": {                                                           
+  "facebook": "https://www.facebook.com/groups/acidpools", 
+  "twitter": "@AcidStakePool",
+   "website": "http://acidpools.com",     
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+  },
+   "telegram": "stiiif23",                                            
+ "operatorName": "Stef",                                
+ "github": "stiiif" 
+},
+{
  "ticker": "ACOL",                                                      
  "poolId": "1d1a0727f1cae44f801091fe2b80d5589f3ffed24c602a8df7cdb2a3", 
  "social": {                                                           
@@ -1391,6 +1421,22 @@
     "telegram": "montymotz",
     "operatorName": "",
     "github": ""
+  },
+	{
+    "ticker": "HELAS",
+    "poolId": "f765c73fa3700f6fa735310ebc0255265613db23fd7bb14e8d84e795",
+    "social": {
+      "facebook": "EllAda Cardano",
+      "twitter": "",
+      "website": "http://elladapool.online",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+     
+    "telegram": "innotivex",
+    "operatorName": "",
+    "github": ""
   },	
  {
     "ticker": "NEWFI",
@@ -1445,8 +1491,25 @@
       "instagram": "",
       "youtube": ""
     },
+
     "telegram": "@foczz",
     "operatorName": "Andrew Ponto",
     "github": "kawanua-pool"
+  },
+  {
+    "ticker": "HONEY",
+    "poolId": "5be57ce6d1225697f4ad4090355f0a72d6e1e2446d1d768f36aa118c",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/HoneypotLambda",
+      "website": "https://www.lambda-honeypot.com/",
+      "reddit": "https://www.reddit.com/user/Lambda-Honeypot",
+      "instagram": "",
+      "youtube": ""
+    },
+
+    "telegram": "Bez625",
+    "operatorName": "Chris B",
+    "github": ""
   }
 ]
