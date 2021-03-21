@@ -1501,7 +1501,10 @@
    "ticker": "TUPS",
    "poolId": "b8d2cf0a94b576a06917cef94d0e22b3bcd5d1cda1ba4a11deecfc1f",
    "social": {
-     "twitter": "DanTup"
+     "twitter": "DanTup",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
    },
    "telegram": "DanTup",
    "operatorName": "Danny Tuppeny",
