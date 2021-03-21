@@ -1481,5 +1481,21 @@
     "telegram": "Bez625",
     "operatorName": "Chris B",
     "github": ""
-  }
+  },
+ {
+    "ticker": "ASHA0",
+    "poolId": "49e19f98e8f21cd246eb1bf8ac0f1a16d937c08b934e347cd0947dd8",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/0_stake",
+      "website": "https://www.ashastakepool.in/",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+
+    "telegram": "Asha0PercentPoolASHA0",
+    "operatorName": "Sharma Sir",
+    "github": ""
+  },
 ]
