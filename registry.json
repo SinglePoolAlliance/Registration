@@ -1452,6 +1452,22 @@
     "github": "kawanua-pool"
   },
   {
+    "ticker": "HONEY",
+    "poolId": "5be57ce6d1225697f4ad4090355f0a72d6e1e2446d1d768f36aa118c",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/HoneypotLambda",
+      "website": "https://www.lambda-honeypot.com/",
+      "reddit": "https://www.reddit.com/user/Lambda-Honeypot",
+      "instagram": "",
+      "youtube": ""
+    },
+
+    "telegram": "Bez625",
+    "operatorName": "Chris B",
+    "github": ""
+  },
+  {
     "ticker": "SPIDR",                                                      
     "poolId": "5cff121b7239ea76035bcb79711674a29fdf35d0bbe83a212467fab9", 
     "social": {                                                          
@@ -1461,9 +1477,9 @@
       "reddit": "",  
       "instagram": " ",
       "youtube": ""
-  },
-  "telegram": "weebl2000",                                            
-  "operatorName": "Wessel",                                
-  "github": "weebl20000" 
+    },
+    "telegram": "weebl2000",                                            
+    "operatorName": "Wessel",                                
+    "github": "weebl20000"
   }
 ]
