@@ -549,6 +549,11 @@
         "name": "HONEY"
       },
       "106": {
+        "pool_id": "bf5ce0f058d10433c08ec03feb4f839deccb0e8e5c9d8c342cbcb261",
+        "member_since": "2021-03-22",
+        "name": "ROOKS"
+      },
+      "107": {
         "pool_id": "5cff121b7239ea76035bcb79711674a29fdf35d0bbe83a212467fab9",
         "member_since": "2021-03-22",
         "name": "SPIDR"
