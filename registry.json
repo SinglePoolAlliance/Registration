@@ -1525,5 +1525,20 @@
     "telegram": "weebl2000",                                            
     "operatorName": "Wessel",                                
     "github": "weebl2000"
+  },
+  {
+    "ticker": "SUDTI",                                                      
+    "poolId": "pool19k4azhj8tye5wwy5pfj7q6m938m8fg5nglds5dkhtfwnvcg3s0k", 
+    "social": {                                                          
+      "facebook": "", 
+      "twitter": "southtyrolpool",
+      "website": "https://southtyrolpool.it",     
+      "reddit": "",  
+      "instagram": " ",
+      "youtube": ""
+    },
+    "telegram": "southtyrolpool",                                            
+    "operatorName": "Markus",                                
+    "github": ""
   }
 ]
