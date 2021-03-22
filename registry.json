@@ -1498,6 +1498,20 @@
     "github": ""
   },
   {
+    "ticker": "ROOKS",
+    "poolId": "bf5ce0f058d10433c08ec03feb4f839deccb0e8e5c9d8c342cbcb261",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/ChessPoolADA",
+      "website": "https://chesspool.org",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "ChessPoolADA",
+    "operatorName": "Blake A",
+    "github": ""
+  },
+  {
     "ticker": "SPIDR",                                                      
     "poolId": "5cff121b7239ea76035bcb79711674a29fdf35d0bbe83a212467fab9", 
     "social": {                                                          
