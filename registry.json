@@ -15,6 +15,21 @@
  "github": "" 
 },
  {
+ "ticker": "KNGHT",
+ "poolId": "41ddaaf2303176365dc36a58483aa8aba694da490d04d84783d418e1",
+ "social": {
+  "facebook": "",
+  "twitter": "KNGHTstakepool",
+  "website": "https://knightsofcardano.com",
+  "reddit": "KNGHTstakepool",
+  "instagram": "",
+  "youtube": ""
+ },
+ "telegram": "knghtpool",
+ "operatorName": "",
+ "github": ""
+ },
+ {
  "ticker": "ACID",                                                      
  "poolId": "af6254651bde1e60fb9160d5f321010de5b2fa794e9b1a1163e592e0", 
  "social": {                                                           
@@ -1511,6 +1526,21 @@
    "telegram": "DanTup",
    "operatorName": "Danny Tuppeny",
    "github": "DanTup"
+  },
+  {
+    "ticker": "NEON",
+    "poolId": "b8eaba75f450efef459bf9423ed03fecf9b7297299708d4e03103559",
+    "social": {
+      "twitter": "neon_stake_pool",
+      "facebook": "",
+      "website": "",
+      "instagram": "",
+      "reddit": "",    
+      "youtube": ""
+    },
+    "telegram": "neonpool",
+    "operatorName": "",
+    "github": "neon-pool"
   },
   {
     "ticker": "ROOKS",
