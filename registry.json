@@ -1466,6 +1466,21 @@
     "github": ""                                               
   },
   {
+    "ticker": "SUDTI",                                                      
+    "poolId": "2dabd15e4759334738940a65e06b6589f674a29347db0a36d75a5d36", 
+    "social": {                                                          
+      "facebook": "", 
+      "twitter": "southtyrolpool",
+      "website": "https://southtyrolpool.it",     
+      "reddit": "",  
+      "instagram": " ",
+      "youtube": ""
+    },
+    "telegram": "fisch192",                                            
+    "operatorName": "Markus",                                
+    "github": ""
+  },
+  {
     "ticker": "KAWAN",
     "poolId": "40c5a505a4276c94e49b848c1b0aa62c4ea244574f4e2e28ebb29210",
     "social": {
@@ -1525,20 +1540,5 @@
     "telegram": "weebl2000",                                            
     "operatorName": "Wessel",                                
     "github": "weebl2000"
-  },
-  {
-    "ticker": "SUDTI",                                                      
-    "poolId": "2dabd15e4759334738940a65e06b6589f674a29347db0a36d75a5d36", 
-    "social": {                                                          
-      "facebook": "", 
-      "twitter": "southtyrolpool",
-      "website": "https://southtyrolpool.it",     
-      "reddit": "",  
-      "instagram": " ",
-      "youtube": ""
-    },
-    "telegram": "fisch192",                                            
-    "operatorName": "Markus",                                
-    "github": ""
   }
 ]
