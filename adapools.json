@@ -564,6 +564,11 @@
         "name": "SPIDR"
       },
       "109": {
+        "pool_id": "2dabd15e4759334738940a65e06b6589f674a29347db0a36d75a5d36",
+        "member_since": "2021-03-24",
+        "name": "SUDTI"
+      },
+      "110": {
         "pool_id": "b8eaba75f450efef459bf9423ed03fecf9b7297299708d4e03103559",
         "member_since": "2021-03-24",
         "name": "NEON"
