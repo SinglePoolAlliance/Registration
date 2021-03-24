@@ -1501,12 +1501,12 @@
     "ticker": "NEON",
     "poolId": "b8eaba75f450efef459bf9423ed03fecf9b7297299708d4e03103559",
     "social": {
-        "twitter": "neon_stake_pool",
-        "facebook": "",
-	"website": "",
-        "instagram": "",
-	"reddit": "",    
-        "youtube": ""
+      "twitter": "neon_stake_pool",
+      "facebook": "",
+      "website": "",
+      "instagram": "",
+      "reddit": "",    
+      "youtube": ""
     },
     "telegram": "neonpool",
     "operatorName": "",
