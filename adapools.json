@@ -572,6 +572,11 @@
         "pool_id": "b8eaba75f450efef459bf9423ed03fecf9b7297299708d4e03103559",
         "member_since": "2021-03-24",
         "name": "NEON"
+      },
+      "111": {
+        "pool_id": "b8d2cf0a94b576a06917cef94d0e22b3bcd5d1cda1ba4a11deecfc1f",
+        "member_since": "2021-03-25",
+        "name": "CODER"
       }
     }
   }
