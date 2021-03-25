@@ -34,7 +34,11 @@ https://t.me/onepoolalliance
 
 # Metadata
 
-CSPA relays (one per pool) :  https://singlepoolalliance.net/metadata/topology.json
-Adapools alliance metadata :  https://singlepoolalliance.net/metadata/adapools.json
+| Metadata type  | URL  |
+|---|---|
+|  CSPA relays (one per pool) | https://singlepoolalliance.net/metadata/topology.json  |
+|  Adapools alliance metadata | https://singlepoolalliance.net/metadata/adapools.json  |
+
+
 
 
