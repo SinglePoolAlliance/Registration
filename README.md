@@ -32,3 +32,9 @@ Registration JSON Example.
 If you want to play an active role in this Alliance, vote on our direction and help with the maximum decentralization of Cardano, please join our Telegram group:
 https://t.me/onepoolalliance
 
+# Metadata
+
+CSPA relays (one per pool) :  https://singlepoolalliance.net/metadata/topology.json
+Adapools alliance metadata :  https://singlepoolalliance.net/metadata/adapools.json
+
+
