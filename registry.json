@@ -1585,5 +1585,20 @@
     "telegram": "weebl2000",                                            
     "operatorName": "Wessel",                                
     "github": "weebl2000"
+  },
+  {
+    "ticker": "RHEA",                                                      
+    "poolId": "68831f852f4d299157f0911eb74746b11b8bcc65c07f3ba7ea136910", 
+    "social": {                                                          
+      "facebook": "", 
+      "twitter": "https://twitter.com/rhea_pool",
+      "website": "https://rhea-pool.com",     
+      "reddit": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Pekac",                                            
+    "operatorName": "Pekac",                                
+    "github": "pekac"
   }
 ]
