@@ -1585,5 +1585,20 @@
     "telegram": "weebl2000",                                            
     "operatorName": "Wessel",                                
     "github": "weebl2000"
-  }
+  },
+ {
+ "ticker": "SRN",
+ "poolId": "cc1b1c03798884c636703443a23b8d9e827d6c0417921600394198a0",
+ "social": {
+  "facebook": "",
+  "twitter": "ADASRN1",
+  "website": "https://www.adasrn.com",
+  "reddit": "",
+  "instagram": "",
+  "youtube": ""
+ },
+ "telegram": "Sayshar",
+ "operatorName": "Sayshar",
+ "github": "sayshar"
+ }
 ]
