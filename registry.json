@@ -1,5 +1,20 @@
 [ 
-  {
+{
+ "ticker": "ISR",                                                      
+ "poolId": "5121819e5114235cb8c377ecf0a9d4e311898c447043e3b5b2848f63", 
+ "social": {                                                           
+  "facebook": "groups/cardano.israel", 
+  "twitter": "@CardanoIL",
+   "website": "https://www.cardano-israel.com",     
+   "reddit": "",  
+   "instagram": "",
+   "youtube": "UC0crTFyIdl3xBbdgXzeBc_g"
+  },
+   "telegram": "CardanoIL",                                            
+ "operatorName": "Dudi",                                
+ "github": "" 
+},
+{
  "ticker": "ASHA0",                                                      
  "poolId": "49e19f98e8f21cd246eb1bf8ac0f1a16d937c08b934e347cd0947dd8", 
  "social": {                                                           
