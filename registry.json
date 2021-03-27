@@ -1600,5 +1600,20 @@
     "telegram": "Pekac9",                                            
     "operatorName": "Pekac",                                
     "github": "pekac"
-  }
+  },
+ {
+  "ticker": "ORO",                                                      
+  "poolId": "4d827f2056879bce6a78963e1feba4825d80dc8a0143db3165931a92", 
+  "social": {                                                           
+  	"facebook": "", 
+  	"twitter": "@OroPool",
+  	"website": "http://www.oroops.com/",     
+  	"reddit": "",  
+  	"instagram": "",
+  	"youtube": ""
+  },
+  "telegram": "oro_pool",                                            
+  "operatorName": "Avinash",                                
+  "github": "ultron001" 
+}
 ]
