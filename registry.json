@@ -1600,5 +1600,20 @@
     "telegram": "Pekac9",                                            
     "operatorName": "Pekac",                                
     "github": "pekac"
+  },
+  {
+    "ticker": "GR8FL",                                                      
+    "poolId": "0688dfbb3c11169ab8cd98cb7f00ddff3cc8d915c297adfb8484de3d", 
+    "social": {                                                          
+      "facebook": "", 
+      "twitter": "https://twitter.com/GratefulPool",
+      "website": "http://www.gratefulpool.com/",     
+      "reddit": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "weskinner",                                            
+    "operatorName": "William Skinner",                                
+    "github": "weskinner"
   }
 ]
