@@ -1630,5 +1630,20 @@
     "telegram": "Pekac9",                                            
     "operatorName": "Pekac",                                
     "github": "pekac"
+  },
+  {
+    "ticker": "78653",                                                      
+    "poolId": "dae77c46a4f8d774f3cc14bb1ced52a621d0472e6d04a2d6f0399ca7", 
+    "social": {                                                          
+      "facebook": "", 
+      "twitter": "https://twitter.com/cryptobrethren",
+      "website": "http://brotherhoodcrypto.io/",     
+      "reddit": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "manizzler",                                            
+    "operatorName": "manizzler",                                
+    "github": "manizzle"
   }
 ]
