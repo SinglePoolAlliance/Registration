@@ -1714,5 +1714,18 @@
       "telegram":"manizzler",
       "operatorName":"manizzler",
       "github":"manizzle"
-   }
+   },
+{ 
+ "ticker": "NOBLE",
+ "poolId": "45d3bedbd9e557a4fb213cad00ae87d7cea38a9534cc977a2a21bf34",
+ "social": {
+   "twitter": "stakenoble",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "stakenoble",
+ "operatorName": "",
+ "github": "stakenoble"
+}
 ]
