@@ -297,6 +297,21 @@
  "github": "Olaizola13"                                               
 },
 {
+ "ticker": "SMART",                                                      
+ "poolId": "c1bc5c701c149bb7e346b47b8cc631160078b2b50e8ec37b2d0a7891", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "smartnodeFR",
+   "website": "https://smart-node.com/",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "charlesaugu",                                            
+ "operatorName": "",                                
+ "github": ""                                               
+},
+{
  "ticker": "GREEN",                                                      
  "poolId": "34a89f77c5fcf0563d129bde9b255f20b269a2dda1561c65d418ec40", 
  "social": {                                                           
