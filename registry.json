@@ -509,20 +509,7 @@
  "operatorName": "Kiriakos Krastillis",
  "github": "SpectrumPool"
 },
-{
- "ticker": "NOBLE",
- "poolId": "45d3bedbd9e557a4fb213cad00ae87d7cea38a9534cc977a2a21bf34",
- "social": {
-   "twitter": "stakenoble",
-   "facebook": "",
-   "instagram": "",
-   "youtube": ""
- },
- "telegram": "stakenoble",
- "operatorName": "",
- "github": "stakenoble"
-},
-{
+ {
  "ticker": "FRESH",
  "poolId": "b3dde9d069334484982439b4bf0924d052e18695867d915cc6cb546f",
  "social": {
@@ -534,7 +521,7 @@
  "telegram": "GeorgeBosancu",
  "operatorName": "George Bosancu",
  "github": "Horhel"
-},
+ },
 {
   "ticker": "ANQA",
   "poolId": "6749c8ed350238d3673f2389491a46e8a9a260837c5630d775078aaa",
