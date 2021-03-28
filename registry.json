@@ -1671,7 +1671,36 @@
   "operatorName": "Ed",
   "github": "ejane24" 
   },
-   {
+  {
+    "ticker": "BPRL",
+    "poolId": "cc3bf31353e971540a284bb7da30cfaac4b0d4138e03bbdf85013eca",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/BlackPearl_Pool",
+      "website": "https://www.blackpearlpool.com/",
+      "reddit": "https://www.reddit.com/user/CryptoOlejka",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "olejka_andreyev",
+    "operatorName": "Oleh",
+    "github": "olegandreyev"
+  },
+  { "ticker": "MMA",
+    "poolId": "f1ae552b032c2d87a416f4067eaf4636b3fe5e80230a1f63aa33f6bc",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/mma_stake_pool",
+      "website": "https://mma-stakepool.github.io/",
+      "reddit": "https://www.reddit.com/user/MMA-StakePool",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "mma_stake_pool",
+    "operatorName": "Hans",
+    "github": "MMA-stakepool"
+  },
+  {
       "ticker":"78653",
       "poolId":"dae77c46a4f8d774f3cc14bb1ced52a621d0472e6d04a2d6f0399ca7",
       "social":{
