@@ -1643,6 +1643,21 @@
       "operatorName":"William Skinner",
       "github":"weskinner"
    },
+  {
+    "ticker": "SEAL",
+    "poolId": "7d59eb08203e86f74d3011c7e967ed50fbd0954001eab1cb00b69422",
+    "social": {
+      "facebook": "",
+      "twitter": "",
+      "website": "https://adaseal.eu/",
+      "reddit": "https://www.reddit.com/user/SEAL_Pool",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "SEAL_Pool",
+    "operatorName": "",
+    "github": ""          
+  },
    {
       "ticker":"78653",
       "poolId":"dae77c46a4f8d774f3cc14bb1ced52a621d0472e6d04a2d6f0399ca7",
