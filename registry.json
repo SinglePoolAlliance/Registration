@@ -1558,6 +1558,21 @@
     "github": "neon-pool"
   },
   {
+    "ticker": "SRN",
+    "poolId": "cc1b1c03798884c636703443a23b8d9e827d6c0417921600394198a0",
+    "social": {
+      "facebook": "",
+      "twitter": "ADASRN1",
+      "website": "https://www.adasrn.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Sayshar",
+    "operatorName": "Sayshar",
+    "github": "sayshar"
+  },
+  {
     "ticker": "ROOKS",
     "poolId": "bf5ce0f058d10433c08ec03feb4f839deccb0e8e5c9d8c342cbcb261",
     "social": {
