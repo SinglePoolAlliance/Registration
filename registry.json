@@ -1658,6 +1658,19 @@
     "operatorName": "",
     "github": ""          
   },
+{
+  "ticker": "CROWD",
+  "poolId": "ae96cb925985079c1108a412e810be1871d68cab6dffb6eddbac9adb",
+  "social": {
+    "twitter": "Crowdano",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "telegram": "Mendrinos2",
+  "operatorName": "Ed",
+  "github": "ejane24" 
+  },
    {
       "ticker":"78653",
       "poolId":"dae77c46a4f8d774f3cc14bb1ced52a621d0472e6d04a2d6f0399ca7",
