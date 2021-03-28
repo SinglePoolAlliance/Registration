@@ -1714,5 +1714,20 @@
       "telegram":"manizzler",
       "operatorName":"manizzler",
       "github":"manizzle"
+   },
+   {
+      "ticker":"ZORBA",
+      "poolId":"e356539d5414ec5e43e2ab1f445e986c614cd50fc34b8aa057c242d5",
+      "social":{
+         "facebook":"https://www.facebook.com/groups/cardano.com.gr",
+         "twitter":"https://twitter.com/CardanoGR",
+         "website":"https://www.cardano.com.gr",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"thomaspb",
+      "operatorName":"Thomas",
+      "github":"tpapamichail"
    }
 ]
