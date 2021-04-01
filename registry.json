@@ -1,4 +1,19 @@
-[
+[   
+   {
+      "ticker":"MGC8",
+      "poolId":"9ad588607c07c9d7677ff4129bbd20021c5619adc6796cb4d6ce0077",
+      "social":{
+         "facebook":"",
+         "twitter":"",
+         "website":"https://magic8ball.app",
+         "reddit":"MGC8_Magic8Pool",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"MGC8Pool",
+      "operatorName":"Mike",
+      "github":"elconde666"
+   },
    {
       "ticker":"ASHA0",
       "poolId":"49e19f98e8f21cd246eb1bf8ac0f1a16d937c08b934e347cd0947dd8",
