@@ -1,5 +1,16 @@
 [
    {
+   "ticker": "EAGLE",
+   "poolId": "2cdc5cef88f1c15e19c33fd8f47d9bd89c3d7ee4fa09512fbd44a126",
+   "social": {
+      "twitter": "m1crypto1",
+      "facebook": "",  
+      "instagram": " ",
+      "youtube": " "
+   },
+      "telegram": "M1crypto",
+   },
+   {
       "ticker":"ASHA0",
       "poolId":"49e19f98e8f21cd246eb1bf8ac0f1a16d937c08b934e347cd0947dd8",
       "social":{
