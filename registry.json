@@ -1727,5 +1727,20 @@
       "telegram":"manizzler",
       "operatorName":"manizzler",
       "github":"manizzle"
+   },
+   {
+      "ticker":"GPOOL",
+      "poolId":"eb6e1949ef2e1f2cdb9b041d2a4b86d4d837798ab3ddfe53cc4cafe4",
+      "social":{
+         "facebook":"",
+         "twitter":"https://twitter.com/greasypool",
+         "website":"https://www.greasypool.com",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"geekmik",
+      "operatorName":"geekmik",
+      "github":"mik1893"
    }
 ]
