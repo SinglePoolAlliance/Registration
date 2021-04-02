@@ -1727,5 +1727,20 @@
       "telegram":"manizzler",
       "operatorName":"manizzler",
       "github":"manizzle"
+   },
+  {
+      "ticker":"ECHO",
+      "poolId":"pool1wrt4jvd6nsxxtjws5lzl54zdjj8793u9jumcltqhsyqcgaa9d52",
+      "social":{
+         "facebook":"",
+         "twitter":"https://twitter.com/CardanoEcho",
+         "website":"http://cardano-echo-pool.com",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"artest113",
+      "operatorName":"",
+      "github":"IvanLee113"
    }
 ]
