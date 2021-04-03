@@ -1,5 +1,20 @@
 [
    {
+      "ticker":"RSV",
+      "poolId":"pool1r0sxz0hygfc0266lhdclve6j3cwcwlth6dya6uey65yxjnwm7qc",
+      "social":{
+         "facebook":"",
+         "twitter":"@RSVNODE",
+         "website":"https://reservoir.network",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"@reservoirNode",
+      "operatorName":"contact",
+      "github":""
+   },
+   {
       "ticker":"ASHA0",
       "poolId":"49e19f98e8f21cd246eb1bf8ac0f1a16d937c08b934e347cd0947dd8",
       "social":{
