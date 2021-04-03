@@ -1727,5 +1727,20 @@
       "telegram":"manizzler",
       "operatorName":"manizzler",
       "github":"manizzle"
+   },
+   {
+      "ticker": "AVENE",
+      "poolId": "5e7ff9707b194d0a8abc37b35d6ca34112faaa777032e2268b2f8d07",
+      "social": {
+         "facebook": "",
+         "twitter": "avenepool",
+         "website": "https://avenepool.com",
+         "reddit": "",
+         "instagram": "",
+         "youtube": ""
+      },
+      "telegram": "avenepool",
+      "operatorName": "",
+      "github": ""
    }
 ]
