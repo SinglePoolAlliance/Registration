@@ -1727,5 +1727,19 @@
       "telegram":"manizzler",
       "operatorName":"manizzler",
       "github":"manizzle"
-   }
+   },
+   {
+      "ticker":"LGBTQ",
+      "poolId":"fc0ef418b0cce20c7a1ac7b8aec9dabd8e9e83b3fcb88c228b4f2c1d",
+      "social":{
+         "facebook":"",
+         "twitter":"https://twitter.com/lgbtqstakepool",
+         "website":"http://lgbtqpool.com/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"lgbtqpoolSPO",
+      "operatorName":"",
+      "github":"lgbtqpool"
 ]
