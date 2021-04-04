@@ -1727,5 +1727,20 @@
       "telegram":"manizzler",
       "operatorName":"manizzler",
       "github":"manizzle"
+   },
+  {
+      "ticker":"DONO",
+      "poolId":"19a7295abe2d83e4c5876ef30f21a44ca3877107fe5529a926cc1647",
+      "social":{
+         "facebook":"",
+         "twitter":"https://twitter.com/ada_dono_pool",
+         "website":"http://www.dono-pool.com/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"dono_pool",
+      "operatorName":"",
+      "github":"dono-pool"
    }
 ]
