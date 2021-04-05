@@ -1742,5 +1742,20 @@
       "telegram":"dono_pool",
       "operatorName":"",
       "github":"dono-pool"
-   }
+   },
+      {
+      "ticker":"LIBUS",
+      "poolId":"27451ce86ae5e8599a8c59b642493e9e9cca5759bd4d60019f2dc45d",
+      "social":{
+         "facebook":"",
+         "twitter":"@pool_liberty",
+         "website":"https://libertypool.us/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"libertxyz",
+      "operatorName":"Libert",
+      "github":"libert-xyz"
+   },
 ]
