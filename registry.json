@@ -1729,6 +1729,21 @@
    "github": "stakenoble"
   },
   {
+    "ticker":"GER",
+    "poolId":"7d48468f87fe87243f0590c842ff8e543c329335e50c78d2ccbda682",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/gerstaking",
+      "website":"https://www.germanstaking.com/",
+      "reddit":"",
+      "instagram":"https://www.instagram.com/ger_staking/",
+      "youtube":"https://www.youtube.com/channel/UCMCLQZUcbEbqs_I_jXeAOzw"
+    },
+    "telegram":"GERJonas",
+    "operatorName":"Jonas",
+    "github":"JonasHiltl"
+  },
+  {
     "ticker":"ZORBA",
     "poolId":"e356539d5414ec5e43e2ab1f445e986c614cd50fc34b8aa057c242d5",
     "social":{
