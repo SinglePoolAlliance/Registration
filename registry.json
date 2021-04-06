@@ -1,5 +1,20 @@
 [
    {
+      "ticker":"OYSTR",
+      "poolId":"febb924e349d816997e007dc09847ded9a2e72d218023c0e5186176d",
+      "social":{
+         "facebook":"",
+         "twitter":"OystrPool",
+         "website":"",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"OysterPool",
+      "operatorName":"",
+      "github":""
+   },
+   {
       "ticker":"ASHA0",
       "poolId":"49e19f98e8f21cd246eb1bf8ac0f1a16d937c08b934e347cd0947dd8",
       "social":{
@@ -1700,34 +1715,77 @@
     "operatorName": "Hans",
     "github": "MMA-stakepool"
   },
-  {
-      "ticker":"78653",
-      "poolId":"dae77c46a4f8d774f3cc14bb1ced52a621d0472e6d04a2d6f0399ca7",
-      "social":{
-         "facebook":"",
-         "twitter":"https://twitter.com/cryptobrethren",
-         "website":"http://brotherhoodcrypto.io/",
-         "reddit":"",
-         "instagram":"",
-         "youtube":""
-      },
-      "telegram":"manizzler",
-      "operatorName":"manizzler",
-      "github":"manizzle"
+  { 
+    "ticker": "NOBLE",
+    "poolId": "45d3bedbd9e557a4fb213cad00ae87d7cea38a9534cc977a2a21bf34",
+    "social": {
+      "twitter": "stakenoble",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
    },
-   {
-      "ticker":"GER",
-      "poolId":"7d48468f87fe87243f0590c842ff8e543c329335e50c78d2ccbda682",
-      "social":{
-         "facebook":"",
-         "twitter":"https://twitter.com/gerstaking",
-         "website":"https://www.germanstaking.com/",
-         "reddit":"",
-         "instagram":"https://www.instagram.com/ger_staking/",
-         "youtube":"https://www.youtube.com/channel/UCMCLQZUcbEbqs_I_jXeAOzw"
-      },
-      "telegram":"GERJonas",
-      "operatorName":"Jonas",
-      "github":"JonasHiltl"
-   }
+   "telegram": "stakenoble",
+   "operatorName": "",
+   "github": "stakenoble"
+  },
+  {
+    "ticker":"GER",
+    "poolId":"7d48468f87fe87243f0590c842ff8e543c329335e50c78d2ccbda682",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/gerstaking",
+      "website":"https://www.germanstaking.com/",
+      "reddit":"",
+      "instagram":"https://www.instagram.com/ger_staking/",
+      "youtube":"https://www.youtube.com/channel/UCMCLQZUcbEbqs_I_jXeAOzw"
+    },
+    "telegram":"GERJonas",
+    "operatorName":"Jonas",
+    "github":"JonasHiltl"
+  },
+  {
+    "ticker":"ZORBA",
+    "poolId":"e356539d5414ec5e43e2ab1f445e986c614cd50fc34b8aa057c242d5",
+    "social":{
+      "facebook":"https://www.facebook.com/groups/cardano.com.gr",
+      "twitter":"https://twitter.com/CardanoGR",
+      "website":"https://www.cardano.com.gr",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"thomaspb",
+    "operatorName":"Thomas",
+    "github":"tpapamichail"
+  },
+  {
+    "ticker": "ORO",
+    "poolId": "4d827f2056879bce6a78963e1feba4825d80dc8a0143db3165931a92",
+    "social": {
+      "facebook": "",
+      "twitter": "@OroPool",
+      "website": "http://www.oroops.com/",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "avipisces",
+    "operatorName": "Avinash",
+    "github": "ultron001"
+  },
+  {
+    "ticker":"78653",
+    "poolId":"dae77c46a4f8d774f3cc14bb1ced52a621d0472e6d04a2d6f0399ca7",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/cryptobrethren",
+      "website":"http://brotherhoodcrypto.io/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"manizzler",
+    "operatorName":"manizzler",
+    "github":"manizzle"
+  }
 ]
