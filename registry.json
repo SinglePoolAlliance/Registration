@@ -1,5 +1,20 @@
 [
    {
+      "ticker":"NEXUS",
+      "poolId":"2b5ac5073e3e8071024263a8fe69e4577bcf3bfed41110ced8ac8aa7",
+      "social":{
+         "facebook":"",
+         "twitter":"NexusStake",
+         "website":"",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"NEXUS Cardano Stake Pool",
+      "operatorName":"",
+      "github":""
+   },
+   {
       "ticker":"OYSTR",
       "poolId":"febb924e349d816997e007dc09847ded9a2e72d218023c0e5186176d",
       "social":{
