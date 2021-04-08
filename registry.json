@@ -1787,5 +1787,17 @@
     "telegram":"manizzler",
     "operatorName":"manizzler",
     "github":"manizzle"
+  },
+  {
+     "ticker": "ADAAT",
+     "poolId": "b1962b3224f93153dd12059d92c40a658daf3102ea0ab6013dfddd09",
+     "social": {
+        "twitter": "AdapoolA",
+        "website": "https://www.adapool.at",
+        "reddit": "https://www.reddit.com/r/adapool_at/",
+     },
+     "telegram": "ADApoolAT",
+     "operatorName": "Josef Fritscher"
+     "github": "Josef3110"
   }
 ]
