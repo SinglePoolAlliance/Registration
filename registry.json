@@ -1,4 +1,19 @@
-[
+[   
+   {
+      "ticker":"MGC8",
+      "poolId":"9ad588607c07c9d7677ff4129bbd20021c5619adc6796cb4d6ce0077",
+      "social":{
+         "facebook":"",
+         "twitter":"",
+         "website":"https://magic8ball.app",
+         "reddit":"MGC8_Magic8Pool",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"MGC8Pool",
+      "operatorName":"Mike",
+      "github":"elconde666"
+   },
    {
       "ticker":"OYSTR",
       "poolId":"febb924e349d816997e007dc09847ded9a2e72d218023c0e5186176d",
