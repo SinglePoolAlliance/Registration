@@ -1804,18 +1804,33 @@
     "github": "ultron001"
   },
   {
-    "ticker":"78653",
-    "poolId":"dae77c46a4f8d774f3cc14bb1ced52a621d0472e6d04a2d6f0399ca7",
-    "social":{
-      "facebook":"",
-      "twitter":"https://twitter.com/cryptobrethren",
-      "website":"http://brotherhoodcrypto.io/",
-      "reddit":"",
-      "instagram":"",
-      "youtube":""
-    },
-    "telegram":"manizzler",
-    "operatorName":"manizzler",
-    "github":"manizzle"
+      "ticker":"888",
+      "poolId":"7c5fd84421a68f545d09ad8580b2a154a7bb6f79f4a3a8acb4d15e27",
+      "social":{
+         "facebook":"https://www.facebook.com/888pool.io",
+         "twitter":"https://twitter.com/888pool_io",
+         "website":"https://888pool.io/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"owner_888pool",
+      "operatorName":"",
+      "github":"888pool"
+  },
+  {
+      "ticker":"78653",
+      "poolId":"dae77c46a4f8d774f3cc14bb1ced52a621d0472e6d04a2d6f0399ca7",
+      "social":{
+         "facebook":"",
+         "twitter":"https://twitter.com/cryptobrethren",
+         "website":"http://brotherhoodcrypto.io/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"manizzler",
+      "operatorName":"manizzler",
+      "github":"manizzle"
   }
 ]
