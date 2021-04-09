@@ -3,12 +3,16 @@
       "ticker": "EAGLE",
       "poolId": "2cdc5cef88f1c15e19c33fd8f47d9bd89c3d7ee4fa09512fbd44a126",
       "social": {
+         "facebook": "",
          "twitter": "m1crypto1",
-         "facebook": "",  
+         "website":"",
+         "reddit":"",
          "instagram": "",
          "youtube": ""
       },
-      "telegram": "M1crypto"
+      "telegram": "M1crypto",
+      "operatorName":"",
+      "github":""
    },
    {
       "ticker":"ASHA0",
