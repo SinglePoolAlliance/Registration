@@ -1729,18 +1729,18 @@
       "github":"manizzle"
    },
    {
-      "ticker":"GPOOL",
+      "ticker":"ADATA",
       "poolId":"eb6e1949ef2e1f2cdb9b041d2a4b86d4d837798ab3ddfe53cc4cafe4",
       "social":{
          "facebook":"",
-         "twitter":"https://twitter.com/greasypool",
-         "website":"https://www.greasypool.com",
+         "twitter":"https://twitter.com/adapooldata",
+         "website":"https://www.pooldata.live",
          "reddit":"",
          "instagram":"",
          "youtube":""
       },
-      "telegram":"geekmik",
-      "operatorName":"geekmik",
-      "github":"mik1893"
+      "telegram":"pooldata",
+      "operatorName":"Michele",
+      "github":"ada-pooldata"
    }
 ]
