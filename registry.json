@@ -1,5 +1,20 @@
 [
    {
+      "ticker":"ONE1",
+      "poolId":"9a881d6856d6e31820f653ef066ec55bbc6ce60e1370935e662df659",
+      "social":{
+         "facebook":"",
+         "twitter":"ADAOnePool",
+         "website":"https://adapool.one",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"ADAONEPool",
+      "operatorName":"",
+      "github":""
+   },
+   {
       "ticker":"OYSTR",
       "poolId":"febb924e349d816997e007dc09847ded9a2e72d218023c0e5186176d",
       "social":{
