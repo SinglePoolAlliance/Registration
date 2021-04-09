@@ -647,6 +647,11 @@
         "pool_id": "9ad588607c07c9d7677ff4129bbd20021c5619adc6796cb4d6ce0077",
         "member_since": "2021-04-09",
         "name": "MGC8"
+      },
+      "127": {
+        "pool_id": "2cdc5cef88f1c15e19c33fd8f47d9bd89c3d7ee4fa09512fbd44a126",
+        "member_since": "2021-04-09",
+        "name": "EAGLE"
       }
     }
   }
