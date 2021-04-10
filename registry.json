@@ -1833,7 +1833,7 @@
       "operatorName":"manizzler",
       "github":"manizzle"
   },
-   {
+  {
       "ticker":"MEA",
       "poolId":"a73897c05473ec1a3ddb4fcdbf9d29988e77d5ea9b254ae6afcfbe73",
       "social":{
@@ -1847,5 +1847,5 @@
       "telegram":"NeoXor",
       "operatorName":"Nidhal",
       "github":"NeoXor"
-   }
+  }
 ]
