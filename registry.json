@@ -1731,6 +1731,21 @@
     "operatorName": "Oleh",
     "github": "olegandreyev"
   },
+  {
+      "ticker":"STORK",
+      "poolId":"17fa4d6590f413e5b699ae8c859c32ef427e95b81f167e1a2dc3c2f1",
+      "social":{
+         "facebook":"",
+         "twitter":"@Stork_pool",
+         "website":"https://www.storkpool.com/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"Stork_pool",
+      "operatorName":"Venne",
+      "github":"StorkPool"
+  },
   { "ticker": "MMA",
     "poolId": "f1ae552b032c2d87a416f4067eaf4636b3fe5e80230a1f63aa33f6bc",
     "social": {
