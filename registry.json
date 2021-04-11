@@ -1,5 +1,20 @@
 [
    {
+      "ticker":"SANTA",
+      "poolId":"15c87b6bb073730ba288aac7a3071714399c78793f9b53d7370ac642",
+      "social":{
+      "facebook":"https://www.facebook.com/SANTA-Cardano-stakepool-100523112170356",
+      "twitter":"",
+      "website":"https://www.santapools.com",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+   },
+     "telegram":"haugstrup",
+     "operatorName":"Jeppe Haugstrup",
+     "github":"JeppeHaugstrup"
+   },
+   {
       "ticker":"MGC8",
       "poolId":"9ad588607c07c9d7677ff4129bbd20021c5619adc6796cb4d6ce0077",
       "social":{
