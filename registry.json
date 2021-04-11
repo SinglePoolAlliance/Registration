@@ -1,5 +1,20 @@
 [
    {
+      "ticker":"MEA",
+      "poolId":"a73897c05473ec1a3ddb4fcdbf9d29988e77d5ea9b254ae6afcfbe73",
+      "social":{
+         "facebook":"https://www.facebook.com/MEAPOOLcom",
+         "twitter":"CardanoMeapool",
+         "website":"https://meapool.com",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"meapool",
+      "operatorName":"AhmedAnisKerkeni",
+      "github":"meapool"
+   },
+   {
       "ticker":"MGC8",
       "poolId":"9ad588607c07c9d7677ff4129bbd20021c5619adc6796cb4d6ce0077",
       "social":{
@@ -12,7 +27,7 @@
       },
       "telegram":"MGC8Pool",
       "operatorName":"Mike",
-      "github":"elconde666"
+      "github":"meapool"
    },
    {
       "ticker":"OYSTR",
