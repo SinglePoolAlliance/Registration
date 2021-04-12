@@ -1774,19 +1774,34 @@
    "github": "stakenoble"
   },
   {
-      "ticker":"DONO",
-      "poolId":"19a7295abe2d83e4c5876ef30f21a44ca3877107fe5529a926cc1647",
-      "social":{
-         "facebook":"",
-         "twitter":"https://twitter.com/ada_dono_pool",
-         "website":"http://www.dono-pool.com/",
-         "reddit":"",
-         "instagram":"",
-         "youtube":""
-      },
-      "telegram":"dono_pool",
-      "operatorName":"",
-      "github":"dono-pool"
+    "ticker":"SWING",
+    "poolId":"0f2a5e0daf7812510b28b8ed07c56c8084c1b459c3b552f5146b9aff",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/AdaSwing",
+      "website":"https://ada-swing.net/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"xivaj",
+    "operatorName":"Javi",
+    "github":"adaswing"
+  },
+  {
+    "ticker":"DONO",
+    "poolId":"19a7295abe2d83e4c5876ef30f21a44ca3877107fe5529a926cc1647",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/ada_dono_pool",
+      "website":"http://www.dono-pool.com/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"dono_pool",
+    "operatorName":"",
+    "github":"dono-pool"
   },
   {
     "ticker": "AVENE",
