@@ -518,6 +518,21 @@
       "github":"ADATHOR"
    },
    {
+      "ticker":"LOKI",
+      "poolId":"pool17j94qfcxvr0xvuz5xl2c8nnt8pcv4v2d753vfxx3p4l4sukhtq0",
+      "social":{
+         "facebook":"",
+         "twitter":"PoolLoki",
+         "website":"https://coderfx.github.io/LOKI/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"Perkuuns",
+      "operatorName":"Captain Ahab",
+      "github":"CoderFX"
+   },
+   {
       "ticker":"VIBE",
       "poolId":"131719731bf99518d44caadc1dfd37f9a7ddb86109f82011cd2ccb5c",
       "social":{
