@@ -1714,6 +1714,21 @@
    "github": "stakenoble"
   },
   {
+    "ticker":"SWING",
+    "poolId":"0f2a5e0daf7812510b28b8ed07c56c8084c1b459c3b552f5146b9aff",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/AdaSwing",
+      "website":"https://ada-swing.net/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"xivaj",
+    "operatorName":"Javi",
+    "github":"adaswing"
+  },
+  {
       "ticker":"78653",
       "poolId":"dae77c46a4f8d774f3cc14bb1ced52a621d0472e6d04a2d6f0399ca7",
       "social":{
@@ -1727,20 +1742,5 @@
       "telegram":"manizzler",
       "operatorName":"manizzler",
       "github":"manizzle"
-   },
-     {
-      "ticker":"SWING",
-      "poolId":"0f2a5e0daf7812510b28b8ed07c56c8084c1b459c3b552f5146b9aff",
-      "social":{
-         "facebook":"",
-         "twitter":"https://twitter.com/AdaSwing",
-         "website":"https://ada-swing.net/",
-         "reddit":"",
-         "instagram":"",
-         "youtube":""
-      },
-      "telegram":"xivaj",
-      "operatorName":"Javi",
-      "github":"adaswing"
    }
 ]
