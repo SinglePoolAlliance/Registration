@@ -1937,5 +1937,20 @@
     "telegram":"manizzler",
     "operatorName":"manizzler",
     "github":"manizzle"
+  },
+  {
+    "ticker":"HOLA",
+    "poolId":"ce9f192835046ba71ed302d5d3e0ba99d65fd3950346cadad4781814",
+    "social":{
+       "facebook":"",
+       "twitter":"https://twitter.com/holacardano",
+       "website":"https://holastakepool.com/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"holastakepool",
+    "operatorName":"Arian",
+    "github":"Arian"
   }
 ]
