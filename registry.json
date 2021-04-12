@@ -1937,5 +1937,20 @@
     "telegram":"manizzler",
     "operatorName":"manizzler",
     "github":"manizzle"
+  },
+  {
+    "ticker":"BHMT",
+    "poolId":"052f4ae6c6f39c00a45e390ed0849fd719e1848c60cf3ba6b985635e",
+    "social":{
+       "facebook":"",
+       "twitter":"https://twitter.com/behemothpool",
+       "website":"http://www.behemothpool.com",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"Behemothpool",
+    "operatorName":"Raine",
+    "github":"rakalto"
   }
 ]
