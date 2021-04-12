@@ -1774,6 +1774,21 @@
    "github": "stakenoble"
   },
   {
+      "ticker":"DONO",
+      "poolId":"19a7295abe2d83e4c5876ef30f21a44ca3877107fe5529a926cc1647",
+      "social":{
+         "facebook":"",
+         "twitter":"https://twitter.com/ada_dono_pool",
+         "website":"http://www.dono-pool.com/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"dono_pool",
+      "operatorName":"",
+      "github":"dono-pool"
+  },
+  {
     "ticker": "AVENE",
     "poolId": "5e7ff9707b194d0a8abc37b35d6ca34112faaa777032e2268b2f8d07",
     "social": {
