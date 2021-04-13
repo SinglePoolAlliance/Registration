@@ -1,4 +1,19 @@
 [
+      {
+      "ticker":"POOLU",
+      "poolId":"819941b2b97a23355387638effc31bc7d3e953663e1a6b4c6df5b97d",
+      "social":{
+         "facebook":"",
+         "twitter":"PoolU",
+         "website":"www.cardanopoolu.com",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"",
+      "operatorName":"RALPH",
+      "github":""
+   },
    {
       "ticker":"MGC8",
       "poolId":"9ad588607c07c9d7677ff4129bbd20021c5619adc6796cb4d6ce0077",
