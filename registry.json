@@ -1952,5 +1952,20 @@
     "telegram":"manizzler",
     "operatorName":"manizzler",
     "github":"manizzle"
+  },
+  {
+    "ticker":"PECHY",
+    "poolId":"pool1klwddp9hysrplwmkaa8h3d65rg9qtz4hhpsw7uvz3e0pj8r3lrg",
+    "social":{
+       "facebook":"peachypool.io",
+       "twitter":"PeachyPool",
+       "website":"http://peachypool.io/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"peachypool",
+    "operatorName":"Peach",
+    "github":"Peachy-Pool"
   }
 ]
