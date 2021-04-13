@@ -1952,5 +1952,20 @@
     "telegram":"manizzler",
     "operatorName":"manizzler",
     "github":"manizzle"
+  },
+  {
+    "ticker":"CHESS",
+    "poolId":"3fac5e0197537b8eb5402249937b0b381f236436ad1ead40b7f6ec63",
+    "social":{
+       "facebook":"",
+       "twitter":"https://twitter.com/PoolChess",
+       "website":"https://chess.ihpapp.com",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"Karrizzmo",
+    "operatorName":"Chris",
+    "github":"chris-moreton"
   }
 ]
