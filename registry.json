@@ -90,6 +90,21 @@
       "github":"stiiif"
    },
    {
+      "ticker":"FIKA",
+      "poolId":"f423b19715cca49029ed13ff02a110b63de7d96ad7a0536dc5887a41",
+      "social":{
+         "facebook":"https://www.facebook.com/fika.spo.1/",
+         "twitter":"https://twitter.com/Fika_Pool",
+         "website":"https://fikapool.com/",
+         "reddit":"",
+         "instagram":"https://www.instagram.com/fika_stake_pool/",
+         "youtube":""
+      },
+      "telegram":"BullishDumpling",
+      "operatorName":"",
+      "github":"FIKAPOOL"
+   }, 
+   {
       "ticker":"ACOL",
       "poolId":"1d1a0727f1cae44f801091fe2b80d5589f3ffed24c602a8df7cdb2a3",
       "social":{
