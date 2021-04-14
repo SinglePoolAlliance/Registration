@@ -1952,5 +1952,20 @@
     "telegram":"manizzler",
     "operatorName":"manizzler",
     "github":"manizzle"
+  },
+  {
+    "ticker":"GOAL",
+    "poolId":"pool109ee6weyn52awvu30gspwmp6xwws98z0dhzcw2dqupc6vv6mkg6",
+    "social":{
+       "facebook":"",
+       "twitter":"",
+       "website":"https://goalstaking.com/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"dmlebany",
+    "operatorName":"Demetry",
+    "github":"dmlebany"
   }
 ]
