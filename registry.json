@@ -1952,5 +1952,20 @@
     "telegram":"manizzler",
     "operatorName":"manizzler",
     "github":"manizzle"
+  },
+  {
+    "ticker":"REBEL",
+    "poolId":"pool1z8z759nqgd2lu5yzw2pxhkaq9tq3s43t2t4kk3umme6cc50zj3d",
+    "social":{
+       "facebook":"",
+       "twitter":"https://twitter.com/REBELstakePool",
+       "website":"http://rebelpool.io/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"REBELstakePool",
+    "operatorName":"",
+    "github":""
   }
 ]
