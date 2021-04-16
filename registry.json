@@ -1789,6 +1789,21 @@
    "github": "stakenoble"
   },
   {
+    "ticker":"ALF",
+    "poolId":"e45b9806cc75600c8149617891de8d377093b36fef4cf7e7f66e73f2",
+    "social":{
+      "facebook":"",
+      "twitter":"",
+      "website":"https://adalifeform.at/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":"https://www.youtube.com/channel/UCtYQ91Juz5eE31bDKuxobjQ"
+    },
+    "telegram":"maxleo3",
+    "operatorName":"",
+    "github":"maxleo1"
+  },
+  {
     "ticker":"LGBTQ",
     "poolId":"fc0ef418b0cce20c7a1ac7b8aec9dabd8e9e83b3fcb88c228b4f2c1d",
     "social":{
