@@ -1,5 +1,20 @@
 [
    {
+      "ticker":"RSV",
+      "poolId":"1be0613ee44270f56b5fbb71f667528e1d877d77d349dd7324d50869",
+      "social":{
+         "facebook":"",
+         "twitter":"RSVNODE",
+         "website":"https://reservoir.network",
+         "reddit":"RSVpool",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"reservoirNode",
+      "operatorName":"",
+      "github":"RSVpool"
+   },
+   {
       "ticker":"MGC8",
       "poolId":"9ad588607c07c9d7677ff4129bbd20021c5619adc6796cb4d6ce0077",
       "social":{
