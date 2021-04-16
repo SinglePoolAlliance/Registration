@@ -1982,5 +1982,20 @@
     "telegram":"manizzler",
     "operatorName":"manizzler",
     "github":"manizzle"
+  },
+  {
+    "ticker":"RETRO",
+    "poolId":"93728a5a67dfbcb3fa2ce2425bac852a7ef4c6fc624fc113f6511a2a",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/retrostakepool",
+      "website":"https://cardano.teamretro.com.au/",
+      "reddit":"retrostakepool",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"retrostakepool",
+    "operatorName":"Beau",
+    "github":"retropool"
   }
 ]
