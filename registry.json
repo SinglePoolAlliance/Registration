@@ -1,5 +1,20 @@
 [
    {
+      "ticker":"FLOAT",
+      "poolId":"3b5d8f95b87841d8a5f46d413cfb14fceee129ff0a5300943dbaa869",
+      "social":{
+         "facebook":"",
+         "twitter":"",
+         "website":"https://floatpool.io",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"floatpool",
+      "operatorName":"Kris & Christian",
+      "github":""
+   },
+   {
       "ticker":"MGC8",
       "poolId":"9ad588607c07c9d7677ff4129bbd20021c5619adc6796cb4d6ce0077",
       "social":{
