@@ -45,6 +45,21 @@
       "github":""
    },
    {
+      "ticker":"ONE1",
+      "poolId":"9a881d6856d6e31820f653ef066ec55bbc6ce60e1370935e662df659",
+      "social":{
+         "facebook":"",
+         "twitter":"@ADAOnePool",
+         "website":"https://adapool.one",
+         "reddit":"",
+         "instagram":"",
+         "youtube":"https://www.youtube.com/channel/UCaPUgQuIwYmQHea12Yen2ug"
+      },
+      "telegram":"ADAONEPool",
+      "operatorName":"",
+      "github":""
+   },
+   {
       "ticker":"ASHA0",
       "poolId":"49e19f98e8f21cd246eb1bf8ac0f1a16d937c08b934e347cd0947dd8",
       "social":{
