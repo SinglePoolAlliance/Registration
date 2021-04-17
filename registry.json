@@ -2012,5 +2012,20 @@
     "telegram":"retrostakepool",
     "operatorName":"Beau",
     "github":"retropool"
+  },
+  {
+    "ticker":"SKADA",
+    "poolId":"25122cd0fce3f01b6f8510e9ab2482921293bf7219d158ce1ba9c9b3",
+    "social":{
+      "facebook":"https://www.facebook.com/SkadaCardanoStakePool",
+      "twitter":"",
+      "website":"https://stakeada.dynu.com/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"skadastakepool",
+    "operatorName":"Jonathan",
+    "github":""
   }
 ]
