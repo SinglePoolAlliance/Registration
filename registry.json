@@ -2012,5 +2012,20 @@
     "telegram":"retrostakepool",
     "operatorName":"Beau",
     "github":"retropool"
+  },
+  {
+    "ticker":"ANVIL",
+    "poolId":"9084ebeb011e610e695068a74fa883dac5eda55faca77107b5f40064",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/AnvilPool",
+      "website":"https://anvilpool.carrd.co/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"",
+    "operatorName":"dockrieger",
+    "github":""
   }
 ]
