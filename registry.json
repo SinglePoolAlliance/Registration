@@ -2012,5 +2012,20 @@
     "telegram":"retrostakepool",
     "operatorName":"Beau",
     "github":"retropool"
+  },
+    {
+    "ticker":"CB1",
+    "poolId":"pool1wntxmftndrsj7y4aqles8knl3nfuyj22l83jun02yyx9s962gm3",
+    "social":{
+      "facebook":"Coudre Bros",
+      "twitter":"Coudre Bros.",
+      "website":"https://coudrebros.eu",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"@oudreBros",
+    "operatorName":"Couder",
+    "github":"Couder82"
   }
 ]
