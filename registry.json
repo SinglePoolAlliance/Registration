@@ -1999,6 +1999,21 @@
     "github":"manizzle"
   },
   {
+    "ticker": "ADAAT",
+    "poolId": "b1962b3224f93153dd12059d92c40a658daf3102ea0ab6013dfddd09",
+    "social": {
+      "facebook":"",
+      "twitter": "@AdapoolA",
+      "website": "https://www.adapool.at",
+      "reddit": "https://www.reddit.com/r/adapool_at/",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram": "ADApoolAT",
+    "operatorName": "Josef Fritscher",
+    "github": "Josef3110"
+  },
+  {
     "ticker":"RETRO",
     "poolId":"93728a5a67dfbcb3fa2ce2425bac852a7ef4c6fc624fc113f6511a2a",
     "social":{
