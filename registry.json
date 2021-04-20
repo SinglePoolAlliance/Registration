@@ -1954,6 +1954,21 @@
     "github":"IvanLee113"
   },
   {
+      "ticker":"78653",
+      "poolId":"dae77c46a4f8d774f3cc14bb1ced52a621d0472e6d04a2d6f0399ca7",
+      "social":{
+         "facebook":"",
+         "twitter":"https://twitter.com/cryptobrethren",
+         "website":"http://brotherhoodcrypto.io/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"manizzler",
+      "operatorName":"manizzler",
+      "github":"manizzle"
+  },
+  {
     "ticker":"888",
     "poolId":"7c5fd84421a68f545d09ad8580b2a154a7bb6f79f4a3a8acb4d15e27",
     "social":{
@@ -1982,21 +1997,6 @@
     "telegram":"Sporke",
     "operatorName":"",
     "github":""
-  },
-  {
-    "ticker":"78653",
-    "poolId":"dae77c46a4f8d774f3cc14bb1ced52a621d0472e6d04a2d6f0399ca7",
-    "social":{
-      "facebook":"",
-      "twitter":"https://twitter.com/cryptobrethren",
-      "website":"http://brotherhoodcrypto.io/",
-      "reddit":"",
-      "instagram":"",
-      "youtube":""
-    },
-    "telegram":"manizzler",
-    "operatorName":"manizzler",
-    "github":"manizzle"
   },
   {
     "ticker": "WISE",                                                      
@@ -2040,5 +2040,20 @@
     "telegram":"retrostakepool",
     "operatorName":"Beau",
     "github":"retropool"
+  },
+  {
+    "ticker":"MEA",
+    "poolId":"a73897c05473ec1a3ddb4fcdbf9d29988e77d5ea9b254ae6afcfbe73",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/CardanoMeapool",
+      "website":"https://meapool.com/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"NeoXor",
+    "operatorName":"Nidhal",
+    "github":"NeoXor"
   }
 ]
