@@ -2115,5 +2115,20 @@
     "telegram":"t0m3kf",
     "operatorName":"",
     "github":"t0m3kf"
+  },
+  {
+    "ticker":"ADAPT",
+    "poolId":"780623d70c1168241e1d4d623e5e14e7f02e701b536329e9a735ad61",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/AdapptO",
+      "website":"https://adappt.online",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"laplasz",
+    "operatorName":"",
+    "github":"laplasz"
   }
 ]
