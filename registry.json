@@ -1999,6 +1999,19 @@
     "github":"manizzle"
   },
   {
+    "ticker": "WISE",                                                      
+    "poolId": "0d549d59c5fd90ea2e7ef58041e14a10e15e0145386ba3a3b8709da4",
+    "social": {                                                           
+      "twitter": "wise_pool",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Arthur_WISE",                                         
+    "operatorName": "Arthur",                                   		  
+    "github": "aleincsharp"                                              
+  },
+  {
     "ticker": "ADAAT",
     "poolId": "b1962b3224f93153dd12059d92c40a658daf3102ea0ab6013dfddd09",
     "social": {
