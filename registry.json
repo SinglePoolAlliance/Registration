@@ -2042,6 +2042,21 @@
     "github":"retropool"
   },
   {
+    "ticker":"NEP",
+    "poolId":"ef603340ac08cbe1cbe003821a2272e15612b50b86c0066e043dc64e",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/PoolVoyager",
+      "website":"https://voyager-stakepool.com",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"VoyagerFromEarth",
+    "operatorName":"Julien T.",
+    "github":"voyagerstakepool"
+  },
+  {
     "ticker":"MEA",
     "poolId":"a73897c05473ec1a3ddb4fcdbf9d29988e77d5ea9b254ae6afcfbe73",
     "social":{
