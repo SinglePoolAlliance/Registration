@@ -732,6 +732,16 @@
         "pool_id": "a73897c05473ec1a3ddb4fcdbf9d29988e77d5ea9b254ae6afcfbe73",
         "member_since": "2021-04-20",
         "name": "MEA"
+      },
+      "144": {
+        "pool_id": "2b5ac5073e3e8071024263a8fe69e4577bcf3bfed41110ced8ac8aa7",
+        "member_since": "2021-04-21",
+        "name": "NEXUS"
+      },
+      "145": {
+        "pool_id": "15c87b6bb073730ba288aac7a3071714399c78793f9b53d7370ac642",
+        "member_since": "2021-04-21",
+        "name": "SANTA"
       }
     }
   }

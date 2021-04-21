@@ -488,6 +488,7 @@
       "social":{
          "twitter":"LophreNet",
          "facebook":"",
+         "website":"https://lophre.net",
          "instagram":" ",
          "youtube":" "
       },
@@ -2052,9 +2053,39 @@
       "instagram":"",
       "youtube":""
     },
-    "telegram":"manizzler",
-    "operatorName":"manizzler",
-    "github":"manizzle"
+    "telegram":"NeoXor",
+    "operatorName":"Nidhal",
+    "github":"NeoXor"
+  },
+  {
+    "ticker":"NEXUS",
+    "poolId":"2b5ac5073e3e8071024263a8fe69e4577bcf3bfed41110ced8ac8aa7",
+    "social":{
+      "facebook":"",
+      "twitter":"NexusStake",
+      "website":"https://nexuspool.org",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"miguel_ans",
+    "operatorName":"Miguel",
+    "github":""
+  },
+  {
+    "ticker":"SANTA",
+    "poolId":"15c87b6bb073730ba288aac7a3071714399c78793f9b53d7370ac642",
+    "social":{
+      "facebook":"https://www.facebook.com/SANTA-Cardano-stakepool-100523112170356",
+      "twitter":"",
+      "website":"https://www.santapools.com",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"haugstrup",
+    "operatorName":"Jeppe Haugstrup",
+    "github":"JeppeHaugstrup"
   },
   {
     "ticker":"VLHLA",
