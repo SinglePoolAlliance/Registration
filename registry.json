@@ -1,20 +1,5 @@
 [
    {
-      "ticker":"SANTA",
-      "poolId":"15c87b6bb073730ba288aac7a3071714399c78793f9b53d7370ac642",
-      "social":{
-      "facebook":"https://www.facebook.com/SANTA-Cardano-stakepool-100523112170356",
-      "twitter":"",
-      "website":"https://www.santapools.com",
-      "reddit":"",
-      "instagram":"",
-      "youtube":""
-   },
-     "telegram":"haugstrup",
-     "operatorName":"Jeppe Haugstrup",
-     "github":"JeppeHaugstrup"
-   },
-   {
       "ticker":"MGC8",
       "poolId":"9ad588607c07c9d7677ff4129bbd20021c5619adc6796cb4d6ce0077",
       "social":{
@@ -56,6 +41,21 @@
          "youtube": ""
       },
       "telegram": "M1crypto",
+      "operatorName":"",
+      "github":""
+   },
+   {
+      "ticker":"ONE1",
+      "poolId":"9a881d6856d6e31820f653ef066ec55bbc6ce60e1370935e662df659",
+      "social":{
+         "facebook":"",
+         "twitter":"@ADAOnePool",
+         "website":"https://adapool.one",
+         "reddit":"",
+         "instagram":"",
+         "youtube":"https://www.youtube.com/channel/UCaPUgQuIwYmQHea12Yen2ug"
+      },
+      "telegram":"ADAONEPool",
       "operatorName":"",
       "github":""
    },
@@ -104,6 +104,21 @@
       "operatorName":"Stef",
       "github":"stiiif"
    },
+   {
+      "ticker":"FIKA",
+      "poolId":"f423b19715cca49029ed13ff02a110b63de7d96ad7a0536dc5887a41",
+      "social":{
+         "facebook":"https://www.facebook.com/fika.spo.1/",
+         "twitter":"https://twitter.com/Fika_Pool",
+         "website":"https://fikapool.com/",
+         "reddit":"",
+         "instagram":"https://www.instagram.com/fika_stake_pool/",
+         "youtube":""
+      },
+      "telegram":"BullishDumpling",
+      "operatorName":"",
+      "github":"FIKAPOOL"
+   }, 
    {
       "ticker":"ACOL",
       "poolId":"1d1a0727f1cae44f801091fe2b80d5589f3ffed24c602a8df7cdb2a3",
@@ -1789,6 +1804,81 @@
    "github": "stakenoble"
   },
   {
+    "ticker":"ALF",
+    "poolId":"e45b9806cc75600c8149617891de8d377093b36fef4cf7e7f66e73f2",
+    "social":{
+      "facebook":"",
+      "twitter":"",
+      "website":"https://adalifeform.at/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":"https://www.youtube.com/channel/UCtYQ91Juz5eE31bDKuxobjQ"
+    },
+    "telegram":"maxleo3",
+    "operatorName":"",
+    "github":"maxleo1"
+  },
+  {
+    "ticker":"LGBTQ",
+    "poolId":"fc0ef418b0cce20c7a1ac7b8aec9dabd8e9e83b3fcb88c228b4f2c1d",
+    "social":{
+       "facebook":"",
+       "twitter":"https://twitter.com/lgbtqstakepool",
+       "website":"http://lgbtqpool.com/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"lgbtqpoolSPO",
+    "operatorName":"",
+    "github":"lgbtqpool"
+  },
+  {
+    "ticker":"SWING",
+    "poolId":"0f2a5e0daf7812510b28b8ed07c56c8084c1b459c3b552f5146b9aff",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/AdaSwing",
+      "website":"https://ada-swing.net/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"xivaj",
+    "operatorName":"Javi",
+    "github":"adaswing"
+  },
+  {
+    "ticker":"DONO",
+    "poolId":"19a7295abe2d83e4c5876ef30f21a44ca3877107fe5529a926cc1647",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/ada_dono_pool",
+      "website":"http://www.dono-pool.com/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"dono_pool",
+    "operatorName":"",
+    "github":"dono-pool"
+  },
+  {
+     "ticker":"LIBUS",
+     "poolId":"27451ce86ae5e8599a8c59b642493e9e9cca5759bd4d60019f2dc45d",
+     "social":{
+       "facebook":"",
+       "twitter":"@pool_liberty",
+       "website":"https://libertypool.us/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+     },
+     "telegram":"libertxyz",
+     "operatorName":"",
+     "github":"libert-xyz"
+  },
+  {
     "ticker": "AVENE",
     "poolId": "5e7ff9707b194d0a8abc37b35d6ca34112faaa777032e2268b2f8d07",
     "social": {
@@ -1864,6 +1954,21 @@
     "github":"IvanLee113"
   },
   {
+      "ticker":"78653",
+      "poolId":"dae77c46a4f8d774f3cc14bb1ced52a621d0472e6d04a2d6f0399ca7",
+      "social":{
+         "facebook":"",
+         "twitter":"https://twitter.com/cryptobrethren",
+         "website":"http://brotherhoodcrypto.io/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"manizzler",
+      "operatorName":"manizzler",
+      "github":"manizzle"
+  },
+  {
     "ticker":"888",
     "poolId":"7c5fd84421a68f545d09ad8580b2a154a7bb6f79f4a3a8acb4d15e27",
     "social":{
@@ -1894,18 +1999,91 @@
     "github":""
   },
   {
-    "ticker":"78653",
-    "poolId":"dae77c46a4f8d774f3cc14bb1ced52a621d0472e6d04a2d6f0399ca7",
-    "social":{
-       "facebook":"",
-       "twitter":"https://twitter.com/cryptobrethren",
-       "website":"http://brotherhoodcrypto.io/",
-       "reddit":"",
-       "instagram":"",
-       "youtube":""
+    "ticker": "WISE",                                                      
+    "poolId": "0d549d59c5fd90ea2e7ef58041e14a10e15e0145386ba3a3b8709da4",
+    "social": {                                                           
+      "twitter": "wise_pool",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
     },
-    "telegram":"manizzler",
-    "operatorName":"manizzler",
-    "github":"manizzle"
+    "telegram": "Arthur_WISE",                                         
+    "operatorName": "Arthur",                                   		  
+    "github": "aleincsharp"                                              
+  },
+  {
+    "ticker": "ADAAT",
+    "poolId": "b1962b3224f93153dd12059d92c40a658daf3102ea0ab6013dfddd09",
+    "social": {
+      "facebook":"",
+      "twitter": "@AdapoolA",
+      "website": "https://www.adapool.at",
+      "reddit": "https://www.reddit.com/r/adapool_at/",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram": "ADApoolAT",
+    "operatorName": "Josef Fritscher",
+    "github": "Josef3110"
+  },
+  {
+    "ticker":"RETRO",
+    "poolId":"93728a5a67dfbcb3fa2ce2425bac852a7ef4c6fc624fc113f6511a2a",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/retrostakepool",
+      "website":"https://cardano.teamretro.com.au/",
+      "reddit":"retrostakepool",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"retrostakepool",
+    "operatorName":"Beau",
+    "github":"retropool"
+  },
+  {
+    "ticker":"MEA",
+    "poolId":"a73897c05473ec1a3ddb4fcdbf9d29988e77d5ea9b254ae6afcfbe73",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/CardanoMeapool",
+      "website":"https://meapool.com/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"NeoXor",
+    "operatorName":"Nidhal",
+    "github":"NeoXor"
+  },
+  {
+    "ticker":"NEXUS",
+    "poolId":"2b5ac5073e3e8071024263a8fe69e4577bcf3bfed41110ced8ac8aa7",
+    "social":{
+      "facebook":"",
+      "twitter":"NexusStake",
+      "website":"https://nexuspool.org",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"miguel_ans",
+    "operatorName":"Miguel",
+    "github":""
+  },
+  {
+    "ticker":"SANTA",
+    "poolId":"15c87b6bb073730ba288aac7a3071714399c78793f9b53d7370ac642",
+    "social":{
+      "facebook":"https://www.facebook.com/SANTA-Cardano-stakepool-100523112170356",
+      "twitter":"",
+      "website":"https://www.santapools.com",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"haugstrup",
+    "operatorName":"Jeppe Haugstrup",
+    "github":"JeppeHaugstrup"
   }
 ]
