@@ -2115,5 +2115,20 @@
     "telegram":"t0m3kf",
     "operatorName":"",
     "github":"t0m3kf"
+  },
+  {
+    "ticker":"ANVIL",
+    "poolId":"9084ebeb011e610e695068a74fa883dac5eda55faca77107b5f40064",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/AnvilPool",
+      "website":"https://anvilpool.carrd.co",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"Doc_Krieger",
+    "operatorName":"",
+    "github":""
   }
 ]
