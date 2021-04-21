@@ -2085,5 +2085,20 @@
     "telegram":"haugstrup",
     "operatorName":"Jeppe Haugstrup",
     "github":"JeppeHaugstrup"
+  },
+  {
+    "ticker":"VLHLA",
+    "poolId":"29889ecc8151e5a93fcd321cd905eee0f50c8364273550205058bfe8",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/valhallapool",
+      "website":"http://valhallapool.net",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"t0m3kf",
+    "operatorName":"",
+    "github":"t0m3kf"
   }
 ]
