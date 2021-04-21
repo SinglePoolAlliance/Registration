@@ -1,5 +1,5 @@
 [
-   {
+  {
       "ticker":"MGC8",
       "poolId":"9ad588607c07c9d7677ff4129bbd20021c5619adc6796cb4d6ce0077",
       "social":{
@@ -2055,5 +2055,20 @@
     "telegram":"NeoXor",
     "operatorName":"Nidhal",
     "github":"NeoXor"
+  },
+  {
+    "ticker":"NEXUS",
+    "poolId":"2b5ac5073e3e8071024263a8fe69e4577bcf3bfed41110ced8ac8aa7",
+    "social":{
+      "facebook":"",
+      "twitter":"NexusStake",
+      "website":"https://nexuspool.org",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"miguel_ans",
+    "operatorName":"Miguel",
+    "github":""
   }
 ]
