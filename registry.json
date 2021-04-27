@@ -2115,5 +2115,19 @@
     "telegram":"t0m3kf",
     "operatorName":"",
     "github":"t0m3kf"
+  },
+  { "ticker": "TOY",
+    "poolId": "ed8b9c25260584007c5453650cbad28c163c0c9d01b880f30655c396",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/ice459pp",
+      "website": "https://pandapool.site",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "ada_pandapool",
+    "operatorName": "Ming",
+    "github": "ice459pp"
   }
 ]
