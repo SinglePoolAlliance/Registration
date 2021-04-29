@@ -2017,14 +2017,14 @@
     "ticker":"CB1",
     "poolId":"pool1wntxmftndrsj7y4aqles8knl3nfuyj22l83jun02yyx9s962gm3",
     "social":{
-      "facebook":"Coudre Bros",
-      "twitter":"Coudre Bros.",
+      "facebook":"https://www.facebook.com/coudrebros",
+      "twitter":"https://twitter.com/broscoudre",
       "website":"https://coudrebros.eu",
       "reddit":"",
       "instagram":"",
       "youtube":""
     },
-    "telegram":"@oudreBros",
+    "telegram":"CoudreBros",
     "operatorName":"Couder",
     "github":"Couder82"
   }
