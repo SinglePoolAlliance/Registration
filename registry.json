@@ -2115,5 +2115,20 @@
     "telegram":"t0m3kf",
     "operatorName":"",
     "github":"t0m3kf"
-  }
+  },
+    {
+    "ticker":"CB1",
+    "poolId":"74d66da57368e12f12bd07f303da7f8cd3c2494af9e32e4dea210c58",
+    "social":{
+      "facebook":"https://www.facebook.com/coudrebros",
+      "twitter":"https://twitter.com/broscoudre",
+      "website":"http://www.coudrebros.eu",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"CoudreBros",
+    "operatorName":"Couder",
+    "github":"Couder82"
+  } 
 ]
