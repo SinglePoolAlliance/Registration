@@ -1971,6 +1971,21 @@
     "github":"888pool"
   },
   {
+    "ticker":"ASN",
+    "poolId":"f1263e0885fb00f352968294c5a6bf18da372b98236f55a457416d62",
+    "social":{
+       "facebook":"cardanohungary",
+       "twitter":"adastarnode",
+       "website":"https://adastarnode.com/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"rtibor",
+    "operatorName":"Tibor",
+    "github":"AdaStarNode"
+  },
+  {
     "ticker":"MEME",
     "poolId":"c9aa8e864d5cc292f0e93669a79b41d67f8ea62481a0d85b14bea386",
     "social":{
