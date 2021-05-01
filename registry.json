@@ -2179,7 +2179,21 @@
     "github":"t0m3kf"
   },
   {
-    "ticker":"LION",
+    "ticker":"ADAPT",
+    "poolId":"780623d70c1168241e1d4d623e5e14e7f02e701b536329e9a735ad61",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/AdapptO",
+      "website":"https://adappt.online",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"laplasz",
+    "operatorName":"",
+    "github":"laplasz"
+  },
+  { "ticker":"LION",
     "poolId":"ba8afcb79a251e47979fee3cbd5878e7fb7b153270986adc19063df5",
     "social":{
        "facebook":"",
