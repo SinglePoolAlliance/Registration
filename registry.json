@@ -2178,6 +2178,21 @@
     "operatorName":"Ewald",
     "github":"ATFFpool"
   },
+   {
+    "ticker":"BETTR",
+    "poolId":"3e14044e8965189bc1809326a7c8b58825dca20f693e80c37b7095f3",
+    "social":{
+       "facebook":"",
+       "twitter":"https://twitter.com/the_better_pool",
+       "website":"https://www.stakeitbetter.com/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"thebetterpool",
+    "operatorName":"",
+    "github":""
+  },
   {
     "ticker":"WISH",
     "poolId":"4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852",
