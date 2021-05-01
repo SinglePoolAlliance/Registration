@@ -2178,7 +2178,23 @@
     "operatorName":"",
     "github":"t0m3kf"
   },
-  { "ticker": "TOY",
+  {
+    "ticker":"MUNIN",
+    "poolId":"f96b040819395ea1a0fe845da0181e399db99224e3088e82fbc441b2",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/ravenpoolnet",
+      "website":"http://ravenpool.net",
+        "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"ravenpool",
+    "operatorName":"",
+    "github":"eoswins"
+  },
+  { 
+  "ticker": "TOY",
     "poolId": "ed8b9c25260584007c5453650cbad28c163c0c9d01b880f30655c396",
     "social": {
       "facebook": "",
@@ -2218,7 +2234,7 @@
       "instagram":"",
       "youtube":""
     },
-    "telegram":"Doc_Krieger",
+   "telegram":"Doc_Krieger",
     "operatorName":"",
     "github":""
   },
