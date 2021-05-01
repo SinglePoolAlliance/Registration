@@ -2132,5 +2132,20 @@
     "telegram":"holastakepool",
     "operatorName":"Arian",
     "github":"Arian"
+  },
+  {
+    "ticker":"WISH",
+    "poolId":"4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852",
+    "social":{
+       "facebook":"https://facebook.com/wishpoolbybclens",
+       "twitter":"https://twitter.com/blockchainlens",
+       "website":"http://blockchainlens.org/",
+       "reddit":"WISH-Pool",
+       "instagram":"blockchainlens",
+       "youtube":""
+    },
+    "telegram":"BCLens",
+    "operatorName":"BCLens",
+    "github":"bclens"
   }
 ]
