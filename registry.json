@@ -2132,6 +2132,21 @@
     "telegram":"holastakepool",
     "operatorName":"Arian",
     "github":"Arian"
+  }, 
+  {
+    "ticker":"ATFF",
+    "poolId":"fdb8e1e7f181f23d31f09bb4547370ef104688b37b3e7f4fdb222f4f",
+    "social":{
+       "facebook":"",
+       "twitter":"https://twitter.com/ATFFpool",
+       "website":"http://www.atffpool.at/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"ATFFpool",
+    "operatorName":"Ewald",
+    "github":"ATFFpool"
   },
   {
     "ticker":"WISH",
