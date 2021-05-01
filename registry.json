@@ -2178,7 +2178,21 @@
     "operatorName":"",
     "github":"t0m3kf"
   },
-  {
+  { "ticker": "TOY",
+    "poolId": "ed8b9c25260584007c5453650cbad28c163c0c9d01b880f30655c396",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/ice459pp",
+      "website": "https://pandapool.site",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "ice459pp",
+    "operatorName": "Ming",
+    "github": "ice459pp"
+  },
+   {
     "ticker":"PECHY",
     "poolId":"b7dcd684b724061fbb76ef4f78b7541a0a058ab7b860ef71828e5e19",
     "social":{
