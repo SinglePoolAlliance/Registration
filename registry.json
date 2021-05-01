@@ -2370,5 +2370,20 @@
     "telegram":"rebeltom",
     "operatorName":"",
     "github":""
+  },
+  {
+    "ticker":"DAWN",
+    "poolId":"9f2049983941787cf7d02c27bc7b09553a14d9e8e09bcab5c613f8e9",
+    "social":{
+       "facebook":"shanecoughlan",
+       "twitter":"opendawn",
+       "website":"https://opendawn.com/DAWN/",
+       "reddit":"Shane-opendawn",
+       "instagram":"",
+       "youtube":"ShaneCoughlan"
+    },
+    "telegram":"shanecoughlan",
+    "operatorName":"Shane Coughlan",
+    "github":"shanecoughlan"
   }
 ]
