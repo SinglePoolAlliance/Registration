@@ -2099,8 +2099,24 @@
       "instagram":"",
       "youtube":""
     },
-    "telegram":"t0m3kf",
+        "telegram":"t0m3kf",
     "operatorName":"",
     "github":"t0m3kf"
+  },
+  {
+    "ticker":"LION",
+    "poolId":"ba8afcb79a251e47979fee3cbd5878e7fb7b153270986adc19063df5",
+    "social":{
+       "facebook":"",
+       "twitter":"@lionstakingpool",
+       "website":"https://lionstakingpool.com/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"@chris_lionstakingpool",
+    "operatorName":"Chris & Rick",
+    "github":"chridado"
+
   }
 ]
