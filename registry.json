@@ -45,6 +45,21 @@
       "github":""
    },
    {
+      "ticker":"ONE1",
+      "poolId":"9a881d6856d6e31820f653ef066ec55bbc6ce60e1370935e662df659",
+      "social":{
+         "facebook":"",
+         "twitter":"@ADAOnePool",
+         "website":"https://adapool.one",
+         "reddit":"",
+         "instagram":"",
+         "youtube":"https://www.youtube.com/channel/UCaPUgQuIwYmQHea12Yen2ug"
+      },
+      "telegram":"ADAONEPool",
+      "operatorName":"",
+      "github":""
+   },
+   {
       "ticker":"ASHA0",
       "poolId":"49e19f98e8f21cd246eb1bf8ac0f1a16d937c08b934e347cd0947dd8",
       "social":{
@@ -89,6 +104,21 @@
       "operatorName":"Stef",
       "github":"stiiif"
    },
+   {
+      "ticker":"FIKA",
+      "poolId":"f423b19715cca49029ed13ff02a110b63de7d96ad7a0536dc5887a41",
+      "social":{
+         "facebook":"https://www.facebook.com/fika.spo.1/",
+         "twitter":"https://twitter.com/Fika_Pool",
+         "website":"https://fikapool.com/",
+         "reddit":"",
+         "instagram":"https://www.instagram.com/fika_stake_pool/",
+         "youtube":""
+      },
+      "telegram":"BullishDumpling",
+      "operatorName":"",
+      "github":"FIKAPOOL"
+   }, 
    {
       "ticker":"ACOL",
       "poolId":"1d1a0727f1cae44f801091fe2b80d5589f3ffed24c602a8df7cdb2a3",
@@ -898,19 +928,6 @@
       "telegram":"ThaiTheo",
       "operatorName":"Theo van Raaij",
       "github":"ThaiTheo"
-   },
-   {
-      "ticker":"PILOT",
-      "poolId":"c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82",
-      "social":{
-         "twitter":"ada_pilot",
-         "facebook":"",
-         "instagram":"https://www.instagram.com/ada_pilot",
-         "youtube":""
-      },
-      "telegram":"ADA_Pilot",
-      "operatorName":"Steven",
-      "github":"StevieMac415"
    },
    {
       "ticker":"BZH",
@@ -1774,6 +1791,21 @@
    "github": "stakenoble"
   },
   {
+    "ticker":"ALF",
+    "poolId":"e45b9806cc75600c8149617891de8d377093b36fef4cf7e7f66e73f2",
+    "social":{
+      "facebook":"",
+      "twitter":"",
+      "website":"https://adalifeform.at/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":"https://www.youtube.com/channel/UCtYQ91Juz5eE31bDKuxobjQ"
+    },
+    "telegram":"maxleo3",
+    "operatorName":"",
+    "github":"maxleo1"
+  },
+  {
     "ticker":"LGBTQ",
     "poolId":"fc0ef418b0cce20c7a1ac7b8aec9dabd8e9e83b3fcb88c228b4f2c1d",
     "social":{
@@ -1817,6 +1849,21 @@
     "telegram":"dono_pool",
     "operatorName":"",
     "github":"dono-pool"
+  },
+  {
+     "ticker":"LIBUS",
+     "poolId":"27451ce86ae5e8599a8c59b642493e9e9cca5759bd4d60019f2dc45d",
+     "social":{
+       "facebook":"",
+       "twitter":"@pool_liberty",
+       "website":"https://libertypool.us/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+     },
+     "telegram":"libertxyz",
+     "operatorName":"",
+     "github":"libert-xyz"
   },
   {
     "ticker": "AVENE",
@@ -1894,6 +1941,21 @@
     "github":"IvanLee113"
   },
   {
+      "ticker":"78653",
+      "poolId":"dae77c46a4f8d774f3cc14bb1ced52a621d0472e6d04a2d6f0399ca7",
+      "social":{
+         "facebook":"",
+         "twitter":"https://twitter.com/cryptobrethren",
+         "website":"http://brotherhoodcrypto.io/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"manizzler",
+      "operatorName":"manizzler",
+      "github":"manizzle"
+  },
+  {
     "ticker":"888",
     "poolId":"7c5fd84421a68f545d09ad8580b2a154a7bb6f79f4a3a8acb4d15e27",
     "social":{
@@ -1924,19 +1986,152 @@
     "github":""
   },
   {
-    "ticker":"78653",
-    "poolId":"dae77c46a4f8d774f3cc14bb1ced52a621d0472e6d04a2d6f0399ca7",
+    "ticker": "WISE",                                                      
+    "poolId": "0d549d59c5fd90ea2e7ef58041e14a10e15e0145386ba3a3b8709da4",
+    "social": {                                                           
+      "twitter": "wise_pool",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Arthur_WISE",                                         
+    "operatorName": "Arthur",                                   		  
+    "github": "aleincsharp"                                              
+  },
+  {
+    "ticker": "ADAAT",
+    "poolId": "b1962b3224f93153dd12059d92c40a658daf3102ea0ab6013dfddd09",
+    "social": {
+      "facebook":"",
+      "twitter": "@AdapoolA",
+      "website": "https://www.adapool.at",
+      "reddit": "https://www.reddit.com/r/adapool_at/",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram": "ADApoolAT",
+    "operatorName": "Josef Fritscher",
+    "github": "Josef3110"
+  },
+  {
+    "ticker":"RETRO",
+    "poolId":"93728a5a67dfbcb3fa2ce2425bac852a7ef4c6fc624fc113f6511a2a",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/retrostakepool",
+      "website":"https://cardano.teamretro.com.au/",
+      "reddit":"retrostakepool",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"retrostakepool",
+    "operatorName":"Beau",
+    "github":"retropool"
+  },
+  {
+    "ticker":"NEP",
+    "poolId":"ef603340ac08cbe1cbe003821a2272e15612b50b86c0066e043dc64e",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/PoolVoyager",
+      "website":"https://voyager-stakepool.com",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"VoyagerFromEarth",
+    "operatorName":"Julien T.",
+    "github":"voyagerstakepool"
+  },
+  {
+    "ticker":"MEA",
+    "poolId":"a73897c05473ec1a3ddb4fcdbf9d29988e77d5ea9b254ae6afcfbe73",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/CardanoMeapool",
+      "website":"https://meapool.com/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"NeoXor",
+    "operatorName":"Nidhal",
+    "github":"NeoXor"
+  },
+  {
+    "ticker":"NEXUS",
+    "poolId":"2b5ac5073e3e8071024263a8fe69e4577bcf3bfed41110ced8ac8aa7",
+    "social":{
+      "facebook":"",
+      "twitter":"NexusStake",
+      "website":"https://nexuspool.org",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"miguel_ans",
+    "operatorName":"Miguel",
+    "github":""
+  },
+  {
+    "ticker":"SANTA",
+    "poolId":"15c87b6bb073730ba288aac7a3071714399c78793f9b53d7370ac642",
+    "social":{
+      "facebook":"https://www.facebook.com/SANTA-Cardano-stakepool-100523112170356",
+      "twitter":"",
+      "website":"https://www.santapools.com",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"haugstrup",
+    "operatorName":"Jeppe Haugstrup",
+    "github":"JeppeHaugstrup"
+  },
+  {
+    "ticker":"VLHLA",
+    "poolId":"29889ecc8151e5a93fcd321cd905eee0f50c8364273550205058bfe8",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/valhallapool",
+      "website":"http://valhallapool.net",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+        "telegram":"t0m3kf",
+    "operatorName":"",
+    "github":"t0m3kf"
+  },
+  {
+    "ticker":"LION",
+    "poolId":"ba8afcb79a251e47979fee3cbd5878e7fb7b153270986adc19063df5",
     "social":{
        "facebook":"",
-       "twitter":"https://twitter.com/cryptobrethren",
-       "website":"http://brotherhoodcrypto.io/",
+       "twitter":"@lionstakingpool",
+       "website":"https://lionstakingpool.com/",
        "reddit":"",
        "instagram":"",
        "youtube":""
     },
-    "telegram":"manizzler",
-    "operatorName":"manizzler",
-    "github":"manizzle"
+    "telegram":"@chris_lionstakingpool",
+    "operatorName":"Chris & Rick",
+    "github":"chridado"
+  },
+  {
+    "ticker":"HOLA",
+    "poolId":"ce9f192835046ba71ed302d5d3e0ba99d65fd3950346cadad4781814",
+    "social":{
+       "facebook":"",
+       "twitter":"https://twitter.com/holacardano",
+       "website":"https://holastakepool.com/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"holastakepool",
+    "operatorName":"Arian",
+    "github":"Arian"
   }, 
   {
     "ticker":"ATFF",
@@ -1952,5 +2147,20 @@
     "telegram":"ATFFpool",
     "operatorName":"Ewald",
     "github":"ATFFpool"
+  },
+  {
+    "ticker":"WISH",
+    "poolId":"4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852",
+    "social":{
+       "facebook":"https://facebook.com/wishpoolbybclens",
+       "twitter":"https://twitter.com/blockchainlens",
+       "website":"http://blockchainlens.org/",
+       "reddit":"WISH-Pool",
+       "instagram":"blockchainlens",
+       "youtube":""
+    },
+    "telegram":"BCLens",
+    "operatorName":"BCLens",
+    "github":"bclens"
   }
 ]
