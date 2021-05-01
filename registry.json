@@ -2252,6 +2252,20 @@
     "telegram":"Karrizzmo",
     "operatorName":"Chris",
     "github":"chris-moreton"
-
+  },
+  {
+    "ticker":"REBEL",
+    "poolId":"11c5ea16604355fe508272826bdba02ac118562b52eb6b479bde758c",
+    "social":{
+       "facebook":"",
+       "twitter":"https://twitter.com/REBELstakePool",
+       "website":"http://rebelpool.io/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"rebeltom",
+    "operatorName":"",
+    "github":""
   }
 ]
