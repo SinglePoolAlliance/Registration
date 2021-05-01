@@ -797,6 +797,11 @@
         "pool_id": "3fac5e0197537b8eb5402249937b0b381f236436ad1ead40b7f6ec63",
         "member_since": "2021-05-01",
         "name": "CHESS"
+      },
+      "157": {
+        "pool_id": "11c5ea16604355fe508272826bdba02ac118562b52eb6b479bde758c",
+        "member_since": "2021-05-01",
+        "name": "REBEL"
       }
     }
   }
