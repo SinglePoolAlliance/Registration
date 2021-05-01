@@ -2089,6 +2089,21 @@
     "github":"retropool"
   },
   {
+    "ticker":"SKADA",
+    "poolId":"25122cd0fce3f01b6f8510e9ab2482921293bf7219d158ce1ba9c9b3",
+    "social":{
+      "facebook":"https://www.facebook.com/SkadaCardanoStakePool",
+      "twitter":"",
+      "website":"https://stakeada.dynu.com/",
+       "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },   
+    "telegram":"skadastakepool",
+    "operatorName":"Jonathan",
+    "github":""
+  },
+  {
     "ticker":"NEP",
     "poolId":"ef603340ac08cbe1cbe003821a2272e15612b50b86c0066e043dc64e",
     "social":{
