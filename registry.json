@@ -2385,5 +2385,20 @@
     "telegram":"shanecoughlan",
     "operatorName":"Shane Coughlan",
     "github":"shanecoughlan"
+  },
+  {
+    "ticker":"CDNC",
+    "poolId":"22531954c0bef931e312836efe14061ba1e33417ea246a7c165dbee9",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/CDNCardano",
+      "website":"https://www.cdncardano.com/index.html",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"cdncardano",
+    "operatorName":"",
+    "github":"jthomson1"
   }
 ]
