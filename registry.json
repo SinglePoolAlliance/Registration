@@ -1,4 +1,19 @@
 [
+    {
+      "ticker":"ABPP",
+      "poolId":"317572319ddc2ffa13780b6171549b048318b1822c0ed33f46338221",
+      "social":{
+         "facebook":"",
+         "twitter":"",
+         "website":"https://ada.bestpool.pro/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"bestpoolpro",
+      "operatorName":"Erik",
+      "github":""
+   },
       {
       "ticker":"POOLU",
       "poolId":"819941b2b97a23355387638effc31bc7d3e953663e1a6b4c6df5b97d",
