@@ -2387,6 +2387,21 @@
     "github":"shanecoughlan"
   },
   {
+    "ticker":"F2VI",
+    "poolId":"4159a9cc7339bd2c495ad83239c2f1b97c8d2097eed6b120e08948c9",
+    "social":{
+       "facebook":"",
+       "twitter":"F2Vi_StakePool",
+       "website":"https://f2viada.wixsite.com/my-site",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"boomalax",
+    "operatorName":"Lionel Martinez",
+    "github":"F2ViADA"
+  },
+  {
     "ticker": "SBLYR",
     "poolId": "8264de3cdb1798dd8758e24cda5101184b44543e7c4421c7815f9ed8",
     "social": {
