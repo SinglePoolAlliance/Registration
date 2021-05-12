@@ -2430,5 +2430,20 @@
     "telegram": "devdertin",
     "operatorName": "Guillermo Céspedes",
     "github": "terostakepool"
+  },
+  {
+    "ticker": "TOCP",
+    "poolId": "f54ab5770babf306264f73d0fcf47efc6e39c9383fe83f9f229f2e76",
+    "social": {
+      "twitter": "theoceancleanu1",
+      "facebook": "",
+      "reddit": "",
+      "instagram": "",
+      "website": "https://www.theoceancleanuppool.ch/",
+      "youtube": ""
+    },
+    "telegram": "theoceancleanuppool",
+    "operatorName": "REF",
+    "github": "frefardt"
   }
 ]
