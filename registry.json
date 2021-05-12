@@ -2430,5 +2430,20 @@
     "telegram": "devdertin",
     "operatorName": "Guillermo Céspedes",
     "github": "terostakepool"
+  },
+  {
+    "ticker": "DEN",
+    "poolId": "d28e4ae3848720195f09becd15e6985b54cbf3b62e52bf53c5af8501",
+    "social": {
+      "twitter": "https://twitter.com/denadapool",
+      "facebook": "",
+      "reddit": "https://www.reddit.com/user/DenAdaPool",
+      "instagram": "",
+      "website": "https://denadapool.io",
+      "youtube": "https://www.youtube.com/channel/UCzMsKxzXYKcCtd5cMRQZn9g"
+    },
+    "telegram": "aldnns",
+    "operatorName": "Al",
+    "github": "DenDev-247"
   }
 ]
