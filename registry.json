@@ -2430,5 +2430,20 @@
     "telegram": "devdertin",
     "operatorName": "Guillermo Céspedes",
     "github": "terostakepool"
-  }
+  },
+  {
+      "ticker":"SOLID",
+      "poolId":"32f6df36b4625d51971dedb0cabd20a6c8577165d5f15530594dbc6b",
+      "social":{
+         "facebook":"SolidarityDeFi",
+         "twitter":"SolidarityDeFi",
+         "website":"https://solidarity.finance",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"jbradach",
+      "operatorName":"James Bradach",
+      "github":"SolidarityFinance"
+   }
 ]
