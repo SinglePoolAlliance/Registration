@@ -2430,5 +2430,20 @@
     "telegram": "devdertin",
     "operatorName": "Guillermo Céspedes",
     "github": "terostakepool"
+  },
+  {
+    "ticker": "ADATW",
+    "poolId": "7ce59da0bac7f64b40fcda60a7ee368d5ac8082d81f2bb75fef9e01e",
+    "social": {
+      "twitter": "",
+      "facebook": "",
+      "reddit": "",
+      "instagram": "",
+      "website": "https://www.youtube.com/watch?v=O5iMJC1s9XM&ab_channel=JasonLai",
+      "youtube": ""
+    },
+    "telegram": "Tw_JasonLai",
+    "operatorName": "linuxjason",
+    "github": "linuxjason"
   }
 ]
