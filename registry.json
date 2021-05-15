@@ -1,5 +1,20 @@
 [
       {
+      "ticker":"NODO",
+      "poolId":"20c00ebe39ed12dbd2f3e84a5b57b85c972d1039cf79c70d893b6227",
+      "social":{
+         "facebook":"",
+         "twitter":"CardanodoStakePool",
+         "website":"https://www.cardanodo.com",
+         "reddit":"Cardanodo",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"Cardanodo_NODO",
+      "operatorName":"Story [NODO]",
+      "github":"cardanodo"
+   },
+      {
       "ticker":"POOLU",
       "poolId":"819941b2b97a23355387638effc31bc7d3e953663e1a6b4c6df5b97d",
       "social":{
