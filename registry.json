@@ -2430,5 +2430,20 @@
     "telegram": "devdertin",
     "operatorName": "Guillermo Céspedes",
     "github": "terostakepool"
+  },
+  {
+    "ticker": "PAT",
+    "poolId": "46772701ede42bf7edfcfb01bbcb73e14a4a5337e39b12f153c8bac5",
+    "social": {
+      "twitter": "patagoniapool",
+      "facebook": "",
+      "reddit": "",
+      "instagram": "",
+      "website": "https://patagoniastakepool.com/",
+      "youtube": "https://www.youtube.com/channel/UCMAsiTF5m2gQhvHVYtRHDhA"
+    },
+    "telegram": "patagoniastakepool",
+    "operatorName": "Huemul",
+    "github": "patagonia-stake-pool"
   }
 ]
