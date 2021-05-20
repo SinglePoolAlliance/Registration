@@ -2430,5 +2430,20 @@
     "telegram": "devdertin",
     "operatorName": "Guillermo Céspedes",
     "github": "terostakepool"
+  },
+  {
+    "ticker": "PIXEL",
+    "poolId": "4f3410f074e7363091a1cc1c21b128ae423d1cce897bd19478e534bb",
+    "social": {
+      "twitter": "jack7e",
+      "facebook": "",
+      "reddit": "encrypted_anon",
+      "instagram": "",
+      "website": "https://pixelpool.io/",
+      "youtube": "https://www.youtube.com/channel/UC-gm631fGNIsGa2USQLhB5Q"
+    },
+    "telegram": "jack7e",
+    "operatorName": "Jack",
+    "github": "jack-0"
   }
 ]
