@@ -2431,16 +2431,19 @@
     "operatorName": "Guillermo Céspedes",
     "github": "terostakepool"
   },
-      {	
-        "ticker":"AZUL",
-        "poolId":"19c56be8538786b0b1ddaeb4049faf6a00df0ca2df15e05b0472a866",
-        "social":{
-              "twitter":"https://twitter.com/stake_for",
-              "website":"https://stakeforfuture.org/",
-              "instagram":"https://www.instagram.com/stakeforfuture/",
-     },
-        "telegram":"Tim_Bridge",
-        "operatorName":"Jochen & Tim", 
-        "github":"JOxBERGER"
-	}
+  {	
+    "ticker":"AZUL",
+    "poolId":"19c56be8538786b0b1ddaeb4049faf6a00df0ca2df15e05b0472a866",
+    "social": {
+      "twitter": "https://twitter.com/stake_for",
+      "facebook": "",
+      "reddit": "",
+      "website": "https://stakeforfuture.org/",
+      "instagram": "https://www.instagram.com/stakeforfuture/",
+      "youtube": ""
+    },
+    "telegram":"Tim_Bridge",
+    "operatorName":"Jochen & Tim", 
+    "github":"JOxBERGER"
+  }
 ]
