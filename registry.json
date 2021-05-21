@@ -2417,6 +2417,21 @@
     "github": "keyflight"
   },
   {
+    "ticker": "G4UR",
+    "poolId": "ad20497c11786fa78dcee2e7c327d10bd456751e583cb6564993fd3b",
+    "social": {
+      "twitter": "G4urTeam",
+      "facebook": "",  
+      "reddit": "",
+      "instagram": "",
+      "website": "",
+      "youtube": ""
+    },
+    "telegram": "JaviUrrestarazu",
+    "operatorName": "Javier",
+    "github": ""
+  },      
+  {
     "ticker": "TERO",
     "poolId": "07175f6efa70645146007138a4fdd00b9e8db2a73baecdd704ebccfd",
     "social": {
@@ -2445,5 +2460,20 @@
     "telegram": "theoceancleanuppool",
     "operatorName": "",
     "github": "frefardt"
+  },
+  {	
+    "ticker":"AZUL",
+    "poolId":"19c56be8538786b0b1ddaeb4049faf6a00df0ca2df15e05b0472a866",
+    "social": {
+      "twitter": "https://twitter.com/stake_for",
+      "facebook": "",
+      "reddit": "",
+      "website": "https://stakeforfuture.org/",
+      "instagram": "https://www.instagram.com/stakeforfuture/",
+      "youtube": ""
+    },
+    "telegram":"Tim_Bridge",
+    "operatorName":"Jochen & Tim", 
+    "github":"JOxBERGER"
   }
 ]
