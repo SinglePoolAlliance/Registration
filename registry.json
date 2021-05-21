@@ -1,5 +1,20 @@
 [
       {
+      "ticker":"ICRYP",
+      "poolId":"2671702f26f947ecc114861c4983bfdc8616d3fa2bace18dd4a91e65",
+      "social":{
+         "facebook":"",
+         "twitter":"icrypnet",
+         "website":"https://www.icryp.net",
+         "reddit":"",
+         "instagram":"",
+         "youtube":"The Last Generation"
+      },
+      "telegram":"",
+      "operatorName":"",
+      "github":""
+   },
+      {
       "ticker":"POOLU",
       "poolId":"819941b2b97a23355387638effc31bc7d3e953663e1a6b4c6df5b97d",
       "social":{
