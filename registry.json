@@ -2417,6 +2417,21 @@
     "github": "keyflight"
   },
   {
+    "ticker": "G4UR",
+    "poolId": "ad20497c11786fa78dcee2e7c327d10bd456751e583cb6564993fd3b",
+    "social": {
+      "twitter": "G4urTeam",
+      "facebook": "",  
+      "reddit": "",
+      "instagram": "",
+      "website": "",
+      "youtube": ""
+    },
+    "telegram": "JaviUrrestarazu",
+    "operatorName": "Javier",
+    "github": ""
+  },      
+  {
     "ticker": "TERO",
     "poolId": "07175f6efa70645146007138a4fdd00b9e8db2a73baecdd704ebccfd",
     "social": {
