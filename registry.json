@@ -2505,5 +2505,20 @@
     "telegram":"jbradach",
     "operatorName":"James Bradach",
     "github":"SolidarityFinance"
+  },
+  {
+    "ticker":"CAPYB",
+    "poolId":"51c46851f53579f04ac4dfe8cde1182976d78b058abd4f1f7a59d4b3",
+    "social":{
+      "facebook":"",
+      "twitter":"capybarapool",
+      "website":"https://capybara-pool.org/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"capybarapool",
+    "operatorName":"Felipe",
+    "github":"wfelipe"
   }
 ]
