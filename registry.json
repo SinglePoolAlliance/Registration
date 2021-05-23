@@ -2505,5 +2505,19 @@
     "telegram":"jbradach",
     "operatorName":"James Bradach",
     "github":"SolidarityFinance"
-  }
+  },
+     {
+    "ticker":"FASO",
+    "poolId":"70ab9e73071c50927631a218137d53e765665a578b744feeae3c5d81",
+    "social":{
+      "twitter":"@KAD1212",
+      "website":"https://fasostakepool.com/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"https://t.me/fasopool",
+    "operatorName":"Kade Abdul",
+    "github":"https://github.com/link78"
+  } 
 ]
