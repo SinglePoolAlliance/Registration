@@ -1,5 +1,20 @@
 [
-      {
+  {
+      "ticker":"MOAI",
+      "poolId":"d44442e0f92b4173205c4e8609cd48cbbb09c7dbcb805704c22be1ff",
+      "social":{
+         "facebook":"",
+         "twitter":"moaipool",
+         "website":"https://moaipool.com/",
+         "reddit":"moaipool",
+         "instagram":"",
+         "youtube":"https://www.youtube.com/channel/UCCzQFsz3zU-rBCVXvf7-Ojg"
+      },
+      "telegram":"MoaiPool",
+      "operatorName":"",
+      "github":"moaipool"
+  },    
+  {
       "ticker":"POOLU",
       "poolId":"819941b2b97a23355387638effc31bc7d3e953663e1a6b4c6df5b97d",
       "social":{
