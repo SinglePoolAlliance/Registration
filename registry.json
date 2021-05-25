@@ -2505,5 +2505,20 @@
     "telegram":"jbradach",
     "operatorName":"James Bradach",
     "github":"SolidarityFinance"
+  },
+  {
+    "ticker":"PIGGY",
+    "poolId":"2595f0a5ff4145f3d6ee09e81c2488bdfe2079004eda635a6dce1515",
+    "social":{
+      "facebook":"",
+      "twitter":"ADA_PIGGY",
+      "website":"http://piggy.trendingpools.com",
+      "reddit":"https://www.reddit.com/user/flat_edd",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"ada_piggy",
+    "operatorName":"Eddie",
+    "github":"ada-piggy-bank"
   }
 ]
