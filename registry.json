@@ -4,13 +4,13 @@
       "poolId":"20c00ebe39ed12dbd2f3e84a5b57b85c972d1039cf79c70d893b6227",
       "social":{
          "facebook":"",
-         "twitter":"CardanodoStakePool",
-         "website":"https://www.cardanodo.com",
+         "twitter":"NodoPool",
+         "website":"https://cardanodo.com",
          "reddit":"Cardanodo",
          "instagram":"",
          "youtube":""
       },
-      "telegram":"Cardanodo_NODO",
+      "telegram":"cardanodo",
       "operatorName":"Story [NODO]",
       "github":"cardanodo"
    },
