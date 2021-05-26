@@ -2505,5 +2505,20 @@
     "telegram":"jbradach",
     "operatorName":"James Bradach",
     "github":"SolidarityFinance"
+  },
+  {
+    "ticker":"ITFX",
+    "poolId":"0e0926d5eeca04c15aecda464f8a08ac6e5d292a131180a0b7c2b475",
+    "social":{
+      "facebook":"",
+      "twitter":"",
+      "website":"https://ada.itefix.net",
+      "reddit":"ItefixNet",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"ItefixNet",
+    "operatorName":"",
+    "github":""
   }
 ]
