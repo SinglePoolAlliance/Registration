@@ -2505,5 +2505,20 @@
     "telegram":"jbradach",
     "operatorName":"James Bradach",
     "github":"SolidarityFinance"
+  },
+  {
+    "ticker":"RST",
+    "poolId":"9242098f44c84674782c9ba1e255c40be04a56281103b389b0ab59e8",
+    "social":{
+      "facebook":"",
+      "twitter":"PoolReset",
+      "website":"https://projectreset.io",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"t_rand2",
+    "operatorName":"Tyler Randolph",
+    "github":"trand2"
   }
 ]
