@@ -2505,5 +2505,20 @@
     "telegram":"jbradach",
     "operatorName":"James Bradach",
     "github":"SolidarityFinance"
+  },
+  {
+    "ticker":"FRSC",
+    "poolId":"pool17k2dpgvx8spkdhgf5j7x5u7pqjpvlwa76sugwen8l3xtk7kq3c4",
+    "social":{
+      "facebook":"https://www.facebook.com/freedom.socal/",
+      "twitter":"https://twitter.com/freedomsocal",
+      "website":"https://www.facebook.com/freedom.socal/",
+      "reddit":"https://www.reddit.com/u/FRSC_Stake_Pool",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"FreedomSoCal",
+    "operatorName":"Rory Young",
+    "github":"hdpro4u"
   }
 ]
