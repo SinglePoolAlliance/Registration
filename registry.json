@@ -2502,10 +2502,12 @@
       "instagram":"",
       "youtube":""
     },
-  {
     "telegram":"jthomson1",
     "operatorName":"",
-    "github":"jthomson1"    "ticker": "PIXEL",
+    "github":"jthomson1" 
+  },
+   {
+      "ticker": "PIXEL",
     "poolId": "4f3410f074e7363091a1cc1c21b128ae423d1cce897bd19478e534bb",
     "social": {
       "twitter": "jack7e",
