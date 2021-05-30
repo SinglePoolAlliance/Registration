@@ -2492,7 +2492,22 @@
     "github": "terostakepool"
   },
   {
-    "ticker": "TOCP",
+    "ticker": "PIXEL",
+    "poolId": "4f3410f074e7363091a1cc1c21b128ae423d1cce897bd19478e534bb",
+    "social": {
+      "twitter": "jack7e",
+      "facebook": "",
+      "reddit": "encrypted_anon",
+      "instagram": "",
+      "website": "https://pixelpool.io/",
+      "youtube": "https://www.youtube.com/channel/UC-gm631fGNIsGa2USQLhB5Q"
+    },
+    "telegram": "jack7e",
+    "operatorName": "Jack",
+    "github": "jack-0"
+  },
+{
+  "ticker": "TOCP",
     "poolId": "f54ab5770babf306264f73d0fcf47efc6e39c9383fe83f9f229f2e76",
     "social": {
       "twitter": "theoceancleanu1",
