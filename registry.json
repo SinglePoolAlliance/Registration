@@ -1,4 +1,49 @@
 [
+      {
+      "ticker":"POOLU",
+      "poolId":"819941b2b97a23355387638effc31bc7d3e953663e1a6b4c6df5b97d",
+      "social":{
+         "facebook":"",
+         "twitter":"CardanoPoolU",
+         "website":"www.cardanopoolu.com",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"CardanoPoolU",
+      "operatorName":"RALPH",
+      "github":""
+   },
+   {
+      "ticker":"TRUMP",
+      "poolId":"bebfeddd60032c8052e46587218dcd6f3e6f0b1ad9be3864508049bc",
+      "social":{
+         "facebook":"",
+         "twitter":"",
+         "website":"https://adapools.org/pool/bebfeddd60032c8052e46587218dcd6f3e6f0b1ad9be3864508049bc",
+         "reddit":"",
+         "instagram":"",
+         "youtube":"https://www.youtube.com/channel/UCCzQFsz3zU-rBCVXvf7-Ojg"
+      },
+      "telegram":"TFPOOL",
+      "operatorName":"",
+      "github":""
+   },
+   {
+      "ticker":"RSV",
+      "poolId":"1be0613ee44270f56b5fbb71f667528e1d877d77d349dd7324d50869",
+      "social":{
+         "facebook":"",
+         "twitter":"RSVNODE",
+         "website":"https://reservoir.network",
+         "reddit":"RSVpool",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"reservoirNode",
+      "operatorName":"",
+      "github":"RSVpool"
+   },
    {
       "ticker":"MGC8",
       "poolId":"9ad588607c07c9d7677ff4129bbd20021c5619adc6796cb4d6ce0077",
@@ -928,19 +973,6 @@
       "telegram":"ThaiTheo",
       "operatorName":"Theo van Raaij",
       "github":"ThaiTheo"
-   },
-   {
-      "ticker":"PILOT",
-      "poolId":"c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82",
-      "social":{
-         "twitter":"ada_pilot",
-         "facebook":"",
-         "instagram":"https://www.instagram.com/ada_pilot",
-         "youtube":""
-      },
-      "telegram":"ADA_Pilot",
-      "operatorName":"Steven",
-      "github":"StevieMac415"
    },
    {
       "ticker":"BZH",
@@ -1939,6 +1971,21 @@
     "github": "ultron001"
   },
   {
+      "ticker":"888",
+      "poolId":"7c5fd84421a68f545d09ad8580b2a154a7bb6f79f4a3a8acb4d15e27",
+      "social":{
+         "facebook":"https://www.facebook.com/888pool.io",
+         "twitter":"https://twitter.com/888pool_io",
+         "website":"https://888pool.io/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"joeltech_888pool",
+      "operatorName":"",
+      "github":"888pool"
+  },
+  {
     "ticker":"ECHO",
     "poolId":"70d75931ba9c0c65c9d0a7c5fa544d948fe2c78597378fac17810184",
     "social":{
@@ -1967,21 +2014,36 @@
       "telegram":"manizzler",
       "operatorName":"manizzler",
       "github":"manizzle"
+   },
+   {
+      "ticker":"ADATA",
+      "poolId":"eb6e1949ef2e1f2cdb9b041d2a4b86d4d837798ab3ddfe53cc4cafe4",
+      "social":{
+         "facebook":"",
+         "twitter":"https://twitter.com/adapooldata",
+         "website":"https://www.pooldata.live",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"ADATA_Mik",
+      "operatorName":"",
+      "github":"ada-pooldata"
   },
   {
-    "ticker":"888",
-    "poolId":"7c5fd84421a68f545d09ad8580b2a154a7bb6f79f4a3a8acb4d15e27",
+    "ticker":"ASN",
+    "poolId":"f1263e0885fb00f352968294c5a6bf18da372b98236f55a457416d62",
     "social":{
-      "facebook":"https://www.facebook.com/888pool.io",
-      "twitter":"https://twitter.com/888pool_io",
-      "website":"https://888pool.io/",
-      "reddit":"",
-      "instagram":"",
-      "youtube":""
+       "facebook":"cardanohungary",
+       "twitter":"adastarnode",
+       "website":"https://adastarnode.com/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
     },
-    "telegram":"owner_888pool",
-    "operatorName":"",
-    "github":"888pool"
+    "telegram":"rtibor",
+    "operatorName":"Tibor",
+    "github":"AdaStarNode"
   },
   {
     "ticker":"MEME",
@@ -2040,6 +2102,21 @@
     "telegram":"retrostakepool",
     "operatorName":"Beau",
     "github":"retropool"
+  },
+  {
+    "ticker":"SKADA",
+    "poolId":"25122cd0fce3f01b6f8510e9ab2482921293bf7219d158ce1ba9c9b3",
+    "social":{
+      "facebook":"https://www.facebook.com/SkadaCardanoStakePool",
+      "twitter":"",
+      "website":"https://stakeada.dynu.com/",
+       "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },   
+    "telegram":"skadastakepool",
+    "operatorName":"Jonathan",
+    "github":""
   },
   {
     "ticker":"NEP",
@@ -2112,7 +2189,7 @@
       "instagram":"",
       "youtube":""
     },
-    "telegram":"t0m3kf",
+        "telegram":"t0m3kf",
     "operatorName":"",
     "github":"t0m3kf"
   },
@@ -2130,5 +2207,333 @@
     "telegram":"CoudreBros",
     "operatorName":"",
     "github":"Couder82"
-  } 
+  } ,
+  {
+    "ticker":"PANL",
+    "poolId":"05e11c24a4de15366c6d548f8847589164d02260b6a059a08c22be2a",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/PANL_stakepool",
+      "website":"http://panl.org",
+        "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+        "telegram":"PANLstakepool",
+    "operatorName":"Ryan",
+    "github":"rp5210"
+  },
+  {
+    "ticker":"MUNIN",
+    "poolId":"f96b040819395ea1a0fe845da0181e399db99224e3088e82fbc441b2",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/ravenpoolnet",
+      "website":"http://ravenpool.net",
+        "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"ravenpool",
+    "operatorName":"",
+    "github":"eoswins"
+  },
+  { 
+  "ticker": "TOY",
+    "poolId": "ed8b9c25260584007c5453650cbad28c163c0c9d01b880f30655c396",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/ice459pp",
+      "website": "https://pandapool.site",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "ice459pp",
+    "operatorName": "Ming",
+    "github": "ice459pp"
+  },
+   {
+    "ticker":"PECHY",
+    "poolId":"b7dcd684b724061fbb76ef4f78b7541a0a058ab7b860ef71828e5e19",
+    "social":{
+      "facebook":"https://www.facebook.com/peachypool.io",
+      "twitter":"https://twitter.com/PeachyPool",
+      "website":"https://peachypool.io",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"peachypool",
+    "operatorName":"Supanit Thomsuwan",
+    "github":"peach-git"
+  },
+  {
+    "ticker":"ANVIL",
+    "poolId":"9084ebeb011e610e695068a74fa883dac5eda55faca77107b5f40064",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/AnvilPool",
+      "website":"https://anvilpool.carrd.co",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+   "telegram":"Doc_Krieger",
+    "operatorName":"",
+    "github":""
+  },
+  { "ticker":"ADAPT",
+    "poolId":"780623d70c1168241e1d4d623e5e14e7f02e701b536329e9a735ad61",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/AdapptO",
+      "website":"https://adappt.online",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"laplasz",
+    "operatorName":"",
+    "github":"laplasz"
+  },
+  { "ticker":"LION",
+    "poolId":"ba8afcb79a251e47979fee3cbd5878e7fb7b153270986adc19063df5",
+    "social":{
+       "facebook":"",
+       "twitter":"@lionstakingpool",
+       "website":"https://lionstakingpool.com/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"@chris_lionstakingpool",
+    "operatorName":"Chris & Rick",
+    "github":"chridado"
+  },
+  {
+    "ticker":"HOLA",
+    "poolId":"ce9f192835046ba71ed302d5d3e0ba99d65fd3950346cadad4781814",
+    "social":{
+       "facebook":"",
+       "twitter":"https://twitter.com/holacardano",
+       "website":"https://holastakepool.com/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"holastakepool",
+    "operatorName":"Arian",
+    "github":"Arian"
+  },
+  {
+    "ticker":"BHMT",
+    "poolId":"052f4ae6c6f39c00a45e390ed0849fd719e1848c60cf3ba6b985635e",
+    "social":{
+       "facebook":"",
+       "twitter":"https://twitter.com/behemothpool",
+       "website":"http://www.behemothpool.com",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },   
+    "telegram":"Behemothpool",
+    "operatorName":"Raine",
+    "github":"rakalto"
+  }, 
+  {
+    "ticker":"ATFF",
+    "poolId":"fdb8e1e7f181f23d31f09bb4547370ef104688b37b3e7f4fdb222f4f",
+    "social":{
+       "facebook":"",
+       "twitter":"https://twitter.com/ATFFpool",
+       "website":"http://www.atffpool.at/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"ATFFpool",
+    "operatorName":"Ewald",
+    "github":"ATFFpool"
+  },
+   {
+    "ticker":"BETTR",
+    "poolId":"3e14044e8965189bc1809326a7c8b58825dca20f693e80c37b7095f3",
+    "social":{
+       "facebook":"",
+       "twitter":"https://twitter.com/the_better_pool",
+       "website":"https://www.stakeitbetter.com/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"thebetterpool",
+    "operatorName":"",
+    "github":""
+  },
+  {
+    "ticker":"WISH",
+    "poolId":"4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852",
+    "social":{
+       "facebook":"https://facebook.com/wishpoolbybclens",
+       "twitter":"https://twitter.com/blockchainlens",
+       "website":"http://blockchainlens.org/",
+       "reddit":"WISH-Pool",
+       "instagram":"blockchainlens",
+       "youtube":""
+    },
+    "telegram":"BCLens",
+    "operatorName":"BCLens",
+    "github":"bclens"
+  },
+  {
+    "ticker":"CHESS",
+    "poolId":"3fac5e0197537b8eb5402249937b0b381f236436ad1ead40b7f6ec63",
+    "social":{
+       "facebook":"",
+       "twitter":"https://twitter.com/PoolChess",
+       "website":"https://chess.ihpapp.com",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"Karrizzmo",
+    "operatorName":"Chris",
+    "github":"chris-moreton"
+  },
+  {
+    "ticker":"REBEL",
+    "poolId":"11c5ea16604355fe508272826bdba02ac118562b52eb6b479bde758c",
+    "social":{
+       "facebook":"",
+       "twitter":"https://twitter.com/REBELstakePool",
+       "website":"http://rebelpool.io/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"rebeltom",
+    "operatorName":"",
+    "github":""
+  },
+  {
+    "ticker":"DAWN",
+    "poolId":"9f2049983941787cf7d02c27bc7b09553a14d9e8e09bcab5c613f8e9",
+    "social":{
+       "facebook":"shanecoughlan",
+       "twitter":"opendawn",
+       "website":"https://opendawn.com/DAWN/",
+       "reddit":"Shane-opendawn",
+       "instagram":"",
+       "youtube":"ShaneCoughlan"
+    },
+    "telegram":"shanecoughlan",
+    "operatorName":"Shane Coughlan",
+    "github":"shanecoughlan"
+  },
+  {
+    "ticker":"F2VI",
+    "poolId":"4159a9cc7339bd2c495ad83239c2f1b97c8d2097eed6b120e08948c9",
+    "social":{
+       "facebook":"",
+       "twitter":"F2Vi_StakePool",
+       "website":"https://f2viada.wixsite.com/my-site",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"boomalax",
+    "operatorName":"Lionel Martinez",
+    "github":"F2ViADA"
+  },
+  {
+    "ticker": "SBLYR",
+    "poolId": "8264de3cdb1798dd8758e24cda5101184b44543e7c4421c7815f9ed8",
+    "social": {
+      "twitter": "https://twitter.com/sublayerio",
+      "facebook": "",
+      "reddit": "https://reddit.com/user/sublayerio",
+      "instagram": "",
+      "website": "https://pool.sublayer.io",
+      "youtube": "https://www.youtube.com/channel/UC5MjFaqqlAbTX5NtxbG2_6Q"
+    },
+    "telegram": "sublayerio",
+    "operatorName": "Olivier",
+    "github": "keyflight"
+  },
+  {
+    "ticker": "G4UR",
+    "poolId": "ad20497c11786fa78dcee2e7c327d10bd456751e583cb6564993fd3b",
+    "social": {
+      "twitter": "G4urTeam",
+      "facebook": "",  
+      "reddit": "",
+      "instagram": "",
+      "website": "",
+      "youtube": ""
+    },
+    "telegram": "JaviUrrestarazu",
+    "operatorName": "Javier",
+    "github": ""
+  },      
+  {
+    "ticker": "TERO",
+    "poolId": "07175f6efa70645146007138a4fdd00b9e8db2a73baecdd704ebccfd",
+    "social": {
+      "twitter": "terostakepool",
+      "facebook": "",
+      "reddit": "",
+      "instagram": "",
+      "website": "https://www.terostakepool.com/",
+      "youtube": ""
+    },
+    "telegram": "devdertin",
+    "operatorName": "Guillermo Céspedes",
+    "github": "terostakepool"
+  },
+  {
+    "ticker": "TOCP",
+    "poolId": "f54ab5770babf306264f73d0fcf47efc6e39c9383fe83f9f229f2e76",
+    "social": {
+      "twitter": "theoceancleanu1",
+      "facebook": "",
+      "reddit": "",
+      "instagram": "",
+      "website": "https://www.theoceancleanuppool.ch/",
+      "youtube": ""
+    },
+    "telegram": "theoceancleanuppool",
+    "operatorName": "",
+    "github": "frefardt"
+  },
+  {	
+    "ticker":"AZUL",
+    "poolId":"19c56be8538786b0b1ddaeb4049faf6a00df0ca2df15e05b0472a866",
+    "social": {
+      "twitter": "https://twitter.com/stake_for",
+      "facebook": "",
+      "reddit": "",
+      "website": "https://stakeforfuture.org/",
+      "instagram": "https://www.instagram.com/stakeforfuture/",
+      "youtube": ""
+    },
+    "telegram":"Tim_Bridge",
+    "operatorName":"Jochen & Tim", 
+    "github":"JOxBERGER"
+  },
+  {
+    "ticker":"SOLID",
+    "poolId":"32f6df36b4625d51971dedb0cabd20a6c8577165d5f15530594dbc6b",
+    "social":{
+      "facebook":"SolidarityDeFi",
+      "twitter":"SolidarityDeFi",
+      "website":"https://solidarity.finance",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"jbradach",
+    "operatorName":"James Bradach",
+    "github":"SolidarityFinance"
+  }
 ]
