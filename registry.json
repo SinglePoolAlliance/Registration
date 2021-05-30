@@ -2492,7 +2492,22 @@
     "github": "terostakepool"
   },
   {
-    "ticker": "PIXEL",
+    "ticker":"CDNC",
+    "poolId":"22531954c0bef931e312836efe14061ba1e33417ea246a7c165dbee9",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/CDNCardano",
+      "website":"https://www.cdncardano.com/index.html",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"jthomson1",
+    "operatorName":"",
+    "github":"jthomson1" 
+  },
+   {
+      "ticker": "PIXEL",
     "poolId": "4f3410f074e7363091a1cc1c21b128ae423d1cce897bd19478e534bb",
     "social": {
       "twitter": "jack7e",
