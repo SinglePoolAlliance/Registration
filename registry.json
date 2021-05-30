@@ -2014,6 +2014,21 @@
       "telegram":"manizzler",
       "operatorName":"manizzler",
       "github":"manizzle"
+   },
+   {
+      "ticker":"ADATA",
+      "poolId":"eb6e1949ef2e1f2cdb9b041d2a4b86d4d837798ab3ddfe53cc4cafe4",
+      "social":{
+         "facebook":"",
+         "twitter":"https://twitter.com/adapooldata",
+         "website":"https://www.pooldata.live",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"ADATA_Mik",
+      "operatorName":"",
+      "github":"ada-pooldata"
   },
   {
     "ticker":"ASN",
@@ -2177,6 +2192,36 @@
         "telegram":"t0m3kf",
     "operatorName":"",
     "github":"t0m3kf"
+  },
+    {
+    "ticker":"CB1",
+    "poolId":"74d66da57368e12f12bd07f303da7f8cd3c2494af9e32e4dea210c58",
+    "social":{
+      "facebook":"https://www.facebook.com/coudrebros",
+      "twitter":"https://twitter.com/broscoudre",
+      "website":"http://www.coudrebros.eu",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"CoudreBros",
+    "operatorName":"",
+    "github":"Couder82"
+  } ,
+  {
+    "ticker":"PANL",
+    "poolId":"05e11c24a4de15366c6d548f8847589164d02260b6a059a08c22be2a",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/PANL_stakepool",
+      "website":"http://panl.org",
+        "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+        "telegram":"PANLstakepool",
+    "operatorName":"Ryan",
+    "github":"rp5210"
   },
   {
     "ticker":"MUNIN",
@@ -2417,6 +2462,21 @@
     "github": "keyflight"
   },
   {
+    "ticker": "G4UR",
+    "poolId": "ad20497c11786fa78dcee2e7c327d10bd456751e583cb6564993fd3b",
+    "social": {
+      "twitter": "G4urTeam",
+      "facebook": "",  
+      "reddit": "",
+      "instagram": "",
+      "website": "",
+      "youtube": ""
+    },
+    "telegram": "JaviUrrestarazu",
+    "operatorName": "Javier",
+    "github": ""
+  },      
+  {
     "ticker": "TERO",
     "poolId": "07175f6efa70645146007138a4fdd00b9e8db2a73baecdd704ebccfd",
     "social": {
@@ -2445,5 +2505,50 @@
     "telegram": "jack7e",
     "operatorName": "Jack",
     "github": "jack-0"
+  },
+{
+  "ticker": "TOCP",
+    "poolId": "f54ab5770babf306264f73d0fcf47efc6e39c9383fe83f9f229f2e76",
+    "social": {
+      "twitter": "theoceancleanu1",
+      "facebook": "",
+      "reddit": "",
+      "instagram": "",
+      "website": "https://www.theoceancleanuppool.ch/",
+      "youtube": ""
+    },
+    "telegram": "theoceancleanuppool",
+    "operatorName": "",
+    "github": "frefardt"
+  },
+  {	
+    "ticker":"AZUL",
+    "poolId":"19c56be8538786b0b1ddaeb4049faf6a00df0ca2df15e05b0472a866",
+    "social": {
+      "twitter": "https://twitter.com/stake_for",
+      "facebook": "",
+      "reddit": "",
+      "website": "https://stakeforfuture.org/",
+      "instagram": "https://www.instagram.com/stakeforfuture/",
+      "youtube": ""
+    },
+    "telegram":"Tim_Bridge",
+    "operatorName":"Jochen & Tim", 
+    "github":"JOxBERGER"
+  },
+  {
+    "ticker":"SOLID",
+    "poolId":"32f6df36b4625d51971dedb0cabd20a6c8577165d5f15530594dbc6b",
+    "social":{
+      "facebook":"SolidarityDeFi",
+      "twitter":"SolidarityDeFi",
+      "website":"https://solidarity.finance",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"jbradach",
+    "operatorName":"James Bradach",
+    "github":"SolidarityFinance"
   }
 ]
