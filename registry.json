@@ -2193,6 +2193,21 @@
     "operatorName":"",
     "github":"t0m3kf"
   },
+    {
+    "ticker":"CB1",
+    "poolId":"74d66da57368e12f12bd07f303da7f8cd3c2494af9e32e4dea210c58",
+    "social":{
+      "facebook":"https://www.facebook.com/coudrebros",
+      "twitter":"https://twitter.com/broscoudre",
+      "website":"http://www.coudrebros.eu",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"CoudreBros",
+    "operatorName":"",
+    "github":"Couder82"
+  } ,
   {
     "ticker":"PANL",
     "poolId":"05e11c24a4de15366c6d548f8847589164d02260b6a059a08c22be2a",
