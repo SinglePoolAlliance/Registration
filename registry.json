@@ -2194,6 +2194,21 @@
     "github":"t0m3kf"
   },
   {
+    "ticker":"PANL",
+    "poolId":"05e11c24a4de15366c6d548f8847589164d02260b6a059a08c22be2a",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/PANL_stakepool",
+      "website":"http://panl.org",
+        "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+        "telegram":"PANLstakepool",
+    "operatorName":"Ryan",
+    "github":"rp5210"
+  },
+  {
     "ticker":"MUNIN",
     "poolId":"f96b040819395ea1a0fe845da0181e399db99224e3088e82fbc441b2",
     "social":{
