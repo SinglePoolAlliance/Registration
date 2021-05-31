@@ -2580,5 +2580,20 @@
     "telegram":"capybarapool",
     "operatorName":"Felipe",
     "github":"wfelipe"
-  }
+  },
+  {
+    "ticker":"BRO",
+    "poolId":"666c22b0b35f110f2229f850a047bc3ac3e53e82813e5b5df147950f",
+    "social":{
+      "facebook":"",
+      "twitter":"Brotein Stake",
+      "website":"https://bropool.club",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"",
+    "operatorName":"Steven",
+    "github":"steveaggie"
+  },
 ]
