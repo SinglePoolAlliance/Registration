@@ -2580,5 +2580,19 @@
     "telegram":"capybarapool",
     "operatorName":"Felipe",
     "github":"wfelipe"
+  },
+  {
+    "ticker":"MAG",
+    "poolId":"7e04f46e82e7ab8fdc660977bf73f0fb3307d5c449ba010eb090d426",
+    "social":{
+      "twitter":"mag_stakepool",
+      "website":"https://magical.money",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"aan_io",
+    "operatorName":"Adam",
+    "github":"MagicalMoney"
   }
 ]
