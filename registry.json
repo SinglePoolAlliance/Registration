@@ -1,5 +1,19 @@
 [
-      {
+    {
+        "ticker": "ASK",                                                      
+        "poolId": "1af3f4c7cf153326f0d988e74dda8c1b0064538c4200c889567e30f7",
+        "social": {                                                            
+            "twitter": "AdaStakP",
+            "website": "https://adastak.com",
+            "facebook": " ",  
+            "instagram": " ",
+            "youtube": " "
+        },
+        "telegram": "AdaStak_Official",                              
+        "operatorName": "Will",		                                   
+        "github": "wrp0"                                                      
+    },
+    {
       "ticker":"POOLU",
       "poolId":"819941b2b97a23355387638effc31bc7d3e953663e1a6b4c6df5b97d",
       "social":{
