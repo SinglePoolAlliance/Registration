@@ -15,6 +15,21 @@
       "github":""
    },
    {
+      "ticker":"PIFY",
+      "poolId":"884e3b60b361f9b714e06b24063d7b7225b17f64cb46d8ee8f0c821a",
+      "social":{
+         "facebook":"",
+         "twitter":"adapify",
+         "website":"https://adapify.com/",
+         "reddit":"philbert440",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"adapify",
+      "operatorName":"Philip",
+      "github":"philbert440"
+   },
+   {
       "ticker":"TRUMP",
       "poolId":"bebfeddd60032c8052e46587218dcd6f3e6f0b1ad9be3864508049bc",
       "social":{
