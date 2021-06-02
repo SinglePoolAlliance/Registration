@@ -2567,6 +2567,21 @@
     "github":"SolidarityFinance"
   },
   {
+   "ticker":"PLOT",
+   "poolId":"45e00d4c106ecc6c84b21a77f7cb52b1634e5c1e697f4ebfebfff2cf",
+   "social":{
+     "facebook":"https://www.facebook.com/Plot-Cardano-Stake-pool-103749598506160",
+     "twitter":"https://twitter.com/CardanoPlot",
+     "website":"https://www.plotcardano.com",
+     "reddit":"",
+     "instagram":"https://www.instagram.com/plotcardano/",
+     "youtube":"https://www.youtube.com/channel/UCMJHRgaMgUwnxjRIYmk4kfA"
+   },
+   "telegram":"plotcardano_seattledev",
+   "operatorName":"Bemnet Merha, Habtamu Asfaw, & Abey Gebrehiwot",
+   "github":"bemnet4u"
+ },
+ {
     "ticker":"CAPYB",
     "poolId":"51c46851f53579f04ac4dfe8cde1182976d78b058abd4f1f7a59d4b3",
     "social":{
