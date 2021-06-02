@@ -2597,7 +2597,21 @@
     "github":"SolidarityFinance"
   },
   {
-   "ticker":"PLOT",
+    "ticker":"MAG",
+    "poolId":"7e04f46e82e7ab8fdc660977bf73f0fb3307d5c449ba010eb090d426",
+    "social":{
+      "twitter":"mag_stakepool",
+      "website":"https://magical.money",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"aan_io",
+    "operatorName":"Adam",
+    "github":"MagicalMoney"
+  },
+  {
+    "ticker":"PLOT",
    "poolId":"45e00d4c106ecc6c84b21a77f7cb52b1634e5c1e697f4ebfebfff2cf",
    "social":{
      "facebook":"https://www.facebook.com/Plot-Cardano-Stake-pool-103749598506160",
