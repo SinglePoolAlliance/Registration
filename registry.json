@@ -2655,5 +2655,20 @@
     "telegram":"capybarapool",
     "operatorName":"Felipe",
     "github":"wfelipe"
+  },
+  {
+    "ticker":"BPOOL",
+    "poolId":"cc1008a2bff95e4fa408a8d8d4adfac342120307e0fb3c713fce8834",
+    "social":{
+      "facebook":"",
+      "twitter":"eobe",
+      "website":"https://betterstake.com/",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"betterstake",
+    "operatorName":"Elmmer Berico",
+    "github":"mogadget"
   }
 ]
