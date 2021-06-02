@@ -1,4 +1,18 @@
 [
+    {
+        "ticker": "ASK",                                                      
+        "poolId": "1af3f4c7cf153326f0d988e74dda8c1b0064538c4200c889567e30f7",
+        "social": {                                                            
+            "twitter": "AdaStakP",
+            "website": "https://adastak.com",
+            "facebook": " ",  
+            "instagram": " ",
+            "youtube": " "
+        },
+        "telegram": "AdaStak_Official",                              
+        "operatorName": "Will",		                                   
+        "github": "wrp0"                                                      
+    },
       {
       "ticker":"NODO",
       "poolId":"20c00ebe39ed12dbd2f3e84a5b57b85c972d1039cf79c70d893b6227",
