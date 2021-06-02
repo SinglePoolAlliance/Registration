@@ -1,5 +1,20 @@
 [
       {
+      "ticker":"NODO",
+      "poolId":"20c00ebe39ed12dbd2f3e84a5b57b85c972d1039cf79c70d893b6227",
+      "social":{
+         "facebook":"",
+         "twitter":"NodoPool",
+         "website":"https://cardanodo.com",
+         "reddit":"Cardanodo",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"Story_NODO",
+      "operatorName":"Story C",
+      "github":"cardanodo"
+      },
+  { 
       "ticker":"ICRYP",
       "poolId":"2671702f26f947ecc114861c4983bfdc8616d3fa2bace18dd4a91e65",
       "social":{
