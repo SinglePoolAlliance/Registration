@@ -1,4 +1,48 @@
 [
+    {
+        "ticker": "ASK",                                                      
+        "poolId": "1af3f4c7cf153326f0d988e74dda8c1b0064538c4200c889567e30f7",
+        "social": {                                                            
+            "twitter": "AdaStakP",
+            "website": "https://adastak.com",
+            "facebook": " ",  
+            "instagram": " ",
+            "youtube": " "
+        },
+        "telegram": "AdaStak_Official",                              
+        "operatorName": "Will",		                                   
+        "github": "wrp0"                                                      
+    },
+      {
+      "ticker":"NODO",
+      "poolId":"20c00ebe39ed12dbd2f3e84a5b57b85c972d1039cf79c70d893b6227",
+      "social":{
+         "facebook":"",
+         "twitter":"NodoPool",
+         "website":"https://cardanodo.com",
+         "reddit":"Cardanodo",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"Story_NODO",
+      "operatorName":"Story C",
+      "github":"cardanodo"
+      },
+  { 
+      "ticker":"ICRYP",
+      "poolId":"2671702f26f947ecc114861c4983bfdc8616d3fa2bace18dd4a91e65",
+      "social":{
+         "facebook":"",
+         "twitter":"icrypnet",
+         "website":"https://www.icryp.net",
+         "reddit":"",
+         "instagram":"",
+         "youtube":"The Last Generation"
+      },
+      "telegram":"@icrypnet",
+      "operatorName":"",
+      "github":""
+   },
       {
       "ticker":"POOLU",
       "poolId":"819941b2b97a23355387638effc31bc7d3e953663e1a6b4c6df5b97d",
@@ -13,6 +57,21 @@
       "telegram":"CardanoPoolU",
       "operatorName":"RALPH",
       "github":""
+   },
+   {
+      "ticker":"PIFY",
+      "poolId":"884e3b60b361f9b714e06b24063d7b7225b17f64cb46d8ee8f0c821a",
+      "social":{
+         "facebook":"",
+         "twitter":"adapify",
+         "website":"https://adapify.com/",
+         "reddit":"philbert440",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"adapify",
+      "operatorName":"Philip",
+      "github":"philbert440"
    },
    {
       "ticker":"TRUMP",
@@ -2432,12 +2491,12 @@
     "github":"shanecoughlan"
   },
   {
-    "ticker":"F2VI",
+    "ticker":"DEGAS",
     "poolId":"4159a9cc7339bd2c495ad83239c2f1b97c8d2097eed6b120e08948c9",
     "social":{
        "facebook":"",
-       "twitter":"F2Vi_StakePool",
-       "website":"https://f2viada.wixsite.com/my-site",
+       "twitter":"Degas_StakePool",
+       "website":"https://degas-stakepool.wixsite.com/my-site",
        "reddit":"",
        "instagram":"",
        "youtube":""
@@ -2567,6 +2626,36 @@
     "github":"SolidarityFinance"
   },
   {
+    "ticker":"MAG",
+    "poolId":"7e04f46e82e7ab8fdc660977bf73f0fb3307d5c449ba010eb090d426",
+    "social":{
+      "facebook": "",
+      "twitter":"mag_stakepool",
+      "website":"https://magical.money",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"aan_io",
+    "operatorName":"Adam",
+    "github":"MagicalMoney"
+  },
+  {
+    "ticker":"PLOT",
+   "poolId":"45e00d4c106ecc6c84b21a77f7cb52b1634e5c1e697f4ebfebfff2cf",
+   "social":{
+     "facebook":"https://www.facebook.com/Plot-Cardano-Stake-pool-103749598506160",
+     "twitter":"https://twitter.com/CardanoPlot",
+     "website":"https://www.plotcardano.com",
+     "reddit":"",
+     "instagram":"https://www.instagram.com/plotcardano/",
+     "youtube":"https://www.youtube.com/channel/UCMJHRgaMgUwnxjRIYmk4kfA"
+   },
+   "telegram":"plotcardano_seattledev",
+   "operatorName":"Bemnet Merha, Habtamu Asfaw, & Abey Gebrehiwot",
+   "github":"bemnet4u"
+ },
+ {
     "ticker":"CAPYB",
     "poolId":"51c46851f53579f04ac4dfe8cde1182976d78b058abd4f1f7a59d4b3",
     "social":{
@@ -2592,8 +2681,8 @@
       "instagram":"",
       "youtube":""
     },
-    "telegram":"",
+    "telegram":"hayes7777",
     "operatorName":"Steven",
     "github":"steveaggie"
-  },
+  }
 ]
