@@ -2684,5 +2684,19 @@
     "telegram":"betterstake",
     "operatorName":"Elmmer Berico",
     "github":"mogadget"
+  },
+  {
+      "ticker": "CAVO",                                                     
+      "poolId": "e7dfac5c0621b9f8a4b59522b1c9955d090b59b1e2d76f1eb4708110",
+      "social": {                                                            
+          "twitter": "CardanoVoting",
+          "website": "https://cardanovoting.info",
+          "facebook": " ",  
+          "instagram": " ",
+          "youtube": " "
+      },
+      "telegram": "luxiayu",                              
+      "operatorName": "Amelia",		                                   
+      "github": "CardanoVoting"                                                      
   }
 ]
