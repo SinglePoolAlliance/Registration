@@ -13,6 +13,20 @@
         "operatorName": "Will",		                                   
         "github": "wrp0"                                                      
     },
+    {
+        "ticker": "Z3LDA",                                                      
+        "poolId": "263578cc21e4acdfb86ca47a90fbb9200a203e45975e6fea423fb438",
+        "social": {                                                            
+            "twitter": "Z3ldaP",
+            "website": "https://www.facebook.com/z3ldastakingpool",
+            "facebook": "https://www.facebook.com/z3ldastakingpool",  
+            "instagram": " ",
+            "youtube": " "
+        },
+        "telegram": "z3ldastakepooll",                              
+        "operatorName": "Beej",		                                   
+        "github": "zeldapool-ada-pool"                                                      
+    },
       {
       "ticker":"NODO",
       "poolId":"20c00ebe39ed12dbd2f3e84a5b57b85c972d1039cf79c70d893b6227",
