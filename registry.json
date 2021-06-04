@@ -1,4 +1,19 @@
 [
+ {
+      "ticker":"GIBON",
+      "poolId":"b352315bd54d61dfcd8fd78a2aa4f3e0cc8ef342b9495465b0b0b2ce",
+      "social":{
+         "facebook":"",
+         "twitter":"gibon_pool",
+         "website":"https://gibon.online",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"GibonAda",
+      "operatorName":"Paul",
+      "github":""
+   },
     {
         "ticker": "ASK",                                                      
         "poolId": "1af3f4c7cf153326f0d988e74dda8c1b0064538c4200c889567e30f7",
