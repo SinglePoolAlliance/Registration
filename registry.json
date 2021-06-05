@@ -2729,5 +2729,20 @@
     "telegram":"lidonation",
     "operatorName":"Darlington Wleh",
     "github":"profd2004"
+  },
+  {
+    "ticker":"ADAR",
+    "poolId":"f0e3c8d48efb750cdf256b68babc880787bc688972acfbbee1ffc537",
+    "social":{
+      "facebook":"",
+      "twitter":"ada_rewards",
+      "website":"https://adarewards.org",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"adar_spo",
+    "operatorName":"Chris McCammon",
+    "github":"mccamca"
   }
 ]
