@@ -2691,9 +2691,10 @@
       "social": {                                                            
           "twitter": "CardanoVoting",
           "website": "https://cardanovoting.info",
-          "facebook": " ",  
-          "instagram": " ",
-          "youtube": " "
+          "facebook": "",  
+          "instagram": "",
+          "reddit":"",
+          "youtube": ""
       },
       "telegram": "luxiayu",                              
       "operatorName": "Amelia",		                                   
