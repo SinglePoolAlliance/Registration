@@ -2686,6 +2686,21 @@
     "github":"mogadget"
   },
   {
+      "ticker": "CAVO",                                                     
+      "poolId": "e7dfac5c0621b9f8a4b59522b1c9955d090b59b1e2d76f1eb4708110",
+      "social": {                                                            
+          "twitter": "CardanoVoting",
+          "website": "https://cardanovoting.info",
+          "facebook": "",  
+          "instagram": "",
+          "reddit":"",
+          "youtube": ""
+      },
+      "telegram": "luxiayu",                              
+      "operatorName": "Amelia",		                                   
+      "github": "CardanoVoting"                                                      
+  },
+  {
     "ticker":"GOAL",
     "poolId":"79739d3b249d15d733917a20176c3a339d029c4f6dc58729a0e071a6",
     "social":{
