@@ -2684,5 +2684,20 @@
     "telegram":"betterstake",
     "operatorName":"Elmmer Berico",
     "github":"mogadget"
+  },
+  {
+    "ticker":"LIDO",
+    "poolId":"b5a1a820cc3783a4e637bce79d1cc2774b241c08251e45c5d1f8f3f6",
+    "social":{
+      "facebook":"https://www.facebook.com/lidonation",   
+      "website":"https://www.lidonation.com/",
+      "twitter":"https://twitter.com/LidoNation",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""     
+    },
+    "telegram":"lidonation",
+    "operatorName":"Darlington Wleh",
+    "github":"profd2004"
   }
 ]
