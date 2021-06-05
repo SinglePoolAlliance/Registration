@@ -2686,6 +2686,51 @@
     "github":"mogadget"
   },
   {
+      "ticker": "CAVO",                                                     
+      "poolId": "e7dfac5c0621b9f8a4b59522b1c9955d090b59b1e2d76f1eb4708110",
+      "social": {                                                            
+          "twitter": "CardanoVoting",
+          "website": "https://cardanovoting.info",
+          "facebook": "",  
+          "instagram": "",
+          "reddit":"",
+          "youtube": ""
+      },
+      "telegram": "luxiayu",                              
+      "operatorName": "Amelia",		                                   
+      "github": "CardanoVoting"                                                      
+  },
+  {
+    "ticker":"GOAL",
+    "poolId":"79739d3b249d15d733917a20176c3a339d029c4f6dc58729a0e071a6",
+    "social":{
+       "facebook":"",
+       "twitter":"https://twitter.com/goal_pool",
+       "website":"https://goalstaking.com/",
+       "reddit":"",
+       "instagram":"",
+       "youtube":""
+    },
+    "telegram":"dmlebany",
+    "operatorName":"Demetry",
+    "github":"dmlebany"
+  },
+  {
+    "ticker":"LIDO",
+    "poolId":"b5a1a820cc3783a4e637bce79d1cc2774b241c08251e45c5d1f8f3f6",
+    "social":{
+      "facebook":"https://www.facebook.com/lidonation",   
+      "website":"https://www.lidonation.com/",
+      "twitter":"https://twitter.com/LidoNation",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""     
+    },
+    "telegram":"lidonation",
+    "operatorName":"Darlington Wleh",
+    "github":"profd2004"
+  },
+  {
     "ticker":"ADAR",
     "poolId":"f0e3c8d48efb750cdf256b68babc880787bc688972acfbbee1ffc537",
     "social":{
@@ -2699,5 +2744,5 @@
     "telegram":"adar_spo",
     "operatorName":"Chris McCammon",
     "github":"mccamca"
-  }    
+  }
 ]

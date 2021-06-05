@@ -942,6 +942,21 @@
         "pool_id": "cc1008a2bff95e4fa408a8d8d4adfac342120307e0fb3c713fce8834",
         "member_since": "2021-06-02",
         "name": "BPOOL"
+      },
+      "186": {
+        "pool_id": "e7dfac5c0621b9f8a4b59522b1c9955d090b59b1e2d76f1eb4708110",
+        "member_since": "2021-06-05",
+        "name": "CAVO"
+      },
+      "187": {
+        "pool_id": "79739d3b249d15d733917a20176c3a339d029c4f6dc58729a0e071a6",
+        "member_since": "2021-06-05",
+        "name": "GOAL"
+      },
+      "188": {
+        "pool_id": "b5a1a820cc3783a4e637bce79d1cc2774b241c08251e45c5d1f8f3f6",
+        "member_since": "2021-06-05",
+        "name": "LIDO"
       }
     }
   }
