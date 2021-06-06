@@ -2834,5 +2834,20 @@
     "telegram":"ItefixNet",
     "operatorName":"",
     "github":""
+  },
+  {
+   "ticker": "PAPAW",
+   "poolId": "b550e5bec610442d3e79cb45004013452412a7fb761a6bc2a1931036",
+   "social": {
+     "facebook":"",
+     "twitter": "PapawPool",
+     "website":"https://papaw.openresolver.net/",
+     "reddit":"",
+     "instagram":"",
+     "youtube":""
+   },
+   "telegram": "lonache",
+   "operatorName": "Richard Goerwitz",
+   "github": "rgoerwit"
   }
 ]
