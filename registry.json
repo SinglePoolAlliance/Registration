@@ -30,18 +30,18 @@
       "github":""
    },
   {
-        "ticker": "ASK",                                                      
+        "ticker": "ASK",
         "poolId": "1af3f4c7cf153326f0d988e74dda8c1b0064538c4200c889567e30f7",
-        "social": {                                                            
+        "social": {
             "twitter": "AdaStakP",
             "website": "https://adastak.com",
-            "facebook": " ",  
+            "facebook": " ",
             "instagram": " ",
             "youtube": " "
         },
-        "telegram": "AdaStak_Official",                              
-        "operatorName": "Will",		                                   
-        "github": "wrp0"                                                      
+        "telegram": "AdaStak_Official",
+        "operatorName": "Will",
+        "github": "wrp0"
     },
       {
       "ticker":"NODO",
@@ -58,7 +58,7 @@
       "operatorName":"Story C",
       "github":"cardanodo"
       },
-  { 
+  {
       "ticker":"ICRYP",
       "poolId":"2671702f26f947ecc114861c4983bfdc8616d3fa2bace18dd4a91e65",
       "social":{
@@ -2593,7 +2593,7 @@
     },
     "telegram":"jthomson1",
     "operatorName":"",
-    "github":"jthomson1" 
+    "github":"jthomson1"
   },
    {
       "ticker": "PIXEL",
@@ -2716,19 +2716,19 @@
     "github":"mogadget"
   },
   {
-      "ticker": "CAVO",                                                     
+      "ticker": "CAVO",
       "poolId": "e7dfac5c0621b9f8a4b59522b1c9955d090b59b1e2d76f1eb4708110",
-      "social": {                                                            
+      "social": {
           "twitter": "CardanoVoting",
           "website": "https://cardanovoting.info",
-          "facebook": "",  
+          "facebook": "",
           "instagram": "",
           "reddit":"",
           "youtube": ""
       },
-      "telegram": "luxiayu",                              
-      "operatorName": "Amelia",		                                   
-      "github": "CardanoVoting"                                                      
+      "telegram": "luxiayu",
+      "operatorName": "Amelia",
+      "github": "CardanoVoting"
   },
   {
     "ticker":"GOAL",
@@ -2749,12 +2749,12 @@
     "ticker":"LIDO",
     "poolId":"b5a1a820cc3783a4e637bce79d1cc2774b241c08251e45c5d1f8f3f6",
     "social":{
-      "facebook":"https://www.facebook.com/lidonation",   
+      "facebook":"https://www.facebook.com/lidonation",
       "website":"https://www.lidonation.com/",
       "twitter":"https://twitter.com/LidoNation",
       "reddit":"",
       "instagram":"",
-      "youtube":""     
+      "youtube":""
     },
     "telegram":"lidonation",
     "operatorName":"Darlington Wleh",
@@ -2819,5 +2819,20 @@
     "telegram":"NorbPool",
     "operatorName":"Garrett",
     "github":"nova4006"
+  },
+  {
+    "ticker":"ITFX",
+    "poolId":"0e0926d5eeca04c15aecda464f8a08ac6e5d292a131180a0b7c2b475",
+    "social":{
+      "facebook":"",
+      "twitter":"",
+      "website":"https://ada.itefix.net",
+      "reddit":"ItefixNet",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"ItefixNet",
+    "operatorName":"",
+    "github":""
   }
 ]
