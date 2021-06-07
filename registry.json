@@ -2894,5 +2894,20 @@
     "telegram": "Tw_JasonLai",
     "operatorName": "Jason",
     "github": "linuxjason"
+  },
+    {
+    "ticker": "BRO",
+    "poolId": "666c22b0b35f110f2229f850a047bc3ac3e53e82813e5b5df147950f",
+    "social": {
+      "twitter": "BroteinStake",
+      "facebook": "",
+      "reddit": "",
+      "instagram": "",
+      "website": "https://www.bropool.club",
+      "youtube": ""
+    },
+    "telegram": "Hayes7777",
+    "operatorName": "Steven",
+    "github": ""
   }
 ]
