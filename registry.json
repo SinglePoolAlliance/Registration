@@ -2879,5 +2879,20 @@
       "telegram":"ssevern",
       "operatorName":"Shane",
       "github":""
-   }
+   },
+  {
+    "ticker": "ADATW",
+    "poolId": "7ce59da0bac7f64b40fcda60a7ee368d5ac8082d81f2bb75fef9e01e",
+    "social": {
+      "twitter": "",
+      "facebook": "",
+      "reddit": "",
+      "instagram": "",
+      "website": "",
+      "youtube": "https://www.youtube.com/channel/UCu--wp47a20YMJbrzJmtv2w"
+    },
+    "telegram": "Tw_JasonLai",
+    "operatorName": "Jason",
+    "github": "linuxjason"
+  }
 ]
