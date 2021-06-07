@@ -2924,5 +2924,20 @@
     "telegram": "Hayes7777",
     "operatorName": "Steven",
     "github": ""
+  },
+      {
+    "ticker": "ALICE",
+    "poolId": "1c220012e987c342ec4b4c6cea04501d0cf003459804b0e7018d3c73",
+    "social": {
+      "twitter": "StakeAlice",
+      "facebook": "",
+      "reddit": "",
+      "instagram": "",
+      "website": "https://skilov3.github.io/AliceStakePool/",
+      "youtube": ""
+    },
+    "telegram": "alice_ops",
+    "operatorName": "Nik Marsh",
+    "github": "Skilov3"
   }
 ]
