@@ -252,7 +252,7 @@
       "telegram":"BullishDumpling",
       "operatorName":"",
       "github":"FIKAPOOL"
-   }, 
+   },
    {
       "ticker":"ACOL",
       "poolId":"1d1a0727f1cae44f801091fe2b80d5589f3ffed24c602a8df7cdb2a3",
@@ -2150,17 +2150,17 @@
     "github":""
   },
   {
-    "ticker": "WISE",                                                      
+    "ticker": "WISE",
     "poolId": "0d549d59c5fd90ea2e7ef58041e14a10e15e0145386ba3a3b8709da4",
-    "social": {                                                           
+    "social": {
       "twitter": "wise_pool",
-      "facebook": "",  
+      "facebook": "",
       "instagram": "",
       "youtube": ""
     },
-    "telegram": "Arthur_WISE",                                         
-    "operatorName": "Arthur",                                   		  
-    "github": "aleincsharp"                                              
+    "telegram": "Arthur_WISE",
+    "operatorName": "Arthur",
+    "github": "aleincsharp"
   },
   {
     "ticker": "ADAAT",
@@ -2202,7 +2202,7 @@
        "reddit":"",
       "instagram":"",
       "youtube":""
-    },   
+    },
     "telegram":"skadastakepool",
     "operatorName":"Jonathan",
     "github":""
@@ -2327,7 +2327,7 @@
     "operatorName":"",
     "github":"eoswins"
   },
-  { 
+  {
   "ticker": "TOY",
     "poolId": "ed8b9c25260584007c5453650cbad28c163c0c9d01b880f30655c396",
     "social": {
@@ -2425,11 +2425,11 @@
        "reddit":"",
        "instagram":"",
        "youtube":""
-    },   
+    },
     "telegram":"Behemothpool",
     "operatorName":"Raine",
     "github":"rakalto"
-  }, 
+  },
   {
     "ticker":"ATFF",
     "poolId":"fdb8e1e7f181f23d31f09bb4547370ef104688b37b3e7f4fdb222f4f",
@@ -2555,7 +2555,7 @@
     "poolId": "ad20497c11786fa78dcee2e7c327d10bd456751e583cb6564993fd3b",
     "social": {
       "twitter": "G4urTeam",
-      "facebook": "",  
+      "facebook": "",
       "reddit": "",
       "instagram": "",
       "website": "",
@@ -2564,7 +2564,7 @@
     "telegram": "JaviUrrestarazu",
     "operatorName": "Javier",
     "github": ""
-  },      
+  },
   {
     "ticker": "TERO",
     "poolId": "07175f6efa70645146007138a4fdd00b9e8db2a73baecdd704ebccfd",
@@ -2625,7 +2625,7 @@
     "operatorName": "",
     "github": "frefardt"
   },
-  {	
+  {
     "ticker":"AZUL",
     "poolId":"19c56be8538786b0b1ddaeb4049faf6a00df0ca2df15e05b0472a866",
     "social": {
@@ -2637,7 +2637,7 @@
       "youtube": ""
     },
     "telegram":"Tim_Bridge",
-    "operatorName":"Jochen & Tim", 
+    "operatorName":"Jochen & Tim",
     "github":"JOxBERGER"
   },
   {
@@ -2716,6 +2716,21 @@
     "github":"mogadget"
   },
   {
+    "ticker": "PAT",
+    "poolId": "46772701ede42bf7edfcfb01bbcb73e14a4a5337e39b12f153c8bac5",
+    "social": {
+      "twitter": "patagoniapool",
+      "facebook": "",
+      "reddit": "",
+      "instagram": "",
+      "website": "https://patagoniastakepool.com/",
+      "youtube": "https://www.youtube.com/channel/UCMAsiTF5m2gQhvHVYtRHDhA"
+    },
+    "telegram": "fp_pat",
+    "operatorName": "Huemul",
+    "github": "patagonia-stake-pool"
+   },
+   {
       "ticker": "CAVO",
       "poolId": "e7dfac5c0621b9f8a4b59522b1c9955d090b59b1e2d76f1eb4708110",
       "social": {
