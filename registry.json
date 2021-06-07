@@ -2864,5 +2864,20 @@
    "telegram": "lonache",
    "operatorName": "Richard Goerwitz",
    "github": "rgoerwit"
-  }
+  },   
+  {
+      "ticker":"BLKBX",
+      "poolId":"628e6fdeda9732cbc61079581cf8e2e7b06d6f3219ec7cccb5861ba6",
+      "social":{
+         "facebook":"blackboxpool",
+         "twitter":"BlackBoxPool",
+         "website":"https://www.blackboxpool.io/",
+         "reddit":"",
+         "instagram":"blackboxpool",
+         "youtube":"https://youtube.com/channel/UC4TAHNSI6nQ51BudlrMvF_g"
+      },
+      "telegram":"ssevern",
+      "operatorName":"Shane",
+      "github":""
+   }
 ]
