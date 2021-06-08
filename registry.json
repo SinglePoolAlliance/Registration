@@ -2939,5 +2939,13 @@
     "telegram": "FreedomSoCal",
     "operatorName": "Rory",
     "github": "Hdpro4u"
+  },
+     {
+    "ticker": "PRIDE",
+    "poolId": "93ca5c2f1eb63054f7c768a807408a43e65d7c68fe56e330db20af51",
+    "social": {
+      "twitter": "StakeWithPride"
+    },
+    "telegram": "StakeWithPride"
   }
 ]
