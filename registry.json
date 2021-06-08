@@ -2954,5 +2954,14 @@
     "telegram": "StakeWithPride",
     "operatorName": "",
     "github": ""
-  }
+  },
+  {
+ "ticker": "SOLRP",
+ "poolId": "9728b10a926c048af938e5c52053319db5be921e8b698842c3afd3cc",
+ "social": {
+   "twitter": "SOLRP_StakePool"
+ },
+ "telegram": "solrp_ada_pool",
+ "github": "canad1an"
+}
 ]
