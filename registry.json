@@ -2944,8 +2944,15 @@
     "ticker": "PRIDE",
     "poolId": "93ca5c2f1eb63054f7c768a807408a43e65d7c68fe56e330db20af51",
     "social": {
-      "twitter": "StakeWithPride"
+      "twitter": "StakeWithPride",
+      "facebook": "",
+      "reddit": "",
+      "instagram": "",
+      "website": "",
+      "youtube": ""
     },
-    "telegram": "StakeWithPride"
+    "telegram": "StakeWithPride",
+    "operatorName": "",
+    "github": ""
   }
 ]
