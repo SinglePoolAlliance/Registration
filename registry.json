@@ -2959,7 +2959,7 @@
  "ticker": "SOLRP",
  "poolId": "9728b10a926c048af938e5c52053319db5be921e8b698842c3afd3cc",
  "social": {
-   "twitter": "SOLRP_StakePool"
+   "twitter": "SOLRP_StakePool",
    "facebook":"",
    "website":"https://solarcardano.com/",
    "reddit":"",
@@ -2967,6 +2967,7 @@
    "youtube":""
  },
  "telegram": "solrp_ada_pool",
+ "operatorName":"Matt",
  "github": "canad1an"
 }
 ]
