@@ -2924,5 +2924,20 @@
     "telegram": "Hayes7777",
     "operatorName": "Steven",
     "github": ""
+  },
+    {
+    "ticker": "FRSC",
+    "poolId": "f594d0a1863c0366dd09a4bc6a73c10482cfbbbed438876667fc4cbb",
+    "social": {
+      "twitter": "https://twitter.com/freedomsocal",
+      "facebook": "http://facebook.com/Freedom.Socal",
+      "reddit": "https://www.reddit.com/u/FRSC_Stake_Pool",
+      "instagram": "",
+      "website": "",
+      "youtube": ""
+    },
+    "telegram": "FreedomSoCal",
+    "operatorName": "Rory",
+    "github": "Hdpro4u"
   }
 ]
