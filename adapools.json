@@ -1034,6 +1034,11 @@
         "name": "PRIDE"
       },
       "204": {
+        "pool_id": "9728b10a926c048af938e5c52053319db5be921e8b698842c3afd3cc",
+        "member_since": "2021-06-08",
+        "name": "SOLRP"
+      },
+      "205": {
         "pool_id": "b75a65868d3fd3583e423833381d104c02bedd3a83c9392d92e421b1",
         "member_since": "2021-06-09",
         "name": "META"
