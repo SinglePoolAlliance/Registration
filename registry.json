@@ -1,5 +1,20 @@
 [
   {
+      "ticker":"META",
+      "poolId":"b75a65868d3fd3583e423833381d104c02bedd3a83c9392d92e421b1",
+      "social":{
+         "facebook":"",
+         "twitter":"theeccentricowl",
+         "website":"https://metastakepool.com",
+         "reddit":"",
+         "instagram":"",
+         "youtube":"https://www.youtube.com/channel/UCZ3F2jc14r9zF34BGSkJzoQ"
+      },
+      "telegram":"MetaStakePool",
+      "operatorName":"B.Ray",
+      "github":"MetaStakePoool"
+  },
+  {
       "ticker":"MOAI",
       "poolId":"d44442e0f92b4173205c4e8609cd48cbbb09c7dbcb805704c22be1ff",
       "social":{
