@@ -1032,6 +1032,11 @@
         "pool_id": "93ca5c2f1eb63054f7c768a807408a43e65d7c68fe56e330db20af51",
         "member_since": "2021-06-08",
         "name": "PRIDE"
+      },
+      "204": {
+        "pool_id": "b75a65868d3fd3583e423833381d104c02bedd3a83c9392d92e421b1",
+        "member_since": "2021-06-09",
+        "name": "META"
       }
     }
   }
