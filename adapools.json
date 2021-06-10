@@ -1022,6 +1022,26 @@
         "pool_id": "666c22b0b35f110f2229f850a047bc3ac3e53e82813e5b5df147950f",
         "member_since": "2021-06-07",
         "name": "BRO"
+      },
+      "202": {
+        "pool_id": "f594d0a1863c0366dd09a4bc6a73c10482cfbbbed438876667fc4cbb",
+        "member_since": "2021-06-08",
+        "name": "FRSC"
+      },
+      "203": {
+        "pool_id": "93ca5c2f1eb63054f7c768a807408a43e65d7c68fe56e330db20af51",
+        "member_since": "2021-06-08",
+        "name": "PRIDE"
+      },
+      "204": {
+        "pool_id": "9728b10a926c048af938e5c52053319db5be921e8b698842c3afd3cc",
+        "member_since": "2021-06-08",
+        "name": "SOLRP"
+      },
+      "205": {
+        "pool_id": "b75a65868d3fd3583e423833381d104c02bedd3a83c9392d92e421b1",
+        "member_since": "2021-06-09",
+        "name": "META"
       }
     }
   }

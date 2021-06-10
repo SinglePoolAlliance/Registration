@@ -1,5 +1,20 @@
 [
   {
+      "ticker":"META",
+      "poolId":"b75a65868d3fd3583e423833381d104c02bedd3a83c9392d92e421b1",
+      "social":{
+         "facebook":"",
+         "twitter":"theeccentricowl",
+         "website":"https://metastakepool.com",
+         "reddit":"",
+         "instagram":"",
+         "youtube":"https://www.youtube.com/channel/UCZ3F2jc14r9zF34BGSkJzoQ"
+      },
+      "telegram":"MetaStakePool",
+      "operatorName":"B.Ray",
+      "github":"MetaStakePoool"
+  },
+  {
       "ticker":"MOAI",
       "poolId":"d44442e0f92b4173205c4e8609cd48cbbb09c7dbcb805704c22be1ff",
       "social":{
@@ -2925,7 +2940,52 @@
     "operatorName": "Steven",
     "github": ""
   },
- {
+    {
+    "ticker": "FRSC",
+    "poolId": "f594d0a1863c0366dd09a4bc6a73c10482cfbbbed438876667fc4cbb",
+    "social": {
+      "twitter": "https://twitter.com/freedomsocal",
+      "facebook": "http://facebook.com/Freedom.Socal",
+      "reddit": "https://www.reddit.com/u/FRSC_Stake_Pool",
+      "instagram": "",
+      "website": "",
+      "youtube": ""
+    },
+    "telegram": "FreedomSoCal",
+    "operatorName": "Rory",
+    "github": "Hdpro4u"
+  },
+     {
+    "ticker": "PRIDE",
+    "poolId": "93ca5c2f1eb63054f7c768a807408a43e65d7c68fe56e330db20af51",
+    "social": {
+      "twitter": "StakeWithPride",
+      "facebook": "",
+      "reddit": "",
+      "instagram": "",
+      "website": "",
+      "youtube": ""
+    },
+    "telegram": "StakeWithPride",
+    "operatorName": "",
+    "github": ""
+  },
+  {
+ "ticker": "SOLRP",
+ "poolId": "9728b10a926c048af938e5c52053319db5be921e8b698842c3afd3cc",
+ "social": {
+   "twitter": "SOLRP_StakePool",
+   "facebook":"",
+   "website":"https://solarcardano.com/",
+   "reddit":"",
+   "instagram":"",
+   "youtube":""
+ },
+ "telegram": "solrp_ada_pool",
+ "operatorName":"Matt",
+ "github": "canad1an"
+},
+   {
     "ticker": "ALICE",
     "poolId": "1c220012e987c342ec4b4c6cea04501d0cf003459804b0e7018d3c73",
     "social": {
