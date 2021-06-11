@@ -2686,6 +2686,21 @@
     "github":"SolidarityFinance"
   },
   {
+    "ticker":"PIGGY",
+    "poolId":"2595f0a5ff4145f3d6ee09e81c2488bdfe2079004eda635a6dce1515",
+    "social":{
+      "facebook":"",
+      "twitter":"ADA_PIGGY",
+      "website":"http://piggy.trendingpools.com",
+      "reddit":"https://www.reddit.com/user/PiggyBank-PIGGY",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"ada_piggy",
+    "operatorName":"Eddie",
+    "github":"ada-piggy-bank"
+  },
+  {
     "ticker":"MAG",
     "poolId":"7e04f46e82e7ab8fdc660977bf73f0fb3307d5c449ba010eb090d426",
     "social":{
