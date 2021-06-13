@@ -29,6 +29,21 @@
       "operatorName":"",
       "github":"moaipool"
   },
+  {
+      "ticker":"ROG",
+      "poolId":"59a5636fc0427e6eeb3cf23016fce0e749b2f4a3f0f589d6caa10f05",
+      "social":{
+         "facebook":"",
+         "twitter":"RStakepool",
+         "website":"https://rogpool.com",
+         "reddit":"",
+         "instagram":"",
+         "youtube":"https://www.youtube.com/channel/UCK4x-sBPqDJFlKxzMsMTxzw"
+      },
+      "telegram":"https://web.telegram.org/#/im?p=g523938937",
+      "operatorName":"Kamil",
+      "github":"sambor1981"
+  },
    {
       "ticker":"GIBON",
       "poolId":"b352315bd54d61dfcd8fd78a2aa4f3e0cc8ef342b9495465b0b0b2ce",
