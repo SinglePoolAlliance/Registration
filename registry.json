@@ -3014,5 +3014,20 @@
     "telegram": "alice_ops",
     "operatorName": "Nik Marsh",
     "github": "Skilov3"
+  },
+   {
+    "ticker": "XSEC",
+    "poolId": "ac4c79de638c8bb08997e939dccde43fe347a392d11a7ddf77bf3816",
+    "social": {
+      "twitter": "XsecP",
+      "facebook": "",
+      "reddit": "",
+      "instagram": "",
+      "website": "https://ada.xsec.es",
+      "youtube": ""
+    },
+    "telegram": "adri_xsec",
+    "operatorName": "Adri",
+    "github": "adriannavarrobetrian"
   }
 ]
