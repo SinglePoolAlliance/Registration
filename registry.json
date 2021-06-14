@@ -3029,7 +3029,8 @@
     "telegram": "alice_ops",
     "operatorName": "Nik Marsh",
     "github": "Skilov3"
-  },
+
+ },
    {
     "ticker": "XSEC",
     "poolId": "ac4c79de638c8bb08997e939dccde43fe347a392d11a7ddf77bf3816",
@@ -3044,5 +3045,20 @@
     "telegram": "adri_xsec",
     "operatorName": "Adri",
     "github": "adriannavarrobetrian"
-  }
+},
+  {
+    "ticker": "GOALS",
+    "poolId": "9dcb2a0398835a6b0a71dd5bbaa0d6bb961276aedd72f2655c7879d0",
+    "social": {
+      "twitter": "adagoals",
+      "facebook": "",
+      "reddit": "",
+      "instagram": "",
+      "website": "https://ada-goals.com",
+      "youtube": ""
+    },
+    "telegram": "ADA_Goals_Stake_Pool",
+    "operatorName": " ",
+    "github": " "
+}
 ]
