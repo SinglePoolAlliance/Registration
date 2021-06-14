@@ -1052,6 +1052,16 @@
         "pool_id": "b75a65868d3fd3583e423833381d104c02bedd3a83c9392d92e421b1",
         "member_since": "2021-06-09",
         "name": "META"
+      },
+      "208": {
+        "pool_id": "59a5636fc0427e6eeb3cf23016fce0e749b2f4a3f0f589d6caa10f05",
+        "member_since": "2021-06-13",
+        "name": "ROG"
+      },
+      "209": {
+        "pool_id": "ac4c79de638c8bb08997e939dccde43fe347a392d11a7ddf77bf3816",
+        "member_since": "2021-06-13",
+        "name": "XSEC"
       }
     }
   }

@@ -29,6 +29,21 @@
       "operatorName":"",
       "github":"moaipool"
   },
+  {
+      "ticker":"ROG",
+      "poolId":"59a5636fc0427e6eeb3cf23016fce0e749b2f4a3f0f589d6caa10f05",
+      "social":{
+         "facebook":"",
+         "twitter":"RStakepool",
+         "website":"https://rogpool.com",
+         "reddit":"",
+         "instagram":"",
+         "youtube":"channel/UCK4x-sBPqDJFlKxzMsMTxzw"
+      },
+      "telegram":"ROG_Pool",
+      "operatorName":"Kamil",
+      "github":"sambor1981"
+  },
    {
       "ticker":"GIBON",
       "poolId":"b352315bd54d61dfcd8fd78a2aa4f3e0cc8ef342b9495465b0b0b2ce",
@@ -3014,8 +3029,24 @@
     "telegram": "alice_ops",
     "operatorName": "Nik Marsh",
     "github": "Skilov3"
+
  },
    {
+    "ticker": "XSEC",
+    "poolId": "ac4c79de638c8bb08997e939dccde43fe347a392d11a7ddf77bf3816",
+    "social": {
+      "twitter": "XsecP",
+      "facebook": "",
+      "reddit": "",
+      "instagram": "",
+      "website": "https://ada.xsec.es",
+      "youtube": ""
+    },
+    "telegram": "adri_xsec",
+    "operatorName": "Adri",
+    "github": "adriannavarrobetrian"
+},
+  {
     "ticker": "GOALS",
     "poolId": "9dcb2a0398835a6b0a71dd5bbaa0d6bb961276aedd72f2655c7879d0",
     "social": {
