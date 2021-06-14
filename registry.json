@@ -3014,5 +3014,20 @@
     "telegram": "alice_ops",
     "operatorName": "Nik Marsh",
     "github": "Skilov3"
+  },
+  {
+    "ticker": "00000",
+    "poolId": "33708d590f4549170125524fcbd6bc189fa8711fba52f8ead4276ca4",
+    "social": {
+      "twitter": "AdaberryPi",
+      "facebook": "",
+      "reddit": "Adaberry_Pi",
+      "instagram": "",
+      "website": "https://pool.adaberrypi.com/",
+      "youtube": ""
+    },
+    "telegram": "Adaberry_Pi",
+    "operatorName": "DeCentN2Madness [00000]",
+    "github": "qbass"
   }
 ]
