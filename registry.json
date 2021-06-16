@@ -3060,5 +3060,19 @@
     "telegram": "ADA_Goals_Stake_Pool",
     "operatorName": " ",
     "github": " "
-}
+},
+   {
+     "ticker":"ALoop",
+     "poolId":"297b5acd8b90df8a1bfd98aa1a61f323b87fead4b8a2b55f2fb83ce6",
+     "social":{
+       "twitter":"AdaLoopPool",
+       "facebook":" ",
+       "instagram":" ",
+       "website": "https://adaloop.org",
+       "youtube":" "
+     },
+      "telegram":"marin007",
+      "operatorName":"Marian",
+      "github":"aloopmarin007"
+  }
 ]
