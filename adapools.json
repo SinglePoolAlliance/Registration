@@ -1067,6 +1067,11 @@
         "pool_id": "9dcb2a0398835a6b0a71dd5bbaa0d6bb961276aedd72f2655c7879d0",
         "member_since": "2021-06-13",
         "name": "GOALS"
+      },
+      "211": {
+        "pool_id": "297b5acd8b90df8a1bfd98aa1a61f323b87fead4b8a2b55f2fb83ce6",
+        "member_since": "2021-06-15",
+        "name": "ALoop"
       }
     }
   }
