@@ -118,6 +118,21 @@
       "operatorName":"RALPH",
       "github":""
    },
+      {
+      "ticker":"LGLP",
+      "poolId":"6936fe0511eada38cbc229ce57dda32b8db2a27e237689b46afa4228",
+      "social":{
+         "facebook":"",
+         "twitter":"LglpStudios",
+         "website":"https://twitter.com/LglpStudios",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"LGLP",
+      "operatorName":"Mike",
+      "github":"lglp-studios"
+   },
    {
       "ticker":"PIFY",
       "poolId":"884e3b60b361f9b714e06b24063d7b7225b17f64cb46d8ee8f0c821a",
