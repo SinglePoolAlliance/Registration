@@ -3074,5 +3074,19 @@
       "telegram":"marin007",
       "operatorName":"Marian",
       "github":"aloopmarin007"
+  },
+   {
+     "ticker":"TAILS",
+     "poolId":"2ce9bfc4e0a732d21ec8739cbfc3b10957b4e3297fd320d556f48ada",
+     "social":{
+       "twitter":"https://twitter.com/_mermada",
+       "facebook":"https://www.facebook.com/Mermada-101476705341103",
+       "instagram":" ",
+       "website": "https://www.metromermaids.com",
+       "youtube":" "
+     },
+      "telegram":"frog357",
+      "operatorName":"Fred",
+      "github":"frog357"
   }
 ]
