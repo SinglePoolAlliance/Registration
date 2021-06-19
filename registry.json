@@ -3074,5 +3074,19 @@
       "telegram":"marin007",
       "operatorName":"Marian",
       "github":"aloopmarin007"
+  },
+  {
+      "ticker":"PEACH",
+      "poolId":"5df46b9796868647647f6d3a4ebd188920e70cd12720513337203b62",
+      "social":{
+            "instagram_handle": "peachpool.ada",
+            "twitter_handle": "peachpoolada",
+            "facebook_handle": "peachpool.ada",
+            "youtube_handle": "channel/UCovxsfNjVocdFKPkJSz7JmQ",
+            "github_handle": "amirderakh"
+      },
+      "telegram":"PeachPoolADA",
+      "operatorName":"Ryl0s",
+      "github":"amirderakh"
   }
 ]
