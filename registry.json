@@ -3074,5 +3074,20 @@
       "telegram":"marin007",
       "operatorName":"Marian",
       "github":"aloopmarin007"
-  }
+},
+   {
+    "ticker":"DOC",
+    "poolId":"9084ebeb011e610e695068a74fa883dac5eda55faca77107b5f40064",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/DocStakePool",
+      "website":"https://docstakepool.carrd.co",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"Doc_Krieger",
+    "operatorName":"",
+    "github":"dockrieger86"
+}
 ]
