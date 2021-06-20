@@ -3076,6 +3076,20 @@
       "github":"aloopmarin007"
 },
    {
+     "ticker":"MINI1",
+     "poolId":"c3e7025ebae638e994c149e5703e82619b31897c9e1d64fc684f81c2",
+     "social":{
+       "twitter":"JuL71695233",
+       "facebook":" ",
+       "instagram":" ",
+       "website": "https://www.adaministake.com",
+       "youtube":" "
+     },
+      "telegram":"mini1pool",
+      "operatorName":"Julien",
+      "github":"jterrier84"
+   },
+  {
     "ticker":"DOC",
     "poolId":"9084ebeb011e610e695068a74fa883dac5eda55faca77107b5f40064",
     "social":{
