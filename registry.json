@@ -3074,5 +3074,19 @@
       "telegram":"marin007",
       "operatorName":"Marian",
       "github":"aloopmarin007"
-  }
+},
+   {
+     "ticker":"MINI1",
+     "poolId":"c3e7025ebae638e994c149e5703e82619b31897c9e1d64fc684f81c2",
+     "social":{
+       "twitter":"JuL71695233",
+       "facebook":" ",
+       "instagram":" ",
+       "website": "https://www.adaministake.com",
+       "youtube":" "
+     },
+      "telegram":"mini1pool",
+      "operatorName":"Julien",
+      "github":"jterrier84"
+   }
 ]
