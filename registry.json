@@ -3074,5 +3074,18 @@
       "telegram":"marin007",
       "operatorName":"Marian",
       "github":"aloopmarin007"
-  }
+  },
+  {
+ "ticker": "PGWAD",                                                       
+ "poolId": "7e45a7e6ab3afcf99120e97aedf84e706e43d829ddc610ad667a85a3",  
+ "social": {                                                            
+   "twitter": "PgwadaS",
+   "facebook": "",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "pgwada",                                             
+ "operatorName": "Wadi",                                   
+ "github": "pgwadapool"                                                     
+}
 ]
