@@ -3131,5 +3131,18 @@
  "telegram": "pgwada",                                             
  "operatorName": "Wadi",                                   
  "github": "pgwadapool"                                                     
-}
+},
+{
+      "ticker":"PEACH",
+      "poolId":"5df46b9796868647647f6d3a4ebd188920e70cd12720513337203b62",
+      "social":{
+         "instagram":"peachpool.ada",
+         "twitter":"peachpoolada",
+         "facebook":"peachpool.ada",
+         "youtube":"channel/UCovxsfNjVocdFKPkJSz7JmQ"
+      },
+      "telegram":"PeachPoolADA",
+      "operatorName":"",
+      "github":"amirderakh"
+   }
 ]
