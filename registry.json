@@ -2417,21 +2417,6 @@
     "operatorName":"Supanit Thomsuwan",
     "github":"peach-git"
   },
-  {
-    "ticker":"ANVIL",
-    "poolId":"9084ebeb011e610e695068a74fa883dac5eda55faca77107b5f40064",
-    "social":{
-      "facebook":"",
-      "twitter":"https://twitter.com/AnvilPool",
-      "website":"https://anvilpool.carrd.co",
-      "reddit":"",
-      "instagram":"",
-      "youtube":""
-    },
-   "telegram":"Doc_Krieger",
-    "operatorName":"",
-    "github":""
-  },
   { "ticker":"ADAPT",
     "poolId":"780623d70c1168241e1d4d623e5e14e7f02e701b536329e9a735ad61",
     "social":{
