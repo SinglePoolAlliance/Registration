@@ -1,5 +1,20 @@
 [
   {
+      "ticker":"DOG",
+      "poolId":"1d203e7d0dd203d63e04d8403b2ca9a92df7ebf72c1167854f1d2acf",
+      "social":{
+         "facebook":"",
+         "twitter":"adadogpool",
+         "website":"https://adadogpool.org",
+         "reddit":"",
+         "instagram":"",
+         "youtube":"https://www.youtube.com/channel/UC4HCWDd01sJg1eDbK9TYKpw"
+      },
+      "telegram":"ADADOGPOOL",
+      "operatorName":"",
+      "github":""
+  },
+  {
       "ticker":"SAND",
       "poolId":"40183423c226189d508db4b21bf94b790cf4d096134a9afbc2bd5318",
       "social":{
