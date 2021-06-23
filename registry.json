@@ -3129,5 +3129,17 @@
       "telegram":"PeachPoolADA",
       "operatorName":"",
       "github":"amirderakh"
-   }
+   },
+    {
+ "ticker": "AAAU1",                                                       
+ "poolId":"64f6bd547b5ec3c35e18d1b09956af8dd2e53b7da7a9b7f58f3c5580",
+ "social": {                                                            
+   "twitter": "Richard79337561",
+   "facebook": "@adabankau",
+   "website":"https://adabank.com.au"
+ },
+ "telegram": "@ADABankAU",                                             
+ "operatorName": "",                                   
+ "github": "OffTheRicta"                                                     
+}
 ]
