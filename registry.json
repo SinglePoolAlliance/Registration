@@ -3129,5 +3129,20 @@
       "telegram":"PeachPoolADA",
       "operatorName":"",
       "github":"amirderakh"
+   },
+   {
+      "ticker":"ARRA",
+      "poolId":"c65ca06828caa8fc9b0bb015af93ef71685544c6ed2abbb7c59b0e62",
+      "social":{
+         "facebook":"",
+         "twitter":"ArrakisPool",
+         "website":"https://ada.arrakis.it",
+         "reddit":"",
+         "instagram":" ",
+         "youtube":""
+      },
+      "telegram":"arrakispool",
+      "operatorName":"Daniel",
+      "github":"abracadaniel"
    }
 ]
