@@ -3130,6 +3130,21 @@
       "operatorName":"",
       "github":"amirderakh"
    },
+   {
+      "ticker":"ARRA",
+      "poolId":"c65ca06828caa8fc9b0bb015af93ef71685544c6ed2abbb7c59b0e62",
+      "social":{
+         "facebook":"",
+         "twitter":"ArrakisPool",
+         "website":"https://ada.arrakis.it",
+         "reddit":"",
+         "instagram":" ",
+         "youtube":""
+      },
+      "telegram":"sirpickelhaupt",
+      "operatorName":"Daniel",
+      "github":"abracadaniel"
+   },
     {
  "ticker": "AAAU1",                                                       
  "poolId":"64f6bd547b5ec3c35e18d1b09956af8dd2e53b7da7a9b7f58f3c5580",
@@ -3144,4 +3159,5 @@
  "operatorName": "",                                   
  "github": "OffTheRicta"                                                     
 }
+
 ]
