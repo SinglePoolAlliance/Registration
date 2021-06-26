@@ -3218,6 +3218,20 @@
       "telegram":"@Dark345",
       "operatorName":"Paolo",
       "github":"Hardware-Legnano"
+  },
+  {
+    "ticker": "APEX",
+    "poolId": "538299a358e79a289c8de779f8cd09dd6a6bb286de717d1f744bb357",
+    "social": {
+      "facebook": "",
+      "twitter": "cardanoapexpool",
+      "website": "https://apexpool.info",
+      "reddit": "georgem1976",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "apex_pool_spo",
+    "operatorName": "George",
+    "github": "cardano-apexpool"
   }
-
 ]
