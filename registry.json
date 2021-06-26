@@ -3203,6 +3203,21 @@
  "telegram": "@ADABankAU",                                             
  "operatorName": "",                                   
  "github": "OffTheRicta"                                                     
-}
+},
+    {
+      "ticker":"HWL",
+      "poolId":"de2e00a923f6dd016a43087e608df9b6ddd4e587e8ff4f39c64e2d43",
+      "social":{
+         "facebook":"https://www.facebook.com/hardware.legnano/",
+         "twitter":"HardwareLegnano",
+         "website":"https://www.hwlegnano.it/cardano/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":"https://www.youtube.com/channel/UCktutdsi74XvRDGwDn01iJQ"
+      },
+      "telegram":"@Dark345",
+      "operatorName":"Paolo",
+      "github":"Hardware-Legnano"
+  }
 
 ]
