@@ -3248,5 +3248,20 @@
     "telegram": "apex_pool_spo",
     "operatorName": "George",
     "github": "cardano-apexpool"
+  },
+  {
+    "ticker": "GIZMO",
+    "poolId": "b8e25baf77c6387d155cc2f11b1ba4cc652c697e8eb4bf41755b311f",
+    "social": {
+      "facebook": "",
+      "twitter": "",
+      "website": "https://gizmopool.com",
+      "reddit": "GizmoPool",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "GizmoPool",
+    "operatorName": "Pankaj Jangid",
+    "github": "GizmoPool"
   }
 ]
