@@ -1,20 +1,5 @@
 [
    {
-      "ticker":"TRUMP",
-      "poolId":"bebfeddd60032c8052e46587218dcd6f3e6f0b1ad9be3864508049bc",
-      "social":{
-         "facebook":"",
-         "twitter":"",
-         "website":"https://adapools.org/pool/bebfeddd60032c8052e46587218dcd6f3e6f0b1ad9be3864508049bc",
-         "reddit":"",
-         "instagram":"",
-         "youtube":"https://www.youtube.com/channel/UCCzQFsz3zU-rBCVXvf7-Ojg"
-      },
-      "telegram":"TFPOOL",
-      "operatorName":"",
-      "github":""
-   },
-   {
       "ticker":"MGC8",
       "poolId":"9ad588607c07c9d7677ff4129bbd20021c5619adc6796cb4d6ce0077",
       "social":{
