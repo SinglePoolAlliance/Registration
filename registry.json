@@ -1,5 +1,20 @@
 [
   {
+      "ticker":"RUBY",
+      "poolId":"2c3390339aba47100f9ab1a230d6d726e10e9d527be49dc5bab479da",
+      "social":{
+         "facebook":"",
+         "twitter":"rubypools",
+         "website":"https://rubypools.com/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"LeviiiAckermannnn",
+      "operatorName":"",
+      "github":""
+  },
+  {
       "ticker":"ATDT",
       "poolId":"ae7015d54c634f922f800d9800529c3c5a007148ab9d792ac4ff33ae",
       "social":{
