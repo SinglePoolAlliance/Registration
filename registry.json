@@ -3249,19 +3249,34 @@
     "operatorName": "George",
     "github": "cardano-apexpool"
   },
-   {
-   "ticker": "ST4NA",
-   "poolId": "5707e4254180d481a4f1e690be0c2c54b3a618051d907df7e4434c0b",
-   "social": {
-     "facebook": "https://www.facebook.com/groups/1322915361438706",
-     "twitter": "https://twitter.com/NatureStake",
-     "website": "https://stakefornature.com",
-     "reddit": "",
-     "instagram": "",
-     "youtube": "https://www.youtube.com/channel/UCK4NaspZepg1_t7TOKltxIw/about"
-   },
-   "telegram": "",
-   "operatorName": "Esther",
-   "github": ""
- }
+  {
+    "ticker": "ST4NA",
+    "poolId": "5707e4254180d481a4f1e690be0c2c54b3a618051d907df7e4434c0b",
+    "social": {
+      "facebook": "https://www.facebook.com/groups/1322915361438706",
+      "twitter": "NatureStake",
+      "website": "https://stakefornature.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCK4NaspZepg1_t7TOKltxIw"
+  },
+    "telegram": "",
+    "operatorName": "Esther",
+    "github": ""
+  },
+  {
+    "ticker": "SPKL",
+    "poolId": "782310d6e6ab81cde977da3eef0a9f533bd255dadd30d01d33e0dde6",
+    "social": {
+      "facebook": "",
+      "twitter": "spklpool",
+      "website": "https://spklpool.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCSL-zgoWPGsrAW6TiVz_HOQ"
+    },
+    "telegram": "spklpool",
+    "operatorName": "Pierre",
+    "github": "spklpool"
+  }
 ]
