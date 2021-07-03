@@ -1,5 +1,20 @@
 [
   {
+      "ticker":"GNP1",
+      "poolId":"4b0a9386e29fae1d2a240bb585a7d1e94f76fa63b9ddbf23e1c72e9d",
+      "social":{
+         "facebook":"",
+         "twitter":"GrahamsNoPlus1",
+         "website":"https://grahamsnumberplus1.com",
+         "reddit":"grahamsnoplus1",
+         "instagram":"",
+         "youtube":"https://www.youtube.com/channel/UC8UtAA_zA4Ynb15oD3rOULg"
+      },
+      "telegram":"GrahamsNoPlus1",
+      "operatorName":"Russell Wallace",
+      "github":"GrahamsNoPlus1"
+  },
+  {
       "ticker":"ATDT",
       "poolId":"ae7015d54c634f922f800d9800529c3c5a007148ab9d792ac4ff33ae",
       "social":{
