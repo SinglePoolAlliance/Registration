@@ -3178,16 +3178,16 @@
  "github": "pgwadapool"                                                     
 },
 {
-      "ticker":"PEACH",
+      "ticker":"AVOC",
       "poolId":"5df46b9796868647647f6d3a4ebd188920e70cd12720513337203b62",
       "social":{
-         "instagram":"peachpool.ada",
-         "twitter":"peachpoolada",
-         "facebook":"peachpool.ada",
+         "instagram":"avocadopool",
+         "twitter":"AvocadoPool",
+         "facebook":"AvocadoPool",
          "youtube":"channel/UCovxsfNjVocdFKPkJSz7JmQ"
       },
-      "telegram":"PeachPoolADA",
-      "operatorName":"",
+      "telegram":"AvocadoPool",
+      "operatorName":"Frank & Nhi",
       "github":"amirderakh"
    },
    {
@@ -3263,5 +3263,20 @@
     "telegram": "jangid",
     "operatorName": "Pankaj Jangid",
     "github": "GizmoPool"
+  },
+  {
+    "ticker": "SPKL",
+    "poolId": "782310d6e6ab81cde977da3eef0a9f533bd255dadd30d01d33e0dde6",
+    "social": {
+      "facebook": "",
+      "twitter": "spklpool",
+      "website": "https://spklpool.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCSL-zgoWPGsrAW6TiVz_HOQ"
+    },
+    "telegram": "spklpool",
+    "operatorName": "Pierre",
+    "github": "spklpool"
   }
 ]
