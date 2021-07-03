@@ -3248,5 +3248,20 @@
     "telegram": "apex_pool_spo",
     "operatorName": "George",
     "github": "cardano-apexpool"
+  },
+  {
+    "ticker": "SPKL",
+    "poolId": "782310d6e6ab81cde977da3eef0a9f533bd255dadd30d01d33e0dde6",
+    "social": {
+      "facebook": "",
+      "twitter": "spklpool",
+      "website": "https://spklpool.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCSL-zgoWPGsrAW6TiVz_HOQ"
+    },
+    "telegram": "spklpool",
+    "operatorName": "Pierre",
+    "github": "spklpool"
   }
 ]
