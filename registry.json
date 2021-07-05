@@ -3250,6 +3250,21 @@
     "github": "cardano-apexpool"
   },
   {
+    "ticker": "GIZMO",
+    "poolId": "b8e25baf77c6387d155cc2f11b1ba4cc652c697e8eb4bf41755b311f",
+    "social": {
+      "facebook": "",
+      "twitter": "PoolGizmo",
+      "website": "https://gizmopool.com",
+      "reddit": "jangid",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "jangid",
+    "operatorName": "Pankaj Jangid",
+    "github": "GizmoPool"
+  },
+  {
     "ticker": "SPKL",
     "poolId": "782310d6e6ab81cde977da3eef0a9f533bd255dadd30d01d33e0dde6",
     "social": {
