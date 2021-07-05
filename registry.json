@@ -224,21 +224,6 @@
       "github":"philbert440"
    },
    {
-      "ticker":"TRUMP",
-      "poolId":"bebfeddd60032c8052e46587218dcd6f3e6f0b1ad9be3864508049bc",
-      "social":{
-         "facebook":"",
-         "twitter":"",
-         "website":"https://adapools.org/pool/bebfeddd60032c8052e46587218dcd6f3e6f0b1ad9be3864508049bc",
-         "reddit":"",
-         "instagram":"",
-         "youtube":"https://www.youtube.com/channel/UCCzQFsz3zU-rBCVXvf7-Ojg"
-      },
-      "telegram":"TFPOOL",
-      "operatorName":"",
-      "github":""
-   },
-   {
       "ticker":"RSV",
       "poolId":"1be0613ee44270f56b5fbb71f667528e1d877d77d349dd7324d50869",
       "social":{
