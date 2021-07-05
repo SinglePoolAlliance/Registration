@@ -1,4 +1,19 @@
 [
+    {
+      "ticker":"KAYA",
+      "poolId":"627a4ecacdc3d0e3fb5fe9a8cee8880a43069ec2f46d5217decef71c",
+      "social":{
+         "facebook":"KayaPoolSingapore",
+         "twitter":"PoolKaya",
+         "website":"https://kayapool.com",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"KayaPool",
+      "operatorName":"Setiaman",
+      "github":"setiamanlhc"
+  },
   {
       "ticker":"GNP1",
       "poolId":"4b0a9386e29fae1d2a240bb585a7d1e94f76fa63b9ddbf23e1c72e9d",
