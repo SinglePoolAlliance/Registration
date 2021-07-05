@@ -3265,6 +3265,18 @@
     "github": "spklpool"
   },
   {
+   "ticker":"ALFA",
+   "poolId":"381ad61d5031c2a570c268d2f018bfb65c6eb7e32e535a58384f9a21",
+   "social":{
+      "twitter":"AlfaCardanoPool",
+      "facebook":"alfacardanopool",
+      "instagram":"",
+      "youtube":""
+   },
+   "telegram":"alfacardanopool",
+   "operatorName":"Nick",
+   "github":"alfacardanopool" 
+  },
     "ticker": "HELIA",
     "poolId": "a9a6552ff57baae1581274f44d480d9da5a29926c667b26c288746cb",
     "social": {
