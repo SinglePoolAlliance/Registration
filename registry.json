@@ -3263,5 +3263,20 @@
     "telegram": "spklpool",
     "operatorName": "Pierre",
     "github": "spklpool"
+  },
+  {
+    "ticker": "HELIA",
+    "poolId": "a9a6552ff57baae1581274f44d480d9da5a29926c667b26c288746cb",
+    "social": {
+      "facebook": "",
+      "twitter": "heliastaking",
+      "website": "https://helia-staking.ch",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "heliastaking",
+    "operatorName": "Miro",
+    "github": "heliastaking"
   }
 ]
