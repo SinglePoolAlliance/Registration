@@ -1139,6 +1139,11 @@
         "name": "SPKL"
       },
       "225": {
+        "pool_id": "381ad61d5031c2a570c268d2f018bfb65c6eb7e32e535a58384f9a21",
+        "member_since": "2021-07-03",
+        "name": "ALFA"
+      },
+      "226": {
         "pool_id": "a9a6552ff57baae1581274f44d480d9da5a29926c667b26c288746cb",
         "member_since": "2021-07-05",
         "name": "HELIA"
