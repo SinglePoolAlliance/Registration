@@ -1,4 +1,94 @@
 [
+    {
+      "ticker":"KAYA",
+      "poolId":"627a4ecacdc3d0e3fb5fe9a8cee8880a43069ec2f46d5217decef71c",
+      "social":{
+         "facebook":"KayaPoolSingapore",
+         "twitter":"PoolKaya",
+         "website":"https://kayapool.com",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"KayaPool",
+      "operatorName":"Setiaman",
+      "github":"setiamanlhc"
+  },
+  {
+      "ticker":"GNP1",
+      "poolId":"4b0a9386e29fae1d2a240bb585a7d1e94f76fa63b9ddbf23e1c72e9d",
+      "social":{
+         "facebook":"",
+         "twitter":"GrahamsNoPlus1",
+         "website":"https://grahamsnumberplus1.com",
+         "reddit":"grahamsnoplus1",
+         "instagram":"",
+         "youtube":"https://www.youtube.com/channel/UC8UtAA_zA4Ynb15oD3rOULg"
+      },
+      "telegram":"GrahamsNoPlus1",
+      "operatorName":"Russell Wallace",
+      "github":"GrahamsNoPlus1"
+  },
+  {
+      "ticker":"ATDT",
+      "poolId":"ae7015d54c634f922f800d9800529c3c5a007148ab9d792ac4ff33ae",
+      "social":{
+         "facebook":"",
+         "twitter":"atdtpool",
+         "website":"https://pool.atdt.io/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"nycksw",
+      "operatorName":"",
+      "github":""
+  },
+  {
+      "ticker":"YODA",
+      "poolId":"7d788a436d0f89669c12c32c563a5b3925f6bbed26f0050bfcc93629",
+      "social":{
+         "facebook":"",
+         "twitter":"yodapool1",
+         "website":"https://aferranc.github.io/yodapool",
+         "reddit":"aferranc",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"aferranc",
+      "operatorName":"Albert Ferran",
+      "github":"aferranc"
+  },
+  {
+      "ticker":"DOG",
+      "poolId":"1d203e7d0dd203d63e04d8403b2ca9a92df7ebf72c1167854f1d2acf",
+      "social":{
+         "facebook":"",
+         "twitter":"adadogpool",
+         "website":"https://adadogpool.org",
+         "reddit":"",
+         "instagram":"",
+         "youtube":"https://www.youtube.com/channel/UC4HCWDd01sJg1eDbK9TYKpw"
+      },
+      "telegram":"ADADOGPOOL",
+      "operatorName":"",
+      "github":""
+  },
+  {
+      "ticker":"SAND",
+      "poolId":"40183423c226189d508db4b21bf94b790cf4d096134a9afbc2bd5318",
+      "social":{
+         "facebook":"",
+         "twitter":"https://twitter.com/michael_fazio",
+         "website":"https://sandstone.io",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"michaelfazio",
+      "operatorName":"Michael Fazio",
+      "github":"https://github.com/michaeljfazio"
+  },
   {
       "ticker":"META",
       "poolId":"b75a65868d3fd3583e423833381d104c02bedd3a83c9392d92e421b1",
@@ -118,6 +208,21 @@
       "operatorName":"RALPH",
       "github":""
    },
+      {
+      "ticker":"LGLP",
+      "poolId":"6936fe0511eada38cbc229ce57dda32b8db2a27e237689b46afa4228",
+      "social":{
+         "facebook":"",
+         "twitter":"LglpStudios",
+         "website":"",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"LGLP_Pool",
+      "operatorName":"Mike",
+      "github":"lglp-studios"
+   },
    {
       "ticker":"PIFY",
       "poolId":"884e3b60b361f9b714e06b24063d7b7225b17f64cb46d8ee8f0c821a",
@@ -132,21 +237,6 @@
       "telegram":"adapify",
       "operatorName":"Philip",
       "github":"philbert440"
-   },
-   {
-      "ticker":"TRUMP",
-      "poolId":"bebfeddd60032c8052e46587218dcd6f3e6f0b1ad9be3864508049bc",
-      "social":{
-         "facebook":"",
-         "twitter":"",
-         "website":"https://adapools.org/pool/bebfeddd60032c8052e46587218dcd6f3e6f0b1ad9be3864508049bc",
-         "reddit":"",
-         "instagram":"",
-         "youtube":"https://www.youtube.com/channel/UCCzQFsz3zU-rBCVXvf7-Ojg"
-      },
-      "telegram":"TFPOOL",
-      "operatorName":"",
-      "github":""
    },
    {
       "ticker":"RSV",
@@ -2402,21 +2492,6 @@
     "operatorName":"Supanit Thomsuwan",
     "github":"peach-git"
   },
-  {
-    "ticker":"ANVIL",
-    "poolId":"9084ebeb011e610e695068a74fa883dac5eda55faca77107b5f40064",
-    "social":{
-      "facebook":"",
-      "twitter":"https://twitter.com/AnvilPool",
-      "website":"https://anvilpool.carrd.co",
-      "reddit":"",
-      "instagram":"",
-      "youtube":""
-    },
-   "telegram":"Doc_Krieger",
-    "operatorName":"",
-    "github":""
-  },
   { "ticker":"ADAPT",
     "poolId":"780623d70c1168241e1d4d623e5e14e7f02e701b536329e9a735ad61",
     "social":{
@@ -3047,17 +3122,17 @@
     "github": "adriannavarrobetrian"
 },
   {
-    "ticker": "GOALS",
+    "ticker": "FUNGI",
     "poolId": "9dcb2a0398835a6b0a71dd5bbaa0d6bb961276aedd72f2655c7879d0",
     "social": {
-      "twitter": "adagoals",
+      "twitter": "FUNGIpool",
       "facebook": "",
       "reddit": "",
       "instagram": "",
-      "website": "https://ada-goals.com",
+      "website": "https://fungi-pool.com",
       "youtube": ""
     },
-    "telegram": "ADA_Goals_Stake_Pool",
+    "telegram": "FUNGI_Stake_Pool",
     "operatorName": " ",
     "github": " "
 },
@@ -3088,5 +3163,177 @@
       "telegram":"frog357",
       "operatorName":"Fred",
       "github":"frog357"
+  },
+   {
+     "ticker":"MINI1",
+     "poolId":"c3e7025ebae638e994c149e5703e82619b31897c9e1d64fc684f81c2",
+     "social":{
+       "twitter":"JuL71695233",
+       "facebook":" ",
+       "instagram":" ",
+       "website": "https://www.adaministake.com",
+       "youtube":" "
+     },
+      "telegram":"mini1pool",
+      "operatorName":"Julien",
+      "github":"jterrier84"
+   },
+  {
+    "ticker":"DOC",
+    "poolId":"9084ebeb011e610e695068a74fa883dac5eda55faca77107b5f40064",
+    "social":{
+      "facebook":"",
+      "twitter":"https://twitter.com/DocStakePool",
+      "website":"https://docstakepool.carrd.co",
+      "reddit":"",
+      "instagram":"",
+      "youtube":""
+    },
+    "telegram":"Doc_Krieger",
+    "operatorName":"",
+    "github":"dockrieger86"
+  },
+  {
+ "ticker": "PGWAD",                                                       
+ "poolId": "7e45a7e6ab3afcf99120e97aedf84e706e43d829ddc610ad667a85a3",  
+ "social": {                                                            
+   "twitter": "PgwadaS",
+   "facebook": "",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "pgwada",                                             
+ "operatorName": "Wadi",                                   
+ "github": "pgwadapool"                                                     
+},
+{
+      "ticker":"AVOC",
+      "poolId":"5df46b9796868647647f6d3a4ebd188920e70cd12720513337203b62",
+      "social":{
+         "instagram":"avocadopool",
+         "twitter":"AvocadoPool",
+         "facebook":"AvocadoPool",
+         "youtube":"channel/UCovxsfNjVocdFKPkJSz7JmQ"
+      },
+      "telegram":"AvocadoPool",
+      "operatorName":"Frank & Nhi",
+      "github":"amirderakh"
+   },
+   {
+      "ticker":"ARRA",
+      "poolId":"c65ca06828caa8fc9b0bb015af93ef71685544c6ed2abbb7c59b0e62",
+      "social":{
+         "facebook":"",
+         "twitter":"ArrakisPool",
+         "website":"https://ada.arrakis.it",
+         "reddit":"",
+         "instagram":" ",
+         "youtube":""
+      },
+      "telegram":"sirpickelhaupt",
+      "operatorName":"Daniel",
+      "github":"abracadaniel"
+   },
+    {
+ "ticker": "AAAU1",                                                       
+ "poolId":"64f6bd547b5ec3c35e18d1b09956af8dd2e53b7da7a9b7f58f3c5580",
+ "social": {                                                            
+   "twitter": "Richard79337561",
+   "facebook": "@adabankau",
+   "instagram": "",
+   "youtube": "",
+   "website":"https://adabank.com.au"
+ },
+ "telegram": "@ADABankAU",                                             
+ "operatorName": "",                                   
+ "github": "OffTheRicta"                                                     
+},
+    {
+      "ticker":"HWL",
+      "poolId":"de2e00a923f6dd016a43087e608df9b6ddd4e587e8ff4f39c64e2d43",
+      "social":{
+         "facebook":"https://www.facebook.com/hardware.legnano/",
+         "twitter":"HardwareLegnano",
+         "website":"https://www.hwlegnano.it/cardano/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":"https://www.youtube.com/channel/UCktutdsi74XvRDGwDn01iJQ"
+      },
+      "telegram":"@Dark345",
+      "operatorName":"Paolo",
+      "github":"Hardware-Legnano"
+  },
+  {
+    "ticker": "APEX",
+    "poolId": "538299a358e79a289c8de779f8cd09dd6a6bb286de717d1f744bb357",
+    "social": {
+      "facebook": "",
+      "twitter": "cardanoapexpool",
+      "website": "https://apexpool.info",
+      "reddit": "georgem1976",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "apex_pool_spo",
+    "operatorName": "George",
+    "github": "cardano-apexpool"
+  },
+  {
+    "ticker": "GIZMO",
+    "poolId": "b8e25baf77c6387d155cc2f11b1ba4cc652c697e8eb4bf41755b311f",
+    "social": {
+      "facebook": "",
+      "twitter": "PoolGizmo",
+      "website": "https://gizmopool.com",
+      "reddit": "jangid",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "jangid",
+    "operatorName": "Pankaj Jangid",
+    "github": "GizmoPool"
+  },
+  {
+    "ticker": "SPKL",
+    "poolId": "782310d6e6ab81cde977da3eef0a9f533bd255dadd30d01d33e0dde6",
+    "social": {
+      "facebook": "",
+      "twitter": "spklpool",
+      "website": "https://spklpool.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCSL-zgoWPGsrAW6TiVz_HOQ"
+    },
+    "telegram": "spklpool",
+    "operatorName": "Pierre",
+    "github": "spklpool"
+  },
+  {
+   "ticker":"ALFA",
+   "poolId":"381ad61d5031c2a570c268d2f018bfb65c6eb7e32e535a58384f9a21",
+   "social":{
+      "twitter":"AlfaCardanoPool",
+      "facebook":"alfacardanopool",
+      "instagram":"",
+      "youtube":""
+   },
+   "telegram":"alfacardanopool",
+   "operatorName":"Nick",
+   "github":"alfacardanopool" 
+  },
+  {
+    "ticker": "HELIA",
+    "poolId": "a9a6552ff57baae1581274f44d480d9da5a29926c667b26c288746cb",
+    "social": {
+      "facebook": "",
+      "twitter": "heliastaking",
+      "website": "https://helia-staking.ch",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "heliastaking",
+    "operatorName": "Miro",
+    "github": "heliastaking"
   }
 ]
