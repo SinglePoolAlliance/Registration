@@ -3350,5 +3350,20 @@
     "telegram": "heliastaking",
     "operatorName": "Miro",
     "github": "heliastaking"
+  },
+  {
+    "ticker":"FAM",
+    "poolId":"4d9333fceb79761fb826b22395c4bff84740fbfa8af232d6f6944eb7",
+    "social":{
+       "facebook":"darkartopia",
+       "twitter":"darkartopia",
+       "website":"http://darkartopia.art",
+       "reddit":"",
+       "instagram":"darkartopia",
+       "youtube":""
+    },
+    "telegram":"darkartopia",
+    "operatorName":"Marianna",
+    "github":"darkartopiafam"
   }
 ]
