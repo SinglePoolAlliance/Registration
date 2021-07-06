@@ -1,4 +1,49 @@
 [
+    {
+      "ticker":"KAYA",
+      "poolId":"627a4ecacdc3d0e3fb5fe9a8cee8880a43069ec2f46d5217decef71c",
+      "social":{
+         "facebook":"KayaPoolSingapore",
+         "twitter":"PoolKaya",
+         "website":"https://kayapool.com",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"KayaPool",
+      "operatorName":"Setiaman",
+      "github":"setiamanlhc"
+  },
+  {
+      "ticker":"GNP1",
+      "poolId":"4b0a9386e29fae1d2a240bb585a7d1e94f76fa63b9ddbf23e1c72e9d",
+      "social":{
+         "facebook":"",
+         "twitter":"GrahamsNoPlus1",
+         "website":"https://grahamsnumberplus1.com",
+         "reddit":"grahamsnoplus1",
+         "instagram":"",
+         "youtube":"https://www.youtube.com/channel/UC8UtAA_zA4Ynb15oD3rOULg"
+      },
+      "telegram":"GrahamsNoPlus1",
+      "operatorName":"Russell Wallace",
+      "github":"GrahamsNoPlus1"
+  },
+  {
+      "ticker":"RUBY",
+      "poolId":"2c3390339aba47100f9ab1a230d6d726e10e9d527be49dc5bab479da",
+      "social":{
+         "facebook":"",
+         "twitter":"rubypools",
+         "website":"https://rubypools.com/",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"LeviiiAckermannnn",
+      "operatorName":"",
+      "github":""
+  },
   {
       "ticker":"ATDT",
       "poolId":"ae7015d54c634f922f800d9800529c3c5a007148ab9d792ac4ff33ae",
@@ -207,21 +252,6 @@
       "telegram":"adapify",
       "operatorName":"Philip",
       "github":"philbert440"
-   },
-   {
-      "ticker":"TRUMP",
-      "poolId":"bebfeddd60032c8052e46587218dcd6f3e6f0b1ad9be3864508049bc",
-      "social":{
-         "facebook":"",
-         "twitter":"",
-         "website":"https://adapools.org/pool/bebfeddd60032c8052e46587218dcd6f3e6f0b1ad9be3864508049bc",
-         "reddit":"",
-         "instagram":"",
-         "youtube":"https://www.youtube.com/channel/UCCzQFsz3zU-rBCVXvf7-Ojg"
-      },
-      "telegram":"TFPOOL",
-      "operatorName":"",
-      "github":""
    },
    {
       "ticker":"RSV",
@@ -3134,7 +3164,21 @@
       "telegram":"marin007",
       "operatorName":"Marian",
       "github":"aloopmarin007"
-},
+  },
+   {
+     "ticker":"TAILS",
+     "poolId":"2ce9bfc4e0a732d21ec8739cbfc3b10957b4e3297fd320d556f48ada",
+     "social":{
+       "twitter":"https://twitter.com/_mermada",
+       "facebook":"https://www.facebook.com/Mermada-101476705341103",
+       "instagram":" ",
+       "website": "https://www.metromermaids.com",
+       "youtube":" "
+     },
+      "telegram":"frog357",
+      "operatorName":"Fred",
+      "github":"frog357"
+  },
    {
      "ticker":"MINI1",
      "poolId":"c3e7025ebae638e994c149e5703e82619b31897c9e1d64fc684f81c2",
@@ -3258,13 +3302,27 @@
       "website": "https://stakefornature.com",
       "reddit": "",
       "instagram": "",
-      "youtube": "https://www.youtube.com/channel/UCK4NaspZepg1_t7TOKltxIw"
+      "youtube": "channel/UCK4NaspZepg1_t7TOKltxIw"
   },
-    "telegram": "",
-    "operatorName": "Esther",
+    "telegram": "ST_4_NA",
+    "operatorName": "Juan Carlos",
     "github": ""
   },
-  {
+    "ticker": "GIZMO",
+    "poolId": "b8e25baf77c6387d155cc2f11b1ba4cc652c697e8eb4bf41755b311f",
+    "social": {
+      "facebook": "",
+      "twitter": "PoolGizmo",
+      "website": "https://gizmopool.com",
+      "reddit": "jangid",
+      "instagram": "",
+      "youtube": ""
+   },
+    "telegram": "jangid",
+    "operatorName": "Pankaj Jangid",
+    "github": "GizmoPool"
+   },
+   {
     "ticker": "SPKL",
     "poolId": "782310d6e6ab81cde977da3eef0a9f533bd255dadd30d01d33e0dde6",
     "social": {
@@ -3278,5 +3336,33 @@
     "telegram": "spklpool",
     "operatorName": "Pierre",
     "github": "spklpool"
+  },
+  {
+   "ticker":"ALFA",
+   "poolId":"381ad61d5031c2a570c268d2f018bfb65c6eb7e32e535a58384f9a21",
+   "social":{
+      "twitter":"AlfaCardanoPool",
+      "facebook":"alfacardanopool",
+      "instagram":"",
+      "youtube":""
+   },
+   "telegram":"alfacardanopool",
+   "operatorName":"Nick",
+   "github":"alfacardanopool" 
+  },
+  {
+    "ticker": "HELIA",
+    "poolId": "a9a6552ff57baae1581274f44d480d9da5a29926c667b26c288746cb",
+    "social": {
+      "facebook": "",
+      "twitter": "heliastaking",
+      "website": "https://helia-staking.ch",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "heliastaking",
+    "operatorName": "Miro",
+    "github": "heliastaking"
   }
 ]
