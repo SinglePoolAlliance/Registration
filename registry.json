@@ -3365,5 +3365,20 @@
     "telegram":"darkartopia",
     "operatorName":"Marianna",
     "github":"darkartopiafam"
+  },
+    {
+      "ticker":"AMOON",
+      "poolId":"059b4217a24a8c67a363968ff1db13a17ed96e611362450c115b2415",
+      "social":{
+         "facebook":"",
+         "twitter":"adamoonpool",
+         "website":"https://adamoon.net",
+         "reddit":"",
+         "instagram":"",
+         "youtube":""
+      },
+      "telegram":"yadavnie",
+      "operatorName":"Yadav/Nadeem",
+      "github":"adamoonpool"
   }
 ]
