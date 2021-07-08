@@ -3382,5 +3382,20 @@
     "telegram": "yadavnie",
     "operatorName": "Yadav/Nadeem",
     "github": "adamoonpool"
+  },
+  {
+    "ticker": "K8S",
+    "poolId": "0960deeaabd7ca77a970e2932d06ec594c902301973041c6d9b1dc2e",
+    "social": {
+      "facebook": "",
+      "twitter": "",
+      "website": "https://k8s-pool.subnet.dev",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "mateomuller",
+    "operatorName": "",
+    "github": "subnet-dev"
   }
 ]
