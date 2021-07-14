@@ -3382,5 +3382,20 @@
     "telegram": "yadavnie",
     "operatorName": "Yadav/Nadeem",
     "github": "adamoonpool"
+  },
+  {
+    "ticker": "ANKER",
+    "poolId": "716d0ffd6fb2e625c9a217c5d026fe58a01e3ca64d3ef3a7e27e3ad2",
+    "social": {
+      "facebook": "",
+      "twitter": "ankerpool",
+      "website": "https://ankerpool.com",
+      "reddit": "fmeshreky",
+      "instagram": "viajandee",
+      "youtube": "https://www.youtube.com/channel/UCsQTmh1dCLtj6RJi-8Je1Tw"
+    },
+    "telegram": "viajandee",
+    "operatorName": "Fady",
+    "github": "viajandee"
   }
 ]
