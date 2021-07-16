@@ -2444,19 +2444,5 @@
     "telegram": "devdertin",
     "operatorName": "Guillermo Céspedes",
     "github": "terostakepool"
-  },
-  {
-    "ticker": "ALTZ",                                                       
-    "poolId": "46ebbc0d27d9169cae12d12dcf8f6cacbcf27937c67ae4350abbcaba",  
-    "social": {              
-      "website":"https://altzpool.com", 
-      "twitter": "@AltzPool",
-      "facebook": "",  
-      "instagram": "",
-      "youtube": ""
-    },
-    "telegram": "altzpool",                                             
-    "operatorName": "",                                  
-    "github": "jmalcolea"                                                     
-  }   
+  } 
 ]
