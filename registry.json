@@ -1,5 +1,19 @@
 [
       {
+       "ticker": "ALTZ",                                                       
+       "poolId": "46ebbc0d27d9169cae12d12dcf8f6cacbcf27937c67ae4350abbcaba",  
+       "social": {              
+         "website":"https://altzpool.com", 
+         "twitter": "AltzPool",
+         "facebook": " ",  
+         "instagram": " ",
+         "youtube": " "
+       },
+       "telegram": "altzpool",                                             
+       "operatorName": "Jose M.",                                  
+       "github": ""    
+      },
+      {
       "ticker":"POOLU",
       "poolId":"819941b2b97a23355387638effc31bc7d3e953663e1a6b4c6df5b97d",
       "social":{
