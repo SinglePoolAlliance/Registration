@@ -3443,6 +3443,21 @@
     "github": "adamoonpool"
   },
   {
+    "ticker": "K8S",
+    "poolId": "0960deeaabd7ca77a970e2932d06ec594c902301973041c6d9b1dc2e",
+    "social": {
+      "facebook": "",
+      "twitter": "K8sPool",
+      "website": "https://k8s-pool.subnet.dev",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "mateomuller",
+    "operatorName": "",
+    "github": "subnet-dev"
+  },
+  {
     "ticker": "LIX",
     "poolId": "901c5c323e73f39731a38e9cab770d538aebd38eda89166f0f4eda9c",
     "social": {
