@@ -3382,5 +3382,20 @@
     "telegram": "yadavnie",
     "operatorName": "Yadav/Nadeem",
     "github": "adamoonpool"
+  },
+  {
+    "ticker": "LIX",
+    "poolId": "901c5c323e73f39731a38e9cab770d538aebd38eda89166f0f4eda9c",
+    "social": {
+      "facebook": "",
+      "twitter": "",
+      "website": "https://felixpham.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCMG8oaa9a_yaLZjublKBvCg"
+    },
+    "telegram": "felix_pham",
+    "operatorName": "Felix",
+    "github": "lix-pham"
   }
 ]
