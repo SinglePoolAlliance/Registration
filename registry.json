@@ -30,6 +30,21 @@
     "github": "setiamanlhc"
   },
   {
+   "ticker": "QUBIT",                                                      
+   "poolId": "08dd84d27f00aa9ee6caf195d81256a3d217dd345857cd8be60f18b0",  
+   "social": {      
+     "facebook": "",
+     "twitter": "qubitpool",
+     "website": "https://qubitpool.com",
+     "reddit": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "qubitpool",                                             
+   "operatorName": "Scott",                                   
+   "github": "optimator999"                                                     
+  },
+  {
     "ticker": "GNP1",
     "poolId": "4b0a9386e29fae1d2a240bb585a7d1e94f76fa63b9ddbf23e1c72e9d",
     "social": {
