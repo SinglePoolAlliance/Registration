@@ -3486,5 +3486,21 @@
     "telegram": "viajandee",
     "operatorName": "Fady",
     "github": "viajandee"
+  },
+  {
+    "ticker": "ISTAN",
+    "poolId": "bce4f15e81e2d2d9fe5c061f02f89ced9a56654a753f14d8409505bb",
+    "social": {
+      "facebook": "",
+      "twitter": "istanpool34",
+      "website": "https://istanpool.info",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "istanpool",
+    "operatorName": "erol",
+    "github": "eroler72"
   }
+]
 ]
