@@ -3354,6 +3354,21 @@
     "github": "heliastaking"
   },
   {
+    "ticker": "MSTR",
+    "poolId": "abea730f5c32157c76c876597d0b7093d50754d0274d67c62d7434b9",
+    "social": {
+      "facebook": "",
+      "twitter": "MStakepool",
+      "website": "http://www.maestro-pool.com",
+      "reddit": "https://www.reddit.com/user/MAESTRO-stake-pool",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "varderes",
+    "operatorName": "Varderes",
+    "github": "MAESTRO-Pool"
+  },
+  {
     "ticker": "FAM",
     "poolId": "4d9333fceb79761fb826b22395c4bff84740fbfa8af232d6f6944eb7",
     "social": {
