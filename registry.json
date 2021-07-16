@@ -1,5 +1,20 @@
 [
   {
+    "ticker": "ARARE",
+    "poolId": "f65731aa68706607718d140426c75cd7ac2c40703c31c325fdd46f91",
+    "social": {
+      "facebook": "",
+      "twitter": "AdaRarePool",
+      "website": "https://arare.io",
+      "reddit": "",
+      "instagram": "adararestakepool",
+      "youtube": "https://www.youtube.com/channel/UC2_Vi4_n_jiSMLAVSCGYWjA"
+    },
+    "telegram": "Adarare",
+    "operatorName": "Moshe",
+    "github": "ARARE-pool"
+  },
+  {
     "ticker": "KAYA",
     "poolId": "627a4ecacdc3d0e3fb5fe9a8cee8880a43069ec2f46d5217decef71c",
     "social": {
@@ -13,6 +28,21 @@
     "telegram": "KayaPool",
     "operatorName": "Setiaman",
     "github": "setiamanlhc"
+  },
+  {
+   "ticker": "QUBIT",                                                      
+   "poolId": "08dd84d27f00aa9ee6caf195d81256a3d217dd345857cd8be60f18b0",  
+   "social": {      
+     "facebook": "",
+     "twitter": "qubitpool",
+     "website": "https://qubitpool.com",
+     "reddit": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "qubitpool",                                             
+   "operatorName": "Scott",                                   
+   "github": "optimator999"                                                     
   },
   {
     "ticker": "GNP1",
@@ -3354,6 +3384,21 @@
     "github": "heliastaking"
   },
   {
+    "ticker": "MSTR",
+    "poolId": "abea730f5c32157c76c876597d0b7093d50754d0274d67c62d7434b9",
+    "social": {
+      "facebook": "",
+      "twitter": "MStakepool",
+      "website": "http://www.maestro-pool.com",
+      "reddit": "https://www.reddit.com/user/MAESTRO-stake-pool",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "varderes",
+    "operatorName": "Varderes",
+    "github": "MAESTRO-Pool"
+  },
+  {
     "ticker": "FAM",
     "poolId": "4d9333fceb79761fb826b22395c4bff84740fbfa8af232d6f6944eb7",
     "social": {
@@ -3397,5 +3442,19 @@
     "telegram": "felix_pham",
     "operatorName": "Felix",
     "github": "lix-pham"
+  },
+    "ticker": "ANKER",
+    "poolId": "716d0ffd6fb2e625c9a217c5d026fe58a01e3ca64d3ef3a7e27e3ad2",
+    "social": {
+      "facebook": "",
+      "twitter": "ankerpool",
+      "website": "https://ankerpool.com",
+      "reddit": "fmeshreky",
+      "instagram": "viajandee",
+      "youtube": "https://www.youtube.com/channel/UCsQTmh1dCLtj6RJi-8Je1Tw"
+    },
+    "telegram": "viajandee",
+    "operatorName": "Fady",
+    "github": "viajandee"
   }
 ]
