@@ -1,5 +1,20 @@
 [
   {
+    "ticker": "ARARE",
+    "poolId": "f65731aa68706607718d140426c75cd7ac2c40703c31c325fdd46f91",
+    "social": {
+      "facebook": "",
+      "twitter": "AdaRarePool",
+      "website": "https://arare.io",
+      "reddit": "",
+      "instagram": "adararestakepool",
+      "youtube": "https://www.youtube.com/channel/UC2_Vi4_n_jiSMLAVSCGYWjA"
+    },
+    "telegram": "Adarare",
+    "operatorName": "Moshe",
+    "github": "ARARE-pool"
+  },
+  {
     "ticker": "KAYA",
     "poolId": "627a4ecacdc3d0e3fb5fe9a8cee8880a43069ec2f46d5217decef71c",
     "social": {
