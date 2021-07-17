@@ -3486,5 +3486,20 @@
     "telegram": "viajandee",
     "operatorName": "Fady",
     "github": "viajandee"
+  },
+  {
+    "ticker": "ALND",
+    "poolId": "6f223af7c6069f7428cf7605efba84ec410f5476550f83dbb3096238",
+    "social": {
+      "facebook": "https://facebook.com/allnodes",
+      "twitter": "https://twitter.com/allnodes",
+      "website": "https://www.allnodes.com/ada/staking",
+      "reddit": "reddit.com/r/allnodes",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "http://t.me/allnodes",
+    "operatorName": "Allnodes",
+    "github": "https://github.com/allnodes"
   }
 ]
