@@ -1,4 +1,19 @@
 [
+  {
+    "ticker": "ROSE",
+    "poolId": "fffda60991eafa48674f7137a76e11ddc2464e94c73a4319629072b4",
+    "social": {
+      "facebook": "",
+      "twitter": "RoseStaking",
+      "website": "https://github.com/RosePoolStaking/stakepool",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "",
+    "operatorName": "OSE-Pool-Operator",
+    "github": "RosePoolStaking"
+  },
       {
        "ticker": "ALTZ",                                                       
        "poolId": "46ebbc0d27d9169cae12d12dcf8f6cacbcf27937c67ae4350abbcaba",  
