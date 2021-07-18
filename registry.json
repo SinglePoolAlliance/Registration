@@ -3486,5 +3486,20 @@
     "telegram": "viajandee",
     "operatorName": "Fady",
     "github": "viajandee"
+  },
+  {
+    "ticker": "USONE",
+    "poolId": "576e0390ac54e3751afdaa8aa256f41b84a6324006f23991f6fdefb7",
+    "social": {
+      "facebook": "",
+      "twitter": "as_usone",
+      "website": "https://usas.one",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "us_as_one",
+    "operatorName": "Stephen",
+    "github": "SJPMurphy"
   }
 ]
