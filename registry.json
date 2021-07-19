@@ -1,17 +1,17 @@
 [
       {
-       "ticker": "ALTZ",                                                       
-       "poolId": "46ebbc0d27d9169cae12d12dcf8f6cacbcf27937c67ae4350abbcaba",  
+       "ticker": "KYOKU",                                                       
+       "poolId": "302f38b9b9cf8ace04859882b78e885cec18ee88832e7267224c2b28",  
        "social": {              
-         "website":"https://altzpool.com", 
-         "twitter": "AltzPool",
+         "website":"https://kyoku-pool.online", 
+         "twitter": "KyokuPool",
          "facebook": " ",  
          "instagram": " ",
          "youtube": " "
        },
-       "telegram": "altzpool",                                             
-       "operatorName": "Jose M.",                                  
-       "github": ""    
+       "telegram": "kyoku_prague",                                             
+       "operatorName": "Ilya",                                  
+       "github": "kyoku-pool"    
       },
   {
     "ticker": "ARARE",
