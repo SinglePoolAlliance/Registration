@@ -3486,5 +3486,20 @@
     "telegram": "viajandee",
     "operatorName": "Fady",
     "github": "viajandee"
+  },
+  {
+    "ticker": "NEO",
+    "poolId": "4d000df9ea28a76e0be7ac0a090ea3c2c75d8d309fe7fa11988402dd",
+    "social": {
+      "facebook": "https://www.facebook.com/NEO-stakepool-111409704506892/",
+      "twitter": "https://twitter.com/neo_stakepool",
+      "website": "https://neostakepool.nl/",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "https://t.me/joinchat/r8aa1EQsYKkyYmRk",
+    "operatorName": "Bastiaan",
+    "github": "neo-stakepool"
   }
 ]
