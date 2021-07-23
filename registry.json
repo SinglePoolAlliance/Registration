@@ -3382,5 +3382,20 @@
     "telegram": "yadavnie",
     "operatorName": "Yadav/Nadeem",
     "github": "adamoonpool"
+  },
+  {
+    "ticker": "SANTO",
+    "poolId": "9837e1eca79504f57acd4e12f2db93ee04a76bca308cae61a6ee205a",
+    "social": {
+      "facebook": "",
+      "twitter": "nodesanto",
+      "website": "https://santoelectronics.com/santonode",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "santoelectronics",
+    "operatorName": "Chris/Nunez",
+    "github": "santonode"
   }
 ]
