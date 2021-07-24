@@ -3239,5 +3239,20 @@
     "telegram": "staypool",
     "operatorName": "",
     "github": "stay-pool"
+  },
+  {
+    "ticker": "EURO",
+    "poolId": "3bd3996595321d951291b11e1331061c5d8659d9e69390536dfc922c",
+    "social": {
+      "facebook": "",
+      "twitter": "wutzebaer1",
+      "website": "https://peterspace.de/stakepool/",
+      "reddit": "wutzebaer",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "wutzebaer",
+    "operatorName": "Peter Großmann",
+    "github": "wutzebaer"
   }
 ]
