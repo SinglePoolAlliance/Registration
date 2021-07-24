@@ -3312,10 +3312,10 @@
        },
        "telegram": "kyoku_prague",                                             
        "operatorName": "Kyoku",                                  
-       "github": "kyoku-pool"    
-        "ticker": "EURO",
+       "github": "kyoku-pool"        
   },
   {
+    "ticker": "EURO",
     "poolId": "3bd3996595321d951291b11e1331061c5d8659d9e69390536dfc922c",
     "social": {
       "facebook": "",
