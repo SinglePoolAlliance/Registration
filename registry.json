@@ -1,18 +1,18 @@
 [
-      {
-       "ticker": "ALTZ",                                                       
-       "poolId": "46ebbc0d27d9169cae12d12dcf8f6cacbcf27937c67ae4350abbcaba",  
-       "social": {              
-         "website":"https://altzpool.com", 
-         "twitter": "AltzPool",
-         "facebook": " ",  
-         "instagram": " ",
-         "youtube": " "
-       },
-       "telegram": "altzpool",                                             
-       "operatorName": "Jose M.",                                  
-       "github": ""    
-      },
+  {
+    "ticker": "ALTZ",                                                       
+    "poolId": "46ebbc0d27d9169cae12d12dcf8f6cacbcf27937c67ae4350abbcaba",  
+    "social": {              
+      "website":"https://altzpool.com", 
+      "twitter": "AltzPool",
+      "facebook": " ",  
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "altzpool",                                             
+    "operatorName": "Jose M.",                                  
+    "github": ""    
+  },
   {
     "ticker": "ARARE",
     "poolId": "f65731aa68706607718d140426c75cd7ac2c40703c31c325fdd46f91",
@@ -3209,5 +3209,20 @@
     "telegram": "viajandee",
     "operatorName": "Fady",
     "github": "viajandee"
+  },
+  {
+    "ticker": "ISTAN",
+    "poolId": "bce4f15e81e2d2d9fe5c061f02f89ced9a56654a753f14d8409505bb",
+    "social": {
+      "facebook": "",
+      "twitter": "istanpool34",
+      "website": "https://istanpool.info",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "istanpool",
+    "operatorName": "erol",
+    "github": "eroler72"
   }
 ]
