@@ -3196,6 +3196,21 @@
     "github": "lix-pham"
   },
   {
+    "ticker": "GOLGI",
+    "poolId": "effc78f36adf09718712f78a4ae84f02e6d7cd79e3c9492fcaa2a7f5",
+    "social": {
+      "facebook": "Golgi-Stake-Pool-100691725510828",
+      "twitter": "GolgiIt",
+      "website": "https://golgi-pool.it",
+      "reddit": "",
+      "instagram": "golgistakepool",
+      "youtube": ""
+    },
+    "telegram": "@Giampiero_GOLGI",
+    "operatorName": "Giampiero Di Dieco",
+    "github": "GDiDieco"
+  },
+  {
     "ticker": "ANKER",
     "poolId": "716d0ffd6fb2e625c9a217c5d026fe58a01e3ca64d3ef3a7e27e3ad2",
     "social": {
