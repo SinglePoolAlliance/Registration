@@ -3240,6 +3240,22 @@
     "github": "viajandee"
   },
   {
+    "ticker": "NEO",
+    "poolId": "4d000df9ea28a76e0be7ac0a090ea3c2c75d8d309fe7fa11988402dd",
+    "social": {
+      "facebook": "https://www.facebook.com/NEO-stakepool-111409704506892/",
+      "twitter": "https://twitter.com/neo_stakepool",
+      "website": "https://neostakepool.nl/",
+
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "NEOBastiaan",
+    "operatorName": "Bastiaan",
+    "github": "neo-stakepool"
+  },
+  {
     "ticker": "ISTAN",
     "poolId": "bce4f15e81e2d2d9fe5c061f02f89ced9a56654a753f14d8409505bb",
     "social": {
@@ -3249,7 +3265,7 @@
       "reddit": "",
       "instagram": "",
       "youtube": ""
-    },
+  },
     "telegram": "istanpool",
     "operatorName": "erol",
     "github": "eroler72"
