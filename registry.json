@@ -3180,7 +3180,22 @@
     "github": "adamoonpool"
   },
   {
-    "ticker": "K8S",
+    "ticker": "SANTO",
+    "poolId": "9837e1eca79504f57acd4e12f2db93ee04a76bca308cae61a6ee205a",
+    "social": {
+      "facebook": "",
+      "twitter": "nodesanto",
+      "website": "https://santoelectronics.com/santonode",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "santoelectronics",
+    "operatorName": "Chris/Nunez",
+    "github": "santonode"
+  },
+ {
+  "ticker": "K8S",
     "poolId": "0960deeaabd7ca77a970e2932d06ec594c902301973041c6d9b1dc2e",
     "social": {
       "facebook": "",
@@ -3190,7 +3205,7 @@
       "instagram": "",
       "youtube": ""
     },
-    "telegram": "mateomuller",
+   "telegram": "mateomuller",
     "operatorName": "",
     "github": "subnet-dev"
   },
@@ -3298,5 +3313,20 @@
        "telegram": "kyoku_prague",                                             
        "operatorName": "Kyoku",                                  
        "github": "kyoku-pool"    
+        "ticker": "EURO",
+  },
+  {
+    "poolId": "3bd3996595321d951291b11e1331061c5d8659d9e69390536dfc922c",
+    "social": {
+      "facebook": "",
+      "twitter": "wutzebaer1",
+      "website": "https://peterspace.de/stakepool/",
+      "reddit": "wutzebaer",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "wutzebaer",
+    "operatorName": "Peter Großmann",
+    "github": "wutzebaer"
   }
 ]
