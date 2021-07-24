@@ -1127,6 +1127,11 @@
         "pool_id": "46ebbc0d27d9169cae12d12dcf8f6cacbcf27937c67ae4350abbcaba",
         "member_since": "2021-07-24",
         "name": "ALTZ"
+      },
+      "223": {
+        "pool_id": "effc78f36adf09718712f78a4ae84f02e6d7cd79e3c9492fcaa2a7f5",
+        "member_since": "2021-07-24",
+        "name": "GOLGI"
       }
     }
   }
