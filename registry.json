@@ -3224,5 +3224,20 @@
     "telegram": "istanpool",
     "operatorName": "erol",
     "github": "eroler72"
+  },
+  {
+    "ticker": "STAY",
+    "poolId": "aa6dd7ae211c87f6cadd6031a641e224d00f49c5cb736a7a502d5056",
+    "social": {
+      "facebook": "staypool",
+      "twitter": "stay_pool",
+      "website": "https://www.stakepoolada.com",
+      "reddit": "stay-pool",
+      "instagram": "stay_pool",
+      "youtube": "https://www.youtube.com/channel/UCzdCvnI1crLp75VQb39vXlg"
+    },
+    "telegram": "staypool",
+    "operatorName": "",
+    "github": "stay-pool"
   }
 ]
