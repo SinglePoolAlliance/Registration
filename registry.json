@@ -1,5 +1,19 @@
 [
   {
+       "ticker": "A4G",                                                       
+       "poolId": " cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f",  
+       "social": {              
+         "website":"https://www.ada4good.com", 
+         "twitter": "ada4goodp",
+         "facebook": " ",  
+         "instagram": " ",
+         "youtube": " "
+       },
+       "telegram": "ADA4Good",                                             
+       "operatorName": "Vahid",                                  
+       "github": ""    
+  },
+  {
     "ticker": "ALTZ",                                                       
     "poolId": "46ebbc0d27d9169cae12d12dcf8f6cacbcf27937c67ae4350abbcaba",  
     "social": {              
