@@ -1149,6 +1149,11 @@
         "name": "GOLGI"
       },
       "227": {
+        "pool_id": " 302f38b9b9cf8ace04859882b78e885cec18ee88832e7267224c2b28",
+        "member_since": "2021-07-24",
+        "name": "KYOKU"
+      },
+      "228": {
         "pool_id": "3bd3996595321d951291b11e1331061c5d8659d9e69390536dfc922c",
         "member_since": "2021-07-24",
         "name": "EURO"
