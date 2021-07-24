@@ -3301,6 +3301,20 @@
     "github": "stay-pool"
   },
   {
+       "ticker": "KYOKU",                                                       
+       "poolId": " 302f38b9b9cf8ace04859882b78e885cec18ee88832e7267224c2b28",  
+       "social": {              
+         "website":"https://kyoku-pool.online", 
+         "twitter": "KyokuPool",
+         "facebook": " ",  
+         "instagram": " ",
+         "youtube": " "
+       },
+       "telegram": "kyoku_prague",                                             
+       "operatorName": "Kyoku",                                  
+       "github": "kyoku-pool"        
+  },
+  {
     "ticker": "EURO",
     "poolId": "3bd3996595321d951291b11e1331061c5d8659d9e69390536dfc922c",
     "social": {
