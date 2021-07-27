@@ -3328,5 +3328,19 @@
     "telegram": "wutzebaer",
     "operatorName": "Peter Großmann",
     "github": "wutzebaer"
+  },
+  {
+    "ticker": "00000",
+    "poolId": "33708d590f4549170125524fcbd6bc189fa8711fba52f8ead4276ca4",
+    "social": {
+      "website": "https://pool.adaberrypi.com",
+      "twitter": "AdaberryPi",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "DeCentN2Madness 🐇 [00000]",
+    "operatorName": "Jeff Hales",
+    "github": "qbass"
   }
 ]
