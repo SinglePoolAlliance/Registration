@@ -3,7 +3,7 @@
        "ticker": "A4G",                                                       
        "poolId": " cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f",  
        "social": {              
-         "website":"https://www.ada4good.com", 
+         "website":"https://www.cardenpool.org", 
          "twitter": "ada4goodp",
          "facebook": " ",  
          "instagram": " ",
@@ -3328,5 +3328,20 @@
     "telegram": "wutzebaer",
     "operatorName": "Peter Großmann",
     "github": "wutzebaer"
+  },
+    {
+    "ticker": "CRPL",
+    "poolId": "cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7",
+    "social": {
+      "facebook": "",
+      "twitter": "carden_pool",
+      "website": "https://www.cardenpool.org",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "ollenotnA",
+    "operatorName": "Antonello",
+    "github": "CardenPool"
   }
 ]
