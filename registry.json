@@ -3328,5 +3328,20 @@
     "telegram": "wutzebaer",
     "operatorName": "Peter Großmann",
     "github": "wutzebaer"
+  },
+  {
+    "ticker": "XPPX",
+    "poolId": "5693aa7edfe81d12c9062bbe7b7c0b314b9665c6b3cd426152108347",
+    "social": {
+      "facebook": "",
+      "twitter": "xPR0PH3Tx",
+      "website": "https://xppx.io",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Pr0f1tPr0ph3t",
+    "operatorName": "",
+    "github": "xppx"
   }
 ]
