@@ -3329,6 +3329,21 @@
     "operatorName": "Peter Großmann",
     "github": "wutzebaer"
   },
+  {
+    "ticker": "XPPX",
+    "poolId": "5693aa7edfe81d12c9062bbe7b7c0b314b9665c6b3cd426152108347",
+    "social": {
+      "facebook": "",
+      "twitter": "xPR0PH3Tx",
+      "website": "https://xppx.io",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Pr0f1tPr0ph3t",
+    "operatorName": "",
+    "github": "xppx"
+  },
     {
     "ticker": "CRPL",
     "poolId": "cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7",
