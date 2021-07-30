@@ -3343,5 +3343,20 @@
     "telegram": "Pr0f1tPr0ph3t",
     "operatorName": "",
     "github": "xppx"
+  },
+    {
+    "ticker": "CRPL",
+    "poolId": "cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7",
+    "social": {
+      "facebook": "",
+      "twitter": "carden_pool",
+      "website": "https://www.cardenpool.org",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "ollenotnA",
+    "operatorName": "Antonello",
+    "github": "CardenPool"
   }
 ]

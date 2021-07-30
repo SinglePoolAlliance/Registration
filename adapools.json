@@ -1157,6 +1157,11 @@
         "pool_id": "3bd3996595321d951291b11e1331061c5d8659d9e69390536dfc922c",
         "member_since": "2021-07-24",
         "name": "EURO"
+      },
+      "229": {
+        "pool_id": "cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7",
+        "member_since": "2021-07-29",
+        "name": "CRPL"
       }
     }
   }
