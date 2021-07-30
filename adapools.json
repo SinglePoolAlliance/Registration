@@ -1162,6 +1162,11 @@
         "pool_id": "cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7",
         "member_since": "2021-07-29",
         "name": "CRPL"
+      },
+      "230": {
+        "pool_id": "5693aa7edfe81d12c9062bbe7b7c0b314b9665c6b3cd426152108347",
+        "member_since": "2021-07-30",
+        "name": "XPPX"
       }
     }
   }
