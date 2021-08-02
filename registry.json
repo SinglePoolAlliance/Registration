@@ -1,4 +1,20 @@
 [
+    {
+        "ticker": "RELAY",                                                      
+        "poolId": "6c1c1fc2b1e3e1ac056f6dd4dd4c3b78e66bd01896ca6e98a4d2431e",
+        "social": {                                                            
+            "website": "https://relaypool.com",
+            "discord": "Relay Stake Pool",
+            "reddit": "Relay_ADA_Pool",
+            "instagram": " ",
+            "facebook": " ",  
+            "youtube": " ",
+            "twitter": " ",
+        },
+        "telegram": "relaystakepool",
+        "operatorName": "Michael Van Stan",		                                   
+        "github": "MichaelVanStan"      
+  },
   {
        "ticker": "A4G",                                                       
        "poolId": " cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f",  
