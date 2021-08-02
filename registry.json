@@ -3372,5 +3372,19 @@
     "telegram": "DeCentN2Madness",
     "operatorName": "Jeff Hales",
     "github": "qbass"
+  },
+    {
+    "ticker": "STUPD",
+    "poolId": "5e1c0f2519b2ea005de5c418568a3323d7a2dddb2dc1e6a39d88cd02",
+    "social": {
+      "website": "https://www.stupidcotton.com/stake-pool",
+      "twitter": "stupid__cotton",
+      "facebook": "",  
+      "instagram": "stupid_cotton",
+      "youtube": "https://www.youtube.com/channel/UCK9xIhW6NtUNLk9Qe4NCePw"
+    },
+    "telegram": "StupidCotton",
+    "operatorName": "Juan Sebastian Echeverry Gonzalez",
+    "github": "stupidcotton"
   }
 ]
