@@ -3372,5 +3372,19 @@
     "telegram": "DeCentN2Madness",
     "operatorName": "Jeff Hales",
     "github": "qbass"
+  },
+  {
+    "ticker": "GUI",
+    "poolId": "fb82466458cb60c5295b8d335c24c83d85d510e0e012b877bcadbe98",
+    "social": {
+      "Website":"https://www.goowee.io/gui-stake-pool/",
+      "twitter": "gooWeeLLC",
+      "facebook": "gooWeellc",  
+      "instagram": "gooWeeTech",
+      "youtube": "UC5GaybyZmlqyVc5ebTXcoPA"
+    },
+    "telegram": "guiPoolIan",
+    "operatorName": "Ian Strouse",
+    "github": "goowee"
   }
 ]
