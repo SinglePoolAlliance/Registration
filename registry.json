@@ -3372,5 +3372,20 @@
     "telegram": "DeCentN2Madness",
     "operatorName": "Jeff Hales",
     "github": "qbass"
+  },
+  {
+    "ticker": "STEL",
+    "poolId": "31936b317654f36cde59e4c23a04b92e6565b8d95f261b74e94c823f",
+    "social": {
+      "facebook": "Stellence",
+      "twitter": "stellence",
+      "website": "https://www.stellence.com",
+      "reddit": "stellence",
+      "instagram": "stellence_corporation",
+      "youtube": "https://www.youtube.com/channel/UCWhCQDQtZA8TwGooyknzHDA"
+    },
+    "telegram": "Stellence",
+    "operatorName": "Michael Mowry",
+    "github": "stellence"
   }
 ]
