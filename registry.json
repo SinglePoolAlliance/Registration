@@ -3372,5 +3372,19 @@
     "telegram": "DeCentN2Madness",
     "operatorName": "Jeff Hales",
     "github": "qbass"
+  },
+  {
+    "ticker": "PSB",
+    "poolId": "f2fa0dfea7f4caba8cbdd042c4940c783ee57f9516062725b04e19a3",
+    "social": {
+      "website": "https://psilobyte.io",
+      "twitter": "877PSBYTE6",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCWaHRlqapPU-vLRLE7fL4kA"
+    },
+    "telegram": "reqlez",
+    "operatorName": "Boris",
+    "github": "reqlez"
   }
 ]
