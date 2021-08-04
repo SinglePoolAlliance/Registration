@@ -3372,5 +3372,19 @@
     "telegram": "DeCentN2Madness",
     "operatorName": "Jeff Hales",
     "github": "qbass"
+  },
+  {
+    "ticker": "HARM",
+    "poolId": "8ae61dd5202bc4903d95f75b50eecaa2e8d60ef1e36f81d1ccf6f65e",
+    "social": {
+      "website": "https://www.harmlesscoin.com",
+      "twitter": "harmlesscoin",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+  },
+    "telegram": "harmlesscoin",
+    "operatorName": "Encrypted",
+    "github": ""
   }
 ]
