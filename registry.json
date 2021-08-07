@@ -3372,5 +3372,19 @@
     "telegram": "DeCentN2Madness",
     "operatorName": "Jeff Hales",
     "github": "qbass"
+  },
+  {
+    "ticker": "STEVE",
+    "poolId": "ad46d051c0eb09b8fad1f371d44d1e0d7f928d301e90bd4a4ed33a5a",
+    "social": {
+      "website": "https://gecspools.io",
+      "twitter": "GecsPools",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "gecspools",
+    "operatorName": "Steve",
+    "github": ""
   }
 ]
