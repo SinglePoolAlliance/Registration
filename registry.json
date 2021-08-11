@@ -3372,5 +3372,19 @@
     "telegram": "DeCentN2Madness",
     "operatorName": "Jeff Hales",
     "github": "qbass"
+  },
+  {
+    "ticker": "HAMDA",
+    "poolId": "bb32c21c1ca7dc8f73fad1b6263987139a868fad820b3c3069fefcd6",
+    "social": {
+      "website": "https://hamster-stake-pool.de",
+      "twitter": "HAMDAStakePool",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCVchFtu9uBRnnkxAye31etw"
+    },
+    "telegram": "HamsterStakePool",
+    "operatorName": "Neal",
+    "github": ""
   }
 ]
