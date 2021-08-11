@@ -3372,5 +3372,19 @@
     "telegram": "DeCentN2Madness",
     "operatorName": "Jeff Hales",
     "github": "qbass"
+  },
+  {
+    "ticker": "XRX",
+    "poolId": "644621c954eda2f6df841f036365ad5af2b30af5c08b8c065f49b97d",
+    "social": {
+      "twitter": "vjrubens",
+      "website": "https://xreactx.github.io",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "",
+    },
+    "telegram": "xreactx",
+    "operatorName": "Vincent Rubens",
+    "github": "xreactx"
   }
-]
+  ]
