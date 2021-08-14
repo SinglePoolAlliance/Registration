@@ -3417,6 +3417,20 @@
     "github": "qbass"
   },
   {
+    "ticker": "XRX",
+    "poolId": "644621c954eda2f6df841f036365ad5af2b30af5c08b8c065f49b97d",
+    "social": {
+      "twitter": "vjrubens",
+      "website": "https://xreactx.github.io",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "xreactx",
+    "operatorName": "Vincent Rubens",
+    "github": "xreactx"
+  },
+  {
     "ticker": "PSB",
     "poolId": "f2fa0dfea7f4caba8cbdd042c4940c783ee57f9516062725b04e19a3",
     "social": {
@@ -3458,4 +3472,4 @@
     "operatorName": "Juan Sebastian Echeverry Gonzalez",
     "github": "stupidcotton"
   }
-]
+  ]
