@@ -3417,7 +3417,21 @@
     "github": "qbass"
   },
   {
-    "ticker": "GUI",
+    "ticker": "PSB",
+    "poolId": "f2fa0dfea7f4caba8cbdd042c4940c783ee57f9516062725b04e19a3",
+    "social": {
+      "website": "https://psilobyte.io",
+      "twitter": "877PSBYTE6",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCWaHRlqapPU-vLRLE7fL4kA"
+    },
+    "telegram": "reqlez",
+    "operatorName": "Boris",
+    "github": "reqlez"
+  },
+  {
+  "ticker": "GUI",
     "poolId": "fb82466458cb60c5295b8d335c24c83d85d510e0e012b877bcadbe98",
     "social": {
       "Website":"https://www.goowee.io/gui-stake-pool/",
@@ -3430,7 +3444,7 @@
     "operatorName": "Ian Strouse",
     "github": "goowee"
   },
- {
+  {
     "ticker": "STUPD",
     "poolId": "5e1c0f2519b2ea005de5c418568a3323d7a2dddb2dc1e6a39d88cd02",
     "social": {
