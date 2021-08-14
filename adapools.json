@@ -1174,6 +1174,11 @@
         "name": "00000"
       },
       "232": {
+        "pool_id": "0747be3311283c447d5d4a61cf9157844bbe5b1d4157c9c27c39b8d7",
+        "member_since": "2021-08-14",
+        "name": "BEAGL"
+      },
+      "233": {
         "pool_id": "5707e4254180d481a4f1e690be0c2c54b3a618051d907df7e4434c0b",
         "member_since": "2021-08-14",
         "name": "ST4NA"
