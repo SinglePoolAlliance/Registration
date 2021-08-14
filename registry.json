@@ -1,4 +1,18 @@
 [
+    {
+       "ticker": "BEAGL",                                                       
+       "poolId": "0747be3311283c447d5d4a61cf9157844bbe5b1d4157c9c27c39b8d7",  
+       "social": {              
+         "website":"https://beaglepool.com", 
+         "twitter": " ",
+         "facebook": "beaglepool",  
+         "instagram": " ",
+         "youtube": " "
+       },
+       "telegram": "BeaglePool",                                             
+       "operatorName": "Corey",                                  
+       "github": ""    
+  },
   {
        "ticker": "A4G",                                                       
        "poolId": "cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f",  
@@ -25,6 +39,20 @@
     },
     "telegram": "altzpool",                                             
     "operatorName": "Jose M.",                                  
+    "github": ""    
+  },
+    {
+    "ticker": "STICK",                                                       
+    "poolId": "bb3ef210ec1e397f57d796b2025fd4b85500b49a56a37f8d12db16eb",  
+    "social": {              
+      "website":"https://coruna.io", 
+      "twitter": "CorunaWorld",
+      "facebook": " ",  
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "CorunaWorld",                                             
+    "operatorName": "Martin",                                  
     "github": ""    
   },
   {
@@ -3077,6 +3105,21 @@
     "github": "cardano-apexpool"
   },
   {
+    "ticker": "ST4NA",
+    "poolId": "5707e4254180d481a4f1e690be0c2c54b3a618051d907df7e4434c0b",
+    "social": {
+      "facebook": "https://www.facebook.com/groups/1322915361438706",
+      "twitter": "NatureStake",
+      "website": "https://stakefornature.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": "channel/UCK4NaspZepg1_t7TOKltxIw"
+  },
+    "telegram": "ST_4_NA",
+    "operatorName": "Juan Carlos",
+    "github": ""
+  },
+  {
     "ticker": "GIZMO",
     "poolId": "b8e25baf77c6387d155cc2f11b1ba4cc652c697e8eb4bf41755b311f",
     "social": {
@@ -3086,12 +3129,12 @@
       "reddit": "jangid",
       "instagram": "",
       "youtube": ""
-    },
+   },
     "telegram": "jangid",
     "operatorName": "Pankaj Jangid",
     "github": "GizmoPool"
-  },
-  {
+   },
+   {
     "ticker": "SPKL",
     "poolId": "782310d6e6ab81cde977da3eef0a9f533bd255dadd30d01d33e0dde6",
     "social": {
@@ -3386,5 +3429,47 @@
     "telegram": "xreactx",
     "operatorName": "Vincent Rubens",
     "github": "xreactx"
+  },
+  {
+    "ticker": "PSB",
+    "poolId": "f2fa0dfea7f4caba8cbdd042c4940c783ee57f9516062725b04e19a3",
+    "social": {
+      "website": "https://psilobyte.io",
+      "twitter": "877PSBYTE6",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCWaHRlqapPU-vLRLE7fL4kA"
+    },
+    "telegram": "reqlez",
+    "operatorName": "Boris",
+    "github": "reqlez"
+  },
+  {
+  "ticker": "GUI",
+    "poolId": "fb82466458cb60c5295b8d335c24c83d85d510e0e012b877bcadbe98",
+    "social": {
+      "Website":"https://www.goowee.io/gui-stake-pool/",
+      "twitter": "gooWeeLLC",
+      "facebook": "gooWeellc",  
+      "instagram": "gooWeeTech",
+      "youtube": "UC5GaybyZmlqyVc5ebTXcoPA"
+    },
+    "telegram": "guiPoolIan",
+    "operatorName": "Ian Strouse",
+    "github": "goowee"
+  },
+  {
+    "ticker": "STUPD",
+    "poolId": "5e1c0f2519b2ea005de5c418568a3323d7a2dddb2dc1e6a39d88cd02",
+    "social": {
+      "website": "https://www.stupidcotton.com/stake-pool",
+      "twitter": "stupid__cotton",
+      "facebook": "",  
+      "instagram": "stupid_cotton",
+      "youtube": "https://www.youtube.com/channel/UCK9xIhW6NtUNLk9Qe4NCePw"
+    },
+    "telegram": "StupidCotton",
+    "operatorName": "Juan Sebastian Echeverry Gonzalez",
+    "github": "stupidcotton"
   }
   ]
