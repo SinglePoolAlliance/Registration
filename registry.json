@@ -3077,6 +3077,21 @@
     "github": "cardano-apexpool"
   },
   {
+    "ticker": "ST4NA",
+    "poolId": "5707e4254180d481a4f1e690be0c2c54b3a618051d907df7e4434c0b",
+    "social": {
+      "facebook": "https://www.facebook.com/groups/1322915361438706",
+      "twitter": "NatureStake",
+      "website": "https://stakefornature.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": "channel/UCK4NaspZepg1_t7TOKltxIw"
+  },
+    "telegram": "ST_4_NA",
+    "operatorName": "Juan Carlos",
+    "github": ""
+  },
+  {
     "ticker": "GIZMO",
     "poolId": "b8e25baf77c6387d155cc2f11b1ba4cc652c697e8eb4bf41755b311f",
     "social": {
@@ -3086,12 +3101,12 @@
       "reddit": "jangid",
       "instagram": "",
       "youtube": ""
-    },
+   },
     "telegram": "jangid",
     "operatorName": "Pankaj Jangid",
     "github": "GizmoPool"
-  },
-  {
+   },
+   {
     "ticker": "SPKL",
     "poolId": "782310d6e6ab81cde977da3eef0a9f533bd255dadd30d01d33e0dde6",
     "social": {
