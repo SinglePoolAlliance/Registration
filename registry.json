@@ -41,6 +41,20 @@
     "operatorName": "Jose M.",                                  
     "github": ""    
   },
+    {
+    "ticker": "STICK",                                                       
+    "poolId": "bb3ef210ec1e397f57d796b2025fd4b85500b49a56a37f8d12db16eb",  
+    "social": {              
+      "website":"https://coruna.io", 
+      "twitter": "CorunaWorld",
+      "facebook": " ",  
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "CorunaWorld",                                             
+    "operatorName": "Martin",                                  
+    "github": ""    
+  },
   {
     "ticker": "ARARE",
     "poolId": "f65731aa68706607718d140426c75cd7ac2c40703c31c325fdd46f91",
