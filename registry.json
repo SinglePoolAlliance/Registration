@@ -3471,5 +3471,19 @@
     "telegram": "StupidCotton",
     "operatorName": "Juan Sebastian Echeverry Gonzalez",
     "github": "stupidcotton"
+  },
+  {
+    "ticker": "RV64",
+    "poolId": "277b4daf3e85094412cb9471891ac0495a158794518bc82b38dca607",
+    "social": {
+      "website": "https://riscv-pool.tech/",
+      "twitter": "RV64stakepool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCWEeOlhT7b0TClzlqyeBRhw"
+    },
+    "telegram": "woltere",
+    "operatorName": "Wolter",
+    "github": "RV64-Stake-Pool"
   }
   ]
