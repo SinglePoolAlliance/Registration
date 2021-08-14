@@ -1,4 +1,18 @@
 [
+   {
+       "ticker": "FLOW",                                                       
+       "poolId": "58920efd533bc451664937d03c14176b0693a1800326933f3abbc6e8",  
+       "social": {              
+         "website":"https://theriver906928134.wordpress.com", 
+         "twitter": "the_FLOW_pool",
+         "facebook": " ",  
+         "instagram": " ",
+         "youtube": " "
+       },
+       "telegram": "the_FLOW_pool",                                             
+       "operatorName": "FLOW pool",                                  
+       "github": ""    
+  },
   {
        "ticker": "A4G",                                                       
        "poolId": "cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f",  
