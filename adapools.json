@@ -1207,6 +1207,11 @@
         "pool_id": "5e1c0f2519b2ea005de5c418568a3323d7a2dddb2dc1e6a39d88cd02",
         "member_since": "2021-08-14",
         "name": "STUPD"
+      },
+      "239": {
+        "pool_id": "277b4daf3e85094412cb9471891ac0495a158794518bc82b38dca607",
+        "member_since": "2021-08-14",
+        "name": "RV64"
       }
     }
   }
