@@ -1,4 +1,19 @@
 [
+
+   {
+       "ticker": "FLOW",                                                       
+       "poolId": "58920efd533bc451664937d03c14176b0693a1800326933f3abbc6e8",  
+       "social": {              
+         "website":"https://theriver906928134.wordpress.com", 
+         "twitter": "the_FLOW_pool",
+         "facebook": " ",  
+         "instagram": " ",
+         "youtube": " "
+       },
+       "telegram": "the_FLOW_pool",                                             
+       "operatorName": "Peer",  
+       "github": ""                                    
+},
     {
        "ticker": "BEAGL",                                                       
        "poolId": "0747be3311283c447d5d4a61cf9157844bbe5b1d4157c9c27c39b8d7",  
