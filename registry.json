@@ -11,7 +11,8 @@
          "youtube": " "
        },
        "telegram": "the_FLOW_pool",                                             
-       "operatorName": "Peer",                                  
+       "operatorName": "Peer",  
+       "github": ""                                    
 },
     {
        "ticker": "BEAGL",                                                       
