@@ -3432,6 +3432,20 @@
     "github": "qbass"
   },
   {
+    "ticker": "STEVE",
+    "poolId": "ad46d051c0eb09b8fad1f371d44d1e0d7f928d301e90bd4a4ed33a5a",
+    "social": {
+      "website": "https://gecspools.io",
+      "twitter": "GecsPools",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "gecspools",
+    "operatorName": "Steve",
+    "github": ""
+  }, 
+ {
     "ticker": "XRX",
     "poolId": "644621c954eda2f6df841f036365ad5af2b30af5c08b8c065f49b97d",
     "social": {
