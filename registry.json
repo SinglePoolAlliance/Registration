@@ -3432,6 +3432,21 @@
     "github": "qbass"
   },
   {
+    "ticker": "USONE",
+    "poolId": "576e0390ac54e3751afdaa8aa256f41b84a6324006f23991f6fdefb7",
+    "social": {
+      "facebook": "",
+      "twitter": "as_usone",
+      "website": "https://usas.one",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "SJPMurphy",
+    "operatorName": "Stephen",
+    "github": "SJPMurphy"
+},
+{
     "ticker": "STEVE",
     "poolId": "ad46d051c0eb09b8fad1f371d44d1e0d7f928d301e90bd4a4ed33a5a",
     "social": {
