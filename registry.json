@@ -3529,5 +3529,19 @@
     "telegram": "woltere",
     "operatorName": "Wolter",
     "github": "RV64-Stake-Pool"
-  }
+  },
+  {
+    "ticker": "HIPPO",
+    "poolId": "718f15efee599d498a7582c4f56a940cfebffc14e850656db8d529e1",
+    "social": {
+      "website": "https://hippo-pool.com",
+      "twitter": "HippoStake",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "hippopool",
+    "operatorName": "Jerome",
+    "github": "HIPPO-Pool"
+  }   
   ]
