@@ -3529,5 +3529,19 @@
     "telegram": "woltere",
     "operatorName": "Wolter",
     "github": "RV64-Stake-Pool"
+  },
+  {
+    "ticker": "HUG",
+    "poolId": "2f5de17f4aef94923d82520eb9787d3081772bdea1264d919dcf48cb",
+    "social": {
+      "website": "https://adastaking.co.uk/",
+      "twitter": "HUG_Pool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "HUG_Pool",
+    "operatorName": "",
+    "github": ""
   }
   ]
