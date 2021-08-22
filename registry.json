@@ -3488,6 +3488,20 @@
     "operatorName": "Boris",
     "github": "reqlez"
   },
+    {
+    "ticker": "MNKY",
+    "poolId": "39fca98bb733eea4fa54384c39d072cd9733cfa70d7bb63ce651a470",
+    "social": {
+      "website": "https://www.chunkymonkey.us/",
+      "twitter": "MNKYStakePool",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "CK_MNKY",
+    "operatorName": "CK",
+    "github": "clk-stack"
+  },
   {
   "ticker": "GUI",
     "poolId": "fb82466458cb60c5295b8d335c24c83d85d510e0e012b877bcadbe98",
