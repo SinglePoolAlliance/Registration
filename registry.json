@@ -1,6 +1,21 @@
 [
 
    {
+       "ticker": "APE",                                                       
+       "poolId": "3c947f2150c633fcd157b9b0fc42ca45d28bba6d06ca4edda09de568",  
+       "social": {              
+         "website":"https://adaape.com", 
+         "twitter": "TheADAApe",
+         "facebook": " ",  
+         "instagram": " ",
+         "youtube": " "
+       },
+       "telegram": "The_ADA_Ape_Troop",                                             
+       "operatorName": "APE",  
+       "github": ""                                    
+},[
+
+   {
        "ticker": "FLOW",                                                       
        "poolId": "58920efd533bc451664937d03c14176b0693a1800326933f3abbc6e8",  
        "social": {              
