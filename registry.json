@@ -1,5 +1,16 @@
 [
-
+{
+       "ticker": "SPCTR",                                                       
+       "poolId": "84e69ba6de4da2b5067148d0e870e25e4887323df077c6f0677c36dc",  
+       "social": {              
+         "website":"https://www.specterpool.com", 
+         "twitter": "Specterpool",
+         "discord":"https://discord.com/invite/DpyM6DHWQH",
+       },
+       "telegram": "https://t.me/joinchat/v6qewcPO49djMDQ0",
+       "operatorName":"HacheSpecter",
+       "github":""
+},
    {
        "ticker": "FLOW",                                                       
        "poolId": "58920efd533bc451664937d03c14176b0693a1800326933f3abbc6e8",  
