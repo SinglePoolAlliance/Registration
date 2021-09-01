@@ -1229,6 +1229,11 @@
         "name": "RV64"
       },
       "243": {
+        "pool_id": "39025777f1d7c42746bc961b03b1690c26db08153d458dc74fcb034b",
+        "member_since": "2021-08-22",
+        "name": "ROCK"
+      },
+      "244": {
         "pool_id": "abacadaba9f12a8b5382fc370e4e7e69421fb59831bb4ecca3a11d9b",
         "member_since": "2021-09-01",
         "name": "SMAUG"
