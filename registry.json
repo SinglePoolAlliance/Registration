@@ -3600,5 +3600,19 @@
     "telegram": "SmaugPool",
     "operatorName": "",
     "github": "SmaugPool"
+  },
+   {
+    "ticker": "CBFR",
+    "poolId": "d6095a71081323dbc614d974f6159c37cd5f4133c8830172f877ca51",
+    "social": {
+      "website": "https://cardanoblockchain.fr/staking/",
+      "twitter": "CardanoFR",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "",
+    "operatorName": "Wassim",
+    "github": "missawZero"
   }
   ]
