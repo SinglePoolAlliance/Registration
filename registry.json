@@ -3574,6 +3574,20 @@
     "github": ""
   },
   {
+    "ticker": "OLYMP",                                                       
+    "poolId": "f9db7272010a3ef3fcf1eeeab378fbccbb08fc9985feec2676b4cc11",  
+    "social": {                                                            
+      "website": "https://cardano-olympic.ge",   
+      "twitter": "OlympicSizePool",
+      "facebook": " ",  
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "OlympicSizePool",                                             
+    "operatorName": "Joffre",                                   
+    "github": " "                                                     
+  },
+  {
        "ticker": "ROCK",                                                       
        "poolId": "39025777f1d7c42746bc961b03b1690c26db08153d458dc74fcb034b",  
        "social": {              
