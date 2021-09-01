@@ -1,5 +1,18 @@
 [
-
+   {
+       "ticker": "KTUT",                                                       
+       "poolId": "dfaf8179da6abf63efa746fc62dd94925a03f0b13d77a0574a0ca6b8",  
+       "social": {              
+         "website":"https://kingtut-stakepool.com/ada/", 
+         "twitter": "ktutstakepool",
+         "facebook": "",  
+         "instagram": "",
+         "youtube": ""
+       },
+       "telegram": "kingtutstakepool",                                             
+       "operatorName": "Michel",  
+       "github": ""                                    
+   },
    {
        "ticker": "FLOW",                                                       
        "poolId": "58920efd533bc451664937d03c14176b0693a1800326933f3abbc6e8",  
