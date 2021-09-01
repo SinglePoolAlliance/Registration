@@ -3531,6 +3531,20 @@
     "github": "RV64-Stake-Pool"
   },
   {
+       "ticker": "ROCK",                                                       
+       "poolId": "39025777f1d7c42746bc961b03b1690c26db08153d458dc74fcb034b",  
+       "social": {              
+         "website":"", 
+         "twitter": "",
+         "facebook": "https://facebook.com/adarockpool ",  
+         "instagram": " ",
+         "youtube": " "
+       },
+       "telegram": "ADARockpool",                                             
+       "operatorName": "Sajad",  
+       "github": "Mistralteam"                                    
+ },
+  {
     "ticker": "SMAUG",
     "poolId": "abacadaba9f12a8b5382fc370e4e7e69421fb59831bb4ecca3a11d9b",
     "social": {
