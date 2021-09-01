@@ -3544,4 +3544,18 @@
        "operatorName": "Sajad",  
        "github": "Mistralteam"                                    
  },
+  {
+    "ticker": "SMAUG",
+    "poolId": "abacadaba9f12a8b5382fc370e4e7e69421fb59831bb4ecca3a11d9b",
+    "social": {
+      "website": "https://smaug.pool.pm",
+      "twitter": "SmaugPool",
+      "facebook": "",
+      "instagram": "smaugpool",
+      "youtube": "https://www.youtube.com/channel/UC9ZapTnuEs1lNFF4CiZGVfA"
+    },
+    "telegram": "SmaugPool",
+    "operatorName": "",
+    "github": "SmaugPool"
+  }
   ]
