@@ -3545,6 +3545,20 @@
     "github": "RV64-Stake-Pool"
   },
   {
+    "ticker": "HUG",
+    "poolId": "2f5de17f4aef94923d82520eb9787d3081772bdea1264d919dcf48cb",
+    "social": {
+      "website": "https://adastaking.co.uk/",
+      "twitter": "HUG_Pool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "HUG_Pool",
+    "operatorName": "",
+    "github": ""
+  },
+  {
        "ticker": "ROCK",                                                       
        "poolId": "39025777f1d7c42746bc961b03b1690c26db08153d458dc74fcb034b",  
        "social": {              
