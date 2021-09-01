@@ -1229,21 +1229,26 @@
         "name": "RV64"
       },
       "243": {
+        "pool_id": "718f15efee599d498a7582c4f56a940cfebffc14e850656db8d529e1",
+        "member_since": "2021-08-16",
+        "name": "HIPPO"
+      },
+      "244": {
         "pool_id": "2f5de17f4aef94923d82520eb9787d3081772bdea1264d919dcf48cb",
         "member_since": "2021-08-17",
         "name": "HUG"
       },
-      "244": {
+      "245": {
         "pool_id": "39fca98bb733eea4fa54384c39d072cd9733cfa70d7bb63ce651a470",
         "member_since": "2021-08-22",
         "name": "MNKY"
       },
-      "245": {
+      "246": {
         "pool_id": "39025777f1d7c42746bc961b03b1690c26db08153d458dc74fcb034b",
         "member_since": "2021-08-22",
         "name": "ROCK"
       },
-      "246": {
+      "247": {
         "pool_id": "abacadaba9f12a8b5382fc370e4e7e69421fb59831bb4ecca3a11d9b",
         "member_since": "2021-09-01",
         "name": "SMAUG"
