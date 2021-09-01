@@ -3545,6 +3545,21 @@
     "github": "RV64-Stake-Pool"
   },
   {
+
+    "ticker": "HIPPO",
+    "poolId": "718f15efee599d498a7582c4f56a940cfebffc14e850656db8d529e1",
+    "social": {
+      "website": "https://hippo-pool.com",
+      "twitter": "HippoStake",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "HippoOperator",
+    "operatorName": "Jerome",
+    "github": "HIPPO-Pool"
+  },   
+  {
     "ticker": "HUG",
     "poolId": "2f5de17f4aef94923d82520eb9787d3081772bdea1264d919dcf48cb",
     "social": {
