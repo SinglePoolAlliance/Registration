@@ -1,5 +1,18 @@
 [
-
+   {
+       "ticker": "SHARK",                                                       
+       "poolId": "672f8a27fe8c5115ba67a68d04c81c8604cb68e3d0590d7c085f5a28",  
+       "social": {              
+         "website":"https://medium.com/@metash4rk", 
+         "twitter": "@Meta__Shark",
+         "facebook": " ",  
+         "instagram": " ",
+         "youtube": " "
+       },
+       "telegram": "metash4rk",                                             
+       "operatorName": "sawhney",  
+       "github": "https://github.com/meta-shark"
+   },
    {
        "ticker": "FLOW",                                                       
        "poolId": "58920efd533bc451664937d03c14176b0693a1800326933f3abbc6e8",  
