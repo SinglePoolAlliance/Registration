@@ -3600,5 +3600,19 @@
     "telegram": "SmaugPool",
     "operatorName": "",
     "github": "SmaugPool"
-  }
+  },
+      {
+       "ticker": "001",                                                       
+       "poolId": "386c5cc510bb93b7a85d741af0170e873fe7477534199dec4b2725db",  
+       "social": {              
+         "website":"https://cardanoistheway.com/", 
+         "twitter": " ",
+         "facebook": " ",  
+         "instagram": " ",
+         "youtube": " "
+       },
+       "telegram": "CardanoIsTheWay [001]",                                             
+       "operatorName": "Jay",  
+       "github": "citw2"                                    
+}
   ]
