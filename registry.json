@@ -3600,5 +3600,19 @@
     "telegram": "SmaugPool",
     "operatorName": "",
     "github": "SmaugPool"
+  },
+  {
+    "ticker": "SOIL",
+    "poolId": "13cbe75dec1a6909a22a25cd3620657c6a744663878f6cf1a409cef9",
+    "social": {
+      "website": "https://ada4.io",
+      "twitter": "https://twitter.com/Ada4Soil",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "TCleckner",
+    "operatorName": "",
+    "github": "9RESE"
   }
   ]
