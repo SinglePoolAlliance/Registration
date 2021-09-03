@@ -3558,7 +3558,21 @@
     "telegram": "HippoOperator",
     "operatorName": "Jerome",
     "github": "HIPPO-Pool"
-  },   
+  },  
+  {
+    "ticker": "HELLO",
+    "poolId": "f9317946c36f6ea5625732382ba4de05ddf4a3fe5952caa838cee051",
+    "social": {
+      "website": "https://adattitude.github.io",
+      "twitter": "TICKER_HELLO",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "",
+    "operatorName": "",
+    "github": "ADAttitude"
+  }, 
   {
     "ticker": "HUG",
     "poolId": "2f5de17f4aef94923d82520eb9787d3081772bdea1264d919dcf48cb",
