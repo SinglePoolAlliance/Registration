@@ -3600,5 +3600,19 @@
     "telegram": "SmaugPool",
     "operatorName": "",
     "github": "SmaugPool"
+  },
+  {
+     "ticker": "INET",
+     "poolId": "29bcf1f21c766609fb07b5b7ba2a593ae339ad32e893b8df1db70a2d",
+     "social": {
+        "website": "https://stakepool.inettrix.net",
+        "twitter": "InettrixPool",
+        "facebook": "",
+        "instagram": "",
+        "youtube": ""
+     },
+     "telegram": "inettrix",
+     "operatorName": "Jonathan",
+     "github": "inettrix"
   }
-  ]
+]
