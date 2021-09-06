@@ -1,6 +1,20 @@
 [
 
    {
+       "ticker": "LOVE2",                                                       
+       "poolId": "65a6837264ea1d99e8af24e3a0f54cd4b3821919eb3e59b3a56b857e",  
+       "social": {              
+         "website":"https://love2stake.com", 
+         "twitter": "love2stake",
+         "facebook": " ",  
+         "instagram": " ",
+         "youtube": " "
+       },
+       "telegram": "love2stake",                                             
+       "operatorName": "Love2",  
+       "github": ""                                    
+},
+   {
        "ticker": "FLOW",                                                       
        "poolId": "58920efd533bc451664937d03c14176b0693a1800326933f3abbc6e8",  
        "social": {              
