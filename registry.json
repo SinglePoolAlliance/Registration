@@ -3600,5 +3600,19 @@
     "telegram": "SmaugPool",
     "operatorName": "",
     "github": "SmaugPool"
+  },
+  {
+    "ticker": "DD666",
+    "poolId": "9cb4471bad9979623d32ad3c14ff14b340f046e2a5b3ae2e3c8f575b",
+    "social": {
+      "website": "https://devilsdelegate.com",
+      "twitter": "DevilsDelegate",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "DevilsDelegate",
+    "operatorName": "Eric Westbrook",
+    "github": "DevilsDelegate"
   }
   ]
