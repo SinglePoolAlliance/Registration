@@ -3587,7 +3587,7 @@
        "operatorName": "Sajad",  
        "github": "Mistralteam"                                    
  },
-  {
+ {
     "ticker": "SMAUG",
     "poolId": "abacadaba9f12a8b5382fc370e4e7e69421fb59831bb4ecca3a11d9b",
     "social": {
@@ -3600,5 +3600,19 @@
     "telegram": "SmaugPool",
     "operatorName": "",
     "github": "SmaugPool"
+  }, 
+  {
+    "ticker": "BOR1",
+    "poolId": "646d4d8214cfd2caa702a072019be4140694aca209ccc92ed8d6bf2a",
+    "social": {
+      "website": "https://ouroboros-pool.com/",
+      "twitter": "PoolOuroboros",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "PoolOuroboros",
+    "operatorName": "Phil",
+    "github": " icosaedon"
   }
   ]
