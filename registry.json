@@ -3635,20 +3635,23 @@
     "social": {
       "website": "https://devilsdelegate.com",
       "twitter": "DevilsDelegate",
-    },
-    "telegram": "EricWestbrook",
-    "operatorName": "Eric Westbrook",
-    "github": "DevilsDelegate"
       "facebook": "",
       "instagram": "",
       "youtube": ""
     },
-  }
+    "telegram": "EricWestbrook",
+    "operatorName": "Eric Westbrook",
+    "github": "DevilsDelegate",
+  },
+  {
   "ticker": "CBH",
     "poolId": "c4039f4fa97ed735b884800d6d605dbc65fbe995c4ba70b532e162a2",
     "social": {
       "website": "https://cardano-blockhouse.de/",
       "twitter": "cardanoBH",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
   },
     "telegram": "JochenCardanoBlockhouse",
     "operatorName": "Jochen",
