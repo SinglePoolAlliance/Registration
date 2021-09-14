@@ -1262,6 +1262,11 @@
         "pool_id": "abacadaba9f12a8b5382fc370e4e7e69421fb59831bb4ecca3a11d9b",
         "member_since": "2021-09-01",
         "name": "SMAUG"
+      },
+      "250": {
+        "pool_id": "44580017128bf1b0d734f12320805c92afff296e0d00dfdd4c39732b",
+        "member_since": "2021-09-10",
+        "name": "4FUT"
       }
     }
   }
