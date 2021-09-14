@@ -3630,6 +3630,20 @@
     "github": "SmaugPool"
   },
   {
+    "ticker": "CBH",
+    "poolId": "c4039f4fa97ed735b884800d6d605dbc65fbe995c4ba70b532e162a2",
+    "social": {
+      "website": "https://cardano-blockhouse.de/",
+      "twitter": "cardanoBH",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "JochenCardanoBlockhouse",
+    "operatorName": "Jochen",
+    "github": "cardano-blockhouse"
+  },
+  {
     "ticker": "4FUT",
     "poolId": "44580017128bf1b0d734f12320805c92afff296e0d00dfdd4c39732b",
     "social": {
