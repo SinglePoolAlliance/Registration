@@ -1249,6 +1249,11 @@
         "name": "ROCK"
       },
       "247": {
+        "pool_id": "1df219217b1487843371e0d145f8ef6d6aca2e999b5a963c30a32446",
+        "member_since": "2021-09-01",
+        "name": "CMX"
+      },
+      "248": {
         "pool_id": "abacadaba9f12a8b5382fc370e4e7e69421fb59831bb4ecca3a11d9b",
         "member_since": "2021-09-01",
         "name": "SMAUG"
