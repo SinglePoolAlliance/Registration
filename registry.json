@@ -3628,5 +3628,19 @@
     "telegram": "SmaugPool",
     "operatorName": "",
     "github": "SmaugPool"
+  },
+  {
+    "ticker": "4FUT",
+    "poolId": "44580017128bf1b0d734f12320805c92afff296e0d00dfdd4c39732b",
+    "social": {
+      "website": "https://git.io/J05Jo",
+      "twitter": "",
+      "facebook": "https://fb.me/holdforfuture",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "hungbv2",
+    "operatorName": "Bui Viet Hung",
+    "github": "sirhung1993"
   }
   ]
