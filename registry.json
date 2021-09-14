@@ -3603,16 +3603,16 @@
   },
    {
     "ticker": "PROOF",
-    "poolId": "pool17s9pcsnhgueer24p4lk53ruglr0r8009yxfrqvwgk5gx6r44cpe",
+    "poolId": "f40a1c4277473391aaa1afed488f88f8de33bde521923031c8b5106d",
     "social": {
       "website": "https://www.proofstakepool.com",
-      "twitter": "",
+      "twitter": "ProofStakePool",
       "facebook": "",
       "instagram": "",
       "youtube": ""
     },
-    "telegram": "",
-    "operatorName": "",
+    "telegram": "sergejmaehler",
+    "operatorName": "Sergej Maehler",
     "github": "ProofStakePool"
   }
   ]
