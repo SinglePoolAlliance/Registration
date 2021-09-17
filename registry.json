@@ -3656,5 +3656,19 @@
     "telegram": "hungbv2",
     "operatorName": "Bui Viet Hung",
     "github": "sirhung1993"
+  },
+  {
+    "ticker": "VIP",
+    "poolId": "pool1r9zrp0hpy3dj6lse5vl9yc672v5w7fzrrp62pjcersqe2djm409",
+    "social": {
+      "website": "https://vivid-pool.info",
+      "twitter": "https://twitter.com/VividPool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UC8vR0zHl2l9AlGPiWKOxDpA"
+    },
+    "telegram": "vivid_pool",
+    "operatorName": "Rafal",
+    "github": "rere-dnaw"
   }
   ]
