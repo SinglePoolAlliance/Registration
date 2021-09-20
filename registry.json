@@ -1,74 +1,87 @@
 [
-
-   {
-       "ticker": "FLOW",                                                       
-       "poolId": "58920efd533bc451664937d03c14176b0693a1800326933f3abbc6e8",  
-       "social": {              
-         "website":"https://theriver906928134.wordpress.com", 
-         "twitter": "the_FLOW_pool",
-         "facebook": " ",  
-         "instagram": " ",
-         "youtube": " "
-       },
-       "telegram": "the_FLOW_pool",                                             
-       "operatorName": "Peer",  
-       "github": ""                                    
-},
-    {
-       "ticker": "BEAGL",                                                       
-       "poolId": "0747be3311283c447d5d4a61cf9157844bbe5b1d4157c9c27c39b8d7",  
-       "social": {              
-         "website":"https://beaglepool.com", 
-         "twitter": " ",
-         "facebook": "beaglepool",  
-         "instagram": " ",
-         "youtube": " "
-       },
-       "telegram": "BeaglePool",                                             
-       "operatorName": "Corey",                                  
-       "github": ""    
+  {
+    "ticker": "WOT",
+    "poolId": "e00dac4566812442174bcfb4c12225f7a305606eed12f62e62085253",
+    "social": {
+      "website": "https://www.wottlenft.com",
+      "twitter": "WottleNFT Pool",
+      "facebook": " ",
+      "instagram": "wottlenft",
+      "youtube": "wottlenft"
+    },
+    "telegram": "",
+    "operatorName": "Kopy-O",
+    "github": ""
   },
   {
-       "ticker": "A4G",                                                       
-       "poolId": "cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f",  
-       "social": {              
-         "website":"https://www.ada4good.com", 
-         "twitter": "ada4goodp",
-         "facebook": " ",  
-         "instagram": " ",
-         "youtube": " "
-       },
-       "telegram": "ADA4Good",                                             
-       "operatorName": "Vahid",                                  
-       "github": ""    
+    "ticker": "FLOW",
+    "poolId": "58920efd533bc451664937d03c14176b0693a1800326933f3abbc6e8",
+    "social": {
+      "website": "https://theriver906928134.wordpress.com",
+      "twitter": "the_FLOW_pool",
+      "facebook": " ",
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "the_FLOW_pool",
+    "operatorName": "Peer",
+    "github": ""
   },
   {
-    "ticker": "ALTZ",                                                       
-    "poolId": "46ebbc0d27d9169cae12d12dcf8f6cacbcf27937c67ae4350abbcaba",  
-    "social": {              
-      "website":"https://altzpool.com", 
+    "ticker": "BEAGL",
+    "poolId": "0747be3311283c447d5d4a61cf9157844bbe5b1d4157c9c27c39b8d7",
+    "social": {
+      "website": "https://beaglepool.com",
+      "twitter": " ",
+      "facebook": "beaglepool",
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "BeaglePool",
+    "operatorName": "Corey",
+    "github": ""
+  },
+  {
+    "ticker": "A4G",
+    "poolId": "cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f",
+    "social": {
+      "website": "https://www.ada4good.com",
+      "twitter": "ada4goodp",
+      "facebook": " ",
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "ADA4Good",
+    "operatorName": "Vahid",
+    "github": ""
+  },
+  {
+    "ticker": "ALTZ",
+    "poolId": "46ebbc0d27d9169cae12d12dcf8f6cacbcf27937c67ae4350abbcaba",
+    "social": {
+      "website": "https://altzpool.com",
       "twitter": "AltzPool",
-      "facebook": " ",  
+      "facebook": " ",
       "instagram": " ",
       "youtube": " "
     },
-    "telegram": "altzpool",                                             
-    "operatorName": "Jose M.",                                  
-    "github": ""    
+    "telegram": "altzpool",
+    "operatorName": "Jose M.",
+    "github": ""
   },
-    {
-    "ticker": "STICK",                                                       
-    "poolId": "bb3ef210ec1e397f57d796b2025fd4b85500b49a56a37f8d12db16eb",  
-    "social": {              
-      "website":"https://coruna.io", 
+  {
+    "ticker": "STICK",
+    "poolId": "bb3ef210ec1e397f57d796b2025fd4b85500b49a56a37f8d12db16eb",
+    "social": {
+      "website": "https://coruna.io",
       "twitter": "CorunaWorld",
-      "facebook": " ",  
+      "facebook": " ",
       "instagram": " ",
       "youtube": " "
     },
-    "telegram": "CorunaWorld",                                             
-    "operatorName": "Martin",                                  
-    "github": ""    
+    "telegram": "CorunaWorld",
+    "operatorName": "Martin",
+    "github": ""
   },
   {
     "ticker": "ARARE",
@@ -101,19 +114,19 @@
     "github": "setiamanlhc"
   },
   {
-   "ticker": "QUBIT",                                                      
-   "poolId": "08dd84d27f00aa9ee6caf195d81256a3d217dd345857cd8be60f18b0",  
-   "social": {      
-     "facebook": "",
-     "twitter": "qubitpool",
-     "website": "https://qubitpool.com",
-     "reddit": "",
-     "instagram": "",
-     "youtube": ""
-   },
-   "telegram": "qubitpool",                                             
-   "operatorName": "Scott",                                   
-   "github": "optimator999"                                                     
+    "ticker": "QUBIT",
+    "poolId": "08dd84d27f00aa9ee6caf195d81256a3d217dd345857cd8be60f18b0",
+    "social": {
+      "facebook": "",
+      "twitter": "qubitpool",
+      "website": "https://qubitpool.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "qubitpool",
+    "operatorName": "Scott",
+    "github": "optimator999"
   },
   {
     "ticker": "GNP1",
@@ -3129,7 +3142,7 @@
       "reddit": "",
       "instagram": "",
       "youtube": "channel/UCK4NaspZepg1_t7TOKltxIw"
-  },
+    },
     "telegram": "ST_4_NA",
     "operatorName": "Juan Carlos",
     "github": ""
@@ -3144,12 +3157,12 @@
       "reddit": "jangid",
       "instagram": "",
       "youtube": ""
-   },
+    },
     "telegram": "jangid",
     "operatorName": "Pankaj Jangid",
     "github": "GizmoPool"
-   },
-   {
+  },
+  {
     "ticker": "SPKL",
     "poolId": "782310d6e6ab81cde977da3eef0a9f533bd255dadd30d01d33e0dde6",
     "social": {
@@ -3252,8 +3265,8 @@
     "operatorName": "Chris/Nunez",
     "github": "santonode"
   },
- {
-  "ticker": "K8S",
+  {
+    "ticker": "K8S",
     "poolId": "0960deeaabd7ca77a970e2932d06ec594c902301973041c6d9b1dc2e",
     "social": {
       "facebook": "",
@@ -3263,7 +3276,7 @@
       "instagram": "",
       "youtube": ""
     },
-   "telegram": "mateomuller",
+    "telegram": "mateomuller",
     "operatorName": "",
     "github": "subnet-dev"
   },
@@ -3319,7 +3332,6 @@
       "facebook": "https://www.facebook.com/NEO-stakepool-111409704506892/",
       "twitter": "https://twitter.com/neo_stakepool",
       "website": "https://neostakepool.nl/",
-
       "reddit": "",
       "instagram": "",
       "youtube": ""
@@ -3338,7 +3350,7 @@
       "reddit": "",
       "instagram": "",
       "youtube": ""
-  },
+    },
     "telegram": "istanpool",
     "operatorName": "erol",
     "github": "eroler72"
@@ -3359,18 +3371,18 @@
     "github": "stay-pool"
   },
   {
-       "ticker": "KYOKU",                                                       
-       "poolId": " 302f38b9b9cf8ace04859882b78e885cec18ee88832e7267224c2b28",  
-       "social": {              
-         "website":"https://kyoku-pool.online", 
-         "twitter": "KyokuPool",
-         "facebook": " ",  
-         "instagram": " ",
-         "youtube": " "
-       },
-       "telegram": "kyoku_prague",                                             
-       "operatorName": "Kyoku",                                  
-       "github": "kyoku-pool"        
+    "ticker": "KYOKU",
+    "poolId": " 302f38b9b9cf8ace04859882b78e885cec18ee88832e7267224c2b28",
+    "social": {
+      "website": "https://kyoku-pool.online",
+      "twitter": "KyokuPool",
+      "facebook": " ",
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "kyoku_prague",
+    "operatorName": "Kyoku",
+    "github": "kyoku-pool"
   },
   {
     "ticker": "EURO",
@@ -3402,7 +3414,7 @@
     "operatorName": "",
     "github": "xppx"
   },
-    {
+  {
     "ticker": "CRPL",
     "poolId": "cc49ee3c6b02850b63dd9c18b1b6a18b16c2dd1f20962c320cfd94a7",
     "social": {
@@ -3423,7 +3435,7 @@
     "social": {
       "website": "https://pool.adaberrypi.com",
       "twitter": "AdaberryPi",
-      "facebook": "",  
+      "facebook": "",
       "instagram": "",
       "youtube": ""
     },
@@ -3445,22 +3457,22 @@
     "telegram": "SJPMurphy",
     "operatorName": "Stephen",
     "github": "SJPMurphy"
-},
-{
+  },
+  {
     "ticker": "STEVE",
     "poolId": "ad46d051c0eb09b8fad1f371d44d1e0d7f928d301e90bd4a4ed33a5a",
     "social": {
       "website": "https://gecspools.io",
       "twitter": "GecsPools",
-      "facebook": "",  
+      "facebook": "",
       "instagram": "",
       "youtube": ""
     },
     "telegram": "gecspools",
     "operatorName": "Steve",
     "github": ""
-  }, 
- {
+  },
+  {
     "ticker": "XRX",
     "poolId": "644621c954eda2f6df841f036365ad5af2b30af5c08b8c065f49b97d",
     "social": {
@@ -3480,7 +3492,7 @@
     "social": {
       "website": "https://psilobyte.io",
       "twitter": "877PSBYTE6",
-      "facebook": "",  
+      "facebook": "",
       "instagram": "",
       "youtube": "https://www.youtube.com/channel/UCWaHRlqapPU-vLRLE7fL4kA"
     },
@@ -3488,13 +3500,13 @@
     "operatorName": "Boris",
     "github": "reqlez"
   },
-    {
+  {
     "ticker": "MNKY",
     "poolId": "39fca98bb733eea4fa54384c39d072cd9733cfa70d7bb63ce651a470",
     "social": {
       "website": "https://www.chunkymonkey.us/",
       "twitter": "MNKYStakePool",
-      "facebook": "",  
+      "facebook": "",
       "instagram": "",
       "youtube": ""
     },
@@ -3503,12 +3515,12 @@
     "github": "clk-stack"
   },
   {
-  "ticker": "GUI",
+    "ticker": "GUI",
     "poolId": "fb82466458cb60c5295b8d335c24c83d85d510e0e012b877bcadbe98",
     "social": {
-      "Website":"https://www.goowee.io/gui-stake-pool/",
+      "Website": "https://www.goowee.io/gui-stake-pool/",
       "twitter": "gooWeeLLC",
-      "facebook": "gooWeellc",  
+      "facebook": "gooWeellc",
       "instagram": "gooWeeTech",
       "youtube": "UC5GaybyZmlqyVc5ebTXcoPA"
     },
@@ -3522,7 +3534,7 @@
     "social": {
       "website": "https://www.stupidcotton.com/stake-pool",
       "twitter": "stupid__cotton",
-      "facebook": "",  
+      "facebook": "",
       "instagram": "stupid_cotton",
       "youtube": "https://www.youtube.com/channel/UCK9xIhW6NtUNLk9Qe4NCePw"
     },
@@ -3545,7 +3557,6 @@
     "github": "RV64-Stake-Pool"
   },
   {
-
     "ticker": "HIPPO",
     "poolId": "718f15efee599d498a7582c4f56a940cfebffc14e850656db8d529e1",
     "social": {
@@ -3558,7 +3569,7 @@
     "telegram": "HippoOperator",
     "operatorName": "Jerome",
     "github": "HIPPO-Pool"
-  },   
+  },
   {
     "ticker": "HUG",
     "poolId": "2f5de17f4aef94923d82520eb9787d3081772bdea1264d919dcf48cb",
@@ -3574,38 +3585,38 @@
     "github": ""
   },
   {
-    "ticker": "OLYMP",                                                       
-    "poolId": "f9db7272010a3ef3fcf1eeeab378fbccbb08fc9985feec2676b4cc11",  
-    "social": {                                                            
-      "website": "https://cardano-olympic.ge",   
+    "ticker": "OLYMP",
+    "poolId": "f9db7272010a3ef3fcf1eeeab378fbccbb08fc9985feec2676b4cc11",
+    "social": {
+      "website": "https://cardano-olympic.ge",
       "twitter": "OlympicSizePool",
-      "facebook": " ",  
+      "facebook": " ",
       "instagram": " ",
       "youtube": " "
     },
-    "telegram": "OlympicSizePool",                                             
-    "operatorName": "Joffre",                                   
-    "github": " "                                                     
+    "telegram": "OlympicSizePool",
+    "operatorName": "Joffre",
+    "github": " "
   },
   {
-       "ticker": "ROCK",                                                       
-       "poolId": "39025777f1d7c42746bc961b03b1690c26db08153d458dc74fcb034b",  
-       "social": {              
-         "website":"", 
-         "twitter": "",
-         "facebook": "https://facebook.com/adarockpool ",  
-         "instagram": " ",
-         "youtube": " "
-       },
-       "telegram": "ADARockpool",                                             
-       "operatorName": "Sajad",  
-       "github": "Mistralteam"                                    
- },
- {
+    "ticker": "ROCK",
+    "poolId": "39025777f1d7c42746bc961b03b1690c26db08153d458dc74fcb034b",
+    "social": {
+      "website": "",
+      "twitter": "",
+      "facebook": "https://facebook.com/adarockpool ",
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "ADARockpool",
+    "operatorName": "Sajad",
+    "github": "Mistralteam"
+  },
+  {
     "ticker": "CMX",
     "poolId": "1df219217b1487843371e0d145f8ef6d6aca2e999b5a963c30a32446",
     "social": {
-      "website":"https://cardanomex.com",
+      "website": "https://cardanomex.com",
       "twitter": "CardanoMEX",
       "facebook": "",
       "instagram": "",
@@ -3614,7 +3625,7 @@
     "telegram": "cesarcavazos97",
     "operatorName": "Cesar Cavazos",
     "github": "CesarCavazos97"
- },
+  },
   {
     "ticker": "SMAUG",
     "poolId": "abacadaba9f12a8b5382fc370e4e7e69421fb59831bb4ecca3a11d9b",
@@ -3657,4 +3668,4 @@
     "operatorName": "Bui Viet Hung",
     "github": "sirhung1993"
   }
-  ]
+]
