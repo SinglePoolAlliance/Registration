@@ -3603,16 +3603,16 @@
   },
   {
     "ticker": "SOIL",
-    "poolId": "13cbe75dec1a6909a22a25cd3620657c6a744663878f6cf1a409cef9",
+    "poolId": "48b18f581c5e77a19870e8399e4d2100c66b2e15243c9557e79f2165",
     "social": {
       "website": "https://ada4.io",
       "twitter": "https://twitter.com/Ada4Soil",
-      "facebook": "",
+      "facebook": "https://www.facebook.com/ADA4SOIL",
       "instagram": "",
       "youtube": ""
     },
     "telegram": "TCleckner",
-    "operatorName": "",
+    "operatorName": "Todd Cleckner",
     "github": "9RESE"
   }
   ]
