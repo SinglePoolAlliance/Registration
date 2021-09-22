@@ -3656,5 +3656,19 @@
     "telegram": "hungbv2",
     "operatorName": "Bui Viet Hung",
     "github": "sirhung1993"
-  }
-  ]
+  },
+  {
+    "ticker": "ISLA",
+    "poolId": "679b1d8a164791f21ab5a9a7fd2c8cfc108f76aad351912ec841847e",
+    "social": {
+      "website": "https://0xisla.live",
+      "twitter": "IslaStakePool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "islastakepool",
+    "operatorName": "",
+    "github": "islastakepool"
+}
+]
