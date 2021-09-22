@@ -3656,5 +3656,19 @@
     "telegram": "hungbv2",
     "operatorName": "Bui Viet Hung",
     "github": "sirhung1993"
+  },
+  {
+    "ticker": "SIGNL",
+    "poolId": "29da1ba4704f7f5c89add87bb065b9197f2aa6da7e0f1ef50336c06b",
+    "social": {
+      "website": "https://git.io/JzExn",
+      "twitter": "@Signlpool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "SteveSIGNL",
+    "operatorName": "Steve Burg",
+    "github": "signladmin"
   }
   ]
