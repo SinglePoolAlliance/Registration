@@ -3659,15 +3659,15 @@
   },
   {
     "ticker": "VIP",
-    "poolId": "pool1r9zrp0hpy3dj6lse5vl9yc672v5w7fzrrp62pjcersqe2djm409",
+    "poolId": "194430bee1245b2d7e19a33e52635e5328ef24431874a0cb191c0195",
     "social": {
       "website": "https://vivid-pool.info",
-      "twitter": "https://twitter.com/VividPool",
+      "twitter": "VividPool",
       "facebook": "",
       "instagram": "",
       "youtube": "https://www.youtube.com/channel/UC8vR0zHl2l9AlGPiWKOxDpA"
     },
-    "telegram": "vivid_pool",
+    "telegram": "d0tmask",
     "operatorName": "Rafal",
     "github": "rere-dnaw"
   }
