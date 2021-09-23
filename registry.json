@@ -3714,6 +3714,20 @@
     "github": "sirhung1993"
   },
   {
+    "ticker": "TIP",
+    "poolId": "a5e54b95892dd2ad48bdc8a2d40310e58eec2c6a6f9ada69e00f7f01",
+    "social": {
+      "website": "https://tippool.io",
+      "twitter": "adatip",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "adatip",
+    "operatorName": "Josh",
+    "github": "adatip"
+  },
+  {
     "ticker": "MONA",
     "poolId": "6a84654c217f1923b086e076192b50042911c7b7af3987a1992b77e9",
     "social": {
