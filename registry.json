@@ -3686,7 +3686,21 @@
     "github": "DevilsDelegate"
   },
   {
-  "ticker": "CBH",
+     "ticker": "INET",
+     "poolId": "29bcf1f21c766609fb07b5b7ba2a593ae339ad32e893b8df1db70a2d",
+     "social": {
+        "website": "https://stakepool.inettrix.net",
+        "twitter": "InettrixPool",
+        "facebook": "",
+        "instagram": "",
+        "youtube": ""
+     },
+     "telegram": "j_zap",
+     "operatorName": "Jonathan",
+     "github": "inettrix"
+  },
+  {
+    "ticker": "CBH",
     "poolId": "c4039f4fa97ed735b884800d6d605dbc65fbe995c4ba70b532e162a2",
     "social": {
       "website": "https://cardano-blockhouse.de/",
