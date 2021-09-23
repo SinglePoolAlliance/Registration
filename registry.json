@@ -3672,7 +3672,21 @@
     "github": "ProofStakePool"
     },
   {
-    "ticker": "CBH",
+    "ticker": "DD666",
+    "poolId": "9cb4471bad9979623d32ad3c14ff14b340f046e2a5b3ae2e3c8f575b",
+    "social": {
+      "website": "https://devilsdelegate.com",
+      "twitter": "DevilsDelegate",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "EricWestbrook",
+    "operatorName": "Eric Westbrook",
+    "github": "DevilsDelegate"
+  },
+  {
+  "ticker": "CBH",
     "poolId": "c4039f4fa97ed735b884800d6d605dbc65fbe995c4ba70b532e162a2",
     "social": {
       "website": "https://cardano-blockhouse.de/",
@@ -3680,7 +3694,7 @@
       "facebook": "",
       "instagram": "",
       "youtube": ""
-    },
+  },
     "telegram": "JochenCardanoBlockhouse",
     "operatorName": "Jochen",
     "github": "cardano-blockhouse"
