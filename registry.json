@@ -29,74 +29,74 @@
        "github":""
 },
    {
-       "ticker": "FLOW",                                                       
-       "poolId": "58920efd533bc451664937d03c14176b0693a1800326933f3abbc6e8",  
-       "social": {              
-         "website":"https://theriver906928134.wordpress.com", 
+       "ticker": "FLOW",
+       "poolId": "58920efd533bc451664937d03c14176b0693a1800326933f3abbc6e8",
+       "social": {
+         "website":"https://theriver906928134.wordpress.com",
          "twitter": "the_FLOW_pool",
-         "facebook": " ",  
+         "facebook": " ",
          "instagram": " ",
          "youtube": " "
        },
-       "telegram": "the_FLOW_pool",                                             
-       "operatorName": "Peer",  
-       "github": ""                                    
+       "telegram": "the_FLOW_pool",
+       "operatorName": "Peer",
+       "github": ""
 },
     {
-       "ticker": "BEAGL",                                                       
-       "poolId": "0747be3311283c447d5d4a61cf9157844bbe5b1d4157c9c27c39b8d7",  
-       "social": {              
-         "website":"https://beaglepool.com", 
+       "ticker": "BEAGL",
+       "poolId": "0747be3311283c447d5d4a61cf9157844bbe5b1d4157c9c27c39b8d7",
+       "social": {
+         "website":"https://beaglepool.com",
          "twitter": " ",
-         "facebook": "beaglepool",  
+         "facebook": "beaglepool",
          "instagram": " ",
          "youtube": " "
        },
-       "telegram": "BeaglePool",                                             
-       "operatorName": "Corey",                                  
-       "github": ""    
+       "telegram": "BeaglePool",
+       "operatorName": "Corey",
+       "github": ""
   },
   {
-       "ticker": "A4G",                                                       
-       "poolId": "cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f",  
-       "social": {              
-         "website":"https://www.ada4good.com", 
+       "ticker": "A4G",
+       "poolId": "cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f",
+       "social": {
+         "website":"https://www.ada4good.com",
          "twitter": "ada4goodp",
-         "facebook": " ",  
+         "facebook": " ",
          "instagram": " ",
          "youtube": " "
        },
-       "telegram": "ADA4Good",                                             
-       "operatorName": "Vahid",                                  
-       "github": ""    
+       "telegram": "ADA4Good",
+       "operatorName": "Vahid",
+       "github": ""
   },
   {
-    "ticker": "ALTZ",                                                       
-    "poolId": "46ebbc0d27d9169cae12d12dcf8f6cacbcf27937c67ae4350abbcaba",  
-    "social": {              
-      "website":"https://altzpool.com", 
+    "ticker": "ALTZ",
+    "poolId": "46ebbc0d27d9169cae12d12dcf8f6cacbcf27937c67ae4350abbcaba",
+    "social": {
+      "website":"https://altzpool.com",
       "twitter": "AltzPool",
-      "facebook": " ",  
+      "facebook": " ",
       "instagram": " ",
       "youtube": " "
     },
-    "telegram": "altzpool",                                             
-    "operatorName": "Jose M.",                                  
-    "github": ""    
+    "telegram": "altzpool",
+    "operatorName": "Jose M.",
+    "github": ""
   },
     {
-    "ticker": "STICK",                                                       
-    "poolId": "bb3ef210ec1e397f57d796b2025fd4b85500b49a56a37f8d12db16eb",  
-    "social": {              
-      "website":"https://coruna.io", 
+    "ticker": "STICK",
+    "poolId": "bb3ef210ec1e397f57d796b2025fd4b85500b49a56a37f8d12db16eb",
+    "social": {
+      "website":"https://coruna.io",
       "twitter": "CorunaWorld",
-      "facebook": " ",  
+      "facebook": " ",
       "instagram": " ",
       "youtube": " "
     },
-    "telegram": "CorunaWorld",                                             
-    "operatorName": "Martin",                                  
-    "github": ""    
+    "telegram": "CorunaWorld",
+    "operatorName": "Martin",
+    "github": ""
   },
   {
     "ticker": "ARARE",
@@ -129,9 +129,9 @@
     "github": "setiamanlhc"
   },
   {
-   "ticker": "QUBIT",                                                      
-   "poolId": "08dd84d27f00aa9ee6caf195d81256a3d217dd345857cd8be60f18b0",  
-   "social": {      
+   "ticker": "QUBIT",
+   "poolId": "08dd84d27f00aa9ee6caf195d81256a3d217dd345857cd8be60f18b0",
+   "social": {
      "facebook": "",
      "twitter": "qubitpool",
      "website": "https://qubitpool.com",
@@ -139,9 +139,9 @@
      "instagram": "",
      "youtube": ""
    },
-   "telegram": "qubitpool",                                             
-   "operatorName": "Scott",                                   
-   "github": "optimator999"                                                     
+   "telegram": "qubitpool",
+   "operatorName": "Scott",
+   "github": "optimator999"
   },
   {
     "ticker": "GNP1",
@@ -3387,18 +3387,18 @@
     "github": "stay-pool"
   },
   {
-       "ticker": "KYOKU",                                                       
-       "poolId": " 302f38b9b9cf8ace04859882b78e885cec18ee88832e7267224c2b28",  
-       "social": {              
-         "website":"https://kyoku-pool.online", 
+       "ticker": "KYOKU",
+       "poolId": " 302f38b9b9cf8ace04859882b78e885cec18ee88832e7267224c2b28",
+       "social": {
+         "website":"https://kyoku-pool.online",
          "twitter": "KyokuPool",
-         "facebook": " ",  
+         "facebook": " ",
          "instagram": " ",
          "youtube": " "
        },
-       "telegram": "kyoku_prague",                                             
-       "operatorName": "Kyoku",                                  
-       "github": "kyoku-pool"        
+       "telegram": "kyoku_prague",
+       "operatorName": "Kyoku",
+       "github": "kyoku-pool"
   },
   {
     "ticker": "EURO",
@@ -3451,7 +3451,7 @@
     "social": {
       "website": "https://pool.adaberrypi.com",
       "twitter": "AdaberryPi",
-      "facebook": "",  
+      "facebook": "",
       "instagram": "",
       "youtube": ""
     },
@@ -3480,14 +3480,14 @@
     "social": {
       "website": "https://gecspools.io",
       "twitter": "GecsPools",
-      "facebook": "",  
+      "facebook": "",
       "instagram": "",
       "youtube": ""
     },
     "telegram": "gecspools",
     "operatorName": "Steve",
     "github": ""
-  }, 
+  },
  {
     "ticker": "XRX",
     "poolId": "644621c954eda2f6df841f036365ad5af2b30af5c08b8c065f49b97d",
@@ -3508,7 +3508,7 @@
     "social": {
       "website": "https://psilobyte.io",
       "twitter": "877PSBYTE6",
-      "facebook": "",  
+      "facebook": "",
       "instagram": "",
       "youtube": "https://www.youtube.com/channel/UCWaHRlqapPU-vLRLE7fL4kA"
     },
@@ -3522,7 +3522,7 @@
     "social": {
       "website": "https://www.chunkymonkey.us/",
       "twitter": "MNKYStakePool",
-      "facebook": "",  
+      "facebook": "",
       "instagram": "",
       "youtube": ""
     },
@@ -3536,7 +3536,7 @@
     "social": {
       "Website":"https://www.goowee.io/gui-stake-pool/",
       "twitter": "gooWeeLLC",
-      "facebook": "gooWeellc",  
+      "facebook": "gooWeellc",
       "instagram": "gooWeeTech",
       "youtube": "UC5GaybyZmlqyVc5ebTXcoPA"
     },
@@ -3550,7 +3550,7 @@
     "social": {
       "website": "https://www.stupidcotton.com/stake-pool",
       "twitter": "stupid__cotton",
-      "facebook": "",  
+      "facebook": "",
       "instagram": "stupid_cotton",
       "youtube": "https://www.youtube.com/channel/UCK9xIhW6NtUNLk9Qe4NCePw"
     },
@@ -3586,7 +3586,7 @@
     "telegram": "HippoOperator",
     "operatorName": "Jerome",
     "github": "HIPPO-Pool"
-  },   
+  },
   {
     "ticker": "HUG",
     "poolId": "2f5de17f4aef94923d82520eb9787d3081772bdea1264d919dcf48cb",
@@ -3602,32 +3602,32 @@
     "github": ""
   },
   {
-    "ticker": "OLYMP",                                                       
-    "poolId": "f9db7272010a3ef3fcf1eeeab378fbccbb08fc9985feec2676b4cc11",  
-    "social": {                                                            
-      "website": "https://cardano-olympic.ge",   
+    "ticker": "OLYMP",
+    "poolId": "f9db7272010a3ef3fcf1eeeab378fbccbb08fc9985feec2676b4cc11",
+    "social": {
+      "website": "https://cardano-olympic.ge",
       "twitter": "OlympicSizePool",
-      "facebook": " ",  
+      "facebook": " ",
       "instagram": " ",
       "youtube": " "
     },
-    "telegram": "OlympicSizePool",                                             
-    "operatorName": "Joffre",                                   
-    "github": " "                                                     
+    "telegram": "OlympicSizePool",
+    "operatorName": "Joffre",
+    "github": " "
   },
   {
-       "ticker": "ROCK",                                                       
-       "poolId": "39025777f1d7c42746bc961b03b1690c26db08153d458dc74fcb034b",  
-       "social": {              
-         "website":"", 
+       "ticker": "ROCK",
+       "poolId": "39025777f1d7c42746bc961b03b1690c26db08153d458dc74fcb034b",
+       "social": {
+         "website":"",
          "twitter": "",
-         "facebook": "https://facebook.com/adarockpool ",  
+         "facebook": "https://facebook.com/adarockpool ",
          "instagram": " ",
          "youtube": " "
        },
-       "telegram": "ADARockpool",                                             
-       "operatorName": "Sajad",  
-       "github": "Mistralteam"                                    
+       "telegram": "ADARockpool",
+       "operatorName": "Sajad",
+       "github": "Mistralteam"
  },
  {
     "ticker": "CMX",
@@ -3698,5 +3698,19 @@
     "telegram": "hungbv2",
     "operatorName": "Bui Viet Hung",
     "github": "sirhung1993"
+  },
+  {
+    "ticker": "MONA",
+    "poolId": "6a84654c217f1923b086e076192b50042911c7b7af3987a1992b77e9",
+    "social": {
+      "website": "https://monada.digital",
+      "twitter": "monadapool",
+      "facebook": "monadapool",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "monadapool",
+    "operatorName": "Anton",
+    "github": ""
   }
-  ]
+]
