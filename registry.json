@@ -13,6 +13,21 @@
        "operatorName": "sawhney",  
        "github": "meta-shark"
    },
+{
+       "ticker": "SPCTR",                                                       
+       "poolId": "84e69ba6de4da2b5067148d0e870e25e4887323df077c6f0677c36dc",  
+       "social": {              
+         "website":"https://www.specterpool.com", 
+         "twitter": "Specterpool",
+         "discord":"https://discord.com/invite/DpyM6DHWQH",
+         "youtube":"",
+         "facebook":"",
+         "instagram":""
+       },
+       "telegram": "HacheSpecter",
+       "operatorName":"Hugo",
+       "github":""
+},
    {
        "ticker": "FLOW",                                                       
        "poolId": "58920efd533bc451664937d03c14176b0693a1800326933f3abbc6e8",  
@@ -3587,6 +3602,20 @@
     "github": ""
   },
   {
+    "ticker": "OLYMP",                                                       
+    "poolId": "f9db7272010a3ef3fcf1eeeab378fbccbb08fc9985feec2676b4cc11",  
+    "social": {                                                            
+      "website": "https://cardano-olympic.ge",   
+      "twitter": "OlympicSizePool",
+      "facebook": " ",  
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "OlympicSizePool",                                             
+    "operatorName": "Joffre",                                   
+    "github": " "                                                     
+  },
+  {
        "ticker": "ROCK",                                                       
        "poolId": "39025777f1d7c42746bc961b03b1690c26db08153d458dc74fcb034b",  
        "social": {              
@@ -3599,6 +3628,20 @@
        "telegram": "ADARockpool",                                             
        "operatorName": "Sajad",  
        "github": "Mistralteam"                                    
+ },
+ {
+    "ticker": "CMX",
+    "poolId": "1df219217b1487843371e0d145f8ef6d6aca2e999b5a963c30a32446",
+    "social": {
+      "website":"https://cardanomex.com",
+      "twitter": "CardanoMEX",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "cesarcavazos97",
+    "operatorName": "Cesar Cavazos",
+    "github": "CesarCavazos97"
  },
   {
     "ticker": "SMAUG",
@@ -3613,5 +3656,33 @@
     "telegram": "SmaugPool",
     "operatorName": "",
     "github": "SmaugPool"
+  },
+  {
+    "ticker": "CBH",
+    "poolId": "c4039f4fa97ed735b884800d6d605dbc65fbe995c4ba70b532e162a2",
+    "social": {
+      "website": "https://cardano-blockhouse.de/",
+      "twitter": "cardanoBH",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "JochenCardanoBlockhouse",
+    "operatorName": "Jochen",
+    "github": "cardano-blockhouse"
+  },
+  {
+    "ticker": "4FUT",
+    "poolId": "44580017128bf1b0d734f12320805c92afff296e0d00dfdd4c39732b",
+    "social": {
+      "website": "https://git.io/J05Jo",
+      "twitter": "",
+      "facebook": "https://fb.me/holdforfuture",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "hungbv2",
+    "operatorName": "Bui Viet Hung",
+    "github": "sirhung1993"
   }
   ]
