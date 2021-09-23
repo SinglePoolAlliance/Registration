@@ -3728,6 +3728,20 @@
     "github": "sirhung1993"
   },
   {
+    "ticker": "VIP",
+    "poolId": "194430bee1245b2d7e19a33e52635e5328ef24431874a0cb191c0195",
+    "social": {
+      "website": "https://vivid-pool.info",
+      "twitter": "VividPool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UC8vR0zHl2l9AlGPiWKOxDpA"
+    },
+    "telegram": "d0tmask",
+    "operatorName": "Rafal",
+    "github": "rere-dnaw"
+  },
+  {
     "ticker": "TIP",
     "poolId": "a5e54b95892dd2ad48bdc8a2d40310e58eec2c6a6f9ada69e00f7f01",
     "social": {
