@@ -1,4 +1,18 @@
 [
+     {
+    "ticker": "WOT",
+    "poolId": "e00dac4566812442174bcfb4c12225f7a305606eed12f62e62085253",
+    "social": {
+      "website": "https://www.wottlenft.com",
+      "twitter": "WottleNFT Pool",
+      "facebook": " ",
+      "instagram": "wottlenft",
+      "youtube": "wottlenft"
+    },
+    "telegram": "",
+    "operatorName": "Kopy-O",
+    "github": ""
+  },
    {
        "ticker": "SHARK",                                                       
        "poolId": "672f8a27fe8c5115ba67a68d04c81c8604cb68e3d0590d7c085f5a28",  
