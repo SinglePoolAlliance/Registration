@@ -3768,5 +3768,19 @@
     "telegram": "monadapool",
     "operatorName": "Anton",
     "github": ""
+  },
+  {
+    "ticker": "LHS",
+    "poolId": "6083db098b3574bf583fee83c879c19c2d908dbf19b1184d272f9632",
+    "social": {
+      "website": "https://lighthousestakepool.com",
+      "twitter": "PoolLighthouse",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "lighthousestakepool",
+    "operatorName": "Nick",
+    "github": ""
   }
 ]
