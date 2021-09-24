@@ -3812,5 +3812,19 @@
     "telegram": "monadapool",
     "operatorName": "Anton",
     "github": ""
+  },
+  {
+    "ticker": "SOIL",
+    "poolId": "48b18f581c5e77a19870e8399e4d2100c66b2e15243c9557e79f2165",
+    "social": {
+      "website": "https://ada4.io",
+      "twitter": "Ada4Soil",
+      "facebook": "ADA4SOIL",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Ada4Soil",
+    "operatorName": "Todd Cleckner",
+    "github": "9RESE"
   }
 ]
