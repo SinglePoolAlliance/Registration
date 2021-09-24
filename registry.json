@@ -3742,6 +3742,20 @@
     "github": "sirhung1993"
   },
   {
+    "ticker": "ISLA",
+    "poolId": "679b1d8a164791f21ab5a9a7fd2c8cfc108f76aad351912ec841847e",
+    "social": {
+      "website": "https://0xisla.live",
+      "twitter": "IslaStakePool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "dotMaxi",
+    "operatorName": "",
+    "github": "islastakepool"
+},
+{
     "ticker": "VIP",
     "poolId": "194430bee1245b2d7e19a33e52635e5328ef24431874a0cb191c0195",
     "social": {
