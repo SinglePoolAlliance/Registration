@@ -16,6 +16,20 @@
         "github": "MichaelVanStan"      
     },
     {
+       "ticker": "MLSP",
+       "poolId": "4a797aac5a38f6c2af0d483a2ff0ee139d83ee33ba7ef589c02ae01d",
+       "social": {
+         "website":"https://mangolocostake.com",
+         "twitter": "MangoLocoSP",
+         "facebook": " ",
+         "instagram": " ",
+         "youtube": " "
+       },
+       "telegram": "MangoLocoSP",
+       "operatorName": "Daniel",
+       "github": ""
+  },
+    {
     "ticker": "WOT",
     "poolId": "e00dac4566812442174bcfb4c12225f7a305606eed12f62e62085253",
     "social": {
