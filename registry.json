@@ -16,6 +16,18 @@
         "github": "MichaelVanStan"      
     },
     {
+        "ticker": "LYNX",                                                      
+        "poolId": "5e759d13110d744637b618668b54b30b12cb638bb3c5400654338c54",
+        "social": {                                                            
+            "website": "https://cryptolynxadapool.com",
+            "instagram": "lynx_cardano_stake_pool",  
+            "twitter": "lynx_pool"
+        },
+        "telegram": "LYNX_STAKEPOOL",
+        "operatorName": "Marc Vila",		                                   
+        "github": "astarothh"      
+    },
+    {
     "ticker": "WOT",
     "poolId": "e00dac4566812442174bcfb4c12225f7a305606eed12f62e62085253",
     "social": {
