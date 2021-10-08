@@ -1,5 +1,21 @@
 [
     {
+        "ticker": "knx",                                                      
+        "poolId": "6dbddde53694028eda7ddf85633650a917f6d5e96da97be88b4d4436",
+        "social": {                                                            
+            "website": "https://cryptoknox.github.io/cryptoknox/",
+            "discord": "",
+            "reddit": "",
+            "instagram": " ",
+            "facebook": " ",  
+            "youtube": " ",
+            "twitter": " "
+        },
+        "telegram": "",
+        "operatorName": "younas",		                                   
+        "github": "cryptoknox"      
+    },
+    {
         "ticker": "RELAY",                                                      
         "poolId": "6c1c1fc2b1e3e1ac056f6dd4dd4c3b78e66bd01896ca6e98a4d2431e",
         "social": {                                                            
