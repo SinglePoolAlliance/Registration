@@ -3812,5 +3812,19 @@
     "telegram": "monadapool",
     "operatorName": "Anton",
     "github": ""
+  },
+  {
+    "ticker": "BKIND",
+    "poolId": "d9e2d181dfe21ab2ca7e95847b9a219e691ee1366d22569712390655",
+    "social": {
+      "website": "https://bekindstakepools.online",
+      "twitter": "gertjanBKIND",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "gs_tg_sso",
+    "operatorName": "Gertjan",
+    "github": ""
   }
 ]
