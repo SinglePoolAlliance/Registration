@@ -3812,5 +3812,19 @@
     "telegram": "monadapool",
     "operatorName": "Anton",
     "github": ""
+  },
+  {
+    "ticker": "WOOF",
+    "poolId": "c22942e1b855136643d1e6e5a75266fb891d87727a8cbf06acd17208",
+    "social": {
+      "website": "https://woofpool.github.io/",
+      "twitter": "extramileit2003",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "WoofPool",
+    "operatorName": "Kurt",
+    "github": "woofpool"
   }
 ]
