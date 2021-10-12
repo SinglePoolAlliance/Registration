@@ -3812,5 +3812,19 @@
     "telegram": "monadapool",
     "operatorName": "Anton",
     "github": ""
+  },
+  {
+    "ticker": "BANTN",
+    "poolId": "ea3bcd0f7eef6dcc792b7530d2eed388f57e81204e307f6ba9b35c47",
+    "social": {
+      "website": "https://adapool.sisikoin.com",
+      "twitter": "cuitanjoko",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "jocodev",
+    "operatorName": "Joko Nugroho",
+    "github": "joco-ding"
   }
 ]
