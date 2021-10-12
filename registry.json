@@ -3812,5 +3812,19 @@
     "telegram": "monadapool",
     "operatorName": "Anton",
     "github": ""
+  },
+  {
+    "ticker": "STAK3",
+    "poolId": "480d5d246189501028a3868ffcf685c4c41e791dec775770a50234dc",
+    "social": {
+      "website": "http://stak3pool.com",
+      "twitter": "Stak3Pool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "JeffH78",
+    "operatorName": "Jeff",
+    "github": ""
   }
 ]
