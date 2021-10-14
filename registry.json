@@ -3812,5 +3812,19 @@
     "telegram": "monadapool",
     "operatorName": "Anton",
     "github": ""
+  },
+  {
+    "ticker": "HODLR",
+    "poolId": "cf7249855783f4ca98e0d5249da8c0c362dc1de36294f46ccc720fba",
+    "social": {
+      "website": "https://www.hodlerstaking.com",
+      "twitter": "HodlerStaking",
+      "facebook": "HodlerStaking",
+      "instagram": "HodlerStaking",
+      "youtube": ""
+    },
+    "telegram": "@HodlerStaking",
+    "operatorName": "Hodler Staking Services",
+    "github": "Fuma419"
   }
 ]
