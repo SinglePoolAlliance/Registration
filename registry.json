@@ -3826,5 +3826,19 @@
     "telegram": "monadapool",
     "operatorName": "Anton",
     "github": ""
+  },
+  {
+    "ticker": "BOLD",
+    "poolId": "a0ba245eee2cfffe25ae6589084309755ee59a1f9d7c71a01c58f6f5",
+    "social": {
+      "website": "https://www.boldada.com",
+      "twitter": "BoldADAPool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "BoldADA",
+    "operatorName": "",
+    "github": "BoldADA"
   }
 ]
