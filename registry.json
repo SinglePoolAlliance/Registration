@@ -1,5 +1,19 @@
 [
-    {
+  {
+    "ticker": "WAT",
+    "poolId": "ee92ba5963b30f6fcfad5f338d5b8ab5e0ba028c5af5ed877d7a9893",
+    "social": {
+      "website": "https://www.angkorwatstakepool.net",
+      "twitter": "angkorwatpool",
+      "facebook": " ",
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "Reggie",
+    "operatorName": "Reginald",
+    "github": "Reginald603"
+  },
+   {
         "ticker": "RELAY",                                                      
         "poolId": "6c1c1fc2b1e3e1ac056f6dd4dd4c3b78e66bd01896ca6e98a4d2431e",
         "social": {                                                            
@@ -3814,16 +3828,102 @@
     "github": ""
   },
   {
-        "ticker": "SQRL",                                                      
-        "poolId": "c9a397b8aa1d963030999d4edfd0f809f290f9899c73dfa1ad3a6d70",
-        "social": {                                                            
-            "website": "https://adasquirrel.com",
-            "reddit": "ADASquirrel",
-            "facebook": "adasquirrel",
-            "twitter": "AdaSquirrel"
-        },
-        "telegram": "Nakyll",
-        "operatorName": "Antonio",		                                   
-        "github": "adasquirrel01"      
-    }      
+    "ticker": "SQRL",                                                      
+    "poolId": "c9a397b8aa1d963030999d4edfd0f809f290f9899c73dfa1ad3a6d70",
+    "social": {                                                            
+      "website": "https://adasquirrel.com",
+      "reddit": "ADASquirrel",
+      "facebook": "adasquirrel",
+      "twitter": "AdaSquirrel",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Nakyll",
+    "operatorName": "Antonio",		                                   
+    "github": "adasquirrel01"      
+  },      
+  {
+    "ticker": "BKIND",
+    "poolId": "d9e2d181dfe21ab2ca7e95847b9a219e691ee1366d22569712390655",
+    "social": {
+      "website": "https://bekindstakepools.online",
+      "twitter": "gertjanBKIND",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "gs_tg_sso",
+    "operatorName": "Gertjan",
+    "github": ""
+  },
+  {
+    "ticker": "WOOF",
+    "poolId": "c22942e1b855136643d1e6e5a75266fb891d87727a8cbf06acd17208",
+    "social": {
+      "website": "https://woofpool.github.io",
+      "twitter": "extramileit2003",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "WoofPool",
+    "operatorName": "Kurt",
+    "github": "woofpool"
+  },
+  {
+    "ticker": "HODLR",
+    "poolId": "cf7249855783f4ca98e0d5249da8c0c362dc1de36294f46ccc720fba",
+    "social": {
+      "website": "https://www.hodlerstaking.com",
+      "twitter": "HodlerStaking",
+      "facebook": "HodlerStaking",
+      "instagram": "HodlerStaking",
+      "youtube": ""
+    },
+    "telegram": "HodlerStaking",
+    "operatorName": "Ben",
+    "github": ""
+  },
+  {
+    "ticker": "BANTN",
+    "poolId": "ea3bcd0f7eef6dcc792b7530d2eed388f57e81204e307f6ba9b35c47",
+    "social": {
+      "website": "https://adapool.sisikoin.com",
+      "twitter": "cuitanjoko",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "jocodev",
+    "operatorName": "Joko Nugroho",
+    "github": "joco-ding"
+  },
+  {
+    "ticker": "STAK3",
+    "poolId": "480d5d246189501028a3868ffcf685c4c41e791dec775770a50234dc",
+    "social": {
+      "website": "http://stak3pool.com",
+      "twitter": "Stak3Pool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "JeffH78",
+    "operatorName": "Jeff",
+    "github": "stak3pool"
+  },
+  {
+    "ticker": "BOLD",
+    "poolId": "a0ba245eee2cfffe25ae6589084309755ee59a1f9d7c71a01c58f6f5",
+    "social": {
+      "website": "https://www.boldada.com",
+      "twitter": "BoldADAPool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "BoldADA",
+    "operatorName": "",
+    "github": "BoldADA"
+  }
 ]
