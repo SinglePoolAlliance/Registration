@@ -3534,6 +3534,20 @@
     "github": "qbass"
   },
   {
+    "ticker": "HARM",
+    "poolId": "8ae61dd5202bc4903d95f75b50eecaa2e8d60ef1e36f81d1ccf6f65e",
+    "social": {
+      "website": "https://www.harmlesscoin.com",
+      "twitter": "harmlesscoin",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "encryptednl",
+    "operatorName": "Harm-Jan",
+    "github": ""
+  },
+  {
     "ticker": "USONE",
     "poolId": "576e0390ac54e3751afdaa8aa256f41b84a6324006f23991f6fdefb7",
     "social": {
