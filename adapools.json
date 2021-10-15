@@ -1329,6 +1329,11 @@
         "name": "WOT"
       },
       "263": {
+        "pool_id": "a0ba245eee2cfffe25ae6589084309755ee59a1f9d7c71a01c58f6f5",
+        "member_since": "2021-10-13",
+        "name": "BOLD"
+      },
+      "264": {
         "pool_id": "ee92ba5963b30f6fcfad5f338d5b8ab5e0ba028c5af5ed877d7a9893",
         "member_since": "2021-10-14",
         "name": "WAT"
