@@ -3828,6 +3828,20 @@
     "github": ""
   },
   {
+    "ticker": "WOOF",
+    "poolId": "c22942e1b855136643d1e6e5a75266fb891d87727a8cbf06acd17208",
+    "social": {
+      "website": "https://woofpool.github.io",
+      "twitter": "extramileit2003",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "WoofPool",
+    "operatorName": "Kurt",
+    "github": "woofpool"
+  },
+  {
     "ticker": "HODLR",
     "poolId": "cf7249855783f4ca98e0d5249da8c0c362dc1de36294f46ccc720fba",
     "social": {
