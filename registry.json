@@ -3828,6 +3828,21 @@
     "github": ""
   },
   {
+    "ticker": "SQRL",                                                      
+    "poolId": "c9a397b8aa1d963030999d4edfd0f809f290f9899c73dfa1ad3a6d70",
+    "social": {                                                            
+      "website": "https://adasquirrel.com",
+      "reddit": "ADASquirrel",
+      "facebook": "adasquirrel",
+      "twitter": "AdaSquirrel",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Nakyll",
+    "operatorName": "Antonio",		                                   
+    "github": "adasquirrel01"      
+  },      
+  {
     "ticker": "BKIND",
     "poolId": "d9e2d181dfe21ab2ca7e95847b9a219e691ee1366d22569712390655",
     "social": {
