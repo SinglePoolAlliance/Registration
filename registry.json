@@ -3828,6 +3828,20 @@
     "github": ""
   },
   {
+    "ticker": "BANTN",
+    "poolId": "ea3bcd0f7eef6dcc792b7530d2eed388f57e81204e307f6ba9b35c47",
+    "social": {
+      "website": "https://adapool.sisikoin.com",
+      "twitter": "cuitanjoko",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "jocodev",
+    "operatorName": "Joko Nugroho",
+    "github": "joco-ding"
+  },
+  {
     "ticker": "STAK3",
     "poolId": "480d5d246189501028a3868ffcf685c4c41e791dec775770a50234dc",
     "social": {
