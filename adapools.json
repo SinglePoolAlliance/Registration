@@ -1327,6 +1327,36 @@
         "pool_id": "e00dac4566812442174bcfb4c12225f7a305606eed12f62e62085253",
         "member_since": "2021-09-23",
         "name": "WOT"
+      },
+      "263": {
+        "pool_id": "c22942e1b855136643d1e6e5a75266fb891d87727a8cbf06acd17208",
+        "member_since": "2021-10-11",
+        "name": "WOOF"
+      },
+      "264": {
+        "pool_id": "ea3bcd0f7eef6dcc792b7530d2eed388f57e81204e307f6ba9b35c47",
+        "member_since": "2021-10-12",
+        "name": "BANTN"
+      },
+      "265": {
+        "pool_id": "480d5d246189501028a3868ffcf685c4c41e791dec775770a50234dc",
+        "member_since": "2021-10-12",
+        "name": "STAK3"
+      },
+      "266": {
+        "pool_id": "a0ba245eee2cfffe25ae6589084309755ee59a1f9d7c71a01c58f6f5",
+        "member_since": "2021-10-13",
+        "name": "BOLD"
+      },
+      "267": {
+        "pool_id": "ee92ba5963b30f6fcfad5f338d5b8ab5e0ba028c5af5ed877d7a9893",
+        "member_since": "2021-10-14",
+        "name": "WAT"
+      },
+      "268": {
+        "pool_id": "cf7249855783f4ca98e0d5249da8c0c362dc1de36294f46ccc720fba",
+        "member_since": "2021-10-14",
+        "name": "HODLR"
       }
     }
   }
