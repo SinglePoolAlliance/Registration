@@ -3534,6 +3534,20 @@
     "github": "qbass"
   },
   {
+    "ticker": "HAMDA",
+    "poolId": "bb32c21c1ca7dc8f73fad1b6263987139a868fad820b3c3069fefcd6",
+    "social": {
+      "website": "https://hamster-stake-pool.de",
+      "twitter": "HAMDAStakePool",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCVchFtu9uBRnnkxAye31etw"
+    },
+    "telegram": "NuehlM",
+    "operatorName": "Neal",
+    "github": "MagisterTechnicus"
+  },
+  {
     "ticker": "HARM",
     "poolId": "8ae61dd5202bc4903d95f75b50eecaa2e8d60ef1e36f81d1ccf6f65e",
     "social": {
