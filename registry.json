@@ -3759,7 +3759,21 @@
     "operatorName": "",
     "github": "SmaugPool"
   },
-   {
+  {
+    "ticker": "KAKIS",
+    "poolId": "09ae473a0781eefa6345e2236a8ffa92c26dc151c93a8f67ae735860",
+    "social": {
+      "website": "https://ada.stakingkakis.com",
+      "twitter": "stakingkakis",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "harrykaki",
+    "operatorName": "Harry",
+    "github": ""
+  },
+  {
     "ticker": "PROOF",
     "poolId": "f40a1c4277473391aaa1afed488f88f8de33bde521923031c8b5106d",
     "social": {
