@@ -3802,6 +3802,20 @@
     "github": "sirhung1993"
   },
   {
+    "ticker": "roci",
+    "poolId": "e28f147e344364afeb14c6d05c0f88497a0f3b4aaa82339d9accc67e",
+    "social": {
+      "website": "https://adakailabs.com",
+      "twitter": "adakailabs",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "adakailabs",
+    "operatorName": "Luis Garcia",
+    "github": "lagarciag"
+  },
+  {
     "ticker": "ISLA",
     "poolId": "679b1d8a164791f21ab5a9a7fd2c8cfc108f76aad351912ec841847e",
     "social": {
