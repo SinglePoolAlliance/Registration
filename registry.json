@@ -1,6 +1,6 @@
 [
     {
-        "ticker": "knx",                                                      
+        "ticker": "KNX",                                                      
         "poolId": "6dbddde53694028eda7ddf85633650a917f6d5e96da97be88b4d4436",
         "social": {                                                            
             "website": "https://cryptoknox.github.io/cryptoknox/",
@@ -9,9 +9,9 @@
             "instagram": " ",
             "facebook": " ",  
             "youtube": " ",
-            "twitter": " "
+            "twitter": "yyoounas "
         },
-        "telegram": "",
+        "telegram": "younas",
         "operatorName": "younas",		                                   
         "github": "cryptoknox"      
     },
