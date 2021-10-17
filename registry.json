@@ -4025,5 +4025,19 @@
     "telegram": "BoldADA",
     "operatorName": "",
     "github": "BoldADA"
+  },
+  {
+   "ticker": "H4C",
+   "poolId": "489c79a5c0d3cf84289a2bc795504879d4be89611eed8646076bbc27",
+   "social": {
+     "website": "https://home4cardanians.online",
+     "twitter": "Homeles40621368",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "H4C_RG",
+   "operatorName": "Rowin",
+   "github": ""
   }
 ]
