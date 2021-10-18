@@ -4025,5 +4025,19 @@
     "telegram": "BoldADA",
     "operatorName": "",
     "github": "BoldADA"
+  },
+  {
+    "ticker": "WEQNT",
+    "poolId": "a24a0b7f7dec890db8c59c47646290522234a522a98f00cf2d589a80",
+    "social": {
+      "website": "https://weqntstakepool.nl/",
+      "twitter": "DenicioBernier",
+      "facebook": "",
+      "instagram": "https://www.instagram.com/weqanhet/",
+      "youtube": "https://youtube.com/c/TheCardanoCommunityPodcast"
+    },
+    "telegram": "Denicio_Bernier",
+    "operatorName": "Denicio Bernier",
+    "github": "https://github.com/weqanhet"
   }
 ]
