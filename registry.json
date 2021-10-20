@@ -4072,6 +4072,20 @@
     "github": "BoldADA"
   },
   {
+    "ticker": "BMP",
+    "poolId": "d0a506b386ec4ae2daa7c15b0f4279ae0bfbe3fbde3e4a470deaeb3e",
+    "social": {
+      "website": "https://www.bmpool.online",
+      "twitter": "Bmpcardanopool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Bas_mi",
+    "operatorName": "Bas",
+    "github": ""
+  },
+  {
     "ticker": "PERDX",
     "poolId": "0360ffb5ba56a4f2ce619c5119e54964f540dc7ac0bd5b68cc3f06b4",
     "social": {
