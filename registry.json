@@ -4070,5 +4070,19 @@
     "telegram": "BoldADA",
     "operatorName": "",
     "github": "BoldADA"
+  },
+  {
+    "ticker": "PERDX",
+    "poolId": "0360ffb5ba56a4f2ce619c5119e54964f540dc7ac0bd5b68cc3f06b4",
+    "social": {
+      "website": "https://www.perdix.xyz",
+      "twitter": "perdix_lab",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "kgeonw",
+    "operatorName": "GeonWoo Kim",
+    "github": "https://github.com/perdix-xyz"
   }
 ]
