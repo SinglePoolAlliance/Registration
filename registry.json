@@ -1,5 +1,21 @@
 [
     {
+      "ticker": "KNX",                                                      
+      "poolId": "6dbddde53694028eda7ddf85633650a917f6d5e96da97be88b4d4436",
+      "social": {                                                            
+        "website": "https://cryptoknox.github.io/cryptoknox/",
+        "discord": "",
+        "reddit": "",
+        "instagram": " ",
+        "facebook": " ",  
+        "youtube": " ",
+        "twitter": "yyoounas "
+      },
+      "telegram": "younas",
+      "operatorName": "younas",		                                   
+      "github": "cryptoknox"      
+  },
+  {
     "ticker": "VOLCY",                                                      
     "poolId": "e3f8a83cefed03fe4ebdc4f50f3cdd880a7c2fd0b2ce7ff9da9cdce2",
     "social": {
