@@ -1402,6 +1402,11 @@
         "pool_id": "c9a397b8aa1d963030999d4edfd0f809f290f9899c73dfa1ad3a6d70",
         "member_since": "2021-10-15",
         "name": "SQRL"
+      },
+      "278": {
+        "pool_id": "27b1b4470c84db78ce1ffbfff77bb068abb4e47d43cb6009caaa3523",
+        "member_since": "2021-10-16",
+        "name": "CSCS"
       }
     }
   }
