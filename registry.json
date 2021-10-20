@@ -77,6 +77,20 @@
         "github": "cloudstruct"
     },
     {
+        "ticker": "LYNX",                                                      
+        "poolId": "5e759d13110d744637b618668b54b30b12cb638bb3c5400654338c54",
+        "social": {                                                            
+            "website": "https://cryptolynxadapool.com",
+            "instagram": "lynx_cardano_stake_pool",  
+            "facebook": " ",
+            "youtube": " ",
+            "twitter": "lynx_pool"
+        },
+        "telegram": "marcvf92",
+        "operatorName": "Marc Vila",		                                   
+        "github": "astarothh"      
+    },
+    {
        "ticker": "MLSP",
        "poolId": "4a797aac5a38f6c2af0d483a2ff0ee139d83ee33ba7ef589c02ae01d",
        "social": {
