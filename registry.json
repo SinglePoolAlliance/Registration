@@ -46,6 +46,22 @@
       "github": "MichaelVanStan"      
     },
     {
+     "ticker": "TLP",                                                      
+     "poolId": "4ec6dab61e2c65dae29be13d774b40f5a10e5d6652b3baf1bb61b45a",
+     "social": {                                                            
+       "website": "https://terryslair.com/cardano",
+       "discord": "",
+       "reddit": "",
+       "instagram": "",
+       "facebook": "",  
+       "youtube": "https://www.youtube.com/channel/UCM8DlopWZTppYGHpFyhgKcA",
+       "twitter": "Ter2ence "
+      },
+      "telegram": "Terrence_Henry_TLP",
+      "operatorName": "Terrence Henry",		                                   
+      "github": "TerrenceHenry"      
+    },
+    {
         "ticker": "CSCS",
         "poolId": "27b1b4470c84db78ce1ffbfff77bb068abb4e47d43cb6009caaa3523",
         "social": {
