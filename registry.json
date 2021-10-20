@@ -46,6 +46,51 @@
       "github": "MichaelVanStan"      
     },
     {
+     "ticker": "TLP",                                                      
+     "poolId": "4ec6dab61e2c65dae29be13d774b40f5a10e5d6652b3baf1bb61b45a",
+     "social": {                                                            
+       "website": "https://terryslair.com/cardano",
+       "discord": "",
+       "reddit": "",
+       "instagram": "",
+       "facebook": "",  
+       "youtube": "https://www.youtube.com/channel/UCM8DlopWZTppYGHpFyhgKcA",
+       "twitter": "Ter2ence "
+      },
+      "telegram": "Terrence_Henry_TLP",
+      "operatorName": "Terrence Henry",		                                   
+      "github": "TerrenceHenry"      
+    },
+    {
+        "ticker": "CSCS",
+        "poolId": "27b1b4470c84db78ce1ffbfff77bb068abb4e47d43cb6009caaa3523",
+        "social": {
+            "facebook": "",
+            "twitter": "CSCS_pool",
+            "website": "https://cardano.cloudstruct.net",
+            "reddit": "",
+            "instagram": "",
+            "youtube": ""
+        },
+        "telegram": "CSCS_pool",
+        "operatorName": "Chris Gianelloni",
+        "github": "cloudstruct"
+    },
+    {
+        "ticker": "LYNX",                                                      
+        "poolId": "5e759d13110d744637b618668b54b30b12cb638bb3c5400654338c54",
+        "social": {                                                            
+            "website": "https://cryptolynxadapool.com",
+            "instagram": "lynx_cardano_stake_pool",  
+            "facebook": " ",
+            "youtube": " ",
+            "twitter": "lynx_pool"
+        },
+        "telegram": "marcvf92",
+        "operatorName": "Marc Vila",		                                   
+        "github": "astarothh"      
+    },
+    {
        "ticker": "MLSP",
        "poolId": "4a797aac5a38f6c2af0d483a2ff0ee139d83ee33ba7ef589c02ae01d",
        "social": {
@@ -4039,5 +4084,33 @@
    "telegram": "H4C_RG",
    "operatorName": "Rowin",
    "github": ""
+  },
+  {
+    "ticker": "BMP",
+    "poolId": "d0a506b386ec4ae2daa7c15b0f4279ae0bfbe3fbde3e4a470deaeb3e",
+    "social": {
+      "website": "https://www.bmpool.online",
+      "twitter": "Bmpcardanopool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Bas_mi",
+    "operatorName": "Bas",
+    "github": ""
+  },
+  {
+    "ticker": "PERDX",
+    "poolId": "0360ffb5ba56a4f2ce619c5119e54964f540dc7ac0bd5b68cc3f06b4",
+    "social": {
+      "website": "https://www.perdix.xyz",
+      "twitter": "perdix_lab",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "kgeonw",
+    "operatorName": "GeonWoo Kim",
+    "github": "https://github.com/perdix-xyz"
   }
 ]
