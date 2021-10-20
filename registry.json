@@ -46,6 +46,21 @@
       "github": "MichaelVanStan"      
     },
     {
+        "ticker": "CSCS",
+        "poolId": "27b1b4470c84db78ce1ffbfff77bb068abb4e47d43cb6009caaa3523",
+        "social": {
+            "facebook": "",
+            "twitter": "CSCS_pool",
+            "website": "https://cardano.cloudstruct.net",
+            "reddit": "",
+            "instagram": "",
+            "youtube": ""
+        },
+        "telegram": "CSCS_pool",
+        "operatorName": "Chris Gianelloni",
+        "github": "cloudstruct"
+    },
+    {
        "ticker": "MLSP",
        "poolId": "4a797aac5a38f6c2af0d483a2ff0ee139d83ee33ba7ef589c02ae01d",
        "social": {
