@@ -1,5 +1,21 @@
 [
-    {
+ {
+      "ticker": "WORLD",                                                      
+      "poolId": "39897b8fe60ea0cbc46119d393ae0739373f1bab437d58be8b3d2a7c",
+      "social": {                                                            
+        "website": "https://adaworld.io/",
+        "discord": "",
+        "reddit": "",
+        "instagram": " ",
+        "facebook": " ",  
+        "youtube": " ",
+        "twitter": "adaworldpool"
+      },
+      "telegram": "adaworldpool",
+      "operatorName": "adaworld",		                                   
+      "github": "adaworldpool"      
+  },
+  {
       "ticker": "KNX",                                                      
       "poolId": "6dbddde53694028eda7ddf85633650a917f6d5e96da97be88b4d4436",
       "social": {                                                            
