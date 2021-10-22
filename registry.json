@@ -4174,5 +4174,19 @@
     "telegram": "kgeonw",
     "operatorName": "GeonWoo Kim",
     "github": "https://github.com/perdix-xyz"
+  },
+  {
+   "ticker": "DODO",
+   "poolId": "6858fc0ed225ad40157e358cff1d08ccc306b6ab00bdc96301fbedef",
+   "social": {
+     "website": "https://dodopool.io",
+     "twitter": "TheDodoPool",
+     "facebook": "Thedodopool-101896865569204",
+     "instagram": "thedodopool",
+     "youtube": ""
+   },
+   "telegram": "DodoPool",
+   "operatorName": "",
+   "github": "fnoyer"
   }
 ]
