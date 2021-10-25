@@ -4174,5 +4174,20 @@
     "telegram": "kgeonw",
     "operatorName": "GeonWoo Kim",
     "github": "https://github.com/perdix-xyz"
+  },
+ {
+    "ticker": "one",
+    "poolId": "3805681d8d4bc9c7f298c24fdeca3406849e2db84a0708718d96d0b2",
+    "social": {
+      "website": "https://www.red-sky.one",
+      "twitter": "EnigmA_SPO",
+      "facebook": "",
+      "instagram": "",
+      "discord": "https://discord.gg/trhq94BMcE",
+      "youtube": "https://www.youtube.com/channel/UC2miWvAoqfOl1YjAnRUbkAA"
+    },
+    "telegram": "EnigmApool",
+    "operatorName": "Eme Jay",
+    "github": "https://github.com/lucifer911/"
   }
 ]
