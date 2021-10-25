@@ -4174,5 +4174,19 @@
     "telegram": "kgeonw",
     "operatorName": "GeonWoo Kim",
     "github": "https://github.com/perdix-xyz"
+  },
+    {
+    "ticker": "ECP",
+    "poolId": "d61ab012cf4b0c24daf2447309638b25573f85b0a7e4ffdb60db9b22",
+    "social": {
+      "website": "https://earncoinpool.com",
+      "twitter": "earncoinpool",
+      "facebook": "https://fb.me/earncoinpool",
+      "instagram": "earncoinpool",
+      "youtube": ""
+    },
+    "telegram": "EarnCoinPool",
+    "operatorName": "Rich",
+    "github": ""
   }
 ]
