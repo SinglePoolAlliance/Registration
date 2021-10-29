@@ -1,4 +1,20 @@
 [
+  {
+      "ticker": "TTL",                                                      
+      "poolId": "45dfa4d34b9da5ae5fe91fe6b74f02fa77a5c05bdeb9b4763d9e5935",
+      "social": {                                                            
+        "website": "https://ttl-pool.site",
+        "discord": "",
+        "reddit": "",
+        "instagram": " ",
+        "facebook": " ",  
+        "youtube": " ",
+        "twitter": "TTLStakePool"
+      },
+      "telegram": "TTLStakePool",
+      "operatorName": "aRved",		                                   
+      "github": "ARVEDz"      
+  },
  {
       "ticker": "WORLD",                                                      
       "poolId": "39897b8fe60ea0cbc46119d393ae0739373f1bab437d58be8b3d2a7c",
