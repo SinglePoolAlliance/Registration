@@ -1,4 +1,20 @@
 [
+  {
+      "ticker": "TTL",                                                      
+      "poolId": "45dfa4d34b9da5ae5fe91fe6b74f02fa77a5c05bdeb9b4763d9e5935",
+      "social": {                                                            
+        "website": "https://ttl-pool.site",
+        "discord": "",
+        "reddit": "",
+        "instagram": " ",
+        "facebook": " ",  
+        "youtube": " ",
+        "twitter": "TTLStakePool"
+      },
+      "telegram": "aRved",
+      "operatorName": "aRved",		                                   
+      "github": "ARVEDz"      
+  },
  {
       "ticker": "WORLD",                                                      
       "poolId": "39897b8fe60ea0cbc46119d393ae0739373f1bab437d58be8b3d2a7c",
@@ -4036,20 +4052,6 @@
     "github": "adasquirrel01"      
   },      
   {
-    "ticker": "BKIND",
-    "poolId": "d9e2d181dfe21ab2ca7e95847b9a219e691ee1366d22569712390655",
-    "social": {
-      "website": "https://bekindstakepools.online",
-      "twitter": "gertjanBKIND",
-      "facebook": "",
-      "instagram": "",
-      "youtube": ""
-    },
-    "telegram": "gs_tg_sso",
-    "operatorName": "Gertjan",
-    "github": ""
-  },
-  {
     "ticker": "WOOF",
     "poolId": "c22942e1b855136643d1e6e5a75266fb891d87727a8cbf06acd17208",
     "social": {
@@ -4162,6 +4164,20 @@
     "github": ""
   },
   {
+    "ticker": "PLUTO",
+    "poolId": "6255693643d2dcb804bb89effd50d8ea743bbae07ad62a3b5174ff25",
+    "social": {
+      "website": "https://www.plutostakepool.com",
+      "twitter": "PlutoStakePool",
+      "facebook": "Pluto Stake Pool",
+      "instagram": "plutostakepool",
+      "youtube": ""
+    },
+    "telegram": "frastap0",
+    "operatorName": "frastap0",
+    "github": ""
+  },
+  {
     "ticker": "PERDX",
     "poolId": "0360ffb5ba56a4f2ce619c5119e54964f540dc7ac0bd5b68cc3f06b4",
     "social": {
@@ -4188,5 +4204,19 @@
    "telegram": "fnoyer",
    "operatorName": "",
    "github": "fnoyer"
+  },
+  {
+    "ticker": "ECP",
+    "poolId": "d61ab012cf4b0c24daf2447309638b25573f85b0a7e4ffdb60db9b22",
+    "social": {
+      "website": "https://earncoinpool.com",
+      "twitter": "earncoinpool",
+      "facebook": "https://fb.me/earncoinpool",
+      "instagram": "earncoinpool",
+      "youtube": ""
+    },
+    "telegram": "EarnCoinPool",
+    "operatorName": "Rich",
+    "github": ""
   }
 ]
