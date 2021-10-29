@@ -4148,6 +4148,20 @@
     "github": ""
   },
   {
+    "ticker": "PLUTO",
+    "poolId": "6255693643d2dcb804bb89effd50d8ea743bbae07ad62a3b5174ff25",
+    "social": {
+      "website": "https://www.plutostakepool.com",
+      "twitter": "PlutoStakePool",
+      "facebook": "Pluto Stake Pool",
+      "instagram": "plutostakepool",
+      "youtube": ""
+    },
+    "telegram": "frastap0",
+    "operatorName": "frastap0",
+    "github": ""
+  },
+  {
     "ticker": "PERDX",
     "poolId": "0360ffb5ba56a4f2ce619c5119e54964f540dc7ac0bd5b68cc3f06b4",
     "social": {
