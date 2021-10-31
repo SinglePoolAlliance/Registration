@@ -4218,5 +4218,19 @@
     "telegram": "EarnCoinPool",
     "operatorName": "Rich",
     "github": ""
+  },
+  {
+    "ticker": "MERK",
+    "poolId": "232b0ab2239204974aa236cf022ab95301a1772609f3c6907628cde2",
+    "social": {
+        "website": "https://merklestaking.io",
+        "twitter": "MerkleValidator",
+        "facebook": "",
+        "instagram": "",
+        "youtube": ""
+    },
+    "telegram": "MerkleValidator",
+    "operatorName": "Dhruv",
+    "github": "MerkleValidator"
   }
 ]
