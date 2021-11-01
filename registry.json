@@ -979,6 +979,20 @@
     "github": "CO2-Pool"
   },
   {
+    "ticker": "SOIL",
+    "poolId": "48b18f581c5e77a19870e8399e4d2100c66b2e15243c9557e79f2165",
+    "social": {
+      "twitter": "Ada4Soil",
+      "website": "https://ada4.io/soil",
+      "facebook": "",
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "TCleckner",
+    "operatorName": "",
+    "github": "ADA-4"
+  },
+  {
     "ticker": "OHOH7",
     "poolId": "d4b5b8d5c83e97b2cd90a0fd818f3c9d8e7388bcc7706327a92d2092",
     "social": {
