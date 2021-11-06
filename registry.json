@@ -4277,5 +4277,19 @@
     "telegram": "grahamde8313",
     "operatorName": "Derek Graham",
     "github": "grahamde8313"
+  },
+  {
+    "ticker": "ENVY",
+    "poolId": "14eae9da8ab6d322176ea88f40e9d32d843996bf2de88240e35594ea",
+    "social": {
+      "website": "https://envystakepool.wixsite.com/envy",
+      "twitter": "EnvyStakePool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "EnvyStakePool",
+    "operatorName": "Sean",
+    "github": "EtherealStakePool"
   }
 ]
