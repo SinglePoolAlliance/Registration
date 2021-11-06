@@ -4261,5 +4261,19 @@
     "telegram": "grahamde8313",
     "operatorName": "Derek Graham",
     "github": "grahamde8313"
+  },
+  {
+    "ticker": "LOVLK",
+    "poolId": "331711ffbc442853ede9bbf478f6c7ddc62772cd1633df72285878d3",
+    "social": {
+      "website": "https://lovelike.io",
+      "twitter": "lovelikeio",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "mrsaig",
+    "operatorName": "Stefan Sigl",
+    "github": "SaIG"
   }
 ]
