@@ -1,5 +1,21 @@
 [
   {
+      "ticker": "SWIFT",                                                      
+      "poolId": "d8322d503e4b00a280693c2ce349cf17c0fdf47a5634c7ee969968b4",
+      "social": {                                                            
+        "website": "https://www.swiftstake.tech",
+        "discord": "Crispin Rebuelta [SWIFT]#1388",
+        "reddit": "",
+        "instagram": " ",
+        "facebook": " ",  
+        "youtube": " ",
+        "twitter": "carebuelta"
+      },
+      "telegram": "creb0002",
+      "operatorName": "Crispin Rebuelta",		                                   
+      "github": "crebuelta"      
+  },
+  {
       "ticker": "TTL",                                                      
       "poolId": "45dfa4d34b9da5ae5fe91fe6b74f02fa77a5c05bdeb9b4763d9e5935",
       "social": {                                                            
