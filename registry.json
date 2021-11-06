@@ -4279,6 +4279,20 @@
     "github": "grahamde8313"
   },
   {
+    "ticker": "LOVLK",
+    "poolId": "331711ffbc442853ede9bbf478f6c7ddc62772cd1633df72285878d3",
+    "social": {
+      "website": "https://lovelike.io",
+      "twitter": "lovelikeio",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "mrsaig",
+    "operatorName": "Stefan Sigl",
+    "github": "SaIG"
+  },
+  {
     "ticker": "ENVY",
     "poolId": "14eae9da8ab6d322176ea88f40e9d32d843996bf2de88240e35594ea",
     "social": {
