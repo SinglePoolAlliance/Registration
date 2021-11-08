@@ -1,5 +1,21 @@
 [
   {
+      "ticker": "SWIFT",                                                      
+      "poolId": "d8322d503e4b00a280693c2ce349cf17c0fdf47a5634c7ee969968b4",
+      "social": {                                                            
+        "website": "https://www.swiftstake.tech",
+        "discord": "Crispin Rebuelta [SWIFT]#1388",
+        "reddit": "",
+        "instagram": " ",
+        "facebook": " ",  
+        "youtube": " ",
+        "twitter": "carebuelta"
+      },
+      "telegram": "creb0002",
+      "operatorName": "Crispin Rebuelta",		                                   
+      "github": "crebuelta"      
+  },
+  {
       "ticker": "TTL",                                                      
       "poolId": "45dfa4d34b9da5ae5fe91fe6b74f02fa77a5c05bdeb9b4763d9e5935",
       "social": {                                                            
@@ -977,6 +993,20 @@
     "telegram": "CO2Pool",
     "operatorName": "",
     "github": "CO2-Pool"
+  },
+  {
+    "ticker": "SOIL",
+    "poolId": "48b18f581c5e77a19870e8399e4d2100c66b2e15243c9557e79f2165",
+    "social": {
+      "twitter": "Ada4Soil",
+      "website": "https://ada4.io/soil",
+      "facebook": "",
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "TCleckner",
+    "operatorName": "",
+    "github": "ADA-4"
   },
   {
     "ticker": "OHOH7",
@@ -4191,6 +4221,21 @@
     "operatorName": "GeonWoo Kim",
     "github": "https://github.com/perdix-xyz"
   },
+ {
+    "ticker": "one",
+    "poolId": "3805681d8d4bc9c7f298c24fdeca3406849e2db84a0708718d96d0b2",
+    "social": {
+      "website": "https://www.red-sky.one",
+      "twitter": "EnigmA_SPO",
+      "facebook": "",
+      "instagram": "",
+      "discord": "https://discord.gg/trhq94BMcE",
+      "youtube": "https://www.youtube.com/channel/UC2miWvAoqfOl1YjAnRUbkAA"
+    },
+    "telegram": "Eme_jay",
+    "operatorName": "Eme Jay",
+    "github": "https://github.com/lucifer911/"
+ },
   {
    "ticker": "DODO",
    "poolId": "6858fc0ed225ad40157e358cff1d08ccc306b6ab00bdc96301fbedef",
@@ -4232,5 +4277,47 @@
     "telegram": "dhruvthak",
     "operatorName": "Dhruv",
     "github": "MerkleValidator"
+  },
+  {
+    "ticker": "FSI",
+    "poolId": "e7a07caf73dbc8fb2ff0f5acc32ba19e434c8f04f39c4fc90eabfc49",
+    "social": {
+      "website": "http://fiftystarinvestments.com",
+      "twitter": "grahamde8313",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "grahamde8313",
+    "operatorName": "Derek Graham",
+    "github": "grahamde8313"
+  },
+  {
+    "ticker": "LOVLK",
+    "poolId": "331711ffbc442853ede9bbf478f6c7ddc62772cd1633df72285878d3",
+    "social": {
+      "website": "https://lovelike.io",
+      "twitter": "lovelikeio",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "mrsaig",
+    "operatorName": "Stefan Sigl",
+    "github": "SaIG"
+  },
+  {
+    "ticker": "ENVY",
+    "poolId": "14eae9da8ab6d322176ea88f40e9d32d843996bf2de88240e35594ea",
+    "social": {
+      "website": "https://envystakepool.wixsite.com/envy",
+      "twitter": "EnvyStakePool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "EnvyStakePool",
+    "operatorName": "Sean",
+    "github": "EtherealStakePool"
   }
 ]
