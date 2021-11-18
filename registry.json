@@ -4319,5 +4319,19 @@
     "telegram": "EnvyStakePool",
     "operatorName": "Sean",
     "github": "EtherealStakePool"
+  },
+  {
+    "ticker": "HST",
+    "poolId": "f85629efed5aa2fdbf88b70a4419f2e637ea93d046fb8aef94328c59",
+    "social": {
+      "website": "https://adapool.hst-soft.de",
+      "twitter": "HStADAPool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "HStADAPool",
+    "operatorName": "Holger",
+    "github": "HStADAPool"
   }
 ]
