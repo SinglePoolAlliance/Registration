@@ -1793,6 +1793,20 @@
     "github": "ResponsibleStaking"
   },
   {
+    "ticker": "PBDOT",
+    "poolId": "5283b9e53fff62fa8578f428e816a7e28e2ee6cf3db57b453b71c68b",
+    "social": {
+      "website": "https://palebluedotpool.org",
+      "twitter": "palebluedotpool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "jnikola",
+    "operatorName": "Nik",
+    "github": "mcrio"
+  },
+  {
     "ticker": "ADAOZ",
     "poolId": "6658713e2cbfa4e347691a0435953f5acbe9f03d330e94caa3a0cfb4",
     "social": {
