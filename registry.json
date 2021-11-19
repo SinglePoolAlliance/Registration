@@ -4361,5 +4361,19 @@
     "telegram": "Human_Spaceflight",
     "operatorName": "Pasquale Krähemann",
     "github": "kraehemp"
+  },
+   {
+   "ticker": "ANTRX",
+    "poolId": "8b315cd9c1b128c5cfe70925a786f6db96cf220bbcea8a2a9c6afdb9",
+    "social": {
+      "website": "https://antrixy.github.io/",
+      "twitter": "Antrix94841957",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Antrix",
+    "operatorName": "Antrix",
+    "github": "antrixy"
   }
 ]
