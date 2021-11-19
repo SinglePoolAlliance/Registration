@@ -1507,6 +1507,11 @@
         "pool_id": "f85629efed5aa2fdbf88b70a4419f2e637ea93d046fb8aef94328c59",
         "member_since": "2021-11-07",
         "name": "HST"
+      },
+      "299": {
+        "pool_id": "112bd1da11c5c23e1171505fbbb81c8802d410de9e64373f530723c1",
+        "member_since": "2021-11-18",
+        "name": "SPCP"
       }
     }
   }
