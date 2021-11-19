@@ -4333,5 +4333,19 @@
     "telegram": "HStADAPool",
     "operatorName": "Holger",
     "github": "HStADAPool"
+  },
+  {
+   "ticker": "SPCP",
+    "poolId": "112bd1da11c5c23e1171505fbbb81c8802d410de9e64373f530723c1",
+    "social": {
+      "website": "https://informatik-spezialist.ch",
+      "twitter": "PKrahemann",
+      "facebook": "https://www.facebook.com/adminInformatik",
+      "instagram": "swiss_premium_cardano_pool",
+      "youtube": ""
+    },
+    "telegram": "Human_Spaceflight",
+    "operatorName": "Pasquale Krähemann",
+    "github": "kraehemp"
   }
 ]
