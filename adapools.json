@@ -1517,6 +1517,11 @@
         "pool_id": "112bd1da11c5c23e1171505fbbb81c8802d410de9e64373f530723c1",
         "member_since": "2021-11-18",
         "name": "SPCP"
+      },
+      "301": {
+        "pool_id": "8b315cd9c1b128c5cfe70925a786f6db96cf220bbcea8a2a9c6afdb9",
+        "member_since": "2021-11-19",
+        "name": "ANTRX"
       }
     }
   }
