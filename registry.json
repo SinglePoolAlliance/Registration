@@ -3871,5 +3871,19 @@
     "telegram": "w_o_u_t",
     "operatorName": "Wout",
     "github": "tiligallery"
+  },
+  {
+    "ticker": "JPNTP",
+    "poolId": "3d9acdf1c60be1eb069e3abe2235e0cbaf302463183eb0f6a986e302",
+    "social": {
+      "website": "https://crypto-currency-academy.com/",
+      "twitter": "https://twitter.com/xrpripple7",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "",
+    "operatorName": "yoshis2",
+    "github": "yoshis2"
   }
 ]
