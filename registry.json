@@ -3872,4 +3872,18 @@
     "operatorName": "Wout",
     "github": "tiligallery"
   }
+  {
+    "ticker": "REYTS",
+    "poolId": "b3471fb159f5e8b345018a5c309afd91f06bf99552b8e91eb9980c9d",
+    "social": {
+      "website": "https://www.reyts.com/reytspool/",
+      "twitter": "Reytsapp",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "",
+    "operatorName": "Reyts",
+    "github": "reytsfintech"
+  }
 ]
