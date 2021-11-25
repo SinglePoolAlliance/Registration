@@ -3877,13 +3877,13 @@
     "poolId": "3d9acdf1c60be1eb069e3abe2235e0cbaf302463183eb0f6a986e302",
     "social": {
       "website": "https://crypto-currency-academy.com/",
-      "twitter": "https://twitter.com/xrpripple7",
+      "twitter": "xrpripple7",
       "facebook": "",
       "instagram": "",
       "youtube": ""
     },
-    "telegram": "",
-    "operatorName": "yoshis2",
+    "telegram": "yoshis2",
+    "operatorName": "",
     "github": "yoshis2"
   }
 ]
