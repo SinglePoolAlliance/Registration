@@ -1966,19 +1966,19 @@
     "github": "StorkPool"
   },
   {
-    "ticker": "MMA",
+    "ticker": "SEA",
     "poolId": "f1ae552b032c2d87a416f4067eaf4636b3fe5e80230a1f63aa33f6bc",
     "social": {
       "facebook": "",
-      "twitter": "https://twitter.com/mma_stake_pool",
-      "website": "https://mma-stakepool.github.io/",
-      "reddit": "https://www.reddit.com/user/MMA-StakePool",
+      "twitter": "SeasideStaking",
+      "website": "https://seaside-staking.github.io/",
+      "reddit": "",
       "instagram": "",
       "youtube": ""
     },
-    "telegram": "mma_stake_pool",
+    "telegram": "hans_the_crypto",
     "operatorName": "Hans",
-    "github": "MMA-stakepool"
+    "github": "Seaside-Staking"
   },
   {
     "ticker": "NOBLE",
