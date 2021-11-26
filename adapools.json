@@ -1362,6 +1362,11 @@
         "pool_id": "8833a263b80491140592cb907f46add5e1a1ddbce66725ce7675e2af",
         "member_since": "2021-11-22",
         "name": "TDOT"
+      },
+      "269": {
+        "pool_id": "3d9acdf1c60be1eb069e3abe2235e0cbaf302463183eb0f6a986e302",
+        "member_since": "2021-11-24",
+        "name": "JPNTP"
       }
     }
   }
