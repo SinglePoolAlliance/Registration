@@ -3885,5 +3885,19 @@
     "telegram": "yoshis2",
     "operatorName": "",
     "github": "yoshis2"
+  },
+  {
+    "ticker": "TDOT",
+    "poolId": "8833a263b80491140592cb907f46add5e1a1ddbce66725ce7675e2af",
+    "social": {
+      "website": "https://ada.tdot.finance/",
+      "twitter": "TDOTStaking",
+      "facebook": "",
+      "instagram": "tdot_staking",
+      "youtube": ""
+    },
+    "telegram": "gobi_velox",
+    "operatorName": "",
+    "github": ""
   }
 ]
