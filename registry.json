@@ -3884,5 +3884,19 @@
     "telegram": "gobi_velox",
     "operatorName": "",
     "github": ""
+  },
+  {
+    "ticker": "PSYA",
+    "poolId": "111646b0848804b1c0ff51888432c9c4b0b0aa3b55f11ecbd0e36624",
+    "social": {
+      "website": "https://psyada.com/",
+      "twitter": "psyadapool",
+      "facebook": "https://www.facebook.com/psychedelicadapool",
+      "instagram": "psyadapool",
+      "youtube": "https://www.youtube.com/channel/UCRVtkRVKIQ3voNPpcUfvUAQ"
+    },
+    "telegram": "lukas_psya",
+    "operatorName": "",
+    "github": "rafek47"
   }
 ]
