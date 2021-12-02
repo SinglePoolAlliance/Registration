@@ -3898,5 +3898,19 @@
     "telegram": "lukas_psya",
     "operatorName": "",
     "github": "rafek47"
+  },
+  {
+    "ticker": "DEEP",
+    "poolId": "pool136903m0kag2amlga2ypcz8wnf7d552qgy5t6vz2pqlzuq2kyshy",
+    "social": {
+      "website": "https://deependpool.net/",
+      "twitter": "CardanoDeepEnd",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "",
+    "operatorName": "",
+    "github": "kardall"
   }
 ]
