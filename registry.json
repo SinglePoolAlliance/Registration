@@ -1,5 +1,21 @@
 [
   {
+    "ticker": "46S",
+    "poolId": "12d4d2f7a7c5b4ae10853d093257d71bd3ac6d2abccc2b65fc0bff8f",
+    "social": {
+      "website": "",
+      "discord": "",
+      "reddit": "",
+      "instagram": "",
+      "facebook": "https://fb.me/46South",
+      "youtube": "",
+      "twitter": "46south1"
+    },
+    "telegram": "CSP_46S",
+    "operatorName": "",
+    "github": "snic-csp"
+  },
+  {
     "ticker": "SWIFT",
     "poolId": "d8322d503e4b00a280693c2ce349cf17c0fdf47a5634c7ee969968b4",
     "social": {
