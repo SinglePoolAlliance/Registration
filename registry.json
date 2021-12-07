@@ -3898,5 +3898,19 @@
     "telegram": "lukas_psya",
     "operatorName": "",
     "github": "rafek47"
+  },
+  {
+    "ticker": "5HARE",
+    "poolId": "73a527af03d38b3659f20b263000a1f72d3f3b867df5a2bb0e5516f1",
+    "social": {
+      "website": "https://5hare-pool.5pecia1.dev",
+      "twitter": "https://twitter.com/5HARE_Pool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "pdpxpd",
+    "operatorName": "",
+    "github": "5pecia1"
   }
 ]
