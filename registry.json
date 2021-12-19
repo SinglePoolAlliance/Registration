@@ -16,6 +16,22 @@
     "github": "snic-csp"
   },
   {
+    "ticker": "SIGMA",
+    "poolId": "8f1a90ce93850a4aa28273e31e52e71bb304a86f9cbb54b138808cf0",
+    "social": {
+      "website": "https://sigmastake.com",
+      "discord": "https://discord.gg/qSXXJAuu",
+      "reddit": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": "",
+      "twitter": "SigmaStake"
+    },
+    "telegram": "sigmastake",
+    "operatorName": "",
+    "github": "sigmastake"
+  },
+  {
     "ticker": "SWIFT",
     "poolId": "d8322d503e4b00a280693c2ce349cf17c0fdf47a5634c7ee969968b4",
     "social": {
