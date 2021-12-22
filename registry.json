@@ -3915,6 +3915,20 @@
     "operatorName": "",
     "github": "rafek47"
   },
+    {
+    "ticker": "OTG",
+    "poolId": "c825168836c5bf850dec38567eb4771c2e03eea28658ff291df768ae",
+    "social": {
+      "website": "https://adamantium.online/",
+      "twitter": "OTG_WCat",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "WCat13",
+    "operatorName": "Wayne",
+    "github": "wcatz"
+    },
   {
     "ticker": "NIMUE",
     "poolId": "68d8505aea5a000e630f904f8741c1deec9135a729e5df770fe3b659",
