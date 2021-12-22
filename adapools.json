@@ -1374,11 +1374,16 @@
         "name": "46S"
       },
       "271": {
+        "pool_id": "8f1a90ce93850a4aa28273e31e52e71bb304a86f9cbb54b138808cf0",
+        "member_since": "2021-12-19",
+        "name": "SIGMA"
+      },
+      "272": {
         "pool_id": "68d8505aea5a000e630f904f8741c1deec9135a729e5df770fe3b659",
         "member_since": "2021-12-19",
         "name": "NIMUE"
       },
-      "272": {
+      "273": {
         "pool_id": "c825168836c5bf850dec38567eb4771c2e03eea28658ff291df768ae",
         "member_since": "2021-12-21",
         "name": "OTG"
