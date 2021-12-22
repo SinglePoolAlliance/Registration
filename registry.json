@@ -3923,7 +3923,20 @@
       "twitter": "OTG_WCat"
     },
     "telegram": "WCat13",
-    "operatorName": "WCat",
+    "operatorName": "Wayne",
     "github": "wcatz"
+
+  {
+    "ticker": "NIMUE",
+    "poolId": "68d8505aea5a000e630f904f8741c1deec9135a729e5df770fe3b659",
+    "social": {
+      "website": "https://nimuepool.io",
+      "twitter": "nimuepool",
+      "facebook": "nimuepool",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Tom_Nimue",
+    "operatorName": "Tom"
   }
 ]
