@@ -3957,5 +3957,16 @@
     },
     "telegram": "Tom_Nimue",
     "operatorName": "Tom"
+  },
+  {
+   "ticker": "CBFR",                                                      
+   "poolId": "d6095a71081323dbc614d974f6159c37cd5f4133c8830172f877ca51",  
+   "social": {                                                            
+     "twitter": "CardanoFR"
+   },
+   "telegram": "missawCBFR",                                             
+   "operatorName": "Wassim",                                   
+   "github": "missawZero"                                                     
   }
+  
 ]
