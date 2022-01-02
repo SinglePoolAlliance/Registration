@@ -3931,7 +3931,7 @@
     "operatorName": "",
     "github": "rafek47"
   },
-    {
+  {
     "ticker": "OTG",
     "poolId": "c825168836c5bf850dec38567eb4771c2e03eea28658ff291df768ae",
     "social": {
@@ -3944,7 +3944,7 @@
     "telegram": "WCat13",
     "operatorName": "Wayne",
     "github": "wcatz"
-    },
+  },
   {
     "ticker": "NIMUE",
     "poolId": "68d8505aea5a000e630f904f8741c1deec9135a729e5df770fe3b659",
@@ -3957,5 +3957,19 @@
     },
     "telegram": "Tom_Nimue",
     "operatorName": "Tom"
+  },
+  {
+    "ticker": "ZPCT",
+    "poolId": "d04e478446390de60b5905a0e29a57bc562c936c3620b1a1763cf0ef",
+    "social": {
+      "website": "https://zeropercentstaking.com",
+      "twitter": "",
+      "facebook": "https://www.facebook.com/zeropercentstaking",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "",
+    "operatorName": ""
+    "github": ""
   }
 ]
