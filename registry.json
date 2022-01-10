@@ -3957,5 +3957,18 @@
     },
     "telegram": "Tom_Nimue",
     "operatorName": "Tom"
+  },
+    {
+    "ticker": "FIRE",
+    "poolId": "3ef2fd2433dd22627c88a1667232e48996c96563ec57d9d1631b07a2",
+    "social": {
+      "website": "https://fire-pool.com",
+      "twitter": "FinancialRefuge",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "fire_pool",
+    "operatorName": "Sebastian"
   }
 ]
