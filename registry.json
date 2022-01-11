@@ -1,5 +1,37 @@
 [
   {
+    "ticker": "46S",
+    "poolId": "12d4d2f7a7c5b4ae10853d093257d71bd3ac6d2abccc2b65fc0bff8f",
+    "social": {
+      "website": "",
+      "discord": "",
+      "reddit": "",
+      "instagram": "",
+      "facebook": "https://fb.me/46South",
+      "youtube": "",
+      "twitter": "46south1"
+    },
+    "telegram": "CSP_46S",
+    "operatorName": "",
+    "github": "snic-csp"
+  },
+  {
+    "ticker": "SIGMA",
+    "poolId": "8f1a90ce93850a4aa28273e31e52e71bb304a86f9cbb54b138808cf0",
+    "social": {
+      "website": "https://sigmastake.com",
+      "discord": "https://discord.gg/qSXXJAuu",
+      "reddit": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": "",
+      "twitter": "SigmaStake"
+    },
+    "telegram": "Andreas_SigmaStake",
+    "operatorName": "",
+    "github": "sigmastake"
+  },
+  {
     "ticker": "SWIFT",
     "poolId": "d8322d503e4b00a280693c2ce349cf17c0fdf47a5634c7ee969968b4",
     "social": {
@@ -3912,5 +3944,32 @@
     "telegram": "Kardall",
     "operatorName": "",
     "github": "kardall"
+  },
+  {
+    "ticker": "OTG",
+    "poolId": "c825168836c5bf850dec38567eb4771c2e03eea28658ff291df768ae",
+    "social": {
+      "website": "https://adamantium.online/",
+      "twitter": "OTG_WCat",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "WCat13",
+    "operatorName": "Wayne",
+    "github": "wcatz"
+    },
+  {
+    "ticker": "NIMUE",
+    "poolId": "68d8505aea5a000e630f904f8741c1deec9135a729e5df770fe3b659",
+    "social": {
+      "website": "https://nimuepool.io",
+      "twitter": "nimuepool",
+      "facebook": "nimuepool",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Tom_Nimue",
+    "operatorName": "Tom"
   }
 ]
