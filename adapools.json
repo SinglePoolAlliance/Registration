@@ -1394,6 +1394,11 @@
         "name": "OTG"
       },
       "275": {
+        "pool_id": "d6095a71081323dbc614d974f6159c37cd5f4133c8830172f877ca51",
+        "member_since": "2021-12-26",
+        "name": "CBFR"
+      },
+      "276": {
         "pool_id": "39d143c3f49b722886983954c83ffe34ec1cb165cf1852d1a88f2f8d",
         "member_since": "2022-01-11",
         "name": "SHIOK"
