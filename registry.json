@@ -1,5 +1,21 @@
 [
   {
+    "ticker": "MBX",
+    "poolId": "26418769855d77d899fd00923bfbb0a9052a843bc0b0f7a5a94bbc73",
+    "social": {
+      "website": "MaineBlockchain.com",
+      "discord": "discord.gg/VSzKnk8xcq",
+      "reddit": "MaineResident",
+      "instagram": "MaineBlockchain",
+      "facebook": "https://www.facebook.com/defistrategies",
+      "youtube": "BlackBearCrypto",
+      "twitter": "MaineBlockchain"
+    },
+    "telegram": "jacksalamone",
+    "operatorName": "Jack Salamone",
+    "github": "jacksalamone"
+  },
+  {
     "ticker": "46S",
     "poolId": "12d4d2f7a7c5b4ae10853d093257d71bd3ac6d2abccc2b65fc0bff8f",
     "social": {
