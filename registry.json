@@ -3931,7 +3931,21 @@
     "operatorName": "",
     "github": "rafek47"
   },
-    {
+  {
+    "ticker": "DEEP",
+    "poolId": "8e8af8edf6ea15ddfd1d5103811dd34f9b4a28082517a6094107c5c0",
+    "social": {
+      "website": "https://deependpool.net/",
+      "twitter": "CardanoDeepEnd",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Kardall",
+    "operatorName": "",
+    "github": "kardall"
+  },
+  {
     "ticker": "OTG",
     "poolId": "c825168836c5bf850dec38567eb4771c2e03eea28658ff291df768ae",
     "social": {
