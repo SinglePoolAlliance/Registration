@@ -4003,6 +4003,20 @@
     "operatorName": "Tom"
   },
   {
+   "ticker": "FIRE",
+   "poolId": "3ef2fd2433dd22627c88a1667232e48996c96563ec57d9d1631b07a2",
+   "social": {
+     "website": "https://fire-pool.com",
+     "twitter": "FinancialRefuge",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "sniemeyer",
+   "operatorName": "Sebastian",
+   "github": "sephirot1024"
+  },
+  {
    "ticker": "CBFR",                                                      
    "poolId": "d6095a71081323dbc614d974f6159c37cd5f4133c8830172f877ca51",  
    "social": {                                                            
