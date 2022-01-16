@@ -1,5 +1,21 @@
 [
   {
+    "ticker": "DYNO",
+    "poolId": "4ebf3e184e2bf7b6c4a5998126088432369ade380fa5a08690f1b618",
+    "social": {
+      "website": "dynopool.com",
+      "discord": "smitty#0025",
+      "reddit": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": "",
+      "twitter": "dynopool"
+    },
+    "telegram": "dynopool",
+    "operatorName": "Smitty",
+    "github": "dynopool"
+  },
+  {
     "ticker": "MBX",
     "poolId": "26418769855d77d899fd00923bfbb0a9052a843bc0b0f7a5a94bbc73",
     "social": {
