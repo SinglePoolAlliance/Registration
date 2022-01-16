@@ -4029,6 +4029,19 @@
    "telegram": "missawCBFR",                                             
    "operatorName": "Wassim",                                   
    "github": "missawZero"                                                     
+  },
+  {
+   "ticker": "HAPPY",
+   "poolId": "86d3b37680b0b5d91717d782774640823d85a0f64b4b2881de1ded86",
+   "social": {
+     "website": "https://happyraspberrypool.com",
+     "twitter": "HappyADApool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+   },
+   "telegram": "HappyRaspberry",
+   "operatorName": "Patrik",
+   "github": "kolesarp1"
   }
-  
 ]
