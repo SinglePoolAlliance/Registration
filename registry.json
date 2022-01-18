@@ -4044,4 +4044,21 @@
    "operatorName": "Patrik",
    "github": "kolesarp1"
   }
+],
+  {
+    "ticker": "MBCG",
+    "poolId": "28e52e9155c89591201620193eeb8ec53832fd753950e60d9e666993",
+    "social": {
+      "website": "https://www.mbcg.io/",
+      "discord": "",
+      "reddit": "https://www.reddit.com/user/Mirai_MBCG_io",
+      "instagram": "",
+      "facebook": "",
+      "youtube": "https://www.youtube.com/channel/UCF4w_vREANNCjbc7fklfa7Q",
+      "twitter": ""
+    },
+   "telegram": "MBCGPOOL",
+   "operatorName": "Aaron Resnikoff",
+   "github": "AaronRez"
+  }
 ]
