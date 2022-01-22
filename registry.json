@@ -4043,5 +4043,21 @@
    "telegram": "HappyRaspberry",
    "operatorName": "Patrik",
    "github": "kolesarp1"
+  },
+  {
+    "ticker": "BOBA",
+    "poolId": "6b3d0a2675d95b9c9e7861a97b2d3b84cdaea08dbcfc538d2d04ba2e",
+    "social": {
+      "website": "https://boba-pool.com",
+      "discord": "",
+      "reddit": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": "",
+      "twitter": "BOBA_Stakepool"
+    },
+    "telegram": "Jon [BOBA] Pool",
+    "operatorName": "Jon",
+    "github": "jon-BOBA"
   }
 ]
