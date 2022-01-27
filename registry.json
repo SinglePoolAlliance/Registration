@@ -4043,5 +4043,19 @@
    "telegram": "HappyRaspberry",
    "operatorName": "Patrik",
    "github": "kolesarp1"
+  },
+  {
+   "ticker": "ITZA",
+   "poolId": "c29dd3c55a4f3f3b02aae6463ef8e1e66a70b5d000f8a6dc3430ef04",
+   "social": {
+     "website": "https://latinstakepools.com/",
+     "twitter": "LatinStakePools",
+      "facebook": "",
+      "instagram": "LatinStakePools",
+      "youtube": "https://www.youtube.com/c/LatinStakePools"
+   },
+   "telegram": "LatinStakePools",
+   "operatorName": "Martin",
+   "github": "LatinStakePools"
   }
 ]
