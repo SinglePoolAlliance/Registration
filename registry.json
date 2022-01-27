@@ -4043,5 +4043,19 @@
    "telegram": "HappyRaspberry",
    "operatorName": "Patrik",
    "github": "kolesarp1"
-  }
+  },
+    {
+   "ticker": "PFL01",
+   "poolId": "24bfb62716d755bbf035fcb3f7e87a8d325fde0f04062e692aff3216",
+   "social": {
+     "website": "https://poolforlovelace.me/",
+     "twitter": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+   },
+   "telegram": "PFL01",
+   "operatorName": "",
+   "github": ""
+  }  
 ]
