@@ -4043,5 +4043,19 @@
    "telegram": "HappyRaspberry",
    "operatorName": "Patrik",
    "github": "kolesarp1"
+  },
+  {
+   "ticker": "GOADA",
+   "poolId": "a0a4ff7435e58f9435760cb950371671cec3dd094e439745c8f75fe3",
+   "social": {
+     "website": "https://goada.net",
+     "twitter": "goadacsp",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+   },
+   "telegram": "goada_cardano",
+   "operatorName": "Andrea",
+   "github": "andreabravetti"
   }
 ]
