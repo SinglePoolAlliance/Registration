@@ -1,4 +1,20 @@
 [
+  }
+  "ticker": "ARRK",
+    "poolId": "3ed1b022f921fa2d37894e3592ac2271a00e25ef706df7c86743006e",
+    "social": {
+      "website": "Arkk.live.com",
+      "discord": "jacobneider#2276",
+      "reddit": "",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/groups/3441682422536641",
+      "youtube": "BlackBearCrypto",
+      "twitter": "MaineBlockchain"
+    },
+    "telegram": "@arrkpool",
+    "operatorName": "Jacob Neider",
+    "github": "https://github.com/jacobneider"
+  },
   {
     "ticker": "MBX",
     "poolId": "26418769855d77d899fd00923bfbb0a9052a843bc0b0f7a5a94bbc73",
