@@ -128,6 +128,20 @@
     "github": "CuratorStone"
   },
   {
+    "ticker": "CCYT",
+    "poolId": "4a4e69f422ffe7f75e22cb05658372351b702b8630ab9a9a7c3f8e60",
+    "social": {
+      "website": "https://crypto-catalyst.com/",
+      "twitter": "CryptoCatalyst0",
+      "facebook": " ",
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "cryptocatalyst0",
+    "operatorName": "HT-Moh",
+    "github": "HT-Moh"
+  },
+  {
     "ticker": "WAT",
     "poolId": "ee92ba5963b30f6fcfad5f338d5b8ab5e0ba028c5af5ed877d7a9893",
     "social": {
