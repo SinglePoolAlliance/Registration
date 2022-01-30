@@ -4043,5 +4043,19 @@
    "telegram": "HappyRaspberry",
    "operatorName": "Patrik",
    "github": "kolesarp1"
+  },
+  {
+  "ticker": "SOCK",
+   "poolId": "564e6152a892f02d3456bf3a5e00ad0aa3806369d1b152a8abae435b",
+   "social": {
+     "website": "https://sockstake.io",
+     "twitter": "ADAPoolSock",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+   },
+   "telegram": "SockStakeAdaPool",
+   "operatorName": "Martin",
+   "github": "mruizh"
   }
 ]
