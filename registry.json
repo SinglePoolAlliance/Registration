@@ -4043,5 +4043,19 @@
    "telegram": "HappyRaspberry",
    "operatorName": "Patrik",
    "github": "kolesarp1"
+  },
+  {
+   "ticker": "EZPZ",
+   "poolId": "dc3852b69aacfec0fc276e1971f03fa37984fc40b57fb97441c38f3e",
+   "social": {
+     "website": "https://ezpz-sandbox.mxapps.io",
+     "twitter": "EazyPeazyPool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+   },
+   "telegram": "Hunter Koppen",
+   "operatorName": "Hunter Koppen",
+   "github": ""
   }
 ]
