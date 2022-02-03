@@ -1,4 +1,20 @@
 [
+    {
+    "ticker": "GETI",
+    "poolId": "46a1e410fab850127d532108d8c00c81c407b25cc5608baaa541c62f",
+    "social": {
+      "website": "www.geldtiger.at",
+      "discord": "",
+      "reddit": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": "",
+      "twitter": "geldtiger"
+    },
+    "telegram": "Labor1893",
+    "operatorName": "Geldtiger",
+    "github": "labor1983"
+  },
   {
     "ticker": "MBX",
     "poolId": "26418769855d77d899fd00923bfbb0a9052a843bc0b0f7a5a94bbc73",
