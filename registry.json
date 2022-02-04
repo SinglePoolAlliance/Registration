@@ -4075,6 +4075,20 @@
    "github": "kolesarp1"
   },
   {
+   "ticker": "ITZA",
+   "poolId": "c29dd3c55a4f3f3b02aae6463ef8e1e66a70b5d000f8a6dc3430ef04",
+   "social": {
+     "website": "https://latinstakepools.com/",
+     "twitter": "LatinStakePools",
+      "facebook": "",
+      "instagram": "LatinStakePools",
+      "youtube": "https://www.youtube.com/c/LatinStakePools"
+   },
+   "telegram": "LatinStakePools",
+   "operatorName": "Martin",
+   "github": "LatinStakePools"
+  },
+  {
    "ticker": "LECK",
    "poolId": "61a8252b7fb1a2fde1bda9c6bd0927995701f799e7fac8227c61ab4e",
    "social": {
