@@ -1429,11 +1429,16 @@
         "name": "LECK"
       },
       "282": {
+        "pool_id": "c29dd3c55a4f3f3b02aae6463ef8e1e66a70b5d000f8a6dc3430ef04",
+        "member_since": "2022-01-27",
+        "name": "ITZA"
+      },
+      "283": {
         "pool_id": "d6095a71081323dbc614d974f6159c37cd5f4133c8830172f877ca51",
         "member_since": "2022-02-01",
         "name": "CBFR"
       },
-      "283": {
+      "284": {
         "pool_id": "5dc1f763f14baaabc8d14aa9c0717e8d4662e4d16b2e10095d7ec78b",
         "member_since": "2022-02-01",
         "name": "GLOW"
