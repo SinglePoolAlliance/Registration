@@ -4003,6 +4003,20 @@
     "operatorName": "Tom"
   },
   {
+    "ticker": "ZPCT",
+    "poolId": "d04e478446390de60b5905a0e29a57bc562c936c3620b1a1763cf0ef",
+    "social": {
+      "website": "https://zeropercentstaking.com",
+      "twitter": "",
+      "facebook": "https://www.facebook.com/zeropercentstaking",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Wonkatron",
+    "operatorName": "",
+    "github": ""
+  },
+  {
    "ticker": "FIRE",
    "poolId": "3ef2fd2433dd22627c88a1667232e48996c96563ec57d9d1631b07a2",
    "social": {
