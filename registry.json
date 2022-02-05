@@ -4107,6 +4107,22 @@
    "github": "kolesarp1"
   },
   {
+    "ticker": "BOBA",
+    "poolId": "6b3d0a2675d95b9c9e7861a97b2d3b84cdaea08dbcfc538d2d04ba2e",
+    "social": {
+      "website": "https://boba-pool.com",
+      "discord": "",
+      "reddit": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": "",
+      "twitter": "BOBA_Stakepool"
+    },
+    "telegram": "BOBA_Stakepool",
+    "operatorName": "Jon",
+    "github": "jon-BOBA"
+  },
+  {
    "ticker": "GOADA",
    "poolId": "a0a4ff7435e58f9435760cb950371671cec3dd094e439745c8f75fe3",
    "social": {
