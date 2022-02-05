@@ -1,5 +1,21 @@
 [
-    {
+   {
+    "ticker": "ARRK",
+    "poolId": "3ed1b022f921fa2d37894e3592ac2271a00e25ef706df7c86743006e",
+    "social": {
+      "website": "arrk.live.com",
+      "discord": "jacobneider#2276",
+      "reddit": "",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/groups/3441682422536641",
+      "youtube": "https://tinyurl.com/2p98ne3b",
+      "twitter": "jacob_neider"
+  },
+    "telegram": "arrkpool",
+    "operatorName": "Jacob Neider",
+    "github": "https://github.com/jacobneider"
+   },
+   {
     "ticker": "GETI",
     "poolId": "46a1e410fab850127d532108d8c00c81c407b25cc5608baaa541c62f",
     "social": {
@@ -34,7 +50,7 @@
   {
     "ticker": "MBX",
     "poolId": "26418769855d77d899fd00923bfbb0a9052a843bc0b0f7a5a94bbc73",
-    "social": {
+    "social": {  
       "website": "MaineBlockchain.com",
       "discord": "discord.gg/VSzKnk8xcq",
       "reddit": "MaineResident",
@@ -42,7 +58,7 @@
       "facebook": "https://www.facebook.com/defistrategies",
       "youtube": "BlackBearCrypto",
       "twitter": "MaineBlockchain"
-    },
+  },
     "telegram": "jacksalamone",
     "operatorName": "Jack Salamone",
     "github": "jacksalamone"
