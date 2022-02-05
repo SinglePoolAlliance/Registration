@@ -4107,6 +4107,20 @@
    "github": "kolesarp1"
   },
   {
+   "ticker": "GOADA",
+   "poolId": "a0a4ff7435e58f9435760cb950371671cec3dd094e439745c8f75fe3",
+   "social": {
+     "website": "https://goada.net",
+     "twitter": "goadacsp",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "brand5",
+   "operatorName": "Andrea",
+   "github": "goadacsp"
+  },
+  {
     "ticker": "SHOCK",
     "poolId": "a652c8a4772557c586aaa2b735a50c51c9f833d7835bc74f3b232d62",
     "social": {
@@ -4154,9 +4168,9 @@
    "social": {
      "website": "https://www.glowstake.com/",
      "twitter": "GlowStake",
-      "facebook": "",
-      "instagram": "",
-      "youtube": ""
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
    },
    "telegram": "xbglowx",
    "operatorName": "Brian",
