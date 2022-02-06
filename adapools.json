@@ -1467,6 +1467,11 @@
         "pool_id": "46a1e410fab850127d532108d8c00c81c407b25cc5608baaa541c62f",
         "member_since": "2022-02-03",
         "name": "GETI"
+      },
+      "290": {
+        "pool_id": "fab24ffce0611c290e10211cac009b1366ae1cece4a1c57d110ddfa1",
+        "member_since": "2022-02-06",
+        "name": "CLYDE"
       }
     }
   }
