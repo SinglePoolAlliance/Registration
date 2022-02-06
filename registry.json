@@ -15,6 +15,22 @@
     "operatorName": "Jacob Neider",
     "github": "https://github.com/jacobneider"
    },
+     {
+    "ticker": "CLYDE",
+    "poolId": "fab24ffce0611c290e10211cac009b1366ae1cece4a1c57d110ddfa1",
+    "social": {
+      "website": "https://spo.clydedev.com",
+      "discord": "",
+      "reddit": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": "",
+      "twitter": "phrankerCO"
+    },
+    "telegram": "phrankerCO",
+    "operatorName": "phrankerCO",
+    "github": "phrankerCO"
+  },    
    {
     "ticker": "GETI",
     "poolId": "46a1e410fab850127d532108d8c00c81c407b25cc5608baaa541c62f",
