@@ -1,4 +1,18 @@
 [
+  {
+    "ticker": "PIADA",                                                       
+    "poolId": "b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65",  
+    "social": {
+      "website": "https://tinyurl.com/3n6ftstn",                                                            
+      "twitter": "Piada_stakePool",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "eastpiada",                                             
+    "operatorName": "Tony",                                   
+    "github": "eastpiada"                                                     
+   },
    {
     "ticker": "ARRK",
     "poolId": "3ed1b022f921fa2d37894e3592ac2271a00e25ef706df7c86743006e",
