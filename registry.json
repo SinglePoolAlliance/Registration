@@ -1,5 +1,21 @@
 [
    {
+    "ticker": "WELL",
+    "poolId": "188d429c9e1b559b3ed53529ec4cc948d72e4a8f2e5849523bb789d9",
+    "social": {
+      "website": "blockswell.com",
+      "discord": "BlocksWell#5551",
+      "reddit": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": "",
+      "twitter": "stakingwell"
+  },
+   "telegram": "stakingwell",
+    "operatorName": "",
+    "github": "blockswell"
+   },
+     {
     "ticker": "ARRK",
     "poolId": "3ed1b022f921fa2d37894e3592ac2271a00e25ef706df7c86743006e",
     "social": {
