@@ -4207,5 +4207,19 @@
    "telegram": "xbglowx",
    "operatorName": "Brian",
    "github": "xbglowx"
+  },
+  {
+   "ticker": "RENEW",
+   "poolId": "559a8f376d4ddeb2df64ac42cfc4e95f28d6042499f4e45b15900f4a",
+   "social": {
+     "website": "https://renewpool.ch",
+     "twitter": "RenewPool",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "LukeRENEW",
+   "operatorName": "Luke",
+   "github": "RenewPool"
   }
 ]
