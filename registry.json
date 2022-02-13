@@ -4207,5 +4207,19 @@
    "telegram": "xbglowx",
    "operatorName": "Brian",
    "github": "xbglowx"
-  }
+  },
+  {
+    "ticker": "HEART",
+    "poolId": "f8b811d63ef2ac9e19eff41ab7a99f37b82da701f8ddb34d6d12cdb7",
+    "social": {
+      "website": "https://adaheartpool.com/",
+      "twitter": "adaheartpool",
+      "facebook": "https://www.facebook.com/adaheartpool",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "rjmcoin",
+    "operatorName": "",
+    "github": "rjmcoin"
+  },
 ]
