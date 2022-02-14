@@ -4207,5 +4207,19 @@
    "telegram": "xbglowx",
    "operatorName": "Brian",
    "github": "xbglowx"
+  },
+  {
+   "ticker": "CSP",
+   "poolId": "693cb17b244a81dfaa589c2a076ea604e35462a3915a28d6c98685c9",
+   "social": {
+     "website": "https://capitalstakepool.info",
+     "twitter": "@csp_antonio",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "@AC8998",
+   "operatorName": "Antonio",
+   "github": "A-Caccese"
   }
 ]
