@@ -4207,5 +4207,18 @@
    "telegram": "xbglowx",
    "operatorName": "Brian",
    "github": "xbglowx"
-  }
+  },
+  {
+  "ticker": "ADRIA",                                                       
+  "poolId": "764bcdf4629bffa904fbc6ca7228ff37382c70620cbed9c9cb436e87",  
+  "social": {                                                            
+    "twitter": "AdriaStakePool",
+    "facebook": "adriastakepool",  
+    "instagram": "adria.stakepool",
+    "youtube": "AdriaStakePool"
+  },
+  "telegram": "ADRIA_StakePoo",                                             
+  "operatorName": "",                                 
+  "github": ""                                                    
+ }
 ]
