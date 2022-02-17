@@ -4207,5 +4207,19 @@
    "telegram": "xbglowx",
    "operatorName": "Brian",
    "github": "xbglowx"
+  },
+  {
+   "ticker": "STKCH",
+   "poolId": "7a173fdf2ceee8a24ddc173be6810cf3259a80fe02a8d10923921d17",
+   "social": {
+     "website": "https://cardanoadapool.wixsite.com/pvtstakepool",
+     "twitter": "STKCH9",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "Mark_STKCH",
+   "operatorName": "Mark",
+   "github": ""
   }
 ]
