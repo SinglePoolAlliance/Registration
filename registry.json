@@ -1,5 +1,17 @@
 [
    {
+    "ticker": "CHEF",
+    "poolId": "682fd73eea4d7370b6f7a781c80b1252817b23f74688cea6257471f3",
+    "social": {
+      "website": "https://chefpool.org/",
+      "discord": "CHEF#4117",
+      "reddit": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": "https://www.youtube.com/channel/UCPPZKZi5U-KGa3RQxvQyWCw",
+      "twitter": "CardanoChefPool"
+  },
+   {
     "ticker": "ARRK",
     "poolId": "3ed1b022f921fa2d37894e3592ac2271a00e25ef706df7c86743006e",
     "social": {
