@@ -1,5 +1,20 @@
 [
    {
+    "ticker": "ESG",
+    "poolId": "0089edb03016268a135babbbe8fb1f12f5789fc7718e67255bfbe570",
+    "social": {
+      "facebook": "",
+      "twitter": "ESGpool",
+      "website": "https://esgpool.co.uk",
+      "reddit": "ESGpool",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "ESGpool",
+    "operatorName": "Danny",
+    "github": "ESGpool"
+  },
+   {
     "ticker": "ARRK",
     "poolId": "3ed1b022f921fa2d37894e3592ac2271a00e25ef706df7c86743006e",
     "social": {
