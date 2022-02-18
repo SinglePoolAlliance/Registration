@@ -4284,6 +4284,20 @@
   "github": ""                                                    
  },
   {
+   "ticker": "CIEL",
+   "poolId": "88021ea76e8b0141feb976cccf0887a9a2385cc58370283c40abf06e",
+   "social": {
+     "website": "https://449sabu.github.io/",
+     "twitter": "ciel_stake_pool",
+     "facebook": "",
+     "instagram": "",
+     "youtube": "https://www.youtube.com/channel/UCogyT3gaLf5v3tXxJ1y1ZNw"
+   },
+   "telegram": "ciel_stake_pool",
+   "operatorName": "Yoshiki",
+   "github": "https://github.com/449sabu"
+  },
+  {
    "ticker": "STKCH",
    "poolId": "7a173fdf2ceee8a24ddc173be6810cf3259a80fe02a8d10923921d17",
    "social": {
