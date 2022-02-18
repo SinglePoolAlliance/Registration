@@ -1,5 +1,35 @@
 [
+  {
+    "ticker": "PIADA",                                                       
+    "poolId": "b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65",  
+    "social": {
+      "website": "https://tinyurl.com/3n6ftstn",                                                            
+      "twitter": "Piada_stakePool",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "eastpiada",                                             
+    "operatorName": "Tony",                                   
+    "github": "eastpiada"                                                     
+   },
    {
+    "ticker": "WELL",
+    "poolId": "188d429c9e1b559b3ed53529ec4cc948d72e4a8f2e5849523bb789d9",
+    "social": {
+      "website": "blockswell.com",
+      "discord": "BlocksWell#5551",
+      "reddit": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": "",
+      "twitter": "stakingwell"
+  },
+   "telegram": "stakingwell",
+    "operatorName": "",
+    "github": "blockswell"
+   },
+     {
     "ticker": "ARRK",
     "poolId": "3ed1b022f921fa2d37894e3592ac2271a00e25ef706df7c86743006e",
     "social": {
@@ -64,6 +94,22 @@
     "github": "dynopool"
   },
   {
+    "ticker": "LATIN",
+    "poolId": "e8e00995c7f3820fedf01e75a443c56e20f96ddcf9168b662ce2fdcd",
+    "social": {
+      "website": "cardanolatino.com",
+      "discord": "discord.gg/bJVVtwsd9Y",
+      "reddit": "u/CardanoLatino",
+      "instagram": "cardanolatinousa",
+      "facebook": "https://www.facebook.com/CardanoLatinoUS/",
+      "youtube": "UCOJ_TtwIG7F-mzadfkbmfGg",
+      "twitter": "CardanoLatino"
+    },
+      "telegram": "latinstakingpool",
+      "operatorName": "Jose Castro",
+      "github": "Latino_Staking_Pool"
+  },
+  {
     "ticker": "MBX",
     "poolId": "26418769855d77d899fd00923bfbb0a9052a843bc0b0f7a5a94bbc73",
     "social": {  
@@ -78,6 +124,22 @@
     "telegram": "jacksalamone",
     "operatorName": "Jack Salamone",
     "github": "jacksalamone"
+  },
+  {
+    "ticker": "CNFT",
+    "poolId": "68cc6dc773c067328a43e5e21086b515d23f8326c59035245996f34b",
+    "social": {
+      "website": "CNFTpool.com",
+      "discord": "",
+      "reddit": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": "https://www.youtube.com/channel/UCpz7w-c5CNqEyp6XW1YMkcA",
+      "twitter": "MattyForAll"
+    },
+    "telegram": "MattyForAll",
+    "operatorName": "Matty",
+    "github": "lordforall"
   },
   {
     "ticker": "46S",
@@ -4221,5 +4283,19 @@
    "telegram": "LukeRENEW",
    "operatorName": "Luke",
    "github": "RenewPool"
+  },
+  {
+   "ticker": "BeADA",
+   "poolId": "a803d6a5b213b52b38c4d7b97c934b904810c36e40a9d7260670d618",
+   "social": {
+     "website": "https://www.beadapool.com/",
+     "twitter": "BeadaPool",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "BeADApool",
+   "operatorName": "Robby",
+   "github": "robbyja"
   }
 ]
