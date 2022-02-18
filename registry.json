@@ -64,6 +64,22 @@
     "github": "dynopool"
   },
   {
+    "ticker": "LATIN",
+    "poolId": "e8e00995c7f3820fedf01e75a443c56e20f96ddcf9168b662ce2fdcd",
+    "social": {
+      "website": "cardanolatino.com",
+      "discord": "discord.gg/bJVVtwsd9Y",
+      "reddit": "u/CardanoLatino",
+      "instagram": "cardanolatinousa",
+      "facebook": "https://www.facebook.com/CardanoLatinoUS/",
+      "youtube": "UCOJ_TtwIG7F-mzadfkbmfGg",
+      "twitter": "CardanoLatino"
+    },
+      "telegram": "latinstakingpool",
+      "operatorName": "Jose Castro",
+      "github": "Latino_Staking_Pool"
+  },
+  {
     "ticker": "MBX",
     "poolId": "26418769855d77d899fd00923bfbb0a9052a843bc0b0f7a5a94bbc73",
     "social": {  
