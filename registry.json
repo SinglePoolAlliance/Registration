@@ -80,6 +80,22 @@
     "github": "jacksalamone"
   },
   {
+    "ticker": "CNFT",
+    "poolId": "68cc6dc773c067328a43e5e21086b515d23f8326c59035245996f34b",
+    "social": {
+      "website": "CNFTpool.com",
+      "discord": "",
+      "reddit": "",
+      "instagram": "",
+      "facebook": "",
+      "youtube": "https://www.youtube.com/channel/UCpz7w-c5CNqEyp6XW1YMkcA",
+      "twitter": "MattyForAll"
+    },
+    "telegram": "MattyForAll",
+    "operatorName": "Matty",
+    "github": "lordforall"
+  },
+  {
     "ticker": "46S",
     "poolId": "12d4d2f7a7c5b4ae10853d093257d71bd3ac6d2abccc2b65fc0bff8f",
     "social": {
