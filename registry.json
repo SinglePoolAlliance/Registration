@@ -4239,5 +4239,19 @@
    "telegram": "xbglowx",
    "operatorName": "Brian",
    "github": "xbglowx"
+  },
+  {
+   "ticker": "BeADA",
+   "poolId": "a803d6a5b213b52b38c4d7b97c934b904810c36e40a9d7260670d618",
+   "social": {
+     "website": "https://www.beadapool.com/",
+     "twitter": "BeadaPool",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "BeADApool",
+   "operatorName": "Robby",
+   "github": "robbyja"
   }
 ]
