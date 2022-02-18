@@ -4410,5 +4410,19 @@
    "telegram": "BeADApool",
    "operatorName": "Robby",
    "github": "robbyja"
+  },
+  {
+   "ticker": "MOON1",
+   "poolId": "8253f8a94044070ddb196884eb3e912e9b6dca9a0e3210325a09a335",
+   "social": {
+     "website": "https://lunarpool.io/",
+     "twitter": "lunarpool_io",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "lunarpool_io",
+   "operatorName": "Dusan",
+   "github": "lunarpool"
   }
 ]
