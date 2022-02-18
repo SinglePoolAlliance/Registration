@@ -4271,6 +4271,20 @@
    "github": "xbglowx"
   },
   {
+   "ticker": "CSP",
+   "poolId": "693cb17b244a81dfaa589c2a076ea604e35462a3915a28d6c98685c9",
+   "social": {
+     "website": "https://capitalstakepool.info",
+     "twitter": "csp_antonio",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "AC8998",
+   "operatorName": "Antonio",
+   "github": "A-Caccese"
+  },
+  {
    "ticker": "4WARD",
    "poolId": "b6063f0f2fa05d98132f15defed4c69c06ea61451b4ea4cea0ce1b80",
    "social": {
