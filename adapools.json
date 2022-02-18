@@ -1474,6 +1474,11 @@
         "name": "GETI"
       },
       "291": {
+        "pool_id": "e8e00995c7f3820fedf01e75a443c56e20f96ddcf9168b662ce2fdcd",
+        "member_since": "2022-02-03",
+        "name": "LATIN"
+      },
+      "292": {
         "pool_id": "fab24ffce0611c290e10211cac009b1366ae1cece4a1c57d110ddfa1",
         "member_since": "2022-02-06",
         "name": "CLYDE"
