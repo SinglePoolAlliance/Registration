@@ -4271,6 +4271,20 @@
    "github": "xbglowx"
   },
   {
+   "ticker": "STKCH",
+   "poolId": "7a173fdf2ceee8a24ddc173be6810cf3259a80fe02a8d10923921d17",
+   "social": {
+     "website": "https://cardanoadapool.wixsite.com/pvtstakepool",
+     "twitter": "STKCH9",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "Mark_STKCH",
+   "operatorName": "Mark",
+   "github": ""
+  },
+  {
    "ticker": "SPORE",
    "poolId": "d7e062ee4a829c38c7d7616af5666e79cfa6bca819a987b6a1b17ced",
    "social": {
