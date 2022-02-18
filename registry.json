@@ -4271,6 +4271,20 @@
    "github": "xbglowx"
   },
   {
+   "ticker": "RENEW",
+   "poolId": "559a8f376d4ddeb2df64ac42cfc4e95f28d6042499f4e45b15900f4a",
+   "social": {
+     "website": "https://renewpool.ch",
+     "twitter": "RenewPool",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "LukeRENEW",
+   "operatorName": "Luke",
+   "github": "RenewPool"
+  },
+  {
    "ticker": "BeADA",
    "poolId": "a803d6a5b213b52b38c4d7b97c934b904810c36e40a9d7260670d618",
    "social": {
