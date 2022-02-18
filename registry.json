@@ -4271,6 +4271,20 @@
    "github": "xbglowx"
   },
   {
+   "ticker": "4WARD",
+   "poolId": "b6063f0f2fa05d98132f15defed4c69c06ea61451b4ea4cea0ce1b80",
+   "social": {
+     "website": "https://4wardpool.swiftcryptollc.com/",
+     "twitter": "SwiftCryptoLLC",
+     "facebook": "SwiftCryptoLLC",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "SwiftCryptoLLC",
+   "operatorName": "Steven Fisher",
+   "github": "SwiftCryptoLLC"
+   },
+   {
     "ticker": "HEART",
     "poolId": "f8b811d63ef2ac9e19eff41ab7a99f37b82da701f8ddb34d6d12cdb7",
     "social": {
