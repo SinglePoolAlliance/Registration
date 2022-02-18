@@ -4271,6 +4271,20 @@
    "github": "xbglowx"
   },
   {
+    "ticker": "HEART",
+    "poolId": "f8b811d63ef2ac9e19eff41ab7a99f37b82da701f8ddb34d6d12cdb7",
+    "social": {
+      "website": "https://adaheartpool.com/",
+      "twitter": "adaheartpool",
+      "facebook": "https://www.facebook.com/adaheartpool",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "rjmcoin",
+    "operatorName": "",
+    "github": "rjmcoin"
+  },
+  {
    "ticker": "RENEW",
    "poolId": "559a8f376d4ddeb2df64ac42cfc4e95f28d6042499f4e45b15900f4a",
    "social": {
