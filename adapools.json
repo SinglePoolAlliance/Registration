@@ -1517,6 +1517,11 @@
         "pool_id": "f8b811d63ef2ac9e19eff41ab7a99f37b82da701f8ddb34d6d12cdb7",
         "member_since": "2022-02-13",
         "name": "HEART"
+      },
+      "300": {
+        "pool_id": "d7e062ee4a829c38c7d7616af5666e79cfa6bca819a987b6a1b17ced",
+        "member_since": "2022-02-14",
+        "name": "SPORE"
       }
     }
   }
