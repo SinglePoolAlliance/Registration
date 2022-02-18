@@ -4271,6 +4271,19 @@
    "github": "xbglowx"
   },
   {
+  "ticker": "ADRIA",                                                       
+  "poolId": "764bcdf4629bffa904fbc6ca7228ff37382c70620cbed9c9cb436e87",  
+  "social": {                                                            
+    "twitter": "AdriaStakePool",
+    "facebook": "adriastakepool",  
+    "instagram": "adria.stakepool",
+    "youtube": "AdriaStakePool"
+  },
+  "telegram": "ADRIA_StakePool",                                             
+  "operatorName": "",                                 
+  "github": ""                                                    
+ },
+  {
    "ticker": "CIEL",
    "poolId": "88021ea76e8b0141feb976cccf0887a9a2385cc58370283c40abf06e",
    "social": {
