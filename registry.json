@@ -4271,6 +4271,21 @@
    "github": "xbglowx"
   },
   {
+   "ticker": "SPORE",
+   "poolId": "d7e062ee4a829c38c7d7616af5666e79cfa6bca819a987b6a1b17ced",
+   "social": {
+     "website": "https://www.sporepool.com/",
+     "twitter": "sporepool",
+     "reddit": "sporepool",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "sporepool",
+   "operatorName": "",
+   "github": "sporepool"
+  },
+  {
    "ticker": "CSP",
    "poolId": "693cb17b244a81dfaa589c2a076ea604e35462a3915a28d6c98685c9",
    "social": {
