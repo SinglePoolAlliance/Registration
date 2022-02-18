@@ -1497,6 +1497,11 @@
         "pool_id": "188d429c9e1b559b3ed53529ec4cc948d72e4a8f2e5849523bb789d9",
         "member_since": "2022-02-09",
         "name": "WELL"
+      },
+      "296": {
+        "pool_id": "559a8f376d4ddeb2df64ac42cfc4e95f28d6042499f4e45b15900f4a",
+        "member_since": "2022-02-12",
+        "name": "RENEW"
       }
     }
   }
