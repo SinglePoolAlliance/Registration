@@ -4425,5 +4425,20 @@
    "telegram": "lunarpool_io",
    "operatorName": "Dusan",
    "github": "lunarpool"
+  }.
+  {
+   "ticker": "BLU",
+   "poolId": "b9147445047312aa139a331390bba715eebb58f1b66c96e660e48986",
+   "social": {
+     "website": "https://www.adablue.io/",
+     "twitter": "ada_blu_",
+     "discord": "",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "",
+   "operatorName": "Nico",
+   "github": "NicoMorgan"
   }
 ]
