@@ -4454,5 +4454,20 @@
    "telegram": "saganpool",
    "operatorName": "John",
    "github": ""
+  },
+  {
+   "ticker": "DOLCA",
+   "poolId": "550f5dc96814537404c7544175d348262699e448d74005dfa26540d3",
+   "social": {
+     "website": "https://www.dolcapool.eu/",
+     "twitter": "dolcapool",
+     "discord": "",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "drastys",
+   "operatorName": "Tomas",
+   "github": ""
   }
 ]
