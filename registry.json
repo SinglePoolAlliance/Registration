@@ -4454,5 +4454,20 @@
    "telegram": "saganpool",
    "operatorName": "John",
    "github": ""
+  },
+  {
+   "ticker": "CBITS",
+   "poolId": "6782865c91a230fb379a433a0630a68a9adcdca9e518ad73302ef805",
+   "social": {
+     "website": "https://cardanobits-pool.com/",
+     "twitter": "https://twitter.com/MavidDuster",
+     "discord": "https://t.co/iWEbWJKlls",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "https://t.me/cardanobitsofficial",
+   "operatorName": "David and Emre",
+   "github": ""
   }
 ]
