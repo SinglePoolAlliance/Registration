@@ -4439,5 +4439,20 @@
    "telegram": "lunarpool_io",
    "operatorName": "Dusan",
    "github": "lunarpool"
+  },
+  {
+   "ticker": "SAGAN",
+   "poolId": "387c1f515894d2511d1e791161e69882ddb427ab1701b7af719a8c9f",
+   "social": {
+     "website": "https://www.saganpool.com/",
+     "twitter": "SaganPool",
+     "discord": "",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "saganpool",
+   "operatorName": "John",
+   "github": ""
   }
 ]
