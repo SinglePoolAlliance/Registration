@@ -4425,5 +4425,20 @@
    "telegram": "lunarpool_io",
    "operatorName": "Dusan",
    "github": "lunarpool"
+  },
+  {
+   "ticker": "ARC",
+   "poolId": "2fd4c1782db3cb6a97f910ca2c6f15914e2c45f75f1ca1cc168e319c",
+   "social": {
+     "website": "https://adareactor.com/",
+     "twitter": "ADAreactor",
+     "reddit": "ADAreactor",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "adareactor_chat",
+   "operatorName": "",
+   "github": ""
   }
 ]
