@@ -4150,64 +4150,6 @@
     "github": "rjmcoin"
   },
   {
-   "ticker": "RENEW",
-   "poolId": "559a8f376d4ddeb2df64ac42cfc4e95f28d6042499f4e45b15900f4a",
-   "social": {
-     "website": "https://renewpool.ch",
-     "twitter": "RenewPool",
-     "facebook": "",
-     "instagram": "",
-     "youtube": ""
-   },
-   "telegram": "LukeRENEW",
-   "operatorName": "Luke",
-   "github": "RenewPool"
-  },
-  {
-   "ticker": "BeADA",
-   "poolId": "a803d6a5b213b52b38c4d7b97c934b904810c36e40a9d7260670d618",
-   "social": {
-     "website": "https://www.beadapool.com/",
-     "twitter": "BeadaPool",
-     "facebook": "",
-     "instagram": "",
-     "youtube": ""
-   },
-   "telegram": "BeADApool",
-   "operatorName": "Robby",
-   "github": "robbyja"
-  },
-  {
-   "ticker": "MOON1",
-   "poolId": "8253f8a94044070ddb196884eb3e912e9b6dca9a0e3210325a09a335",
-   "social": {
-     "website": "https://lunarpool.io/",
-     "twitter": "lunarpool_io",
-     "discord": "lunarpool.io#7408",
-     "facebook": "",
-     "instagram": "",
-     "youtube": ""
-   },
-   "telegram": "lunarpool_io",
-   "operatorName": "Dusan",
-   "github": "lunarpool"
-  },
-  {
-   "ticker": "SAGAN",
-   "poolId": "387c1f515894d2511d1e791161e69882ddb427ab1701b7af719a8c9f",
-   "social": {
-     "website": "https://www.saganpool.com/",
-     "twitter": "SaganPool",
-     "discord": "",
-     "facebook": "",
-     "instagram": "",
-     "youtube": ""
-   },
-   "telegram": "saganpool",
-   "operatorName": "John",
-   "github": ""
-  },
-  {
    "ticker": "DOLCA",
    "poolId": "550f5dc96814537404c7544175d348262699e448d74005dfa26540d3",
    "social": {
