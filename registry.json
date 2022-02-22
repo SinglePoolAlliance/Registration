@@ -4221,5 +4221,15 @@
     "telegram": "saganpool",
     "operatorName": "John",
     "github": ""
-  }
+  },
+  {
+   "ticker": "DOT5",
+    "poolId": "1ed9bb5ed9e686c0ae6bfbcd8f61f7189b56c77d1ec42eb2b3465323",
+    "social": {
+      "website": "http://dot5stakepool.com/",
+      "twitter": "dot5pool",
+      "discord": "Juan | Pool -> DOT5#5823",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCymLA4uOxFQkXCM4mL96gxQ"
 ]
