@@ -4221,5 +4221,20 @@
     "telegram": "saganpool",
     "operatorName": "John",
     "github": ""
+  },
+  {
+    "ticker": "QCPOL",
+    "poolId": "c2b8bff5160dd75149f2cae0955698550e8cf0d390025b26a9508a3e",
+    "social": {
+      "website": "https://qcpol.stakepool.quebec/",
+      "twitter": "QCPOLstakepool",
+      "discord": "",
+      "facebook": "QCPOLstakepool",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "jrmzor",
+    "operatorName": "Jerome / Simon",
+    "github": ""
   }
 ]
