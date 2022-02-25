@@ -4221,5 +4221,20 @@
     "telegram": "saganpool",
     "operatorName": "John",
     "github": ""
+  },
+  {
+    "ticker": "DEV",
+    "poolId": "ca97f539e6a878e7a7d87d762982a016ac6959d76719c8212a4a39e0",
+    "social": {
+      "website": "https://devstakepool.github.io/",
+      "twitter": "AlessioDevPool",
+      "discord": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "adf_1983",
+    "operatorName": "Alessio",
+    "github": "DevStakePool"
   }
 ]
