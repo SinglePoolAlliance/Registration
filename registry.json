@@ -1,4 +1,19 @@
-[
+[ {
+    "url_png_icon_64x64": "https://photos.google.com/photo/AF1QipND_4v5wKvI-zMj9pFzK2T2brJ5UnkDlMQmGTBZ",
+    "url_png_logo": "https://photos.google.com/photo/AF1QipND_4v5wKvI-zMj9pFzK2T2brJ5UnkDlMQmGTBZ", 
+    "ticker": "KASH",
+    "poolId": "cc7a01f31985bdbea49e87e9308a18d5318254c911f0b5289e763bd5",
+    "social": {
+      "website": "https://kashpool.io/",
+      "twitter": "",
+      "facebook": "Thorne`128",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "",
+    "operatorName": "",
+    "github": ""
+  },
   {
     "ticker": "PIADA",
     "poolId": "b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65",
