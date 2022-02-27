@@ -4322,5 +4322,19 @@
    "telegram": "steven_kenny96",
    "operatorName": "Nico",
    "github": "NicoMorgan"
+  },
+  {
+   "ticker": "NOMAD",
+   "poolId": "bbebbbf81c42de5b84fbbc82c4feab78f8bd8bcf8b5af7c73a06664a",
+   "social": {
+     "website": "https://www.nomadpool.io/",
+     "twitter": "zhekree",
+     "facebook": "",
+     "instagram": "",
+     "youtube": "zhekson"
+   },
+   "telegram": "zhekree",
+   "operatorName": "Jerry",
+   "github": "nomadpool"
   }
 ]
