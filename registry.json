@@ -4221,6 +4221,21 @@
     "telegram": "saganpool",
     "operatorName": "John",
     "github": ""
+  }, 
+  {
+    "ticker": "BIKES",
+    "poolId": "33502e7de0cc0331534210f16726b7c0c8407ca40e2ab2754dff0bd5",
+    "social": {
+      "website": "https://www.bikestake.com/",
+      "twitter": "cardanobikes",
+      "discord": "turkeyodrift #3058",
+      "facebook": "",
+      "instagram": "cardanobikes",
+      "youtube": ""
+    },
+    "telegram": "cardanobikes",
+    "operatorName": "Nate",
+    "github": ""
   },
   {
     "ticker": "QCPOL",
