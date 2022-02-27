@@ -4221,5 +4221,19 @@
     "telegram": "saganpool",
     "operatorName": "John",
     "github": ""
+  },
+  {
+   "ticker": "ARA",
+   "poolId": "aed2477a1b56db48312eb9dc98803b482e33e51fd37d23e6817051e6",
+   "social": {
+     "website": "https://ara-stakepool.com/",
+     "twitter": "arastakepool",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "gallexis",
+   "operatorName": "Allexis",
+   "github": "gallexis"
   }
 ]
