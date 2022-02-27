@@ -4324,6 +4324,21 @@
    "github": "NicoMorgan"
   },
   {
+   "ticker": "OMAHA",
+   "poolId": "a37daa8dd48bb84a3161d3b0df0d6a4161330b3cdcc400267285ad2a",
+   "social": {
+     "website": "https://omahacardanopool.com/",
+     "twitter": "omaha_pool",
+     "discord": "",
+     "facebook": "omahacardanopool",
+     "instagram": "",
+     "youtube": "https://youtu.be/4-ia7CLnuTk"
+   },
+   "telegram": "omahacardano",
+   "operatorName": "Andrew B",
+   "github": "cardsfan7189"
+  },
+  {
    "ticker": "NOMAD",
    "poolId": "bbebbbf81c42de5b84fbbc82c4feab78f8bd8bcf8b5af7c73a06664a",
    "social": {
