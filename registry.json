@@ -4223,6 +4223,21 @@
     "github": ""
   },
   {
+    "ticker": "DEV",
+    "poolId": "ca97f539e6a878e7a7d87d762982a016ac6959d76719c8212a4a39e0",
+    "social": {
+      "website": "https://devstakepool.github.io/",
+      "twitter": "AlessioDevPool",
+      "discord": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "adf_1983",
+    "operatorName": "Alessio",
+    "github": "DevStakePool"
+  },
+  {
    "ticker": "ARA",
    "poolId": "aed2477a1b56db48312eb9dc98803b482e33e51fd37d23e6817051e6",
    "social": {
