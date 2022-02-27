@@ -4235,5 +4235,20 @@
    "telegram": "gallexis",
    "operatorName": "Allexis",
    "github": "gallexis"
+  },
+  {
+   "ticker": "BLU",
+   "poolId": "b9147445047312aa139a331390bba715eebb58f1b66c96e660e48986",
+   "social": {
+     "website": "https://www.adablue.io/",
+     "twitter": "ada_blu_",
+     "discord": "",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "steven_kenny96",
+   "operatorName": "Nico",
+   "github": "NicoMorgan"
   }
 ]
