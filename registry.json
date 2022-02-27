@@ -4236,5 +4236,49 @@
     "telegram": "rambopoolada",
     "operatorName": "",
     "github": "rambopoolada"
+  },
+  {
+    "ticker": "DEV",
+    "poolId": "ca97f539e6a878e7a7d87d762982a016ac6959d76719c8212a4a39e0",
+    "social": {
+      "website": "https://devstakepool.github.io/",
+      "twitter": "AlessioDevPool",
+      "discord": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "adf_1983",
+    "operatorName": "Alessio",
+    "github": "DevStakePool"
+  },
+  {
+   "ticker": "ARA",
+   "poolId": "aed2477a1b56db48312eb9dc98803b482e33e51fd37d23e6817051e6",
+   "social": {
+     "website": "https://ara-stakepool.com/",
+     "twitter": "arastakepool",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "gallexis",
+   "operatorName": "Allexis",
+   "github": "gallexis"
+  },
+  {
+   "ticker": "BLU",
+   "poolId": "b9147445047312aa139a331390bba715eebb58f1b66c96e660e48986",
+   "social": {
+     "website": "https://www.adablue.io/",
+     "twitter": "ada_blu_",
+     "discord": "",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "steven_kenny96",
+   "operatorName": "Nico",
+   "github": "NicoMorgan"
   }
 ]
