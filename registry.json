@@ -4353,17 +4353,17 @@
    "github": "nomadpool"
   },
   {
-   "ticker": "EZPZ",
-   "poolId": "dc3852b69aacfec0fc276e1971f03fa37984fc40b57fb97441c38f3e",
+   "ticker": "MPOL",
+   "poolId": "063951946e3d221231229a73c92446fdb9532d813e3b0d6144f16ece",
    "social": {
-     "website": "https://ezpz-sandbox.mxapps.io",
-     "twitter": "EazyPeazyPool",
+     "website": "https://www.mpolstake.com/",
+     "twitter": "maple_pool",
       "facebook": "",
       "instagram": "",
       "youtube": ""
    },
-   "telegram": "HunterKoppen",
-   "operatorName": "Hunter Koppen",
-   "github": ""
+   "telegram": "",
+   "operatorName": "Daniel & Miguel",
+   "github": "gopex21"
   }
 ]
