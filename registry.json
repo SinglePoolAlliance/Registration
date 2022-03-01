@@ -1,15 +1,15 @@
 [{
- "ticker": "KASH",                                                       # Mandatory
- "poolId": "cc7a01f31985bdbea49e87e9308a18d5318254c911f0b5289e763bd5",  # Mandatory
- "social": {                                                            # At least 1 Mandatory more optional
+ "ticker": "KASH",                                                       
+ "poolId": "cc7a01f31985bdbea49e87e9308a18d5318254c911f0b5289e763bd5", 
+ "social": {                                                            
    "twitter": "",
    "facebook": "KashPool22",  
    "instagram": " ",
    "youtube": " "
  },
- "telegram": "kashpool1",                                             # Mandatory Personal Telegram Handle
- "operatorName": "Robert Karash",                                   # Optional
- "github": "Thorne128"                                                     # Optional
+ "telegram": "kashpool1",                                          
+ "operatorName": "Robert Karash",                                   
+ "github": "Thorne128"                                                  
 }
   
   {
