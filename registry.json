@@ -4365,5 +4365,18 @@
    "telegram": "HunterKoppen",
    "operatorName": "Hunter Koppen",
    "github": ""
-  }
+  },
+  {
+ "ticker": "RCKSP",                                                       # Mandatory
+ "poolId": "435f7f1af165a0696f8142f8f2863f2e2e71c5cab269d264ad5b6367",  # Mandatory
+ "social": {                                                            # At least 1 Mandatory more optional
+   "twitter": "Rckstr_io",
+   "facebook": "https://rckstr.io/",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "rckstr.io [RCKSP]",                                             # Mandatory Personal Telegram Handle
+ "operatorName": "",                                   # Optional
+ "github": ""                                                     # Optional
+}
 ]
