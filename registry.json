@@ -4365,5 +4365,19 @@
    "telegram": "HunterKoppen",
    "operatorName": "Hunter Koppen",
    "github": ""
+  },
+  {
+   "ticker": "OZZY",
+   "poolId": "0e3f803915a37af7b6a121409192363e9de658524276c20c26f511ee",
+   "social": {
+     "website": "https://ozzy-pool.com",
+     "twitter": "ozzy_pool",
+     "facebook": "ADAOzzy",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "@ozzypool",
+   "operatorName": "Chris Osborne",
+   "github": "Ozzy-pool"
   }
 ]
