@@ -4365,5 +4365,19 @@
    "telegram": "HunterKoppen",
    "operatorName": "Hunter Koppen",
    "github": ""
+  },
+  {
+   "ticker": "MNSTR",
+   "poolId": "a223873b6d882d07c44bfd2baac9f5acbb09c5b886858404cb375a99",
+   "social": {
+     "website": "https://www.monster-stakepool.com",
+     "twitter": "MnstrPool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+   },
+   "telegram": "MonSterPool",
+   "operatorName": "",
+   "github": ""
   }
 ]
