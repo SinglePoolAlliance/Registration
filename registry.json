@@ -4394,6 +4394,20 @@
    "github": ""
   },
   {
+   "ticker": "BIRD",
+   "poolId": "4c15ba0f7f36b581e1ce18e095070695d96f584de0f00e41b16511bd",
+   "social": {
+     "website": "https://adaverse.com",
+     "twitter": "AdaversePools",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "adaversecom",
+   "operatorName": "Franco",
+   "github": "fangio10"
+  },
+ {
  "ticker": "FATTY",
  "poolId": "6bc5d11446acb3259f33db041f71fbcc1b22a2c0ee4d8e18391e37ad",
  "social": {
@@ -4455,9 +4469,9 @@
    "social": {
      "website": "https://www.daffytheducklingpool.com/",
      "twitter": "daffycardano",
-      "facebook": "",
-      "instagram": "",
-      "youtube": "https://www.youtube.com/channel/UCEw6aDcP2U6zuXG_TdCia5A"
+     "facebook": "",
+     "instagram": "",
+     "youtube": "https://www.youtube.com/channel/UCEw6aDcP2U6zuXG_TdCia5A"
    },
    "telegram": "jamesdaffy",
    "operatorName": "James",
