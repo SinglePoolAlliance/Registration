@@ -4365,5 +4365,19 @@
    "telegram": "HunterKoppen",
    "operatorName": "Hunter Koppen",
    "github": ""
+  },
+  {
+   "ticker": "MOJTO",
+   "poolId": "d32d813142d2f64987dc0bef23864d8f642beaea38698fd79cfd6f68",
+   "social": {
+     "website": "https://mojitopool.com",
+     "twitter": "MojitoPool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+   },
+   "telegram": "mojitostakepool",
+   "operatorName": "Esteban",
+   "github": ""
   }
 ]
