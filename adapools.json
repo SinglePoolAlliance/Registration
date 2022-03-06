@@ -1527,6 +1527,11 @@
         "pool_id": "ca97f539e6a878e7a7d87d762982a016ac6959d76719c8212a4a39e0",
         "member_since": "2022-02-25",
         "name": "DEV"
+      },
+      "302": {
+        "pool_id": "d32d813142d2f64987dc0bef23864d8f642beaea38698fd79cfd6f68",
+        "member_since": "2022-02-28",
+        "name": "MOJTO"
       }
     }
   }
