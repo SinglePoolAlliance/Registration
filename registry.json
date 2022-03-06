@@ -4394,6 +4394,20 @@
    "github": ""
   },
   {
+ "ticker": "FATTY",
+ "poolId": "6bc5d11446acb3259f33db041f71fbcc1b22a2c0ee4d8e18391e37ad",
+ "social": {
+   "website": "https://www.fatmattstaking.com",
+   "twitter": "FatMattStaking",
+   "facebook": "FatMattStaking",  
+   "instagram": " ",
+   "youtube": " "
+   },
+   "telegram": "Kyle_fat_matt_staking",
+   "operatorName": "Kyle Jones",
+   "github": "senojelyk"
+  },
+ {
    "ticker": "MNSTR",
    "poolId": "a223873b6d882d07c44bfd2baac9f5acbb09c5b886858404cb375a99",
    "social": {
