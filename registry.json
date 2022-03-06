@@ -4505,5 +4505,18 @@
    "telegram": "mojitostakepool",
    "operatorName": "Esteban",
    "github": ""
-  }
+  },
+  {
+    "ticker": "TIM1",                                                     
+    "poolId": "23daffaee011a07501e488a32b14a19759e87ba80e52de9806e0aaff",  
+    "social": {                                                            
+      "twitter": "CardanoEcoNews",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCIdNUwf_Fe0IqMuRAfh-wLw"
+    },
+    "telegram": "Timmy_CEN",                                            
+    "operatorName": "Timmy TheCat",                                 
+    "github": "cardanoeconews"                                               
+   }
 ]
