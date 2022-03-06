@@ -1542,6 +1542,26 @@
         "pool_id": "dae74e2d2c8b6add32471caeade21a22ece020be31624a3ac05fffcf",
         "member_since": "2022-03-01",
         "name": "DAFFY"
+      },
+      "305": {
+        "pool_id": "351a90a0253fb3595ccc460438b9947cd8a0b9a7f457f3478bbb31d8",
+        "member_since": "2022-03-04",
+        "name": "QXT"
+      },
+      "306": {
+        "pool_id": "e9a4c0eb587df26cb4052b0ffbf7051b302e4c7340fb7f0b3990c776",
+        "member_since": "2022-03-04",
+        "name": "OANDB"
+      },
+      "307": {
+        "pool_id": "0e3f803915a37af7b6a121409192363e9de658524276c20c26f511ee",
+        "member_since": "2022-03-04",
+        "name": "OZZY"
+      },
+      "308": {
+        "pool_id": "a223873b6d882d07c44bfd2baac9f5acbb09c5b886858404cb375a99",
+        "member_since": "2022-03-05",
+        "name": "MNSTR"
       }
     }
   }
