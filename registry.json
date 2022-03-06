@@ -4367,6 +4367,20 @@
    "github": ""
   },
   {
+   "ticker": "DAFFY",
+   "poolId": "dae74e2d2c8b6add32471caeade21a22ece020be31624a3ac05fffcf",
+   "social": {
+     "website": "https://www.daffytheducklingpool.com/",
+     "twitter": "daffycardano",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCEw6aDcP2U6zuXG_TdCia5A"
+   },
+   "telegram": "jamesdaffy",
+   "operatorName": "James",
+   "github": "https://github.com/daffyducklingpool"
+  },
+  {
    "ticker": "MOJTO",
    "poolId": "d32d813142d2f64987dc0bef23864d8f642beaea38698fd79cfd6f68",
    "social": {
