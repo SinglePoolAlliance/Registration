@@ -1532,6 +1532,11 @@
         "pool_id": "d32d813142d2f64987dc0bef23864d8f642beaea38698fd79cfd6f68",
         "member_since": "2022-02-28",
         "name": "MOJTO"
+      },
+      "303": {
+        "pool_id": "dae74e2d2c8b6add32471caeade21a22ece020be31624a3ac05fffcf",
+        "member_since": "2022-03-01",
+        "name": "DAFFY"
       }
     }
   }
