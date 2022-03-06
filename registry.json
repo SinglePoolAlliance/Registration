@@ -1,4 +1,17 @@
-[
+[{
+ "ticker": "KASH",                                                       
+ "poolId": "cc7a01f31985bdbea49e87e9308a18d5318254c911f0b5289e763bd5", 
+ "social": {                                                            
+   "twitter": "",
+   "facebook": "KashPool22",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "kashpool1",                                          
+ "operatorName": "Robert Karash",                                   
+ "github": "Thorne128"                                                  
+},
+  
   {
     "ticker": "ADAV",
     "poolId": "4be4a454d63ef9aab7b44a31440a1f85eea3ee724bd13ca07b9ff255",
