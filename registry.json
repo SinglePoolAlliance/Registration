@@ -1,4 +1,17 @@
-[
+[{
+ "ticker": "KASH",                                                       
+ "poolId": "cc7a01f31985bdbea49e87e9308a18d5318254c911f0b5289e763bd5", 
+ "social": {                                                            
+   "twitter": "",
+   "facebook": "KashPool22",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "kashpool1",                                          
+ "operatorName": "Robert Karash",                                   
+ "github": "Thorne128"                                                  
+},
+  
   {
     "ticker": "ADAV",
     "poolId": "4be4a454d63ef9aab7b44a31440a1f85eea3ee724bd13ca07b9ff255",
@@ -4379,5 +4392,47 @@
    "telegram": "OrangeAndBlue",
    "operatorName": "Leo Pierre",
    "github": ""
-  }  
+  },
+ {
+   "ticker": "OZZY",
+   "poolId": "0e3f803915a37af7b6a121409192363e9de658524276c20c26f511ee",
+   "social": {
+     "website": "https://ozzy-pool.com",
+     "twitter": "ozzy_pool",
+     "facebook": "ADAOzzy",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "ozzypool",
+   "operatorName": "Chris Osborne",
+   "github": "Ozzy-pool"
+  },
+ {
+   "ticker": "DAFFY",
+   "poolId": "dae74e2d2c8b6add32471caeade21a22ece020be31624a3ac05fffcf",
+   "social": {
+     "website": "https://www.daffytheducklingpool.com/",
+     "twitter": "daffycardano",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCEw6aDcP2U6zuXG_TdCia5A"
+   },
+   "telegram": "jamesdaffy",
+   "operatorName": "James",
+   "github": "https://github.com/daffyducklingpool"
+  },
+  {
+   "ticker": "MOJTO",
+   "poolId": "d32d813142d2f64987dc0bef23864d8f642beaea38698fd79cfd6f68",
+   "social": {
+     "website": "https://mojitopool.com",
+     "twitter": "MojitoPool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+   },
+   "telegram": "mojitostakepool",
+   "operatorName": "Esteban",
+   "github": ""
+  }
 ]
