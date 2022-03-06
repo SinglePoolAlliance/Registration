@@ -4505,5 +4505,19 @@
    "telegram": "mojitostakepool",
    "operatorName": "Esteban",
    "github": ""
+  },
+ {
+   "ticker": "GAIA",
+   "poolId": "f66a36de855d53b9d5110bd46640f48dbab1c848c9e2f5c36d8c12dc",
+   "social": {
+     "website": "https://www.gaiastakepool.com/",
+     "twitter": "GAIAstakepool",
+     "facebook": "",
+     "instagram": "gaiastakepool",
+     "youtube": "https://www.youtube.com/channel/UCeT1jeH6vzkun0IK1KVrfeQ"
+   },
+   "telegram": "GAIA_Stake_Pool",
+   "operatorName": "Brian & Lisa Lee",
+   "github": "https://github.com/BrianLee12"
   }
 ]
