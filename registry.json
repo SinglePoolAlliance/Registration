@@ -4505,5 +4505,19 @@
    "telegram": "mojitostakepool",
    "operatorName": "Esteban",
    "github": ""
+  },
+ {
+   "ticker": "MOKSH",
+   "poolId": "6539a70bb6e61540444133eab3a24288d1cd3ddc3598adde93475513",
+   "social": {
+     "website": "https://mokshpool.org",
+     "twitter": "Mokshpool",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "curmudjohn",
+   "operatorName": "John",
+   "github": "ghjk2013"
   }
 ]
