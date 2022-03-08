@@ -4533,5 +4533,19 @@
     "telegram": "CrypTopo",
     "operatorName": "Alfred",
     "github": "avilsmeier"
+  },
+   {
+    "ticker": "ADACT",
+    "poolId": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+    "social": {
+     "website": "https://adacapital.io",
+     "twitter": "ada_capital",
+     "telegram": "adacapital",
+     "youtube": "https://www.youtube.com/channel/UCnZQvrAsqteYLpmEWb418yA",
+     "medium": "ada-capital"
+    },
+    "telegram": "adacapital",
+    "operatorName": "Thomas",
+    "github": "adacapital"
   }
 ]
