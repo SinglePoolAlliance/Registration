@@ -4505,5 +4505,18 @@
    "telegram": "mojitostakepool",
    "operatorName": "Esteban",
    "github": ""
-  }
+  },
+ {
+  "ticker": "ARMN",                                                       
+  "poolId": "2a05c534817a0b97ce0c5a2354b6e35a067c52408fa70c77e0b5e378", 
+  "social": {                                                            
+    "twitter": "HarmonicPool",
+    "facebook": "",  
+    "instagram": "",
+    "youtube": ""
+  },
+  "telegram": "Michele_ARMN",                                          
+  "operatorName": "Michele",                                   
+  "github": "HarmonicPool"                                                  
+ }
 ]
