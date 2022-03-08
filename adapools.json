@@ -1579,6 +1579,11 @@
         "name": "MNSTR"
       },
       "312": {
+        "pool_id": "23daffaee011a07501e488a32b14a19759e87ba80e52de9806e0aaff",
+        "member_since": "2022-03-06",
+        "name": "TIM1"
+      },
+      "313": {
         "pool_id": "9dda57fac3474adbe8b64be48aafeff6aa31f59909231f202b642d33",
         "member_since": "2022-03-07",
         "name": "TOPO\u26a1"
