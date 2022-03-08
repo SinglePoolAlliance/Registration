@@ -4505,5 +4505,19 @@
    "telegram": "mojitostakepool",
    "operatorName": "Esteban",
    "github": ""
+  },
+  {
+   "ticker": "EQUTY",
+   "poolId": "39c6ec8fe6dd619d005f17905dde221e31cbd4aadf5eecef9c611311",
+   "social": {
+     "website": "https://oneequity-staking-pool.com/",
+     "twitter": "OneequityP",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "mister_larsen",
+   "operatorName": "Daniel",
+   "github": "One-Equity"
   }
 ]
