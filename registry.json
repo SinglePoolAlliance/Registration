@@ -4507,6 +4507,20 @@
    "github": ""
   },
   {
+   "ticker": "EQUTY",
+   "poolId": "39c6ec8fe6dd619d005f17905dde221e31cbd4aadf5eecef9c611311",
+   "social": {
+     "website": "https://oneequity-staking-pool.com/",
+     "twitter": "OneequityP",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "mister_larsen",
+   "operatorName": "Daniel",
+   "github": "One-Equity"
+  },
+ {
     "ticker": "TIM1",                                                     
     "poolId": "23daffaee011a07501e488a32b14a19759e87ba80e52de9806e0aaff",  
     "social": {                                                            
