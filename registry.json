@@ -4547,5 +4547,20 @@
     "telegram": "CrypTopo",
     "operatorName": "Alfred",
     "github": "avilsmeier"
+  },
+ {
+    "ticker": "XST",
+    "poolId": "72100e82150b95fab37f7d9e155b6c083c1de629fea1b760f894aec6",
+    "social": {
+      "facebook": "",
+      "twitter": "XystencePool",
+      "website": "https://xystence.com/",
+      "reddit": "XystencePool",
+      "instagram": "XystencePool",
+      "youtube": ""
+    },
+    "telegram": "XystencePool",
+    "operatorName": "Hampus",
+    "github": "Xystence"
   }
 ]
