@@ -4547,5 +4547,20 @@
     "telegram": "CrypTopo",
     "operatorName": "Alfred",
     "github": "avilsmeier"
+  },
+  {
+    "ticker": "OZGRN",
+    "poolId": "db8f20cf666a94c756fa3f00ef3e6655589972bdeb0a314f30c55939",
+    "social": {
+      "facebook": "",
+      "twitter": "ozgreencardano",
+      "website": "http://www.ozgreen-cardano.com/",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "ozgreencardano",
+    "operatorName": "Rick",
+    "github": "ozgreencardano"
   }
 ]
