@@ -4562,5 +4562,19 @@
     "telegram": "XystencePool",
     "operatorName": "Hampus",
     "github": "Xystence"
-  }
+  },
+ {
+    "ticker": "RCADA",                                                       
+    "poolId": "09d4cd832d9c3bf96551d86622f2205947c978a6e1e3b1e827596297", 
+    "social": {                                                            
+      "twitter": "RcadaPool",
+      "website": "https://www.stake-cardano-pool.com",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "RCADA_Stake_ADA_Pool",                                          
+    "operatorName": "Rick Carstens",                                   
+    "github": "Brolloks" 
+ }
 ]
