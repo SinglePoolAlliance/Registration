@@ -4247,5 +4247,18 @@
     "telegram": "EarnCoinPool",
     "operatorName": "Rich",
     "github": ""
+  },
+  {
+    "ticker": "one",
+    "poolId": "3805681d8d4bc9c7f298c24fdeca3406849e2db84a0708718d96d0b2",
+    "social": {
+      "website": "https://red-sky.one",
+      "twitter": "EnigmA_SPO",
+      "discord": "https://discord.gg/trhq94BMcE",
+      "youtube": ""
+    },
+    "telegram": "EnigmApool",
+    "operatorName": "Eme Jay",
+    "github": ""
   }
 ]
