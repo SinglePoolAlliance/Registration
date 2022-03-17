@@ -4562,5 +4562,14 @@
     "telegram": "XystencePool",
     "operatorName": "Hampus",
     "github": "Xystence"
+  },
+ {
+    "ticker": "HUNNY",
+    "poolId": "ff5eb7a210b3b322271da7f17753a06d107bda666f34be10017ad723",
+    "social": {
+      "twitter": "kurokuma_hunny",
+      "website": "https://www.hunny-pool.com/"
+    },
+    "telegram": "hunny_8"
   }
 ]
