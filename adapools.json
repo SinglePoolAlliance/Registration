@@ -1592,6 +1592,11 @@
         "pool_id": "39c6ec8fe6dd619d005f17905dde221e31cbd4aadf5eecef9c611311",
         "member_since": "2022-03-08",
         "name": "EQUTY"
+      },
+      "315": {
+        "pool_id": "72100e82150b95fab37f7d9e155b6c083c1de629fea1b760f894aec6",
+        "member_since": "2022-03-08",
+        "name": "XST"
       }
     }
   }
