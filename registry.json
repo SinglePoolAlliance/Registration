@@ -4562,5 +4562,19 @@
     "telegram": "XystencePool",
     "operatorName": "Hampus",
     "github": "Xystence"
-  }
+  },
+ {
+ "ticker": "FLY",                                                       
+ "poolId": "99948f34582bf9cafb27b05f4f0e8541c5480b4c79bda74037398380",  
+ "social": {                                                            
+   "twitter": "FlyCardano",
+   "website": "https://flycardano.com/",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "flycardano",
+ "operatorName": "",                                  
+ "github": ""                                               
+}
 ]
