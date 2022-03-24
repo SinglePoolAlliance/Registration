@@ -4562,5 +4562,19 @@
     "telegram": "XystencePool",
     "operatorName": "Hampus",
     "github": "Xystence"
-  }
+  },
+ {
+    "ticker": "HEPHY",
+    "poolId": "f4ebee070198a0db41e46d5e59a7c582357013d15b907f65ad75d55e",
+    "social": {
+      "website": "https://hephy.io",
+      "twitter": "HephyPool",
+      "facebook": " ",
+      "instagram": "hephypool",
+      "youtube": " "
+    },
+    "telegram": "HephyPool",
+    "operatorName": "Ian",
+    "github": "hephy-io"
+ }
 ]
