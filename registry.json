@@ -4562,5 +4562,20 @@
     "telegram": "XystencePool",
     "operatorName": "Hampus",
     "github": "Xystence"
+  },
+  {
+    "ticker": "ASTRA",
+    "poolId": "032f086ac6dafeaf4c75e21840f49762ebdab05ff9c25c41a8530e0f",
+    "social": {
+      "facebook": "astra.stakepool",
+      "twitter": "AstraStake",
+      "website": "https://www.astra-pool.com/",
+      "reddit": "Ad_Astra_Stake_Pool",
+      "instagram": "AstraStake",
+      "youtube": "AdAstraStakePool"
+    },
+    "telegram": "astrastake",
+    "operatorName": "Andrew",
+    "github": ""
   }
 ]
