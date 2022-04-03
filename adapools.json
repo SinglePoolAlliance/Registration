@@ -1579,24 +1579,54 @@
         "name": "MNSTR"
       },
       "312": {
+        "pool_id": "f66a36de855d53b9d5110bd46640f48dbab1c848c9e2f5c36d8c12dc",
+        "member_since": "2022-03-06",
+        "name": "GAIA"
+      },
+      "313": {
+        "pool_id": "2a05c534817a0b97ce0c5a2354b6e35a067c52408fa70c77e0b5e378",
+        "member_since": "2022-03-06",
+        "name": "ARMN"
+      },
+      "314": {
         "pool_id": "23daffaee011a07501e488a32b14a19759e87ba80e52de9806e0aaff",
         "member_since": "2022-03-06",
         "name": "TIM1"
       },
-      "313": {
+      "315": {
+        "pool_id": "6539a70bb6e61540444133eab3a24288d1cd3ddc3598adde93475513",
+        "member_since": "2022-03-07",
+        "name": "MOKSH"
+      },
+      "316": {
         "pool_id": "9dda57fac3474adbe8b64be48aafeff6aa31f59909231f202b642d33",
         "member_since": "2022-03-07",
         "name": "TOPO\u26a1"
       },
-      "314": {
+      "317": {
         "pool_id": "39c6ec8fe6dd619d005f17905dde221e31cbd4aadf5eecef9c611311",
         "member_since": "2022-03-08",
         "name": "EQUTY"
       },
-      "315": {
+      "318": {
         "pool_id": "72100e82150b95fab37f7d9e155b6c083c1de629fea1b760f894aec6",
         "member_since": "2022-03-08",
         "name": "XST"
+      },
+      "319": {
+        "pool_id": "db8f20cf666a94c756fa3f00ef3e6655589972bdeb0a314f30c55939",
+        "member_since": "2022-03-10",
+        "name": "OZGRN"
+      },
+      "320": {
+        "pool_id": "09d4cd832d9c3bf96551d86622f2205947c978a6e1e3b1e827596297",
+        "member_since": "2022-03-11",
+        "name": "RCADA"
+      },
+      "321": {
+        "pool_id": "682fd73eea4d7370b6f7a781c80b1252817b23f74688cea6257471f3",
+        "member_since": "2022-03-15",
+        "name": "CHEF"
       }
     }
   }
