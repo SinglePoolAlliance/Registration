@@ -4568,8 +4568,13 @@
     "poolId": "ff5eb7a210b3b322271da7f17753a06d107bda666f34be10017ad723",
     "social": {
       "twitter": "kurokuma_hunny",
-      "website": "https://www.hunny-pool.com/"
+      "website": "https://www.hunny-pool.com/",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
     },
-    "telegram": "hunny_8"
+    "telegram": "hunny_8",
+    "operatorName": "",
+    "github": ""
   }
 ]
