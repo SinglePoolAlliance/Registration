@@ -4620,6 +4620,20 @@
     "operatorName": "Hampus",
     "github": "Xystence"
   },
+ {
+    "ticker": "HEPHY",
+    "poolId": "f4ebee070198a0db41e46d5e59a7c582357013d15b907f65ad75d55e",
+    "social": {
+      "website": "https://hephy.io",
+      "twitter": "HephyPool",
+      "facebook": " ",
+      "instagram": "hephypool",
+      "youtube": " "
+    },
+    "telegram": "HephyPool",
+    "operatorName": "Ian",
+    "github": "hephy-io"
+ },
   {
     "ticker": "ASTRA",
     "poolId": "032f086ac6dafeaf4c75e21840f49762ebdab05ff9c25c41a8530e0f",
