@@ -4519,5 +4519,62 @@
    "telegram": "Michele_ARMN",
    "operatorName": "Michele",
    "github": "HarmonicPool"
+  },
+ {
+   "ticker": "EQUTY",
+   "poolId": "39c6ec8fe6dd619d005f17905dde221e31cbd4aadf5eecef9c611311",
+   "social": {
+     "website": "https://oneequity-staking-pool.com/",
+     "twitter": "OneequityP",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "mister_larsen",
+   "operatorName": "Daniel",
+   "github": "One-Equity"
+  },
+ {
+    "ticker": "TIM1",                                                     
+    "poolId": "23daffaee011a07501e488a32b14a19759e87ba80e52de9806e0aaff",  
+    "social": {                                                            
+      "twitter": "CardanoEcoNews",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCIdNUwf_Fe0IqMuRAfh-wLw"
+    },
+    "telegram": "Timmy_CEN",                                            
+    "operatorName": "Timmy",                                 
+    "github": "cardanoeconews"                                               
+   },
+ {
+    "ticker": "TOPO⚡",
+    "poolId": "9dda57fac3474adbe8b64be48aafeff6aa31f59909231f202b642d33",
+    "social": {
+      "facebook": "",
+      "twitter": "TOPO_Pool",
+      "website": "https://topopool.com/",
+      "reddit": "A_Vilsmeier",
+      "instagram": "",
+      "youtube": "https://youtube.com/CardanoHispano"
+    },
+    "telegram": "CrypTopo",
+    "operatorName": "Alfred",
+    "github": "avilsmeier"
+  },
+ {
+    "ticker": "XST",
+    "poolId": "72100e82150b95fab37f7d9e155b6c083c1de629fea1b760f894aec6",
+    "social": {
+      "facebook": "",
+      "twitter": "XystencePool",
+      "website": "https://xystence.com/",
+      "reddit": "XystencePool",
+      "instagram": "XystencePool",
+      "youtube": ""
+    },
+    "telegram": "XystencePool",
+    "operatorName": "Hampus",
+    "github": "Xystence"
   }
 ]
