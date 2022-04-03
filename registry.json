@@ -4621,6 +4621,21 @@
     "github": "Xystence"
   },
  {
+    "ticker": "CHEF",
+    "poolId": "682fd73eea4d7370b6f7a781c80b1252817b23f74688cea6257471f3",
+    "social": {
+      "facebook": "",
+      "twitter": "CardanoChefPool",
+      "website": "https://chefpool.org",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "CHEFPool",
+    "operatorName": "AlexM",
+    "github": "AlexMorisis"
+  },
+ {
     "ticker": "RCADA",                                                       
     "poolId": "09d4cd832d9c3bf96551d86622f2205947c978a6e1e3b1e827596297", 
     "social": {                                                            
