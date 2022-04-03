@@ -4507,6 +4507,20 @@
    "github": ""
   },
   {
+   "ticker": "ARMN",
+   "poolId": "2a05c534817a0b97ce0c5a2354b6e35a067c52408fa70c77e0b5e378",
+   "social": {
+     "website": "https://harmonicpool.on.fleek.co/",
+     "twitter": "HarmonicPool",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "Michele_ARMN",
+   "operatorName": "Michele",
+   "github": "HarmonicPool"
+  },
+ {
    "ticker": "EQUTY",
    "poolId": "39c6ec8fe6dd619d005f17905dde221e31cbd4aadf5eecef9c611311",
    "social": {
