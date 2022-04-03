@@ -4621,6 +4621,20 @@
     "github": "Xystence"
   },
  {
+ "ticker": "FLY",                                                       
+ "poolId": "99948f34582bf9cafb27b05f4f0e8541c5480b4c79bda74037398380",  
+ "social": {                                                            
+   "twitter": "FlyCardano",
+   "website": "https://flycardano.com/",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "flycardano",
+ "operatorName": "",                                  
+ "github": ""                                               
+},
+ {
     "ticker": "CHEF",
     "poolId": "682fd73eea4d7370b6f7a781c80b1252817b23f74688cea6257471f3",
     "social": {
