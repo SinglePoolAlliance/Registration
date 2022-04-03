@@ -1627,6 +1627,11 @@
         "pool_id": "682fd73eea4d7370b6f7a781c80b1252817b23f74688cea6257471f3",
         "member_since": "2022-03-15",
         "name": "CHEF"
+      },
+      "322": {
+        "pool_id": "99948f34582bf9cafb27b05f4f0e8541c5480b4c79bda74037398380",
+        "member_since": "2022-03-19",
+        "name": "FLY"
       }
     }
   }
