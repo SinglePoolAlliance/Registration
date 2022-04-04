@@ -1,4 +1,17 @@
 [{
+    "ticker": "21ADA",                                                       
+    "poolId": "f3efb842c77895dde51e95e54d9c309da599631ef31216bcfea11083", 
+    "social": {       
+      "website": "https://21ada.ca",
+      "twitter": "https://twitter.com/thinkgrowcrypto", 
+      "instagram": "https://www.instagram.com/thinkgrowcrypto/",
+      "youtube": "https://www.youtube.com/channel/UC2DcLdAPKAwo66JbcI-0w0Q"
+    },
+    "telegram": "https://t.me/stakepool_21ADA",                                          
+    "operatorName": "Jami",                                   
+    "github": "thinkgrowcrypto" 
+ },
+ {
  "ticker": "KASH",                                                       
  "poolId": "cc7a01f31985bdbea49e87e9308a18d5318254c911f0b5289e763bd5", 
  "social": {                                                            
