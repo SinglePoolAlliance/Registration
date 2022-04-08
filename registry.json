@@ -4705,5 +4705,19 @@
     "telegram": "RickCardo",                                          
     "operatorName": "Rick Carstens",                                   
     "github": "Brolloks" 
+ },
+ {
+    "ticker": "CCART",                                                       
+    "poolId": "222c897174e01dff2d8146d2d58dd5e8633336092f05ca8955d5e734", 
+    "social": {                                                            
+      "twitter": "Chimera_Arc",
+      "website": "https://chimera-arc-reactor.com",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "ChimeraArc",                                          
+    "operatorName": "",                                   
+    "github": "" 
  }
 ]
