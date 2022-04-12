@@ -4705,5 +4705,19 @@
     "telegram": "RickCardo",                                          
     "operatorName": "Rick Carstens",                                   
     "github": "Brolloks" 
+ },
+ {
+  "ticker": "ILUKA",
+  "poolId": "23e146390a1b58999264bdd1779eed1b7d50e869bb8c260ccc4cc6c9",
+  "social": {
+    "twitter": "IlukaPool",
+    "website": "https://ilukapool.com",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "telegram": "Christl11",
+  "operatorName": "Chris",
+  "github": "baylisslabs"
  }
 ]
