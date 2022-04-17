@@ -11,7 +11,19 @@
  "operatorName": "Robert Karash",                                   
  "github": "Thorne128"                                                  
 },
-  
+ {
+    "ticker": "RASPI",                                                       
+    "poolId": "87ae8b395304a15fbd9faa78a4d26d16e6e8cd39be2e9ae6cc860988", 
+    "social": { 
+      "website": "https://raspipool.nl",
+      "twitter": "raspipool",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "",                                          
+    "operatorName": "Joost",                                   
+    "github": "raspipool"                                                  
+  },
   {
     "ticker": "QXT",
     "poolId": "351a90a0253fb3595ccc460438b9947cd8a0b9a7f457f3478bbb31d8",
