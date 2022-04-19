@@ -4705,5 +4705,19 @@
     "telegram": "RickCardo",                                          
     "operatorName": "Rick Carstens",                                   
     "github": "Brolloks" 
+ },
+ {
+    "ticker": "SOLPI",                                                       
+    "poolId": "827900818541013d518ee6b2af343a973c8d836884fb000742307400", 
+    "social": {                                                            
+      "twitter": "_stoppi",
+      "website": "https://www.solpi.de",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "dost_solpi",                                          
+    "operatorName": "Stoppi",                                   
+    "github": "stoppi" 
  }
 ]
