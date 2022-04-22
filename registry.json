@@ -27,6 +27,20 @@
     "github": "QuixoteSystems"
   },
   {
+    "ticker": "STKGR",
+    "poolId": "1ae6ca324f47cdc2b95bb7ca15e59e56666f5112136d83f069bf583a",
+    "social": {
+      "website": "https://www.stakegreen.com",
+      "twitter": "STK_GR",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "stake_green",
+    "operatorName": "Ard-Jan Nijland",
+    "github": "StakeGreen"
+  },
+  {
     "ticker": "ADAV",
     "poolId": "4be4a454d63ef9aab7b44a31440a1f85eea3ee724bd13ca07b9ff255",
     "social": {
