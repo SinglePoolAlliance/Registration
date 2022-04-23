@@ -4705,5 +4705,19 @@
     "telegram": "RickCardo",                                          
     "operatorName": "Rick Carstens",                                   
     "github": "Brolloks" 
+    },
+ {
+    "ticker": "LSSP",                                                       
+    "poolId": "01fbe26f514707ff29c38aa597ad8ff86a1572e760858d0e7ae4fc32", 
+    "social": {                                                            
+      "twitter": "Lonestarstaking",
+      "website": "https://lonestarstaking.net",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "erndawg22",                                          
+    "operatorName": "Ernie Jackson",                                   
+    "github": "Erndawg22" 
  }
 ]
