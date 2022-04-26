@@ -1657,6 +1657,11 @@
         "pool_id": "59b0aa4add4f54bed1db4ad7521401f29be75466a4c15af776de1a08",
         "member_since": "2022-04-11",
         "name": "ETRNL"
+      },
+      "328": {
+        "pool_id": "EC5B48B7106B22CA49C4FBAFAD4B46D0524D6D8527CC90432DDD4862",
+        "member_since": "2022-04-15",
+        "name": "PLZ"
       }
     }
   }
