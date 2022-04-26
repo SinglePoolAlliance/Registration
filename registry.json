@@ -4722,6 +4722,20 @@
     "github": "Brolloks" 
  },
  {
+   "ticker": "SOLPI",                                                       
+   "poolId": "827900818541013d518ee6b2af343a973c8d836884fb000742307400", 
+   "social": {                                                            
+      "twitter": "_stoppi",
+      "website": "https://www.solpi.de",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+   "telegram": "dost_solpi",                                          
+   "operatorName": "Stoppi",                                   
+   "github": "stoppi"
+ },
+{
     "ticker": "PLZ",                                                       
     "poolId": "EC5B48B7106B22CA49C4FBAFAD4B46D0524D6D8527CC90432DDD4862", 
     "social": {                                                            
