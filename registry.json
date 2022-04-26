@@ -4705,5 +4705,18 @@
     "telegram": "RickCardo",                                          
     "operatorName": "Rick Carstens",                                   
     "github": "Brolloks" 
- }
+ },
+   {
+    "ticker": "CLP",
+    "poolId": "4b9049b66d926ada722408b9beeaae9ef3d2ffe2377d9b17f6e078ef",
+    "social": {
+      "website": "https://www.charitylounge.info",
+      "twitter": "Charity_Lounge",
+      "facebook": "",
+      "instagram": ""
+    },
+    "telegram": "CharityLounge",
+    "operatorName": "Matthias",
+    "github": "CharityMaster"
+  },
 ]
