@@ -4734,7 +4734,21 @@
     "telegram": "RickCardo",                                          
     "operatorName": "Rick Carstens",                                   
     "github": "Brolloks" 
-    },
+ },
+ {
+ "ticker": "PET♥",
+ "poolId": "d8cc8d4198e23dbc5685c6682e6ea06e82fbd93879e42086e64ccc21",
+ "social": {
+   "twitter": "PetStake",
+   "website": "https://petloverstake.com/",
+   "facebook": "petloverstake",
+   "instagram": "petloverstake",
+   "youtube": ""
+ },
+ "telegram": "PetStaker",
+ "operatorName": "Leo",
+ "github": "petloverstake" 
+ },
  {
     "ticker": "LSSP",                                                       
     "poolId": "01fbe26f514707ff29c38aa597ad8ff86a1572e760858d0e7ae4fc32", 
