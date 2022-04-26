@@ -1669,6 +1669,11 @@
         "name": "STKGR"
       },
       "330": {
+        "pool_id": "01fbe26f514707ff29c38aa597ad8ff86a1572e760858d0e7ae4fc32",
+        "member_since": "2022-04-23",
+        "name": "LSSP"
+      },
+      "331": {
         "pool_id": "827900818541013d518ee6b2af343a973c8d836884fb000742307400",
         "member_since": "2022-04-26",
         "name": "SOLPI"
