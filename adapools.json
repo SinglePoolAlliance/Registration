@@ -1647,6 +1647,16 @@
         "pool_id": "61a8252b7fb1a2fde1bda9c6bd0927995701f799e7fac8227c61ab4e",
         "member_since": "2022-04-01",
         "name": "ZIBER"
+      },
+      "326": {
+        "pool_id": "73e52ec92ce0e919987fc5673dfa2f3fbfb89409e6f2038eb52c9cc1",
+        "member_since": "2022-04-09",
+        "name": "TAPNC"
+      },
+      "327": {
+        "pool_id": "59b0aa4add4f54bed1db4ad7521401f29be75466a4c15af776de1a08",
+        "member_since": "2022-04-11",
+        "name": "ETRNL"
       }
     }
   }
