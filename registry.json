@@ -1,4 +1,19 @@
 [{
+ "ticker": "ETRNL",                                                       
+ "poolId": "59b0aa4add4f54bed1db4ad7521401f29be75466a4c15af776de1a08", 
+ "social": {                                                            
+   "website": "https://www.eternalstakepool.com/",
+  "twitter": "eternal_pool",
+   "facebook": "",  
+   "instagram": "eternalpool",
+   "youtube": " "
+ },
+ "telegram": "eternalpool",                                          
+ "operatorName": "Nicolas D.",                                   
+ "github": "NickEternal"                                                  
+},
+
+ {
  "ticker": "KASH",                                                       
  "poolId": "cc7a01f31985bdbea49e87e9308a18d5318254c911f0b5289e763bd5", 
  "social": {                                                            
@@ -4707,17 +4722,45 @@
     "github": "Brolloks" 
  },
  {
-    "ticker": "SOLPI",                                                       
-    "poolId": "827900818541013d518ee6b2af343a973c8d836884fb000742307400", 
-    "social": {                                                            
+   "ticker": "SOLPI",                                                       
+   "poolId": "827900818541013d518ee6b2af343a973c8d836884fb000742307400", 
+   "social": {                                                            
       "twitter": "_stoppi",
       "website": "https://www.solpi.de",
       "facebook": "",  
       "instagram": "",
       "youtube": ""
     },
-    "telegram": "dost_solpi",                                          
-    "operatorName": "Stoppi",                                   
-    "github": "stoppi" 
+   "telegram": "dost_solpi",                                          
+   "operatorName": "Stoppi",                                   
+   "github": "stopp
+ },
+{
+    "ticker": "PLZ",                                                       
+    "poolId": "EC5B48B7106B22CA49C4FBAFAD4B46D0524D6D8527CC90432DDD4862", 
+    "social": {                                                            
+      "twitter": "poolarized",
+      "website": "https://poolarized.com",
+       "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "DjsrX",                                          
+    "operatorName": "Daniel Rita",                                   
+    "github": "Poolarized" 
+},
+  {
+    "ticker": "TAPNC",                                                       
+    "poolId": "73e52ec92ce0e919987fc5673dfa2f3fbfb89409e6f2038eb52c9cc1", 
+    "social": {                                                            
+      "twitter": "TheAdaProtocol",
+      "website": "https://www.tap.nc",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "ErwanDeNea",                                          
+    "operatorName": "ErwanR",                                   
+    "github": "wanea" 
  }
 ]
