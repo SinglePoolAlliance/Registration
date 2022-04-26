@@ -4721,6 +4721,20 @@
     "operatorName": "Rick Carstens",                                   
     "github": "Brolloks" 
  },
+ {
+    "ticker": "PLZ",                                                       
+    "poolId": "EC5B48B7106B22CA49C4FBAFAD4B46D0524D6D8527CC90432DDD4862", 
+    "social": {                                                            
+      "twitter": "poolarized",
+      "website": "https://poolarized.com",
+       "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "DjsrX",                                          
+    "operatorName": "Daniel Rita",                                   
+    "github": "Poolarized" 
+},
   {
     "ticker": "TAPNC",                                                       
     "poolId": "73e52ec92ce0e919987fc5673dfa2f3fbfb89409e6f2038eb52c9cc1", 
