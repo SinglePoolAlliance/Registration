@@ -1664,6 +1664,11 @@
         "name": "PLZ"
       },
       "329": {
+        "pool_id": "1ae6ca324f47cdc2b95bb7ca15e59e56666f5112136d83f069bf583a",
+        "member_since": "2022-04-22",
+        "name": "STKGR"
+      },
+      "330": {
         "pool_id": "827900818541013d518ee6b2af343a973c8d836884fb000742307400",
         "member_since": "2022-04-26",
         "name": "SOLPI"
