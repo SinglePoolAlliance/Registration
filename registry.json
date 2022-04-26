@@ -1,4 +1,19 @@
 [{
+ "ticker": "ETRNL",                                                       
+ "poolId": "59b0aa4add4f54bed1db4ad7521401f29be75466a4c15af776de1a08", 
+ "social": {                                                            
+   "website": "https://www.eternalstakepool.com/",
+  "twitter": "eternal_pool",
+   "facebook": "",  
+   "instagram": "eternalpool",
+   "youtube": " "
+ },
+ "telegram": "eternalpool",                                          
+ "operatorName": "Nicolas D.",                                   
+ "github": "NickEternal"                                                  
+},
+
+ {
  "ticker": "KASH",                                                       
  "poolId": "cc7a01f31985bdbea49e87e9308a18d5318254c911f0b5289e763bd5", 
  "social": {                                                            
