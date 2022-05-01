@@ -1,4 +1,19 @@
 [{
+ "ticker": "ETRNL",                                                       
+ "poolId": "59b0aa4add4f54bed1db4ad7521401f29be75466a4c15af776de1a08", 
+ "social": {                                                            
+   "website": "https://www.eternalstakepool.com/",
+  "twitter": "eternal_pool",
+   "facebook": "",  
+   "instagram": "eternalpool",
+   "youtube": " "
+ },
+ "telegram": "eternalpool",                                          
+ "operatorName": "Nicolas D.",                                   
+ "github": "NickEternal"                                                  
+},
+
+ {
  "ticker": "KASH",                                                       
  "poolId": "cc7a01f31985bdbea49e87e9308a18d5318254c911f0b5289e763bd5", 
  "social": {                                                            
@@ -25,6 +40,20 @@
     "telegram": "alexmorfus",
     "operatorName": "Alex",
     "github": "QuixoteSystems"
+  },
+  {
+    "ticker": "STKGR",
+    "poolId": "1ae6ca324f47cdc2b95bb7ca15e59e56666f5112136d83f069bf583a",
+    "social": {
+      "website": "https://www.stakegreen.com",
+      "twitter": "STK_GR",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "aj_stake_green",
+    "operatorName": "Ard-Jan Nijland",
+    "github": "StakeGreen"
   },
   {
     "ticker": "ADAV",
@@ -4718,5 +4747,75 @@
     "telegram": "Moootz",
     "operatorName": "Matthias",
     "github": "CharityMaster"
-  }
+  },
+ {
+ "ticker": "PET♥",
+ "poolId": "d8cc8d4198e23dbc5685c6682e6ea06e82fbd93879e42086e64ccc21",
+ "social": {
+   "twitter": "PetStake",
+   "website": "https://petloverstake.com/",
+   "facebook": "petloverstake",
+   "instagram": "petloverstake",
+   "youtube": ""
+ },
+ "telegram": "PetStaker",
+ "operatorName": "Leo",
+ "github": "petloverstake" 
+ },
+ {
+    "ticker": "LSSP",                                                       
+    "poolId": "01fbe26f514707ff29c38aa597ad8ff86a1572e760858d0e7ae4fc32", 
+    "social": {                                                            
+      "twitter": "Lonestarstaking",
+      "website": "https://lonestarstaking.net",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "erndawg",                                          
+    "operatorName": "Ernie Jackson",                                   
+    "github": "Erndawg22" 
+ },
+ {
+   "ticker": "SOLPI",                                                       
+   "poolId": "827900818541013d518ee6b2af343a973c8d836884fb000742307400", 
+   "social": {                                                            
+      "twitter": "_stoppi",
+      "website": "https://www.solpi.de",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+   "telegram": "dost_solpi",                                          
+   "operatorName": "Stoppi",                                   
+   "github": "stoppi"
+ },
+{
+    "ticker": "PLZ",                                                       
+    "poolId": "EC5B48B7106B22CA49C4FBAFAD4B46D0524D6D8527CC90432DDD4862", 
+    "social": {                                                            
+      "twitter": "poolarized",
+      "website": "https://poolarized.com",
+       "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "DjsrX",                                          
+    "operatorName": "Daniel Rita",                                   
+    "github": "Poolarized" 
+},
+  {
+    "ticker": "TAPNC",                                                       
+    "poolId": "73e52ec92ce0e919987fc5673dfa2f3fbfb89409e6f2038eb52c9cc1", 
+    "social": {                                                            
+      "twitter": "TheAdaProtocol",
+      "website": "https://www.tap.nc",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "ErwanDeNea",                                          
+    "operatorName": "ErwanR",                                   
+    "github": "wanea" 
+ }
 ]
