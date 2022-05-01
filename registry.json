@@ -4735,6 +4735,20 @@
     "operatorName": "Rick Carstens",                                   
     "github": "Brolloks" 
  },
+   {
+    "ticker": "CLP",
+    "poolId": "4b9049b66d926ada722408b9beeaae9ef3d2ffe2377d9b17f6e078ef",
+    "social": {
+      "website": "https://www.charitylounge.info",
+      "twitter": "Charity_Lounge",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Moootz",
+    "operatorName": "Matthias",
+    "github": "CharityMaster"
+  },
  {
  "ticker": "PET♥",
  "poolId": "d8cc8d4198e23dbc5685c6682e6ea06e82fbd93879e42086e64ccc21",
