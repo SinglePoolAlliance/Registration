@@ -1679,6 +1679,11 @@
         "name": "LSSP"
       },
       "332": {
+        "pool_id": "4b9049b66d926ada722408b9beeaae9ef3d2ffe2377d9b17f6e078ef",
+        "member_since": "2022-04-26",
+        "name": "CLP"
+      },
+      "333": {
         "pool_id": "827900818541013d518ee6b2af343a973c8d836884fb000742307400",
         "member_since": "2022-04-26",
         "name": "SOLPI"
