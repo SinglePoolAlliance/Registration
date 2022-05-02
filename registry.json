@@ -4832,5 +4832,19 @@
     "telegram": "Your_ADA_Moon",                                          
     "operatorName": "Alex, Devin",                                   
     "github": "arichard5" 
+ },
+ {
+    "ticker": "TFSF",                                                       
+    "poolId": "0ca8e61d6ce513468766d3a8e5dc04ac111642a09339b4562563c3f3", 
+    "social": {                                                            
+      "twitter": "thefreecrypto",
+      "website": "https://www.thefreecrypto.com",
+      "facebook": "thefreespeechforum",  
+      "instagram": "thefreespeechforum",
+      "youtube": "thefreespeechforum.com"
+    },
+    "telegram": "freespeechforum",                                          
+    "operatorName": "John, Shirley",                                   
+    "github": "" 
  }
 ]
