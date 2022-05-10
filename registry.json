@@ -1,4 +1,15 @@
 [{
+ "ticker": "BLADE",
+ "poolId": "d765dee553a7e041d525b1782a10eb0a5e52e96ed55ed173d8bb82a7"
+ "social": {
+   "twitter": "conraddit"
+ },
+ "telegram": "conraddit",
+ "operatorName": "CONRAD",
+ "github": "conraddit"
+},
+
+{
  "ticker": "ETRNL",                                                       
  "poolId": "59b0aa4add4f54bed1db4ad7521401f29be75466a4c15af776de1a08", 
  "social": {                                                            
