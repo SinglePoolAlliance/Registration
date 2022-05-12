@@ -4832,5 +4832,19 @@
     "telegram": "Your_ADA_Moon",                                          
     "operatorName": "Alex, Devin",                                   
     "github": "arichard5" 
+ },
+ {
+    "ticker": "GRANA",                                                       
+    "poolId": "7a4c1ee9d663dd8d3b1bedf13155cc624c5dfa95f432c30d198cd3c6", 
+    "social": {                                                            
+      "twitter": "GranAdaSwiss",
+      "website": "https://www.granadapool.com",
+      "facebook": "Granada-Staking-Pool-101994408826232",  
+      "instagram": "gran.ada.ch",
+      "youtube": ""
+    },
+    "telegram": "granada_staking_pool",                                          
+    "operatorName": "Vito Melchionna",                                   
+    "github": "granada-pool" 
  }
 ]
