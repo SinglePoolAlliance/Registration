@@ -4832,5 +4832,19 @@
     "telegram": "Your_ADA_Moon",                                          
     "operatorName": "Alex, Devin",                                   
     "github": "arichard5" 
- }
+ },
+ {
+    "ticker": "IRF",                                                       
+    "poolId": "28e0a3969fa22f29d5b13e0a00826a6d6bdd80dec01b1cf60deb29bf", 
+    "social": {                                                            
+      "twitter": "irf160",
+      "website": "https://www.irfada.co",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "irf160",                                          
+    "operatorName": "Jon",                                   
+    "github": "IRF160" 
+ } 
 ]
