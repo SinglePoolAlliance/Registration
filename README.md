@@ -15,17 +15,17 @@ Registration JSON Example.
 
 ```
 {
- "ticker": "BSP",                                                       # Mandatory
- "poolId": "89eba2781e5cd11ccda6be56503702a39e9941e522f04cd5bba22957",  # Mandatory
+ "ticker": "A3C",                                                       # Mandatory
+ "poolId": "159bd971439653da2b97d12facae06ff5e6d7410d074edaab425202b",  # Mandatory
  "social": {                                                            # At least 1 Mandatory more optional
-   "twitter": "BrothershipPool",
-   "facebook": "brothershipool",  
+   "twitter": "@ShawnA3C",
+   "facebook": "Shawn Silva",  
    "instagram": " ",
-   "youtube": " "
+   "youtube": "[A3C Crypto Club](https://www.youtube.com/channel/UCLeEDYaGJn2zlA3N_Jwx1Fg)"
  },
- "telegram": "Leandros42",                                             # Mandatory Personal Telegram Handle
- "operatorName": "Leandros Holleman",                                   # Optional
- "github": "leo42"                                                     # Optional
+ "telegram": "ShawnA3C",                                             # Mandatory Personal Telegram Handle
+ "operatorName": "Shawn Silva",                                   # Optional
+ "github": "a3c-shawn"                                                     # Optional
 }
 ```
 
