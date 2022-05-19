@@ -4860,6 +4860,20 @@
     "operatorName": "Alex, Devin",                                   
     "github": "arichard5" 
  },
+  {
+    "ticker": "EVE01",                                                       
+    "poolId": "007c8cf86eb1eebd45871699623a283e77400e96789ffd2fa7d9a4b1", 
+    "social": {                                                            
+      "twitter": "mtxht",
+      "website": "https://ever-peace.blogspot.com/2021/03/welcome-to-my-blog.html",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "mtxht01",                                          
+    "operatorName": "Justin",                                   
+    "github": "mhsjkk" 
+ },
  {
  "ticker": "MAMBA",                                                       
  "poolId": "3162c21a847e9869471ae27b7f1f52600291c1f5bbbea8e3572d3f8f",
