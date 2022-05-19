@@ -1,4 +1,18 @@
 [{
+ "ticker": "PLKOZ",                                                       
+ "poolId": "0c0755334363223ee4104147c50894686b8c5fedc9eee299771860b3", 
+ "social": {                                                            
+   "website": "https://www.politikoz.io/",
+  "twitter": "politikoznft",
+   "facebook": "",  
+   "instagram": "politikoz.io",
+   "youtube": "https://www.youtube.com/channel/UCzOaXzEE94ojBey4ACjjl-Q"
+ },
+ "telegram": "senechal7",                                          
+ "operatorName": "Thulio S.",                                   
+ "github": "politikoz"                                                  
+},
+ {
  "ticker": "ETRNL",                                                       
  "poolId": "59b0aa4add4f54bed1db4ad7521401f29be75466a4c15af776de1a08", 
  "social": {                                                            
