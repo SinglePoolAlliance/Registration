@@ -4861,6 +4861,20 @@
     "github": "arichard5" 
  },
  {
+    "ticker": "IRF",                                                       
+    "poolId": "28e0a3969fa22f29d5b13e0a00826a6d6bdd80dec01b1cf60deb29bf", 
+    "social": {                                                            
+      "twitter": "irf160",
+      "website": "https://www.irfada.co",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "irf160",                                          
+    "operatorName": "Jon",                                   
+    "github": "IRF160" 
+ }, 
+ {
     "ticker": "HEDGE",                                                       
     "poolId": "281f1aa1feb755f5bb1173a59e78ae5167fea70f728219e6810f28ee", 
     "social": {                                                            
