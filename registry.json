@@ -1,4 +1,31 @@
 [{
+ "ticker": "BLADE",
+ "poolId": "d765dee553a7e041d525b1782a10eb0a5e52e96ed55ed173d8bb82a7",
+ "social": {
+     "twitter": "conraddit",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+ },
+ "telegram": "conraddit",
+ "operatorName": "CONRAD",
+ "github": "conraddit"
+},
+{
+ "ticker": "PLKOZ",                                                       
+ "poolId": "0c0755334363223ee4104147c50894686b8c5fedc9eee299771860b3", 
+ "social": {                                                            
+   "website": "https://www.politikoz.io/",
+   "twitter": "politikoznft",
+   "facebook": "",  
+   "instagram": "politikoz.io",
+   "youtube": "https://www.youtube.com/channel/UCzOaXzEE94ojBey4ACjjl-Q"
+ },
+ "telegram": "senechal7",                                          
+ "operatorName": "Thulio S.",                                   
+ "github": "politikoz"                                                  
+},
+ {
  "ticker": "ETRNL",                                                       
  "poolId": "59b0aa4add4f54bed1db4ad7521401f29be75466a4c15af776de1a08", 
  "social": {                                                            
@@ -4847,5 +4874,61 @@
     "telegram": "not_tacos",                                          
     "operatorName": "",                                   
     "github": "not-tacos" 
+ },
+ {
+    "ticker": "IRF",                                                       
+    "poolId": "28e0a3969fa22f29d5b13e0a00826a6d6bdd80dec01b1cf60deb29bf", 
+    "social": {                                                            
+      "twitter": "irf160",
+      "website": "https://www.irfada.co",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "irf160",                                          
+    "operatorName": "Jon",                                   
+    "github": "IRF160" 
+ }, 
+ {
+    "ticker": "HEDGE",                                                       
+    "poolId": "281f1aa1feb755f5bb1173a59e78ae5167fea70f728219e6810f28ee", 
+    "social": {                                                            
+      "twitter": "HedgesPool",
+      "website": "https://www.hedgespool.com/",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCf0wuvFsay_HeEf0X_YXF4g"
+    },
+    "telegram": "HedgesPool",                                          
+    "operatorName": "Keith, Hedges",                                   
+    "github": "kthedges12"
+ },
+   {
+    "ticker": "CRFA",
+    "poolId": "6c518b4861bb88b1395ceb116342cecbcfb8736282655f9a61c4c368", 
+    "social": {                                                            
+      "twitter": "matiwinnetou",
+      "website": "https://cardano.fans",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "matiwinnetou",                                          
+    "operatorName": "",                                   
+    "github": "Cardano-Fans" 
+ },
+ {
+    "ticker": "SHIFT",                                                       
+    "poolId": "90dd0a6038d4c8de3c861e4c9a313f423af48ea0fb7823e2110a01b2", 
+    "social": {                                                            
+      "twitter": "stakeshiftteam",
+      "website": "https://stakeshift.team/",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Chris_SHIFT",                                          
+    "operatorName": "Christian, Hamish",                                   
+    "github": "hamishcunningham" 
  }
 ]
