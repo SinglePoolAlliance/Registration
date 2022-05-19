@@ -4861,6 +4861,20 @@
     "github": "arichard5" 
  },
  {
+ "ticker": "MAMBA",                                                       
+ "poolId": "3162c21a847e9869471ae27b7f1f52600291c1f5bbbea8e3572d3f8f",
+ "social": {
+ "website": "https://mambapool.org/",
+   "twitter": "MambaPool",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "ednonufix",
+ "operatorName": "Eduardo N.",
+ "github": "ednonufix"
+},
+ {
     "ticker": "CHAOS",                                                       
     "poolId": "607a7ae66035ef4bcc840e40985e0805e724888d6a01e15569df597d", 
     "social": {                                                            
