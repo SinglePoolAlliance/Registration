@@ -4860,5 +4860,19 @@
     "telegram": "Chris_SHIFT",                                          
     "operatorName": "Christian, Hamish",                                   
     "github": "hamishcunningham" 
- }
+ },
+ {
+    "ticker": "LEAD",                                                       
+    "poolId": "ec6cdcad62633e065be5d96eecea28464144a1827adc0cba98d29a23", 
+    "social": {                                                            
+      "twitter": "LEADStakePool",
+      "website": "https://www.leadstakepool.com",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCPJbuQeX6PSrY9GEQTTJ3Kg"
+    },
+    "telegram": "Banksy_LEAD",                                          
+    "operatorName": "Banksy",                                   
+    "github": "lead-pool" 
+ } 
 ]
