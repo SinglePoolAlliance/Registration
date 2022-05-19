@@ -4832,5 +4832,19 @@
     "telegram": "Your_ADA_Moon",                                          
     "operatorName": "Alex, Devin",                                   
     "github": "arichard5" 
- }
+ },
+ {
+ "ticker": "MAMBA",                                                       
+ "poolId": "3162c21a847e9869471ae27b7f1f52600291c1f5bbbea8e3572d3f8f",
+ "social": {
+ "website": "https://mambapool.org/",
+   "twitter": "MambaPool",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "ednonufix",
+ "operatorName": "Eduardo N.",
+ "github": "ednonufix"
+}
 ]
