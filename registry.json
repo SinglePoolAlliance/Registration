@@ -4861,6 +4861,21 @@
     "github": "arichard5" 
  },
  {
+    "ticker": "CHAOS",                                                       
+    "poolId": "607a7ae66035ef4bcc840e40985e0805e724888d6a01e15569df597d", 
+    "social": {                                                            
+      "twitter": "ChaosStaking",
+      "website": "https://www.chaos-staking.com",
+      "discord": "tacos#7334",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "not_tacos",                                          
+    "operatorName": "",                                   
+    "github": "not-tacos" 
+ },
+ {
     "ticker": "IRF",                                                       
     "poolId": "28e0a3969fa22f29d5b13e0a00826a6d6bdd80dec01b1cf60deb29bf", 
     "social": {                                                            
