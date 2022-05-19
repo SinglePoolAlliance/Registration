@@ -4832,5 +4832,20 @@
     "telegram": "Your_ADA_Moon",                                          
     "operatorName": "Alex, Devin",                                   
     "github": "arichard5" 
- }
+ },
+ {
+    "ticker": "MYLO",
+    "poolId": "90e719ff625d4652a6f41568f9cdc0c8ddf90a7556929b4d30298e8c",
+    "social": {
+      "twitter": "mylopool",
+      "website": "https://mylo.farm",
+      "reddit": "mylopool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "mylopool",
+    "operatorName": "Nitros",
+    "github": "shibug"
+  }
 ]
