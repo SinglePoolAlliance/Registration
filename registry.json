@@ -4832,5 +4832,20 @@
     "telegram": "Your_ADA_Moon",                                          
     "operatorName": "Alex, Devin",                                   
     "github": "arichard5" 
+ },
+ {
+    "ticker": "CHAOS",                                                       
+    "poolId": "607a7ae66035ef4bcc840e40985e0805e724888d6a01e15569df597d", 
+    "social": {                                                            
+      "twitter": "ChaosStaking",
+      "website": "https://www.chaos-staking.com",
+      "discord": "@tacos#7334
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "not_tacos",                                          
+    "operatorName": "tacos",                                   
+    "github": "not-tacos" 
  }
 ]
