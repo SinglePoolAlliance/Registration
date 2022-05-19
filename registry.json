@@ -4860,6 +4860,21 @@
     "operatorName": "Alex, Devin",                                   
     "github": "arichard5" 
  },
+ {
+    "ticker": "MYLO",
+    "poolId": "90e719ff625d4652a6f41568f9cdc0c8ddf90a7556929b4d30298e8c",
+    "social": {
+      "twitter": "mylopool",
+      "website": "https://mylo.farm",
+      "reddit": "mylopool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "mylopool1",
+    "operatorName": "Gope, Shibu",
+    "github": "shibug"
+  },
   {
     "ticker": "EVE01",                                                       
     "poolId": "007c8cf86eb1eebd45871699623a283e77400e96789ffd2fa7d9a4b1", 
