@@ -1707,6 +1707,11 @@
         "pool_id": "d765dee553a7e041d525b1782a10eb0a5e52e96ed55ed173d8bb82a7",
         "member_since": "2022-05-10",
         "name": "BLADE"
+      },
+      "338": {
+        "pool_id": "6c518b4861bb88b1395ceb116342cecbcfb8736282655f9a61c4c368",
+        "member_since": "2022-05-10",
+        "name": "CRFA"
       }
     }
   }
