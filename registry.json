@@ -1,4 +1,31 @@
 [{
+ "ticker": "BLADE",
+ "poolId": "d765dee553a7e041d525b1782a10eb0a5e52e96ed55ed173d8bb82a7",
+ "social": {
+     "twitter": "conraddit",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+ },
+ "telegram": "conraddit",
+ "operatorName": "CONRAD",
+ "github": "conraddit"
+},
+{
+ "ticker": "PLKOZ",                                                       
+ "poolId": "0c0755334363223ee4104147c50894686b8c5fedc9eee299771860b3", 
+ "social": {                                                            
+   "website": "https://www.politikoz.io/",
+   "twitter": "politikoznft",
+   "facebook": "",  
+   "instagram": "politikoz.io",
+   "youtube": "https://www.youtube.com/channel/UCzOaXzEE94ojBey4ACjjl-Q"
+ },
+ "telegram": "senechal7",                                          
+ "operatorName": "Thulio S.",                                   
+ "github": "politikoz"                                                  
+},
+ {
  "ticker": "ETRNL",                                                       
  "poolId": "59b0aa4add4f54bed1db4ad7521401f29be75466a4c15af776de1a08", 
  "social": {                                                            
@@ -4735,6 +4762,20 @@
     "operatorName": "Rick Carstens",                                   
     "github": "Brolloks" 
  },
+  {
+    "ticker": "VROOM",
+    "poolId": "138031b823a08dec4535e583ca8ea91530abd9c62b1c0b768fd1f834",
+    "social": {
+      "website": "https://carpoolcrypto.com/",
+      "twitter": "CarPoolCrypto",
+      "facebook": "https://www.facebook.com/carpoolcrypto",
+      "instagram": "carpoolcrypto",
+      "youtube": "CarPoolCrypto"
+    },
+    "telegram": "CarPoolCryptoVROOM",
+    "operatorName": "",
+    "github": ""
+  },
    {
     "ticker": "CLP",
     "poolId": "4b9049b66d926ada722408b9beeaae9ef3d2ffe2377d9b17f6e078ef",
@@ -4846,5 +4887,133 @@
     "telegram": "zjavax",                                          
     "operatorName": "zjavax",                                   
     "github": "zjavax" 
- }
+ },
+{
+    "ticker": "MYLO",
+    "poolId": "90e719ff625d4652a6f41568f9cdc0c8ddf90a7556929b4d30298e8c",
+    "social": {
+      "twitter": "mylopool",
+      "website": "https://mylo.farm",
+      "reddit": "mylopool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "mylopool1",
+    "operatorName": "Gope, Shibu",
+    "github": "shibug"
+  },
+  {
+    "ticker": "EVE01",                                                       
+    "poolId": "007c8cf86eb1eebd45871699623a283e77400e96789ffd2fa7d9a4b1", 
+    "social": {                                                            
+      "twitter": "mtxht",
+      "website": "https://ever-peace.blogspot.com/2021/03/welcome-to-my-blog.html",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "mtxht01",                                          
+    "operatorName": "Justin",                                   
+    "github": "mhsjkk" 
+ },
+ {
+ "ticker": "MAMBA",                                                       
+ "poolId": "3162c21a847e9869471ae27b7f1f52600291c1f5bbbea8e3572d3f8f",
+ "social": {
+ "website": "https://mambapool.org/",
+   "twitter": "MambaPool",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "ednonufix",
+ "operatorName": "Eduardo N.",
+ "github": "ednonufix"
+},
+ {
+    "ticker": "CHAOS",                                                       
+    "poolId": "607a7ae66035ef4bcc840e40985e0805e724888d6a01e15569df597d", 
+    "social": {                                                            
+      "twitter": "ChaosStaking",
+      "website": "https://www.chaos-staking.com",
+      "discord": "tacos#7334",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "not_tacos",                                          
+    "operatorName": "",                                   
+    "github": "not-tacos" 
+ },
+ {
+    "ticker": "IRF",                                                       
+    "poolId": "28e0a3969fa22f29d5b13e0a00826a6d6bdd80dec01b1cf60deb29bf", 
+    "social": {                                                            
+      "twitter": "irf160",
+      "website": "https://www.irfada.co",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "irf160",                                          
+    "operatorName": "Jon",                                   
+    "github": "IRF160" 
+ }, 
+ {
+    "ticker": "HEDGE",                                                       
+    "poolId": "281f1aa1feb755f5bb1173a59e78ae5167fea70f728219e6810f28ee", 
+    "social": {                                                            
+      "twitter": "HedgesPool",
+      "website": "https://www.hedgespool.com/",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCf0wuvFsay_HeEf0X_YXF4g"
+    },
+    "telegram": "HedgesPool",                                          
+    "operatorName": "Keith, Hedges",                                   
+    "github": "kthedges12"
+ },
+   {
+    "ticker": "CRFA",
+    "poolId": "6c518b4861bb88b1395ceb116342cecbcfb8736282655f9a61c4c368", 
+    "social": {                                                            
+      "twitter": "matiwinnetou",
+      "website": "https://cardano.fans",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "matiwinnetou",                                          
+    "operatorName": "",                                   
+    "github": "Cardano-Fans" 
+ },
+ {
+    "ticker": "SHIFT",                                                       
+    "poolId": "90dd0a6038d4c8de3c861e4c9a313f423af48ea0fb7823e2110a01b2", 
+    "social": {                                                            
+      "twitter": "stakeshiftteam",
+      "website": "https://stakeshift.team/",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Chris_SHIFT",                                          
+    "operatorName": "Christian, Hamish",                                   
+    "github": "hamishcunningham" 
+ },
+ {
+    "ticker": "LEAD",                                                       
+    "poolId": "ec6cdcad62633e065be5d96eecea28464144a1827adc0cba98d29a23", 
+    "social": {                                                            
+      "twitter": "LEADStakePool",
+      "website": "https://www.leadstakepool.com",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCPJbuQeX6PSrY9GEQTTJ3Kg"
+    },
+    "telegram": "Banksy_LEAD",                                          
+    "operatorName": "",                                   
+    "github": "lead-pool" 
+ } 
 ]
