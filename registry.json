@@ -4875,6 +4875,20 @@
     "github": "arichard5" 
  },
  {
+    "ticker": "BAIDU",                                                       
+    "poolId": "c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7", 
+    "social": {                                                            
+      "twitter": "zjavax",
+      "website": "https://zjavax.github.io/cardano_doc/#/",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCAfHoyK5b8RoQt9ipN0j4YA/videos"
+    },
+    "telegram": "zjavax",                                          
+    "operatorName": "zjavax",                                   
+    "github": "zjavax" 
+ },
+{
     "ticker": "MYLO",
     "poolId": "90e719ff625d4652a6f41568f9cdc0c8ddf90a7556929b4d30298e8c",
     "social": {
