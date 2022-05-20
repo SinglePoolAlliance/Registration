@@ -1,4 +1,18 @@
 [
+  {
+    "ticker": "21ADA",                                                       
+    "poolId": "f3efb842c77895dde51e95e54d9c309da599631ef31216bcfea11083", 
+    "social": {       
+      "website": "https://21ada.ca",
+      "twitter": "thinkgrowcrypto", 
+      "instagram": "thinkgrowcrypto",
+      "youtube": "https://www.youtube.com/channel/UC2DcLdAPKAwo66JbcI-0w0Q",
+      "facebook": ""
+    },
+    "telegram": "thinkgrowcrypto",                                          
+    "operatorName": "Jami",                                   
+    "github": "thinkgrowcrypto" 
+ },
  {
    "ticker": "EUTXO",
    "poolId": "6814b41473d2cdc32f12421d3944fb700a7c332edc48838acd7781ca",
@@ -53,7 +67,6 @@
  "operatorName": "Nicolas D.",                                   
  "github": "NickEternal"                                                  
 },
-
  {
  "ticker": "KASH",                                                       
  "poolId": "cc7a01f31985bdbea49e87e9308a18d5318254c911f0b5289e763bd5", 
