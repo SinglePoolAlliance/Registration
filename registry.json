@@ -5015,5 +5015,19 @@
     "telegram": "Banksy_LEAD",                                          
     "operatorName": "",                                   
     "github": "lead-pool" 
+ },
+ {
+    "ticker": "CBUFF",                                                       
+    "poolId": "0d4fbe8a8742e8c50f1f2518504e049c0732a0ed1e7f966b33bd5014", 
+    "social": {                                                            
+      "twitter": "itscryptobuff",
+      "website": "",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": "https://www.youtube.com/c/CryptoBuff"
+    },
+    "telegram": "Cryptobuff",                                          
+    "operatorName": "",                                   
+    "github": "cryptobuffofficial" 
  } 
 ]
