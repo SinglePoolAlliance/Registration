@@ -1,4 +1,18 @@
-[{
+[
+ {
+   "ticker": "EUTXO",
+   "poolId": "6814b41473d2cdc32f12421d3944fb700a7c332edc48838acd7781ca",
+   "social": {
+     "twitter": "stuffedkohlrabi",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "eutxopool",
+   "operatorName": "Attila",
+   "github": "eutxo"
+ },
+ {
  "ticker": "BLADE",
  "poolId": "d765dee553a7e041d525b1782a10eb0a5e52e96ed55ed173d8bb82a7",
  "social": {
@@ -4762,6 +4776,20 @@
     "operatorName": "Rick Carstens",                                   
     "github": "Brolloks" 
  },
+  {
+    "ticker": "VROOM",
+    "poolId": "138031b823a08dec4535e583ca8ea91530abd9c62b1c0b768fd1f834",
+    "social": {
+      "website": "https://carpoolcrypto.com/",
+      "twitter": "CarPoolCrypto",
+      "facebook": "https://www.facebook.com/carpoolcrypto",
+      "instagram": "carpoolcrypto",
+      "youtube": "CarPoolCrypto"
+    },
+    "telegram": "CarPoolCryptoVROOM",
+    "operatorName": "",
+    "github": ""
+  },
    {
     "ticker": "CLP",
     "poolId": "4b9049b66d926ada722408b9beeaae9ef3d2ffe2377d9b17f6e078ef",
@@ -4861,6 +4889,20 @@
     "github": "arichard5" 
  },
  {
+    "ticker": "BAIDU",                                                       
+    "poolId": "c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7", 
+    "social": {                                                            
+      "twitter": "zjavax",
+      "website": "https://zjavax.github.io/cardano_doc/#/",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCAfHoyK5b8RoQt9ipN0j4YA/videos"
+    },
+    "telegram": "zjavax",                                          
+    "operatorName": "zjavax",                                   
+    "github": "zjavax" 
+ },
+{
     "ticker": "MYLO",
     "poolId": "90e719ff625d4652a6f41568f9cdc0c8ddf90a7556929b4d30298e8c",
     "social": {
@@ -5001,5 +5043,19 @@
     "telegram": "ShawnA3C",                                          
     "operatorName": "Shawn Silva",                                   
     "github": "a3c-shawn" 
+ },
+ {
+    "ticker": "CBUFF",                                                       
+    "poolId": "0d4fbe8a8742e8c50f1f2518504e049c0732a0ed1e7f966b33bd5014", 
+    "social": {                                                            
+      "twitter": "itscryptobuff",
+      "website": "",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": "https://www.youtube.com/c/CryptoBuff"
+    },
+    "telegram": "Cryptobuff",                                          
+    "operatorName": "",                                   
+    "github": "cryptobuffofficial" 
  } 
 ]
