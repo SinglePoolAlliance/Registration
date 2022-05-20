@@ -1782,6 +1782,11 @@
         "pool_id": "6814b41473d2cdc32f12421d3944fb700a7c332edc48838acd7781ca",
         "member_since": "2022-05-20",
         "name": "EUTXO"
+      },
+      "353": {
+        "pool_id": "5ed675dd3d0640ca94bf8c3d6a5bfaac0f59930c99a94ffe3686cb70",
+        "member_since": "2022-05-20",
+        "name": "WFFL"
       }
     }
   }
