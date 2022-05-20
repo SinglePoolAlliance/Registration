@@ -5029,6 +5029,20 @@
     "telegram": "Banksy_LEAD",                                          
     "operatorName": "",                                   
     "github": "lead-pool" 
+ } ,
+ {
+    "ticker": "A3C",                                                       
+    "poolId": "159bd971439653da2b97d12facae06ff5e6d7410d074edaab425202b", 
+    "social": {                                                            
+      "twitter": "ShawnA3C",
+      "website": "https://www.a3ccryptoclub.com",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCLeEDYaGJn2zlA3N_Jwx1Fg"
+    },
+    "telegram": "ShawnA3C",                                          
+    "operatorName": "Shawn Silva",                                   
+    "github": "a3c-shawn" 
  },
  {
     "ticker": "CBUFF",                                                       
