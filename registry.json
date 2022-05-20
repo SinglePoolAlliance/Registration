@@ -4762,6 +4762,20 @@
     "operatorName": "Rick Carstens",                                   
     "github": "Brolloks" 
  },
+  {
+    "ticker": "VROOM",
+    "poolId": "138031b823a08dec4535e583ca8ea91530abd9c62b1c0b768fd1f834",
+    "social": {
+      "website": "https://carpoolcrypto.com/",
+      "twitter": "CarPoolCrypto",
+      "facebook": "https://www.facebook.com/carpoolcrypto",
+      "instagram": "carpoolcrypto",
+      "youtube": "CarPoolCrypto"
+    },
+    "telegram": "CarPoolCryptoVROOM",
+    "operatorName": "",
+    "github": ""
+  },
    {
     "ticker": "CLP",
     "poolId": "4b9049b66d926ada722408b9beeaae9ef3d2ffe2377d9b17f6e078ef",
