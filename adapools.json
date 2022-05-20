@@ -1757,6 +1757,11 @@
         "pool_id": "ec6cdcad62633e065be5d96eecea28464144a1827adc0cba98d29a23",
         "member_since": "2022-05-19",
         "name": "LEAD"
+      },
+      "348": {
+        "pool_id": "0d4fbe8a8742e8c50f1f2518504e049c0732a0ed1e7f966b33bd5014",
+        "member_since": "2022-05-19",
+        "name": "CBUFF"
       }
     }
   }
