@@ -1762,6 +1762,11 @@
         "pool_id": "0d4fbe8a8742e8c50f1f2518504e049c0732a0ed1e7f966b33bd5014",
         "member_since": "2022-05-19",
         "name": "CBUFF"
+      },
+      "349": {
+        "pool_id": "6814b41473d2cdc32f12421d3944fb700a7c332edc48838acd7781ca",
+        "member_since": "2022-05-20",
+        "name": "EUTXO"
       }
     }
   }
