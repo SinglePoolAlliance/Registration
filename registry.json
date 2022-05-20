@@ -1,4 +1,18 @@
-[{
+[
+ {
+   "ticker": "EUTXO",
+   "poolId": "6814b41473d2cdc32f12421d3944fb700a7c332edc48838acd7781ca",
+   "social": {
+     "twitter": "stuffedkohlrabi",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "eutxopool",
+   "operatorName": "Attila",
+   "github": "eutxo"
+ },
+ {
  "ticker": "BLADE",
  "poolId": "d765dee553a7e041d525b1782a10eb0a5e52e96ed55ed173d8bb82a7",
  "social": {
