@@ -5083,5 +5083,18 @@
     "telegram": "Cryptobuff",                                          
     "operatorName": "",                                   
     "github": "cryptobuffofficial" 
- } 
+ },
+ {
+   "ticker": "WFFL",
+   "poolId": "5ed675dd3d0640ca94bf8c3d6a5bfaac0f59930c99a94ffe3686cb70",
+   "social": {
+     "twitter": "wafflepool",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "wafflepool",
+   "operatorName": "",
+   "github": ""
+ }
 ]
