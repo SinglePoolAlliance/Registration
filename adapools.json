@@ -1729,26 +1729,31 @@
         "name": "HEDGE"
       },
       "342": {
+        "pool_id": "c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7",
+        "member_since": "2022-05-19",
+        "name": "BAIDU"
+      },
+      "343": {
         "pool_id": "90e719ff625d4652a6f41568f9cdc0c8ddf90a7556929b4d30298e8c",
         "member_since": "2022-05-19",
         "name": "MYLO"
       },
-      "343": {
+      "344": {
         "pool_id": "007c8cf86eb1eebd45871699623a283e77400e96789ffd2fa7d9a4b1",
         "member_since": "2022-05-19",
         "name": "EVE01"
       },
-      "344": {
+      "345": {
         "pool_id": "3162c21a847e9869471ae27b7f1f52600291c1f5bbbea8e3572d3f8f",
         "member_since": "2022-05-19",
         "name": "MAMBA"
       },
-      "345": {
+      "346": {
         "pool_id": "607a7ae66035ef4bcc840e40985e0805e724888d6a01e15569df597d",
         "member_since": "2022-05-19",
         "name": "CHAOS"
       },
-      "346": {
+      "347": {
         "pool_id": "ec6cdcad62633e065be5d96eecea28464144a1827adc0cba98d29a23",
         "member_since": "2022-05-19",
         "name": "LEAD"
