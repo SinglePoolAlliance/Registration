@@ -5096,5 +5096,18 @@
    "telegram": "wafflepool",
    "operatorName": "",
    "github": ""
- }
+ },
+ {
+   "ticker": "YABAK",
+   "poolId": "6d54378bf38d98cc52aea96b4f468898f7a8d3b03de47112275c8237",
+   "social": {
+     "twitter": "",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": "https://www.youtube.com/channel/UCdlopVXYEVDeHZNaTjPVwvA"
+   },
+   "telegram": "hysleeper",
+   "operatorName": "Sangyou Kim",
+   "github": "hysleeper"
+} 
 ]
