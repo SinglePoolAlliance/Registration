@@ -5096,5 +5096,18 @@
    "telegram": "wafflepool",
    "operatorName": "",
    "github": ""
+ },
+ {
+   "ticker": "TOKEN",
+   "poolId": "1e5f4eebc56a6726fd36af2f870b3bd62b204f3cd1b36e32e8a56737",
+   "social": {
+     "twitter": "token_stakepool",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "tokenstakepool",
+   "operatorName": "",
+   "github": "tokenstakepool"
  }
 ]
