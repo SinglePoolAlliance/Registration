@@ -5096,5 +5096,19 @@
    "telegram": "wafflepool",
    "operatorName": "",
    "github": ""
+ },
+ {
+   "ticker": "CARDS",
+   "poolId": "92fcdd76d1d9d13910cbe1930765543984e6f4ef9b7efed3cc6536a1",
+   "social": {
+     "twitter": "cardanistas",
+     "website": "https://www.cardanistas.io",
+     "facebook": "cardanistas",
+     "instagram": "cardanistas",
+     "youtube": "https://www.youtube.com/cardanistas"
+   },
+   "telegram": "aticomismana",
+   "operatorName": "Ático Mismana",
+   "github": "aticomismana"
  }
 ]
