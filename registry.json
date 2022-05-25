@@ -5096,5 +5096,16 @@
    "telegram": "wafflepool",
    "operatorName": "",
    "github": ""
+ },
+ {
+   "ticker": "CMIX",
+   "poolId": "0ef395f417fc1b8a124784c279575708e05d8917363fa8b3172d1631",
+   "social": {
+     "twitter": "CardanoMixer",
+     "website": "https://cardmix.io",
+   },
+   "telegram": "cardmix",
+   "operatorName": "",
+   "github": "cardmix"
  }
 ]
