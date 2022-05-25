@@ -5096,5 +5096,18 @@
    "telegram": "wafflepool",
    "operatorName": "",
    "github": ""
+ },
+ {
+   "ticker": "DAD",
+   "poolId": "dad893073815ca8b225554a2fc5048e366bd65938551323fc13cf7f5",
+   "social": {
+     "twitter": "DADstakes",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "DADSPO",
+   "operatorName": "",
+   "github": "dadstakes"
  }
 ]
