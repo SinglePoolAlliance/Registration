@@ -5112,6 +5112,20 @@
    "github": ""
  },
  {
+   "ticker": "CARDS",
+   "poolId": "92fcdd76d1d9d13910cbe1930765543984e6f4ef9b7efed3cc6536a1",
+   "social": {
+     "twitter": "cardanistas",
+     "website": "https://www.cardanistas.io",
+     "facebook": "cardanistas",
+     "instagram": "cardanistas",
+     "youtube": "https://www.youtube.com/cardanistas"
+   },
+   "telegram": "aticomismana",
+   "operatorName": "Ático Mismana",
+   "github": "aticomismana"
+ },
+  {
    "ticker": "YABAK",
    "poolId": "6d54378bf38d98cc52aea96b4f468898f7a8d3b03de47112275c8237",
    "social": {
