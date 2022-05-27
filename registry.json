@@ -39,6 +39,20 @@
  "operatorName": "CONRAD",
  "github": "conraddit"
 },
+ {
+ "ticker": "APOLO",
+ "poolId": "c6074d596a4d1629304bfd92715ec1677aeb378e4932723616d575f1",
+ "social": {
+     "website": "https://www.apolostakepool.com",
+     "twitter": "apolostakepool",
+     "facebook": "",  
+     "instagram": "apolostakepool",
+     "youtube": ""
+ },
+ "telegram": "julian_apolo",
+ "operatorName": "Julian M.",
+ "github": "apolo88"
+},
 {
  "ticker": "PLKOZ",                                                       
  "poolId": "0c0755334363223ee4104147c50894686b8c5fedc9eee299771860b3", 
