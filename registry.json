@@ -5085,15 +5085,16 @@
     "github": "cryptobuffofficial" 
  },
  {
-   "ticker": "WFFL",
-   "poolId": "5ed675dd3d0640ca94bf8c3d6a5bfaac0f59930c99a94ffe3686cb70",
+   "ticker": "VEGAS",
+   "poolId": "6a4a39566f5c45f0f6de34ef5e674b892e517ddeebd4eafcfd8583ef",
    "social": {
-     "twitter": "wafflepool",
-     "facebook": "",  
-     "instagram": "",
-     "youtube": ""
+     "twitter": "VEGAS_ADA_POOL",
+     "website": "https://ada.vegas",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
    },
-   "telegram": "wafflepool",
+   "telegram": "VegasAda",
    "operatorName": "",
    "github": ""
  },
