@@ -1807,6 +1807,11 @@
         "pool_id": "92fcdd76d1d9d13910cbe1930765543984e6f4ef9b7efed3cc6536a1",
         "member_since": "2022-05-22",
         "name": "CARDS"
+      },
+      "358": {
+        "pool_id": "a59e2c8422ed40242742f3b6e8219fa0c454eaa7288d71981d3b65a9",
+        "member_since": "2022-05-24",
+        "name": "DEMON"
       }
     }
   }
