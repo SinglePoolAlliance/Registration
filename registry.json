@@ -5096,5 +5096,19 @@
    "telegram": "wafflepool",
    "operatorName": "",
    "github": ""
+ },
+   {
+    "ticker": "QUEEN",                                                       
+    "poolId": "b40683f4baad755ff60f26dc73c3e371ac4c5e422feef2fc1f5f29bf", 
+    "social": {       
+      "website": "https://queenada.com",
+      "twitter": "QueenAdaStaking", 
+      "instagram": "",
+      "youtube": "https://www.youtube.com/c/QueenAdaStaking",
+      "facebook": ""
+    },
+    "telegram": "phillerino",                                          
+    "operatorName": "Phil",                                   
+    "github": "glagolef" 
  }
 ]
