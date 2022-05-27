@@ -39,6 +39,20 @@
  "operatorName": "CONRAD",
  "github": "conraddit"
 },
+ {
+ "ticker": "APOLO",
+ "poolId": "c6074d596a4d1629304bfd92715ec1677aeb378e4932723616d575f1",
+ "social": {
+     "website": "https://www.apolostakepool.com",
+     "twitter": "apolostakepool",
+     "facebook": "",  
+     "instagram": "apolostakepool",
+     "youtube": ""
+ },
+ "telegram": "julian_apolo",
+ "operatorName": "Julian M.",
+ "github": "apolo88"
+},
 {
  "ticker": "PLKOZ",                                                       
  "poolId": "0c0755334363223ee4104147c50894686b8c5fedc9eee299771860b3", 
@@ -5110,5 +5124,32 @@
    "telegram": "aticomismana",
    "operatorName": "Ático Mismana",
    "github": "aticomismana"
+ },
+  {
+   "ticker": "YABAK",
+   "poolId": "6d54378bf38d98cc52aea96b4f468898f7a8d3b03de47112275c8237",
+   "social": {
+     "twitter": "",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": "https://www.youtube.com/channel/UCdlopVXYEVDeHZNaTjPVwvA"
+   },
+   "telegram": "hysleeper",
+   "operatorName": "Sangyou Kim",
+   "github": "hysleeper"
+}, 
+   {
+    "ticker": "QUEEN",                                                       
+    "poolId": "b40683f4baad755ff60f26dc73c3e371ac4c5e422feef2fc1f5f29bf", 
+    "social": {       
+      "website": "https://queenada.com",
+      "twitter": "QueenAdaStaking", 
+      "instagram": "",
+      "youtube": "https://www.youtube.com/c/QueenAdaStaking",
+      "facebook": ""
+    },
+    "telegram": "phillerino",                                          
+    "operatorName": "Phil",                                   
+    "github": "glagolef" 
  }
 ]
