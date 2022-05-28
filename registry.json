@@ -5150,5 +5150,19 @@
     "telegram": "phillerino",                                          
     "operatorName": "Phil",                                   
     "github": "glagolef" 
+ }, 
+ {
+    "ticker": "ETR",                                                       
+    "poolId": "dcfbfc65083fd8a1d931b826e67549323d4946f02eda20622b618321", 
+    "social": {       
+      "website": "https://kunostakepool.com",
+      "twitter": "KunoHeltborg", 
+      "instagram": "",
+      "youtube": "",
+      "facebook": ""
+    },
+    "telegram": "Kunoheltborg",                                          
+    "operatorName": "Heltborg Kuno",                                   
+    "github": "kunoada" 
  }
 ]
