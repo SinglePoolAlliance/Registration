@@ -1814,11 +1814,16 @@
         "name": "DEMON"
       },
       "359": {
+        "pool_id": "0ef395f417fc1b8a124784c279575708e05d8917363fa8b3172d1631",
+        "member_since": "2022-05-27",
+        "name": "CMIX"
+      },
+      "360": {
         "pool_id": "6a4a39566f5c45f0f6de34ef5e674b892e517ddeebd4eafcfd8583ef",
         "member_since": "2022-05-27",
         "name": "VEGAS"
       },
-      "360": {
+      "361": {
         "pool_id": "c3cd2527a5f0b82a86ff69fdd5a3440dc51bcb957953ba19137738c0",
         "member_since": "2022-05-29",
         "name": "SAPIO"
