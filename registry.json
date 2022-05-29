@@ -5163,5 +5163,19 @@
     "telegram": "phillerino",                                          
     "operatorName": "Phil",                                   
     "github": "glagolef" 
+ },
+  {
+   "ticker": "VEGAS",
+   "poolId": "6a4a39566f5c45f0f6de34ef5e674b892e517ddeebd4eafcfd8583ef",
+   "social": {
+     "twitter": "VEGAS_ADA_POOL",
+     "website": "https://ada.vegas",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+   },
+   "telegram": "VegasAda",
+   "operatorName": "",
+   "github": ""
  }
 ]
