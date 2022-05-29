@@ -5098,6 +5098,32 @@
    "github": ""
  },
  {
+  "ticker": "SAPIO",
+	"poolId": "c3cd2527a5f0b82a86ff69fdd5a3440dc51bcb957953ba19137738c0",
+	"social": {
+		"twitter": "sapiopool",
+		"facebook": "",
+		"instagram": "",
+		"youtube": "https://www.youtube.com/channel/UCcPH2RMsszRGJ2awvLdMKzQ"
+	},
+	"telegram": "nikos_SAPIO",
+	"operatorName": "",
+	"github": ""
+},
+{
+   "ticker": "DAD",
+   "poolId": "dad893073815ca8b225554a2fc5048e366bd65938551323fc13cf7f5",
+   "social": {
+     "twitter": "DADstakes",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "DADSPO",
+   "operatorName": "",
+   "github": "dadstakes"
+ },
+ {
    "ticker": "DEMON",
    "poolId": "a59e2c8422ed40242742f3b6e8219fa0c454eaa7288d71981d3b65a9",
    "social": {
@@ -5164,5 +5190,33 @@
     "telegram": "Kunoheltborg",                                          
     "operatorName": "Kuno",                                   
     "github": "kunoada" 
+ },
+ {
+   "ticker": "CMIX",
+   "poolId": "0ef395f417fc1b8a124784c279575708e05d8917363fa8b3172d1631",
+   "social": {
+     "twitter": "CardanoMixer",
+     "website": "https://cardmix.io",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "cardmix",
+   "operatorName": "",
+   "github": "cardmix"
+ },
+  {
+   "ticker": "VEGAS",
+   "poolId": "6a4a39566f5c45f0f6de34ef5e674b892e517ddeebd4eafcfd8583ef",
+   "social": {
+     "twitter": "VEGAS_ADA_POOL",
+     "website": "https://ada.vegas",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+   },
+   "telegram": "VegasAda",
+   "operatorName": "",
+   "github": ""
  }
 ]
