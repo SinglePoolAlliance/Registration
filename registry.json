@@ -5177,6 +5177,20 @@
     "operatorName": "Phil",                                   
     "github": "glagolef" 
  },
+ {
+   "ticker": "CMIX",
+   "poolId": "0ef395f417fc1b8a124784c279575708e05d8917363fa8b3172d1631",
+   "social": {
+     "twitter": "CardanoMixer",
+     "website": "https://cardmix.io",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "cardmix",
+   "operatorName": "",
+   "github": "cardmix"
+ },
   {
    "ticker": "VEGAS",
    "poolId": "6a4a39566f5c45f0f6de34ef5e674b892e517ddeebd4eafcfd8583ef",
