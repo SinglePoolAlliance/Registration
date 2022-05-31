@@ -5218,5 +5218,16 @@
    "telegram": "VegasAda",
    "operatorName": "",
    "github": ""
+ },
+  {
+   "ticker": "dtDn",
+   "poolId": "8dcdf33740ee8e9da6e36337d875fb9222f5c8a1a315fda36886c615",
+   "social": {
+     "twitter": "VriesCassandra",
+     "website": "http://datadyne.earth/cardano/"
+   },
+   "telegram": "CassandradeVries",
+   "operatorName": "Cassandra",
+   "github": "NEVdataDyne"
  }
 ]
