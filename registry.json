@@ -5225,9 +5225,12 @@
    "social": {
      "twitter": "VriesCassandra",
      "website": "http://datadyne.earth/cardano/"
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
    },
    "telegram": "CassandradeVries",
-   "operatorName": "Cassandra",
+   "operatorName": "",
    "github": "NEVdataDyne"
  }
 ]
