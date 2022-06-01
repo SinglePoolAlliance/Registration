@@ -54,6 +54,21 @@
  "github": "apolo88"
 },
 {
+    "ticker": "FSTR",
+    "poolId": "743883835692e597dc4e0e8ffc5ddffbdf5d2f57e73b14f831a256b3",
+    "social": {
+      "website": "",
+      "twitter": "Oveis_HJ",
+      "discord": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "",
+    "operatorName": "Oveis H.",
+    "github": ""
+  },
+{
  "ticker": "PLKOZ",                                                       
  "poolId": "0c0755334363223ee4104147c50894686b8c5fedc9eee299771860b3", 
  "social": {                                                            
