@@ -5205,6 +5205,20 @@
    "operatorName": "",
    "github": "cardmix"
  },
+ {
+   "ticker": "SQUID",
+   "poolId": "cb11e3e5013a120ee55e8d99bdb7395366bd3164d3da1737300a2b7e",
+   "social": {
+     "twitter": "squid_pool",
+     "website": "https://squidpool.com",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "shawn_mcmurdo",
+   "operatorName": "Shawn McMurdo",
+   "github": "shawnim"
+ },
   {
    "ticker": "VEGAS",
    "poolId": "6a4a39566f5c45f0f6de34ef5e674b892e517ddeebd4eafcfd8583ef",
