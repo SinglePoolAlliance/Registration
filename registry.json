@@ -5302,7 +5302,7 @@
    "operatorName": "Nick",
    "github": "pipenlis"
  },
-  {
+ {
    "ticker": "dtDn",
    "poolId": "8dcdf33740ee8e9da6e36337d875fb9222f5c8a1a315fda36886c615",
    "social": {
@@ -5315,5 +5315,19 @@
    "telegram": "CassandradeVries",
    "operatorName": "",
    "github": "NEVdataDyne"
+ },
+ {
+   "ticker": "ANEW",
+   "poolId": "d7dc0487d80b04e9eb77e3d128debded2da917647df35da25267689f",
+   "social": {
+   "twitter": "Anew_pool",
+   "website": "https://anewpool.io",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+   },
+   "telegram": "comozo",
+   "operatorName": "Issa",
+   "github": "https://github.com/anewpool-io"
  }
 ]
