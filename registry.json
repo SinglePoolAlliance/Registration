@@ -1,4 +1,17 @@
 [
+{
+    "ticker": "AMDLO",                                                       
+    "poolId": "2730ca79a60b3b3f29b709bd39c21d66cb2c83e5441c479f755d0a3d", 
+    "social": {       
+      "website": "https://armadillo-pool.org",
+      "twitter": "Armadillo_Pool", 
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""  
+    },
+    "telegram": "Zebra [AMDLO]",                                                                           
+    "github": "Zebra-Danio" 
+ },
   {
     "ticker": "21ADA",                                                       
     "poolId": "f3efb842c77895dde51e95e54d9c309da599631ef31216bcfea11083", 
