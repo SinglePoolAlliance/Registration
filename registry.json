@@ -5218,5 +5218,19 @@
    "telegram": "VegasAda",
    "operatorName": "",
    "github": ""
+ },
+  {
+    "ticker": "RIVER",                                                       
+    "poolId": "5e44ad1c1a617a9152b884d5f4169677884912d8884c71928875adaa", 
+    "social": {       
+      "website": "https://riverpool-crypto.com/",
+      "twitter": "RiverpoolCrypto", 
+      "instagram": "riverpoolcrypto",
+      "youtube": "https://www.youtube.com/channel/UChtFxo_-nHieuSPT47nNclw",
+      "facebook": ""
+    },
+    "telegram": "jfragosojanuario",                                          
+    "operatorName": "João",                                   
+    "github": "jfragosojanuario" 
  }
 ]
