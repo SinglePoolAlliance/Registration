@@ -5218,5 +5218,19 @@
    "telegram": "VegasAda",
    "operatorName": "",
    "github": ""
+ },
+ {
+   "ticker": "TROPC",
+   "poolId": "7447913be564ff4e2505fb21ca5de980517f3b1575e006ce2d754b74",
+   "social": {
+     "twitter": "TropicPoolADA",
+     "website": "https://tropicpool.io",
+     "facebook": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "@TropicPoolADA",
+   "operatorName": "Dave Miner ",
+   "github": "daveminer"
  }
 ]
