@@ -5098,6 +5098,19 @@
    "github": ""
  },
  {
+   "ticker": "TOKEN",
+   "poolId": "1e5f4eebc56a6726fd36af2f870b3bd62b204f3cd1b36e32e8a56737",
+   "social": {
+     "twitter": "token_stakepool",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "tokenstakepool",
+   "operatorName": "",
+   "github": "tokenstakepool"
+  },
+{
   "ticker": "SAPIO",
 	"poolId": "c3cd2527a5f0b82a86ff69fdd5a3440dc51bcb957953ba19137738c0",
 	"social": {
