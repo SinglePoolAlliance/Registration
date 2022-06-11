@@ -5246,15 +5246,29 @@
    "operatorName": "",
    "github": ""
  },
+ {
+  "ticker": "GDEFI",
+  "poolId": "9f35856900fe897987a8807535bc37c474c4c874014cfce47ba52354",
+  "social": {
+     "twitter": "GdefiP",
+     "website": "https://gdefipool.com",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "pipenlis",
+   "operatorName": "Nick",
+   "github": "pipenlis"
+ },
   {
    "ticker": "dtDn",
    "poolId": "8dcdf33740ee8e9da6e36337d875fb9222f5c8a1a315fda36886c615",
    "social": {
      "twitter": "VriesCassandra",
      "website": "http://datadyne.earth/cardano/",
-      "facebook": "",  
-      "instagram": "",
-      "youtube": ""
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
    },
    "telegram": "CassandradeVries",
    "operatorName": "",
