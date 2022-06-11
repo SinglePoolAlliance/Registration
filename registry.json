@@ -4901,6 +4901,20 @@
     "github": "arichard5" 
  },
  {
+    "ticker": "GRANA",                                                       
+    "poolId": "7a4c1ee9d663dd8d3b1bedf13155cc624c5dfa95f432c30d198cd3c6", 
+    "social": {                                                            
+      "twitter": "GranAdaSwiss",
+      "website": "https://www.granadapool.com",
+      "facebook": "Granada-Staking-Pool-101994408826232",  
+      "instagram": "gran.ada.ch",
+      "youtube": ""
+    },
+    "telegram": "vitomelchionna",                                          
+    "operatorName": "Vito Melchionna",                                   
+    "github": "granada-pool" 
+ },
+  {
     "ticker": "BAIDU",                                                       
     "poolId": "c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7", 
     "social": {                                                            
@@ -5098,6 +5112,19 @@
    "github": ""
  },
  {
+   "ticker": "TOKEN",
+   "poolId": "1e5f4eebc56a6726fd36af2f870b3bd62b204f3cd1b36e32e8a56737",
+   "social": {
+     "twitter": "token_stakepool",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "tokenstakepool",
+   "operatorName": "",
+   "github": "tokenstakepool"
+  },
+{
   "ticker": "SAPIO",
 	"poolId": "c3cd2527a5f0b82a86ff69fdd5a3440dc51bcb957953ba19137738c0",
 	"social": {
@@ -5205,6 +5232,34 @@
    "operatorName": "",
    "github": "cardmix"
  },
+{
+ "ticker": "VILAI",                                                   
+ "poolId": "e7843464d334090c2e7377e5291363f3ef93a8a91d2716653361de8e",  
+ "social": {                                                           
+   "twitter": "TienNgAnh",
+   "website": "cardano2vn.io",
+   "youtube": " ",
+   "instagram": "",
+   "facebook": ""
+ },
+ "telegram": "Tiennguyenanh",                                         
+ "operatorName": "Tien Nguyen Anh",                                  
+ "github": "tienna"                                                   
+},
+ {
+   "ticker": "SQUID",
+   "poolId": "cb11e3e5013a120ee55e8d99bdb7395366bd3164d3da1737300a2b7e",
+   "social": {
+     "twitter": "squid_pool",
+     "website": "https://squidpool.com",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "shawn_mcmurdo",
+   "operatorName": "Shawn McMurdo",
+   "github": "shawnim"
+ },
   {
    "ticker": "VEGAS",
    "poolId": "6a4a39566f5c45f0f6de34ef5e674b892e517ddeebd4eafcfd8583ef",
@@ -5232,5 +5287,45 @@
    "telegram": "MatthiasRuh",
    "operatorName": "",
    "github": "SolydarOrg"
+    "ticker": "RIVER",                                                       
+    "poolId": "5e44ad1c1a617a9152b884d5f4169677884912d8884c71928875adaa", 
+    "social": {       
+      "website": "https://riverpool-crypto.com/",
+      "twitter": "RiverpoolCrypto", 
+      "instagram": "riverpoolcrypto",
+      "youtube": "https://www.youtube.com/channel/UChtFxo_-nHieuSPT47nNclw",
+      "facebook": ""
+    },
+    "telegram": "jfragosojanuario",                                          
+    "operatorName": "João",                                   
+    "github": "jfragosojanuario" 
+  },
+ {
+  "ticker": "GDEFI",
+  "poolId": "9f35856900fe897987a8807535bc37c474c4c874014cfce47ba52354",
+  "social": {
+     "twitter": "GdefiP",
+     "website": "https://gdefipool.com",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "pipenlis",
+   "operatorName": "Nick",
+   "github": "pipenlis"
+ },
+  {
+   "ticker": "dtDn",
+   "poolId": "8dcdf33740ee8e9da6e36337d875fb9222f5c8a1a315fda36886c615",
+   "social": {
+     "twitter": "VriesCassandra",
+     "website": "http://datadyne.earth/cardano/",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "CassandradeVries",
+   "operatorName": "",
+   "github": "NEVdataDyne"
  }
 ]
