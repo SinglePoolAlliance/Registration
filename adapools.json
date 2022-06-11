@@ -1842,6 +1842,11 @@
         "pool_id": "8dcdf33740ee8e9da6e36337d875fb9222f5c8a1a315fda36886c615",
         "member_since": "2022-05-31",
         "name": "dtDn"
+      },
+      "365": {
+        "pool_id": "cb11e3e5013a120ee55e8d99bdb7395366bd3164d3da1737300a2b7e",
+        "member_since": "2022-06-01",
+        "name": "SQUID"
       }
     }
   }
