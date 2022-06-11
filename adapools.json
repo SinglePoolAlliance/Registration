@@ -1852,6 +1852,11 @@
         "pool_id": "9f35856900fe897987a8807535bc37c474c4c874014cfce47ba52354",
         "member_since": "2022-06-01",
         "name": "GDEFI"
+      },
+      "367": {
+        "pool_id": "e7843464d334090c2e7377e5291363f3ef93a8a91d2716653361de8e",
+        "member_since": "2022-06-02",
+        "name": "VILAI"
       }
     }
   }
