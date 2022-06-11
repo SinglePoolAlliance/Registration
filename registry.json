@@ -5218,6 +5218,20 @@
    "operatorName": "",
    "github": "cardmix"
  },
+{
+ "ticker": "VILAI",                                                   
+ "poolId": "e7843464d334090c2e7377e5291363f3ef93a8a91d2716653361de8e",  
+ "social": {                                                           
+   "twitter": "TienNgAnh",
+   "website": "cardano2vn.io",
+   "youtube": " ",
+   "instagram": "",
+   "facebook": ""
+ },
+ "telegram": "Tiennguyenanh",                                         
+ "operatorName": "Tien Nguyen Anh",                                  
+ "github": "tienna"                                                   
+},
  {
    "ticker": "SQUID",
    "poolId": "cb11e3e5013a120ee55e8d99bdb7395366bd3164d3da1737300a2b7e",
