@@ -5315,5 +5315,19 @@
    "telegram": "CassandradeVries",
    "operatorName": "",
    "github": "NEVdataDyne"
+ },,
+  {
+   "ticker": "SOL_1",
+   "poolId": "9adbf9ce3c2da566017898c4871126f1371def427c6e245fd7c02211",
+   "social": {
+     "twitter": "SolydarOrg",
+     "website": "https://www.solydar.org",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "MatthiasRuh",
+   "operatorName": "",
+   "github": "SolydarOrg"
  }
 ]
