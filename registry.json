@@ -5315,5 +5315,19 @@
    "telegram": "CassandradeVries",
    "operatorName": "",
    "github": "NEVdataDyne"
+ },
+{
+   "ticker": "GRC1",
+   "poolId": "b3291d8a4e04835ebaa71e0523b37abe64e4cd2eeea35c0886a2dd40",
+   "social": {
+     "twitter": "Grc1P",
+     "website": "https://grc1.netcount.gr",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "arkalos",
+   "operatorName": "",
+   "github": "GRC1Pool"
  }
 ]
