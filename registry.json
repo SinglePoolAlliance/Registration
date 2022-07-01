@@ -1,5 +1,19 @@
 [
   {
+    "ticker": "SCENE",                                                       
+    "poolId": "bc8553a9b0b33cc6622e0ed0e22bac378f5c2b4601d940e0eddbe79d", 
+    "social": {       
+      "website": "https://thescenepool.com",
+      "twitter": "SCENE_POOL_SPO", 
+      "instagram": "",
+      "youtube": "",
+      "facebook": ""
+    },
+    "telegram": "SCENEPOOL",                                          
+    "operatorName": "Ryan",                                   
+    "github": "TheScenePool" 
+  },
+  {
     "ticker": "21ADA",                                                       
     "poolId": "f3efb842c77895dde51e95e54d9c309da599631ef31216bcfea11083", 
     "social": {       
