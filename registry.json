@@ -5315,5 +5315,19 @@
    "telegram": "CassandradeVries",
    "operatorName": "",
    "github": "NEVdataDyne"
+ },
+  {
+   "ticker": "DINO",
+   "poolId": "1b2523e031e0efe6e5fe0edf8c82fd51abf33a1a2feedad5456ef4d9",
+   "social": {
+     "twitter": "SPO_DINO",
+     "website": "https://cardino-ada.netlify.app/",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": "https://www.youtube.com/c/CardinoADA"
+   },
+   "telegram": "SPO_DINO",
+   "operatorName": "DINO",
+   "github": "udknow"
  }
 ]
