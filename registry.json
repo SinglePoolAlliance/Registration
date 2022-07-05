@@ -5315,5 +5315,17 @@
    "telegram": "CassandradeVries",
    "operatorName": "",
    "github": "NEVdataDyne"
- }
+ },
+  {
+   "ticker": "FFR",
+   "poolId": "213ccec05701bd77a8613e48f09ea42504c50d5d709ad16339ef0638",
+   "social": {
+     "twitter": "FatFrog33546964",
+     "website": "https://fatfrog.io/",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "Dr K"
+  }
 ]
