@@ -5345,6 +5345,21 @@
   "github": "edrickrenan"
 },
   {
+    "ticker": "FLUID",
+    "poolId": "38c2ea35c92392314b84f70535632b1b8ac3d3bd99fa7786296b160c",
+    "social": {
+      "website": "https://pool.fluid7.com/",
+      "twitter": "fluid7",
+      "youtube": "https://www.youtube.com/channel/UCDoaPMy6Dv90D_PReKqk9FQ",
+      "facebook": "Fluid7Ltd",
+      "instagram": "",
+      "discord": "n9AXnuhkhh"
+    },
+    "telegram": "jadjei",
+    "operatorName": "Jonathan Adjei",
+    "github": "jadjei"
+},
+{
    "ticker": "SOL_1",
    "poolId": "9adbf9ce3c2da566017898c4871126f1371def427c6e245fd7c02211",
    "social": {
