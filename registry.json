@@ -5305,6 +5305,20 @@
    "operatorName": "",
    "github": "NEVdataDyne"
  },
+  {
+   "ticker": "DINO",
+   "poolId": "1b2523e031e0efe6e5fe0edf8c82fd51abf33a1a2feedad5456ef4d9",
+   "social": {
+     "twitter": "SPO_DINO",
+     "website": "https://cardino-ada.netlify.app/",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": "https://www.youtube.com/c/CardinoADA"
+   },
+   "telegram": "SPO_DINO",
+   "operatorName": "DINO",
+   "github": "udknow"
+ },
 {
    "ticker": "GRC1",
    "poolId": "b3291d8a4e04835ebaa71e0523b37abe64e4cd2eeea35c0886a2dd40",
