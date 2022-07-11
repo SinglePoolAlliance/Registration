@@ -1,5 +1,19 @@
 [
   {
+    "ticker": "AMDLO",                                                       
+    "poolId": "2730ca79a60b3b3f29b709bd39c21d66cb2c83e5441c479f755d0a3d", 
+    "social": {       
+      "website": "https://armadillo-pool.org",
+      "twitter": "Armadillo_Pool", 
+      "instagram": "",
+      "youtube": "",
+      "facebook": ""
+    },
+    "telegram": "Zebra_Danio",                                          
+    "operatorName": "Zebra",                                   
+    "github": "Zebra-Danio" 
+ },
+{
     "ticker": "21ADA",                                                       
     "poolId": "f3efb842c77895dde51e95e54d9c309da599631ef31216bcfea11083", 
     "social": {       
@@ -5330,5 +5344,48 @@
     "telegram": "jadjei",
     "operatorName": "Jonathan Adjei",
     "github": "jadjei"
+},
+{
+   "ticker": "SOL_1",
+   "poolId": "9adbf9ce3c2da566017898c4871126f1371def427c6e245fd7c02211",
+   "social": {
+     "twitter": "SolydarOrg",
+     "website": "https://www.solydar.org",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "MatthiasRuh",
+   "operatorName": "",
+   "github": "SolydarOrg"
+ },
+{
+ "ticker": "ADACT",
+ "poolId": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+ "social": {
+  "website": "https://adacapital.io",
+  "instagram": "",
+  "facebook": "",
+  "twitter": "ada_capital",
+  "youtube": "https://www.youtube.com/channel/UCnZQvrAsqteYLpmEWb418yA",
+  "medium": "ada-capital"
+ },
+ "telegram": "thomaslanglois",
+ "operatorName": "Thomas",
+ "github": "adacapital"
+},
+{
+   "ticker": "JED",
+   "poolId": "df2c28671a7d2e9b29703547533543926445f3a70f119a07af41d434",
+   "social": {
+     "twitter": "JStakepool",
+     "website": "https://adapool.jed.id.au",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "Dinoaus73",
+   "operatorName": "John Dean",
+   "github": ""
   }
 ]
