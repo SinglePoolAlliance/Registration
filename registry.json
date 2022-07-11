@@ -5328,6 +5328,19 @@
  "telegram": "thomaslanglois",
  "operatorName": "Thomas",
  "github": "adacapital"
-}
-	
+},
+{
+   "ticker": "JED",
+   "poolId": "df2c28671a7d2e9b29703547533543926445f3a70f119a07af41d434",
+   "social": {
+     "twitter": "JStakepool",
+     "website": "https://adapool.jed.id.au",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "Dinoaus73",
+   "operatorName": "John Dean",
+   "github": ""
+  }
 ]
