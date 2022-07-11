@@ -5330,6 +5330,20 @@
    "operatorName": "",
    "github": "NEVdataDyne"
  },
+ {
+  "ticker": "BFADA",
+  "poolId": "4f345190f6280c907325bcd11f9b00f222f092c889f6bedfb739abb1",
+  "social": {
+    "twitter": "AdaBonafide",
+    "website": "https://bonafideada.com",
+    "facebook": "",  
+    "instagram": "bonafide_ada",
+    "youtube": "https://www.youtube.com/channel/UCsTQwCH73KnsFDpyzFnh-FQ"
+  },
+  "telegram": "Dennis_BFADA",
+  "operatorName": "",
+  "github": "edrickrenan"
+},
   {
    "ticker": "SOL_1",
    "poolId": "9adbf9ce3c2da566017898c4871126f1371def427c6e245fd7c02211",
