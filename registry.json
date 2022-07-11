@@ -5306,6 +5306,21 @@
    "github": "NEVdataDyne"
  },
   {
+   "ticker": "WILD",
+   "poolId": "4be1c3218b5c9e36750734c79ea7a9f7c71bde50e0e9159354232598",
+   "social": {
+     "twitter": "wildstakingpool",
+     "website": "https://wildstakingpool.com",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+
+   "telegram": "wildstakingpool",
+   "operatorName": "",
+   "github": ""
+ },
+  {
    "ticker": "DINO",
    "poolId": "1b2523e031e0efe6e5fe0edf8c82fd51abf33a1a2feedad5456ef4d9",
    "social": {
