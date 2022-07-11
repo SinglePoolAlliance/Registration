@@ -1887,6 +1887,11 @@
         "pool_id": "9adbf9ce3c2da566017898c4871126f1371def427c6e245fd7c02211",
         "member_since": "2022-06-14",
         "name": "SOL_1"
+      },
+      "374": {
+        "pool_id": "4f345190f6280c907325bcd11f9b00f222f092c889f6bedfb739abb1",
+        "member_since": "2022-06-16",
+        "name": "BFADA"
       }
     }
   }
