@@ -1,5 +1,19 @@
 [
   {
+    "ticker": "AMDLO",                                                       
+    "poolId": "2730ca79a60b3b3f29b709bd39c21d66cb2c83e5441c479f755d0a3d", 
+    "social": {       
+      "website": "https://armadillo-pool.org",
+      "twitter": "Armadillo_Pool", 
+      "instagram": "",
+      "youtube": "",
+      "facebook": ""
+    },
+    "telegram": "Zebra_Danio",                                          
+    "operatorName": "Zebra",                                   
+    "github": "Zebra-Danio" 
+ },
+{
     "ticker": "21ADA",                                                       
     "poolId": "f3efb842c77895dde51e95e54d9c309da599631ef31216bcfea11083", 
     "social": {       
@@ -1183,19 +1197,6 @@
     "github": "ohoh7"
   },
   {
-    "ticker": "LPR",
-    "poolId": "6aef3925b53d98084e8a9ec0145c1770e7eb57f84cd2d2613bb4c19a",
-    "social": {
-      "twitter": "LophreNet",
-      "facebook": "",
-      "instagram": " ",
-      "youtube": " "
-    },
-    "telegram": "yatoharlock",
-    "operatorName": "",
-    "github": "lophre"
-  },
-  {
     "ticker": "ADAGE",
     "poolId": "83b259c187f8b88eda564b1f56ce2786360a9dc224f737fcdd8703c1",
     "social": {
@@ -1323,18 +1324,6 @@
     },
     "telegram": "mask_88",
     "github": "PegasusPool"
-  },
-  {
-    "ticker": "UFO",
-    "poolId": "4d7ec46826abed9fdeb6effba91a7a4cf88592e35bb5740903f747e2",
-    "social": {
-      "twitter": "ADAUFOPool",
-      "facebook": "",
-      "instagram": "",
-      "youtube": ""
-    },
-    "telegram": "DB|UFO|adaufopool.eu",
-    "github": "ufopool"
   },
   {
     "ticker": "ADAGL",
@@ -5326,8 +5315,109 @@
      "instagram": "",
      "youtube": ""
    },
+
    "telegram": "wildstakingpool",
    "operatorName": "",
    "github": ""
- }
+ },
+  {
+   "ticker": "DINO",
+   "poolId": "1b2523e031e0efe6e5fe0edf8c82fd51abf33a1a2feedad5456ef4d9",
+   "social": {
+     "twitter": "SPO_DINO",
+     "website": "https://cardino-ada.netlify.app/",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": "https://www.youtube.com/c/CardinoADA"
+   },
+   "telegram": "SPO_DINO",
+   "operatorName": "DINO",
+   "github": "udknow"
+ },
+{
+   "ticker": "GRC1",
+   "poolId": "b3291d8a4e04835ebaa71e0523b37abe64e4cd2eeea35c0886a2dd40",
+   "social": {
+     "twitter": "Grc1P",
+     "website": "https://grc1.netcount.gr",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "arkalos",
+   "operatorName": "",
+   "github": "GRC1Pool"
+ },
+ {
+  "ticker": "BFADA",
+  "poolId": "4f345190f6280c907325bcd11f9b00f222f092c889f6bedfb739abb1",
+  "social": {
+    "twitter": "AdaBonafide",
+    "website": "https://bonafideada.com",
+    "facebook": "",  
+    "instagram": "bonafide_ada",
+    "youtube": "https://www.youtube.com/channel/UCsTQwCH73KnsFDpyzFnh-FQ"
+  },
+  "telegram": "Dennis_BFADA",
+  "operatorName": "",
+  "github": "edrickrenan"
+},
+  {
+    "ticker": "FLUID",
+    "poolId": "38c2ea35c92392314b84f70535632b1b8ac3d3bd99fa7786296b160c",
+    "social": {
+      "website": "https://pool.fluid7.com/",
+      "twitter": "fluid7",
+      "youtube": "https://www.youtube.com/channel/UCDoaPMy6Dv90D_PReKqk9FQ",
+      "facebook": "Fluid7Ltd",
+      "instagram": "",
+      "discord": "n9AXnuhkhh"
+    },
+    "telegram": "jadjei",
+    "operatorName": "Jonathan Adjei",
+    "github": "jadjei"
+},
+{
+   "ticker": "SOL_1",
+   "poolId": "9adbf9ce3c2da566017898c4871126f1371def427c6e245fd7c02211",
+   "social": {
+     "twitter": "SolydarOrg",
+     "website": "https://www.solydar.org",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "MatthiasRuh",
+   "operatorName": "",
+   "github": "SolydarOrg"
+ },
+{
+ "ticker": "ADACT",
+ "poolId": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+ "social": {
+  "website": "https://adacapital.io",
+  "instagram": "",
+  "facebook": "",
+  "twitter": "ada_capital",
+  "youtube": "https://www.youtube.com/channel/UCnZQvrAsqteYLpmEWb418yA",
+  "medium": "ada-capital"
+ },
+ "telegram": "thomaslanglois",
+ "operatorName": "Thomas",
+ "github": "adacapital"
+},
+{
+   "ticker": "JED",
+   "poolId": "df2c28671a7d2e9b29703547533543926445f3a70f119a07af41d434",
+   "social": {
+     "twitter": "JStakepool",
+     "website": "https://adapool.jed.id.au",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "Dinoaus73",
+   "operatorName": "John Dean",
+   "github": ""
+  }
 ]
