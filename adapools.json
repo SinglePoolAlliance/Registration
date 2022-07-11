@@ -1892,6 +1892,11 @@
         "pool_id": "b3291d8a4e04835ebaa71e0523b37abe64e4cd2eeea35c0886a2dd40",
         "member_since": "2022-06-23",
         "name": "GRC1"
+      },
+      "375": {
+        "pool_id": "1b2523e031e0efe6e5fe0edf8c82fd51abf33a1a2feedad5456ef4d9",
+        "member_since": "2022-07-02",
+        "name": "DINO"
       }
     }
   }
