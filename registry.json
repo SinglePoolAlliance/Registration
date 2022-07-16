@@ -5419,5 +5419,19 @@
    "telegram": "Dinoaus73",
    "operatorName": "John Dean",
    "github": ""
-  }
+  },
+  {
+    "ticker": "AEGIS",
+    "poolId": "ef5d6dd91e621e67b0dd05ea81bfee0d539b3a001c9bc27ccfcae2be",
+    "social": {
+      "twitter": "AegisStakepool",
+      "website": "https://aegis.eagle.fish",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "ErosSelavy",
+    "operatorName": "",
+    "github": ""
+   }
 ]
