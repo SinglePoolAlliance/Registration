@@ -5419,5 +5419,19 @@
    "telegram": "Dinoaus73",
    "operatorName": "John Dean",
    "github": ""
+  },
+{
+   "ticker": "HASH",
+   "poolId": "b49a54a4bca1160af57d6314d4c1110b0c071db47eaaa08b619c4fa1",
+   "social": {
+     "website": "https://hashvalley.com/",
+     "facebook": "hash.valley",
+     "twitter": "",
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "Jason_Durham",
+   "operatorName": "",
+   "github": ""
   }
 ]
