@@ -5419,5 +5419,19 @@
    "telegram": "Dinoaus73",
    "operatorName": "John Dean",
    "github": ""
+  },
+  {
+   "ticker": "1337",
+   "poolId": "a84d7b46aef878ae8873710bdb9ee3119094dc0bbe0d80e94f53cb9e",
+   "social": {
+     "twitter": "",
+     "website": "http://1337.chiplife.art",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "Tobbe1337",
+   "operatorName": "Tobbe",
+   "github": ""
   }
 ]
