@@ -5419,5 +5419,20 @@
    "telegram": "Dinoaus73",
    "operatorName": "John Dean",
    "github": ""
+  },
+	{
+   "ticker": "CCPL",
+   "poolId": "74e98daf82b20099df575c83fe7b9fc828035aabbe34e5ed4990d1b8",
+   "social": {
+     "twitter": "cardanocenterpl",
+     "website": "https://cardanocenter.pl",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": "https://youtube.com/KryptowalutyWieczorow%C4%85Por%C4%85",
+     "discord": "SXSJtyfMtK"
+   },
+   "telegram": "cardanopolskaADA",
+   "operatorName": "Kornel G",
+   "github": ""
   }
 ]
