@@ -5419,5 +5419,19 @@
    "telegram": "Dinoaus73",
    "operatorName": "John Dean",
    "github": ""
+  },
+  {
+    "ticker": "FFR",
+    "poolId": "213ccec05701bd77a8613e48f09ea42504c50d5d709ad16339ef0638",
+    "social": {
+      "website": "https://fatfrog.io/",
+      "twitter": "FatFrog33546964",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Dr K",
+    "operatorName": "",
+    "github": "madmutt"
   }
 ]
