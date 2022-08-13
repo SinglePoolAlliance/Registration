@@ -5419,5 +5419,19 @@
    "telegram": "Dinoaus73",
    "operatorName": "John Dean",
    "github": ""
+  },
+ {
+    "ticker": "COINZ",
+    "poolId": "91991d9238f3f270a46fc237acc3abcdf2456ff163c1639951d75d15",
+    "social": {
+      "website": "https://adacoinz.com",
+      "twitter": "adacoinz",
+      "instagram": "adacoinz",
+      "youtube": "https://www.youtube.com/channel/UCuBz3ZPM5lgd41sDaUCLmkw",
+      "facebook": "https://www.facebook.com/adacoinzstaking"
+    },
+    "telegram": "adacoinz_spo",
+    "operatorName": "Christian",
+    "github": "adacoinz"
   }
 ]
