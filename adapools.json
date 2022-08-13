@@ -1912,6 +1912,11 @@
         "pool_id": "ef5d6dd91e621e67b0dd05ea81bfee0d539b3a001c9bc27ccfcae2be",
         "member_since": "2022-07-16",
         "name": "AEGIS"
+      },
+      "379": {
+        "pool_id": "74e98daf82b20099df575c83fe7b9fc828035aabbe34e5ed4990d1b8",
+        "member_since": "2022-08-01",
+        "name": "CCPL"
       }
     }
   }
