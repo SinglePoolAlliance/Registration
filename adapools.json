@@ -1902,6 +1902,16 @@
         "pool_id": "4be1c3218b5c9e36750734c79ea7a9f7c71bde50e0e9159354232598",
         "member_since": "2022-07-03",
         "name": "WILD"
+      },
+      "377": {
+        "pool_id": "91991d9238f3f270a46fc237acc3abcdf2456ff163c1639951d75d15",
+        "member_since": "2022-07-11",
+        "name": "COINZ"
+      },
+      "378": {
+        "pool_id": "ef5d6dd91e621e67b0dd05ea81bfee0d539b3a001c9bc27ccfcae2be",
+        "member_since": "2022-07-16",
+        "name": "AEGIS"
       }
     }
   }
