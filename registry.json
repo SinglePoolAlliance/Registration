@@ -5463,7 +5463,7 @@
     "operatorName": "Christian",
     "github": "adacoinz"
   },
- {
+  {
     "ticker": "BIZAR",
     "poolId": "d291a7ebd793c51590c39fb2f76f028e8800ea66e4735353b7b39932",
     "social": {
@@ -5474,7 +5474,7 @@
       "facebook": ""
     },
     "telegram": "CardanoForge",
-    "operatorName": "CardanoForge",
+    "operatorName": "",
     "github": "Tunaconsuma"
   }
 ]
