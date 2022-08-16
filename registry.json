@@ -348,5 +348,18 @@
  "telegram": "Adafarmio",
  "operatorName": "Glen",
  "github": "fajjafarm"
+},
+{
+ "ticker": "RANCH",                                                      
+ "poolId": "a79f362a5947f002a9087837627e8d720aadcab1f5655c7b3d41abeb", 
+ "social": {                                                           
+   "twitter": "bisonHeadR",
+   "facebook": " ",  
+   "instagram": " ",
+   "youtube": " "
+  },
+ "telegram": "",                                            
+ "operatorName": "",                                
+ "github": ""
 }
 ]
