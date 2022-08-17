@@ -5462,5 +5462,18 @@
     "telegram": "adacoinz_spo",
     "operatorName": "Christian",
     "github": "adacoinz"
-  }
+  },
+   {
+ "ticker": "WHITE",
+ "poolId": "8fa4537044c02b232430dca78f51ca74c22d1ed7fb990be8b65d2794"
+ "social": {
+   "twitter": "CriptogirlB",
+   "facebook": "terranitalunatika",  
+   "instagram": "blueskyeuge",
+   "youtube": " "
+ },
+ "telegram": "PowerG",
+ "operatorName": "Maria Eugenia",
+ "github": "WHITECardano"
+}
 ]
