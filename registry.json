@@ -1,5 +1,19 @@
 [
   {
+    "ticker": "BLUE",                                                       
+    "poolId": "d058aaaeea58887b79ecb57708d1694bd323276a6b54185bd86415e7", 
+    "social": {       
+      "website": "https://blueocean.sg",
+      "twitter": "HDuyLong3", 
+      "instagram": "",
+      "youtube": "",
+      "facebook": ""
+    },
+    "telegram": "Keishyo",                                          
+    "operatorName": "Long Ho",                                   
+    "github": "keishyo" 
+ },
+ {
     "ticker": "AMDLO",                                                       
     "poolId": "2730ca79a60b3b3f29b709bd39c21d66cb2c83e5441c479f755d0a3d", 
     "social": {       
@@ -13,7 +27,7 @@
     "operatorName": "Zebra",                                   
     "github": "Zebra-Danio" 
  },
-{
+ {
     "ticker": "21ADA",                                                       
     "poolId": "f3efb842c77895dde51e95e54d9c309da599631ef31216bcfea11083", 
     "social": {       
