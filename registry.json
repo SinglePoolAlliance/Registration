@@ -5434,5 +5434,48 @@
    "telegram": "Dinoaus73",
    "operatorName": "John Dean",
    "github": ""
+  },
+	{
+   "ticker": "CCPL",
+   "poolId": "74e98daf82b20099df575c83fe7b9fc828035aabbe34e5ed4990d1b8",
+   "social": {
+     "twitter": "cardanocenterpl",
+     "website": "https://cardanocenter.pl",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": "https://youtube.com/KryptowalutyWieczorow%C4%85Por%C4%85",
+     "discord": "SXSJtyfMtK"
+   },
+   "telegram": "cornlg",
+   "operatorName": "Kornel G",
+   "github": ""
+},
+  {
+    "ticker": "AEGIS",
+    "poolId": "ef5d6dd91e621e67b0dd05ea81bfee0d539b3a001c9bc27ccfcae2be",
+    "social": {
+      "twitter": "AegisStakepool",
+      "website": "https://aegis.eagle.fish",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "ErosSelavy",
+    "operatorName": "",
+    "github": ""
+   },
+ {
+    "ticker": "COINZ",
+    "poolId": "91991d9238f3f270a46fc237acc3abcdf2456ff163c1639951d75d15",
+    "social": {
+      "website": "https://adacoinz.com",
+      "twitter": "adacoinz",
+      "instagram": "adacoinz",
+      "youtube": "https://www.youtube.com/channel/UCuBz3ZPM5lgd41sDaUCLmkw",
+      "facebook": "https://www.facebook.com/adacoinzstaking"
+    },
+    "telegram": "adacoinz_spo",
+    "operatorName": "Christian",
+    "github": "adacoinz"
   }
 ]
