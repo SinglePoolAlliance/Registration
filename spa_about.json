@@ -1,0 +1,26 @@
+{
+    "adapools": {
+        "about": {
+            "name": "Cardano Single Pool Alliance",
+            "description_short": "Cardano Single Pool Alliance is a loosely connected group of separate stake pool operators who have all vowed to run a single stake pool for the sole purpose of providing the Cardano ecosystem with True Decentralization.",
+            "description_long": "The CSPA’s primary goal to  promote True Decentralization for the Cardano blockchain. CSPA has no central authority or leadership. As a group, we aspire to an ideal – that only an abundance of single-owner-single-pool can shield Cardano against any attack.  We are bonded together by a single focus – that each stake pool operator should operate a single stake pool in the Cardano ecosystem. ",
+            "website": "https://singlepoolalliance.net/",
+            "url_png_icon_64x64": "https://singlepoolalliance.net/static/spa%20logo%2064x64.png",
+            "url_png_logo": "https://singlepoolalliance.net/static/spa%20logo%2046KB.png",
+            "social": {
+                "twitter_handle": "CardanoSPA",
+                "telegram_handle": "onepoolalliance",
+                "facebook_handle": "",
+                "youtube_handle": "",
+                "twitch_handle": "",
+                "discord_handle": "",
+                "github_handle": "SinglePoolAlliance"
+            },
+            "types": {
+                "charity": false,
+                "business": false,
+                "beneficial": true
+            }
+        }
+    }
+}
