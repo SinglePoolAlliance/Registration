@@ -1947,6 +1947,11 @@
         "pool_id": "b9147445047312aa139a331390bba715eebb58f1b66c96e660e48986",
         "member_since": "2022-08-19",
         "name": "BLU"
+      },
+      "386": {
+        "pool_id": "603749d1b47c79cdf3072c284abb9810dd98afe827d6ae2b92f115ed",
+        "member_since": "2022-08-25",
+        "name": "BIO"
       }
     }
   }
