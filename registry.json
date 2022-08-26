@@ -5435,6 +5435,20 @@
    "operatorName": "John Dean",
    "github": ""
   },
+  {
+    "ticker": "FFR",
+    "poolId": "213ccec05701bd77a8613e48f09ea42504c50d5d709ad16339ef0638",
+    "social": {
+      "website": "https://fatfrog.io/",
+      "twitter": "FatFrog33546964",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Fatfrog_FFR",
+    "operatorName": "",
+    "github": "madmutt"
+  },
 	{
    "ticker": "CCPL",
    "poolId": "74e98daf82b20099df575c83fe7b9fc828035aabbe34e5ed4990d1b8",
@@ -5449,7 +5463,7 @@
    "telegram": "cornlg",
    "operatorName": "Kornel G",
    "github": ""
-},
+  },
   {
     "ticker": "AEGIS",
     "poolId": "ef5d6dd91e621e67b0dd05ea81bfee0d539b3a001c9bc27ccfcae2be",
@@ -5464,7 +5478,7 @@
     "operatorName": "",
     "github": ""
    },
- {
+   {
     "ticker": "COINZ",
     "poolId": "91991d9238f3f270a46fc237acc3abcdf2456ff163c1639951d75d15",
     "social": {
