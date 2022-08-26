@@ -1909,46 +1909,51 @@
         "name": "AEGIS"
       },
       "378": {
+        "pool_id": "02c7fc9aa1f415c8596f0957f68a3908dbdf458da4d09be93ddd608b",
+        "member_since": "2022-07-26",
+        "name": "LIT"
+      },
+      "379": {
         "pool_id": "74e98daf82b20099df575c83fe7b9fc828035aabbe34e5ed4990d1b8",
         "member_since": "2022-08-01",
         "name": "CCPL"
       },
-      "379": {
+      "380": {
         "pool_id": "213ccec05701bd77a8613e48f09ea42504c50d5d709ad16339ef0638",
         "member_since": "2022-08-03",
         "name": "FFR"
       },
-      "380": {
+      "381": {
         "pool_id": "d291a7ebd793c51590c39fb2f76f028e8800ea66e4735353b7b39932",
         "member_since": "2022-08-15",
         "name": "BIZAR"
       },
-      "381": {
+      "382": {
         "pool_id": "a79f362a5947f002a9087837627e8d720aadcab1f5655c7b3d41abeb",
         "member_since": "2022-08-16",
         "name": "RANCH"
       },
-      "382": {
+      "383": {
         "pool_id": "8fa4537044c02b232430dca78f51ca74c22d1ed7fb990be8b65d2794",
         "member_since": "2022-08-17",
         "name": "WHITE"
       },
-      "383": {
+      "384": {
         "pool_id": "d058aaaeea58887b79ecb57708d1694bd323276a6b54185bd86415e7",
         "member_since": "2022-08-19",
         "name": "BLUE"
       },
-      "384": {
+      "385": {
         "pool_id": "7c5fd84421a68f545d09ad8580b2a154a7bb6f79f4a3a8acb4d15e27",
         "member_since": "2022-08-19",
         "name": "888"
       },
-      "385": {
+      "386": {
         "pool_id": "b9147445047312aa139a331390bba715eebb58f1b66c96e660e48986",
         "member_since": "2022-08-19",
         "name": "BLU"
       },
-      "386": {
+      "387": {
         "pool_id": "603749d1b47c79cdf3072c284abb9810dd98afe827d6ae2b92f115ed",
         "member_since": "2022-08-25",
         "name": "BIO"
