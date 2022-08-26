@@ -5305,6 +5305,21 @@
    "operatorName": "",
    "github": "NEVdataDyne"
  },
+ {
+   "ticker": "PINT",
+   "poolId": "11152917b1e01cb25ac9d993b207bfed11c097b34b77a5ce6f97cfa9",
+   "social": {
+       "twitter": "PINT_token",
+       "website": "https://beerhouse.io/",
+       "discord": "pintbeerhouse#6023",
+       "facebook": "",  
+       "instagram": "",
+       "youtube": ""
+   },
+   "telegram": "pintbeerhouse",
+   "operatorName": "",
+   "github": ""
+  },
   {
    "ticker": "WILD",
    "poolId": "4be1c3218b5c9e36750734c79ea7a9f7c71bde50e0e9159354232598",
