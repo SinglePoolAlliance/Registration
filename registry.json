@@ -5462,6 +5462,20 @@
    "telegram": "Dinoaus73",
    "operatorName": "John Dean",
    "github": ""
+ },
+ {
+   "ticker": "LIT",
+   "poolId": "02c7fc9aa1f415c8596f0957f68a3908dbdf458da4d09be93ddd608b",
+   "social": {
+     "twitter": "LitStaking",
+     "website": "https://litstaking.com",
+     "facebook": "",  
+     "instagram": "",
+     "youtube": ""
+   },
+   "telegram": "ZxRabbit",
+   "operatorName": "Steffen",
+   "github": ""
   },
   {
     "ticker": "FFR",
