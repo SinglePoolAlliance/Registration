@@ -1,4 +1,18 @@
 [
+   {
+    "ticker": "BIO",                                                       
+    "poolId": "603749d1b47c79cdf3072c284abb9810dd98afe827d6ae2b92f115ed", 
+    "social": {       
+      "website": "https://pool.bio",
+      "twitter": "b_for_ada", 
+      "instagram": "",
+      "youtube": "https://youtu.be/9OObEAfiX3E",
+      "facebook": ""
+    },
+    "telegram": "biopool",                                          
+    "operatorName": "Beatrix",                                   
+    "github": "BioPool" 
+ },
   {
     "ticker": "BLUE",                                                       
     "poolId": "d058aaaeea58887b79ecb57708d1694bd323276a6b54185bd86415e7", 
