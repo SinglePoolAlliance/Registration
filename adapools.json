@@ -1922,6 +1922,16 @@
         "pool_id": "74e98daf82b20099df575c83fe7b9fc828035aabbe34e5ed4990d1b8",
         "member_since": "2022-08-01",
         "name": "CCPL"
+      },
+      "381": {
+        "pool_id": "213ccec05701bd77a8613e48f09ea42504c50d5d709ad16339ef0638",
+        "member_since": "2022-08-03",
+        "name": "FFR"
+      },
+      "382": {
+        "pool_id": "d291a7ebd793c51590c39fb2f76f028e8800ea66e4735353b7b39932",
+        "member_since": "2022-08-15",
+        "name": "BIZAR"
       }
     }
   }
