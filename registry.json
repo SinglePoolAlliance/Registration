@@ -14,6 +14,20 @@
     "github": "BioPool" 
  },
   {
+    "ticker": "ADAUT",                                                       
+    "poolId": "e2f8f217966a62687eb007f3c776b285fa3b2d408db76edda16d3e14", 
+    "social": {       
+      "website": "https://adautism.io",
+      "twitter": "ADAutism", 
+      "instagram": "",
+      "youtube": "",
+      "facebook": ""
+    },
+    "telegram": "ADAutism",                                          
+    "operatorName": "Jeremy Spund,                                   
+    "github": "ADAutism" 
+ },
+  {
     "ticker": "BLUE",                                                       
     "poolId": "d058aaaeea58887b79ecb57708d1694bd323276a6b54185bd86415e7", 
     "social": {       
