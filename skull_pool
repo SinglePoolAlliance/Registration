@@ -1,0 +1,13 @@
+{
+ "ticker": "SKULL",                                                       # Mandatory
+ "poolId": "bbd852e7fb67e8f182def1f99d22a51c76b40222ab47d0682223e606",  # Mandatory
+ "social": {                                                            # At least 1 Mandatory more optional
+   "twitter": "diicasses",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": "",
+ },
+ "telegram": "diicasses",                                             # Mandatory Personal Telegram Handle
+ "operatorName": "Dii",                                   # Optional
+ "github": "diicasses"                                                     # Optional
+}
