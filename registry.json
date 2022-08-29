@@ -5573,5 +5573,18 @@
  "telegram": "BisonDev",                                            
  "operatorName": "",                                
  "github": ""
+},
+  {
+ "ticker": "STKPL",                                                      
+ "poolId": "596371eefd3d7c3a201d12d64428b82a4c967bc7746d8a31350799ca", 
+ "social": {                                                           
+   "twitter": "",
+   "facebook": "https://www.facebook.com/groups/602261507626219",  
+   "instagram": " ",
+   "youtube": " "
+  },
+ "telegram": "SteekPoelOperator",                                            
+ "operatorName": "Marcel",                                
+ "github": "faegan"
 }
 ]
