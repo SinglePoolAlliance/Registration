@@ -14,6 +14,20 @@
     "github": "BioPool" 
  },
   {
+    "ticker": "ADAUT",                                                       
+    "poolId": "e2f8f217966a62687eb007f3c776b285fa3b2d408db76edda16d3e14", 
+    "social": {       
+      "website": "https://adautism.io",
+      "twitter": "ADAutism", 
+      "instagram": "",
+      "youtube": "",
+      "facebook": ""
+    },
+    "telegram": "ADAutism",                                          
+    "operatorName": "Jeremy Spund",                                   
+    "github": "ADAutism" 
+ },
+  {
     "ticker": "BLUE",                                                       
     "poolId": "d058aaaeea58887b79ecb57708d1694bd323276a6b54185bd86415e7", 
     "social": {       
@@ -5586,5 +5600,18 @@
  "telegram": "SteekPoelOperator",                                            
  "operatorName": "Marcel Derks",                                
  "github": "faegan"
+},
+{
+ "ticker": "EASY1",
+ "poolId": "20df8645abddf09403ba2656cda7da2cd163973a5e439c6e43dcbea9",
+ "social": {
+   "twitter": "CryptoJoe101",
+   "facebook": " ",
+   "instagram": " ",
+   "youtube": " "
+  },
+ "telegram": "GiovanniCrypto",
+ "operatorName": "Giovanni Gargiulo",
+ "github": "nemo83"
 }
 ]
