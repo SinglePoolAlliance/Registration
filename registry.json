@@ -5573,5 +5573,18 @@
  "telegram": "BisonDev",                                            
  "operatorName": "",                                
  "github": ""
+},
+  {
+ "ticker": "EASY1",
+ "poolId": "20df8645abddf09403ba2656cda7da2cd163973a5e439c6e43dcbea9",
+ "social": {
+   "twitter": "CryptoJoe101",
+   "facebook": " ",
+   "instagram": " ",
+   "youtube": " "
+  },
+ "telegram": "GiovanniCrypto",
+ "operatorName": "Giovanni Gargiulo",
+ "github": "nemo83"
 }
 ]
