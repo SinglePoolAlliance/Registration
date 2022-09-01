@@ -5613,5 +5613,18 @@
  "telegram": "GiovanniCrypto",
  "operatorName": "Giovanni Gargiulo",
  "github": "nemo83"
+},
+{
+ "ticker": "ORCA",
+ "poolId": "83202c4914374cba6c1ee655ffed5a9b57eab61f6658faa3567376c2",
+ "social": {
+   "twitter": "@orcada_io",
+   "facebook": " ",
+   "instagram": " ",
+   "youtube": " "
+  },
+ "telegram": "@Sean_Orcada",
+ "operatorName": "Sean Doyle",
+ "github": "seanstartsup"
 }
 ]
