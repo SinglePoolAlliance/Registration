@@ -13,6 +13,20 @@
     "operatorName": "Beatrix",                                   
     "github": "BioPool" 
  },
+   {
+    "ticker": "SHARE",                                                       
+    "poolId": "ea7cdd8918204b6c53e41ac6b0c319a1ffa95312660eeeb2ced8be3a", 
+    "social": {       
+      "website": "https://share-pool.com",
+      "twitter": "share_pool", 
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCgJuiQQS-wNg3WLr-zHJkCQ",
+      "facebook": ""
+    },
+    "telegram": "share_pool",                                          
+    "operatorName": "Bastian",                                   
+    "github": "sharepool-crypto" 
+ },
   {
     "ticker": "ADAUT",                                                       
     "poolId": "e2f8f217966a62687eb007f3c776b285fa3b2d408db76edda16d3e14", 
