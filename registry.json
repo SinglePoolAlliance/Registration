@@ -4,13 +4,13 @@
  "poolId": "827c7aa359964ec100a9a3b943c73c1dd2056725b8897fd744c8adc0",
  "social": {
    "website": "https://novapool.io",
-   "twitter": "https://twitter.com/novaversepool",
-   "facebook": "https://fb.me/novapoolgermany",  
-   "instagram": "https://www.instagram.com/novapoolgermany/",
+   "twitter": "novaversepool",
+   "facebook": "novapoolgermany",  
+   "instagram": "novapoolgermany",
    "youtube": "https://youtube.com/novapool"
  },
- "telegram": "https://t.me/novapool",
- "operatorName": "TurboEgon",
+ "telegram": "novapool",
+ "operatorName": "Egon",
  "github": ""
 },
 {
