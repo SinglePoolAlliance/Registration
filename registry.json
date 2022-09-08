@@ -1,5 +1,19 @@
 [
-   {
+{
+ "ticker": "NOVA",                                                       
+ "poolId": "827c7aa359964ec100a9a3b943c73c1dd2056725b8897fd744c8adc0",
+ "social": {
+   "website": "https://novapool.io",
+   "twitter": "https://twitter.com/novaversepool",
+   "facebook": "https://fb.me/novapoolgermany",  
+   "instagram": "https://www.instagram.com/novapoolgermany/",
+   "youtube": "https://youtube.com/novapool"
+ },
+ "telegram": "https://t.me/novapool",
+ "operatorName": "TurboEgon",
+ "github": ""
+},
+{
     "ticker": "BIO",                                                       
     "poolId": "603749d1b47c79cdf3072c284abb9810dd98afe827d6ae2b92f115ed", 
     "social": {       
