@@ -28,6 +28,20 @@
     "github": "sharepool-crypto" 
  },
   {
+    "ticker": "Lotto",                                                       
+    "poolId": "ff37a9645f9d5ab34192475136bf5ceb1c18166bb40a3b1637f4022b", 
+    "social": {       
+      "website": "",
+      "twitter": "LottoLabs", 
+      "instagram": "",
+      "youtube": "",
+      "facebook": ""
+    },
+    "telegram": "LottoLabs",                                          
+    "operatorName": "Mason",                                   
+    "github": "MLField1" 
+ },
+  {
     "ticker": "ADAUT",                                                       
     "poolId": "e2f8f217966a62687eb007f3c776b285fa3b2d408db76edda16d3e14", 
     "social": {       
