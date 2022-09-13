@@ -5681,5 +5681,18 @@
 "telegram": "zgjcbc",                               
 "operatorName": "Jingguo Li",                                   
 "github": "dreday966"
+},
+{
+ "ticker": "CAN1",
+ "poolId": "566ebd3406088123f8dcc99630f122520db5d479e661c72b43571627",
+ "social": {
+   "twitter": "CanadaStakes1",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+  },
+ "telegram": "JonnyT97",
+ "operatorName": "Jonny Trafford",
+ "github": "johnnuy"
 }
 ]
