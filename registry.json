@@ -13,6 +13,34 @@
     "operatorName": "Beatrix",                                   
     "github": "BioPool" 
  },
+   {
+    "ticker": "SHARE",                                                       
+    "poolId": "ea7cdd8918204b6c53e41ac6b0c319a1ffa95312660eeeb2ced8be3a", 
+    "social": {       
+      "website": "https://share-pool.com",
+      "twitter": "share_pool", 
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCgJuiQQS-wNg3WLr-zHJkCQ",
+      "facebook": ""
+    },
+    "telegram": "share_pool",                                          
+    "operatorName": "Bastian",                                   
+    "github": "sharepool-crypto" 
+ },
+  {
+    "ticker": "Lotto",                                                       
+    "poolId": "ff37a9645f9d5ab34192475136bf5ceb1c18166bb40a3b1637f4022b", 
+    "social": {       
+      "website": "",
+      "twitter": "LottoLabs", 
+      "instagram": "",
+      "youtube": "",
+      "facebook": ""
+    },
+    "telegram": "LottoLabs",                                          
+    "operatorName": "Mason",                                   
+    "github": "MLField1" 
+ },
   {
     "ticker": "ADAUT",                                                       
     "poolId": "e2f8f217966a62687eb007f3c776b285fa3b2d408db76edda16d3e14", 
@@ -5627,5 +5655,58 @@
  "telegram": "GiovanniCrypto",
  "operatorName": "Giovanni Gargiulo",
  "github": "nemo83"
+},
+{
+ "ticker": "HARM",
+ "poolId": "4389c1059c2b2f95233506d0a063a723c22d8b6e0f0fe531c27433a8",
+ "social": {
+   "twitter": "cryptoHarmJan",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+  },
+ "telegram": "cryptoHarmJan",
+ "operatorName": "Harm-Jan",
+ "github": "cryptoharmjan"
+},
+{
+"ticker": "XMEX",                                                       
+"poolId": "fc326584793485896db00cd60d37688e41f87031d106e957f76ed7ba", 
+"social": {       
+  "website": "https://xmexicostakepool.com",
+  "twitter": "xmexicopool", 
+  "instagram": "",
+  "youtube": "",
+  "facebook": ""
+ },
+"telegram": "Josusan",                                          
+"operatorName": "Josue",                                   
+"github": "" 
+},
+{
+"ticker": "CCCP",                                                      
+"poolId": "56982230cd75d836624305ae87e2b238728e9cfa73bc043dbd6eb722",  
+"social": {                                                            
+  "twitter": "CardanoCNPool",
+  "facebook": " ",
+  "instagram": " ",
+  "youtube": " "
+},
+"telegram": "zgjcbc",                               
+"operatorName": "Jingguo Li",                                   
+"github": "dreday966"
+},
+{
+ "ticker": "CAN1",
+ "poolId": "566ebd3406088123f8dcc99630f122520db5d479e661c72b43571627",
+ "social": {
+   "twitter": "CanadaStakes1",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+  },
+ "telegram": "JonnyT97",
+ "operatorName": "Jonny Trafford",
+ "github": "johnnuy"
 }
 ]
