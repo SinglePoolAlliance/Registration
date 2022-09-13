@@ -1982,6 +1982,11 @@
         "pool_id": "ea7cdd8918204b6c53e41ac6b0c319a1ffa95312660eeeb2ced8be3a",
         "member_since": "2022-09-04",
         "name": "SHARE"
+      },
+      "393": {
+        "pool_id": "4389c1059c2b2f95233506d0a063a723c22d8b6e0f0fe531c27433a8",
+        "member_since": "2022-09-08",
+        "name": "HARM"
       }
     }
   }
