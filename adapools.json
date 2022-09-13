@@ -1997,6 +1997,11 @@
         "pool_id": "56982230cd75d836624305ae87e2b238728e9cfa73bc043dbd6eb722",
         "member_since": "2022-09-13",
         "name": "CCCP"
+      },
+      "396": {
+        "pool_id": "566ebd3406088123f8dcc99630f122520db5d479e661c72b43571627",
+        "member_since": "2022-09-13",
+        "name": "CAN1"
       }
     }
   }
