@@ -5629,6 +5629,19 @@
  "github": "nemo83"
 },
 {
+ "ticker": "HARM",
+ "poolId": "4389c1059c2b2f95233506d0a063a723c22d8b6e0f0fe531c27433a8",
+ "social": {
+   "twitter": "cryptoHarmJan",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+  },
+ "telegram": "cryptoHarmJan",
+ "operatorName": "Harm-Jan",
+ "github": "cryptoharmjan"
+},
+{
 "ticker": "XMEX",                                                       
 "poolId": "fc326584793485896db00cd60d37688e41f87031d106e957f76ed7ba", 
 "social": {       
