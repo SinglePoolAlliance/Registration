@@ -5615,16 +5615,30 @@
  "github": "nemo83"
 },
 {
- "ticker": "CCCP",                                                      
- "poolId": "56982230cd75d836624305ae87e2b238728e9cfa73bc043dbd6eb722",  
- "social": {                                                            
-   "twitter": "CardanoCNPool",
-   "facebook": " ",
-   "instagram": " ",
-   "youtube": " "
+"ticker": "XMEX",                                                       
+"poolId": "fc326584793485896db00cd60d37688e41f87031d106e957f76ed7ba", 
+"social": {       
+  "website": "https://xmexicostakepool.com",
+  "twitter": "xmexicopool", 
+  "instagram": "",
+  "youtube": "",
+  "facebook": ""
  },
- "telegram": "zgjcbc",                               
- "operatorName": "Jingguo Li",                                   
- "github": "dreday966"
+"telegram": "Josusan",                                          
+"operatorName": "Josue",                                   
+"github": "" 
+},
+{
+"ticker": "CCCP",                                                      
+"poolId": "56982230cd75d836624305ae87e2b238728e9cfa73bc043dbd6eb722",  
+"social": {                                                            
+  "twitter": "CardanoCNPool",
+  "facebook": " ",
+  "instagram": " ",
+  "youtube": " "
+},
+"telegram": "zgjcbc",                               
+"operatorName": "Jingguo Li",                                   
+"github": "dreday966"
 }
 ]
