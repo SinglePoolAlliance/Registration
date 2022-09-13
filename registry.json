@@ -1,5 +1,19 @@
 [
    {
+    "ticker": "FERAL",                                                       
+    "poolId": "c8b9f43186ff7a30a400a37e81b677f71e88eaee90250cf9462abfc9", 
+    "social": {       
+      "website": "https://feral-ada.co.uk",
+      "twitter": "FeralPool", 
+      "instagram": "",
+      "youtube": "",
+      "facebook": ""
+    },
+    "telegram": "Feral_pool",                                          
+    "operatorName": "Jason",                                   
+    "github": "feralpool" 
+ },   
+ {
     "ticker": "BIO",                                                       
     "poolId": "603749d1b47c79cdf3072c284abb9810dd98afe827d6ae2b92f115ed", 
     "social": {       
