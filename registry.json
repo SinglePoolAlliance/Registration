@@ -5613,5 +5613,19 @@
  "telegram": "GiovanniCrypto",
  "operatorName": "Giovanni Gargiulo",
  "github": "nemo83"
+},
+{
+"ticker": "XMEX",                                                       
+"poolId": "fc326584793485896db00cd60d37688e41f87031d106e957f76ed7ba", 
+"social": {       
+  "website": "https://xmexicostakepool.com",
+  "twitter": "xmexicopool", 
+  "instagram": "",
+  "youtube": "",
+  "facebook": ""
+ },
+"telegram": "Josusan",                                          
+"operatorName": "Josue",                                   
+"github": "" 
 }
 ]
