@@ -1977,6 +1977,11 @@
         "pool_id": "fc326584793485896db00cd60d37688e41f87031d106e957f76ed7ba",
         "member_since": "2022-08-31",
         "name": "XMEX"
+      },
+      "392": {
+        "pool_id": "ea7cdd8918204b6c53e41ac6b0c319a1ffa95312660eeeb2ced8be3a",
+        "member_since": "2022-09-04",
+        "name": "SHARE"
       }
     }
   }
