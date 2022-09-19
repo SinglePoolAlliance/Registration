@@ -5694,5 +5694,19 @@
  "telegram": "JonnyT97",
  "operatorName": "Jonny Trafford",
  "github": "johnnuy"
+},
+{
+ "ticker": "CONGE",
+ "poolId": "49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89",
+ "social": {
+   "website": "https://www.congeepool.com/",
+   "twitter": "congeepool",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+  },
+ "telegram": "congeepool",
+ "operatorName": "",
+ "github": ""
 }
 ]
