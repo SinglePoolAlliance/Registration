@@ -5724,6 +5724,19 @@
  "github": "johnnuy"
 },
 {
+ "ticker": "SKULL",                                                     
+ "poolId": "bbd852e7fb67e8f182def1f99d22a51c76b40222ab47d0682223e606", 
+ "social": {                                                            
+   "twitter": "diicasses",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "diicasses",                                      
+ "operatorName": "Dii",                                   
+ "github": "diicasses"                                                   
+},
+{
  "ticker": "CONGE",
  "poolId": "49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89",
  "social": {
