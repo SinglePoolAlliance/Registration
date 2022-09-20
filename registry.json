@@ -5616,6 +5616,20 @@
  "operatorName": "",                                
  "github": ""
 },
+{
+ "ticker": "FALCO",
+ "poolId": "50de79c63d672319e20be59c620eb57ed1de8b7cc7fa489d8f22e353",
+ "social": {
+   "website": "https://FalconStakepool.com/",
+   "twitter": "FalconStakepool",
+   "facebook": "",
+   "instagram": "FalconStakepool",
+   "youtube": "https://www.youtube.com/channel/UCML7F2_4Wu_HWD3UakUR6lg"
+ },
+ "telegram": "MatiFalcone",
+ "operatorName": "Matias",
+ "github": "MatiFalcone"
+ },
   {
  "ticker": "STKPL",                                                      
  "poolId": "596371eefd3d7c3a201d12d64428b82a4c967bc7746d8a31350799ca", 
