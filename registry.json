@@ -5724,6 +5724,20 @@
  "github": "johnnuy"
 },
 {
+ "ticker": "CONGE",
+ "poolId": "49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89",
+ "social": {
+   "website": "https://www.congeepool.com/",
+   "twitter": "congeepool",
+      "facebook": "",
+   "instagram": "",
+   "youtube": ""
+  },
+ "telegram": "congeepool",
+ "operatorName": "",
+ "github": ""
+},
+{
  "ticker": "PAL",
  "poolId": "5090bc31f8e531dcace452e7d2fdf2baee3ae84175ea56dde8ae5cfa",
  "social": {
