@@ -5724,6 +5724,20 @@
  "github": "johnnuy"
 },
 {
+ "ticker": "PAL",
+ "poolId": "5090bc31f8e531dcace452e7d2fdf2baee3ae84175ea56dde8ae5cfa",
+ "social": {
+   "website": "https://pallamus.com",
+   "twitter": "IsauroBargas",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+  },
+ "telegram": "Pallamus",
+ "operatorName": "Isauro Bargas",
+ "github": "izzbargas"
+},
+{
  "ticker": "ORCA",
  "poolId": "83202c4914374cba6c1ee655ffed5a9b57eab61f6658faa3567376c2",
  "social": {
