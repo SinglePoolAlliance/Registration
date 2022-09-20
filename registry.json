@@ -1,5 +1,19 @@
 [
-   {
+{
+ "ticker": "NOVA",                                                       
+ "poolId": "827c7aa359964ec100a9a3b943c73c1dd2056725b8897fd744c8adc0",
+ "social": {
+   "website": "https://novapool.io",
+   "twitter": "novaversepool",
+   "facebook": "novapoolgermany",  
+   "instagram": "novapoolgermany",
+   "youtube": "https://youtube.com/novapool"
+ },
+ "telegram": "TurboEgon",
+ "operatorName": "Egon",
+ "github": ""
+},
+{
     "ticker": "BIO",                                                       
     "poolId": "603749d1b47c79cdf3072c284abb9810dd98afe827d6ae2b92f115ed", 
     "social": {       
@@ -5616,6 +5630,20 @@
  "operatorName": "",                                
  "github": ""
 },
+{
+ "ticker": "FALCO",
+ "poolId": "50de79c63d672319e20be59c620eb57ed1de8b7cc7fa489d8f22e353",
+ "social": {
+   "website": "https://FalconStakepool.com/",
+   "twitter": "FalconStakepool",
+   "facebook": "",
+   "instagram": "FalconStakepool",
+   "youtube": "https://www.youtube.com/channel/UCML7F2_4Wu_HWD3UakUR6lg"
+ },
+ "telegram": "MatiFalcone",
+ "operatorName": "Matias",
+ "github": "MatiFalcone"
+ },
   {
  "ticker": "STKPL",                                                      
  "poolId": "596371eefd3d7c3a201d12d64428b82a4c967bc7746d8a31350799ca", 
@@ -5707,5 +5735,46 @@
  "telegram": "diicasses",                                      
  "operatorName": "Dii",                                   
  "github": "diicasses"                                                   
+},
+{
+ "ticker": "CONGE",
+ "poolId": "49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89",
+ "social": {
+   "website": "https://www.congeepool.com/",
+   "twitter": "congeepool",
+      "facebook": "",
+   "instagram": "",
+   "youtube": ""
+  },
+ "telegram": "congeepool",
+ "operatorName": "",
+ "github": ""
+},
+{
+ "ticker": "PAL",
+ "poolId": "5090bc31f8e531dcace452e7d2fdf2baee3ae84175ea56dde8ae5cfa",
+ "social": {
+   "website": "https://pallamus.com",
+   "twitter": "IsauroBargas",
+   "facebook": "",
+   "instagram": "",
+   "youtube": ""
+  },
+ "telegram": "Pallamus",
+ "operatorName": "Isauro Bargas",
+ "github": "izzbargas"
+},
+{
+ "ticker": "ORCA",
+ "poolId": "83202c4914374cba6c1ee655ffed5a9b57eab61f6658faa3567376c2",
+ "social": {
+   "twitter": "orcada_io",
+   "facebook": " ",
+   "instagram": " ",
+   "youtube": " "
+  },
+ "telegram": "Sean_Orcada",
+ "operatorName": "Sean Doyle",
+ "github": "seanstartsup"
 }
 ]
