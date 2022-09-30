@@ -5776,5 +5776,19 @@
  "telegram": "Sean_Orcada",
  "operatorName": "Sean Doyle",
  "github": "seanstartsup"
+},
+{
+ "ticker": "CERP",                                                       
+ "poolId": "cd596bbfcb5cc46005fa340eb1046b40d1c49aeaadf03f6b700fbec1",
+ "social": {
+   "website": "https://cerp.dev",
+   "twitter": "cerpofficial",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "cerpofficial",
+ "operatorName": "Jay",
+ "github": "CERP-Team"
 }
 ]
