@@ -5778,6 +5778,20 @@
  "github": "seanstartsup"
 },
 {
+ "ticker": "CERP",                                                       
+ "poolId": "cd596bbfcb5cc46005fa340eb1046b40d1c49aeaadf03f6b700fbec1",
+ "social": {
+   "website": "https://cerp.dev",
+   "twitter": "cerpofficial",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "cerpofficial",
+ "operatorName": "Jay",
+ "github": "CERP-Team"
+},
+{
  "ticker": "BITB",
  "poolId": "666768d552a3408574bccea7361e951dd6aa7a35903a6ece6802c72b",
  "social": {
