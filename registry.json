@@ -5790,5 +5790,18 @@
  "telegram": "cerpofficial",
  "operatorName": "Jay",
  "github": "CERP-Team"
+},
+{
+ "ticker": "BITB",
+ "poolId": "666768d552a3408574bccea7361e951dd6aa7a35903a6ece6802c72b",
+ "social": {
+   "twitter": "Bitterbalpool",
+   "facebook": " ",
+   "instagram": " ",
+   "youtube": "https://www.youtube.com/channel/UC4c58FWL0QQywKpImt018hQ"
+  },
+ "telegram": "Yogel1",
+ "operatorName": "",
+ "github": ""
 }
 ]
