@@ -2032,6 +2032,11 @@
         "pool_id": "bbd852e7fb67e8f182def1f99d22a51c76b40222ab47d0682223e606",
         "member_since": "2022-09-20",
         "name": "SKULL"
+      },
+      "403": {
+        "pool_id": "666768d552a3408574bccea7361e951dd6aa7a35903a6ece6802c72b",
+        "member_since": "2022-09-28",
+        "name": "BITB"
       }
     }
   }
