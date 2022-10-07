@@ -40,16 +40,16 @@ jobs:
       - name: Run python script
         run: python3 .github/scripts/createJSON.py
 
-      - name: Show local JSON file
-        run: cat adapools.json
+      - name: Show cexplorer JSON file
+        run: cat cexplorer.json
 
       - name: Prepare git for local push to repo
         run: |
           git config --local user.email "onepoolbot@noreply.github.com"
           git config --local user.name onepoolbot
 
-      - name: Push created adapools.json to repo
+      - name: Push created adapools.json and cexplorer.json to repo
         run: |
-          git add adapools.json
-          git commit -m "[skip ci] re(build) adapools.json"
+          git add adapools.json cexplorer.json
+          git commit -m "[skip ci] re(build) adapools.json cexplorer.json"
           git push
