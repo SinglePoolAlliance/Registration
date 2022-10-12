@@ -5137,5 +5137,18 @@
     "telegram": "Yogel1",
     "operatorName": "",
     "github": ""
+  },
+  {
+    "ticker": "AAATO",
+    "poolId": "96cd4a3a846cad3a99b43a3632990ba2eba9a2153f736f78ab2ab3e1",
+    "social": {
+      "twitter": "cryptovios1",
+      "facebook": " ",
+      "instagram": " ",
+      "youtube": "https://www.youtube.com/channel/UC4t1o-i3DUieL5erhYYFYTQ"
+    },
+    "telegram": "cryptovios",
+    "operatorName": "",
+    "github": "cryptovios"
   }
 ]
