@@ -5150,8 +5150,8 @@
     "telegram": "cryptovios",
     "operatorName": "",
     "github": "cryptovios"
-  }
-]  {
+  },
+  {
     "ticker": "STAYK",
     "poolId": "fd6049e6058460efa683a0e090e5b98d0ea1d6db539a5a9b0bc649de",
     "social": {
@@ -5164,4 +5164,4 @@
     "telegram": "BasMons",
     "operatorName": "Bas Mons",
     "github": "BaasMons"
-  },
+  }
