@@ -5150,5 +5150,19 @@
     "telegram": "cryptovios",
     "operatorName": "",
     "github": "cryptovios"
+  },
+  {
+    "ticker": "BLABS",
+    "poolId": "5a4b9516179026576109a1536a907203948017cefd9a0c954254d196",
+    "social": {
+      "website": "http://www.blocklabs.info",
+      "twitter": "BlockLabs2",
+      "facebook": " ",
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "el Martino",
+    "operatorName": "BlockLabs",
+    "github": "mogog"
   }
 ]
