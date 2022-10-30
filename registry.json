@@ -1,5 +1,19 @@
 [
   {
+    "ticker": "LOVE2",
+    "poolId": "65a6837264ea1d99e8af24e3a0f54cd4b3821919eb3e59b3a56b857e",
+    "social": {
+      "website": "https://love2stake.com",
+      "twitter": "love2stake",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "https://youtube.com/novapool"
+    },
+    "telegram": "love2Stake",
+    "operatorName": "Silk",
+    "github": ""
+  },
+  {
     "ticker": "NOVA",
     "poolId": "827c7aa359964ec100a9a3b943c73c1dd2056725b8897fd744c8adc0",
     "social": {
