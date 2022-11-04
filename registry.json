@@ -5139,6 +5139,21 @@
     "github": ""
   },
   {
+
+    "ticker": "CHIL",
+    "poolId": "7e7eb329d995759d2b9fdb85b8d0c9e3fa2e57c460641c8fc875e780",
+    "social": {
+      "twitter": "ChileStakepo",
+      "facebook": " ",
+      "instagram": "https://www.instagram.com/chilestakepo/?hl=es ",
+      "youtube": "https://www.youtube.com/channel/UCH_lYL9BJ5hLKwZkR90NSBA "
+    },
+    "telegram": "Chilestakeponotepedimosdinero",
+    "operatorName": "Rodrigo",
+    "github": "rodrigoioyz"
+    },
+    {
+
     "ticker": "AAATO",
     "poolId": "96cd4a3a846cad3a99b43a3632990ba2eba9a2153f736f78ab2ab3e1",
     "social": {
