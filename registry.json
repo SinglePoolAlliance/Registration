@@ -1,4 +1,18 @@
 [
+    {
+    "ticker": "HAWAK",
+    "poolId": "a24d65818d2aa00387f788e4d1da1cdaca138c50e9136af6cc55e68a",
+    "social": {
+      "website": "https://tinyurl.com/hawakpool",
+      "twitter": "BRNMXR",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "" 
+    },
+    "telegram": "BRN_MXR",
+    "operatorName": "Amir Azem",
+    "github": "BRNMXR"
+  },
   {
     "ticker": "NOVA",
     "poolId": "827c7aa359964ec100a9a3b943c73c1dd2056725b8897fd744c8adc0",
