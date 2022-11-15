@@ -5193,5 +5193,19 @@
     "telegram": "BasMons",
     "operatorName": "Bas Mons",
     "github": "BaasMons"
+ },
+  {
+    "ticker": "NINJZ",
+    "poolId": "3e0da05e5924c706f82cc0d9ecc49aa5a041239dc85555785cde0eb5",
+    "social": {
+      "website": "https://www.adaninjaz.com/",
+      "twitter": "NinjaZPool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "NinjaVivid",
+    "operatorName": "Michael Phillips",
+    "github": "Vivid4516"
   }
 ]
