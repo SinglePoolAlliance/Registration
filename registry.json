@@ -5193,5 +5193,19 @@
     "telegram": "BasMons",
     "operatorName": "Bas Mons",
     "github": "BaasMons"
+  },
+  {
+    "ticker": "ABLE",
+    "poolId": "dacf06a23e4aaf119024e63deb79861ca175b24e7d44d97fb92b1a22",
+    "social": {
+      "website": "https://www.able-pool.io",
+      "twitter": "AbleStake",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Hornan7",
+    "operatorName": "Hornan",
+    "github": "Hornan7"
   }
 ]
