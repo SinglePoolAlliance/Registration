@@ -5193,5 +5193,19 @@
     "telegram": "BasMons",
     "operatorName": "Bas Mons",
     "github": "BaasMons"
+  },
+  {
+    "ticker": "DOTAR",
+    "poolId": "7cd510133850b195b1f989bc96c88d86203fe574806eaba169c78d41",
+    "social": {
+      "website": "https://www.dotare.io",
+      "twitter": "dotareio",
+      "facebook": "dotareio",
+      "instagram": "",
+      "youtube": "@dotare"
+    },
+    "telegram": "",
+    "operatorName": "Dotare",
+    "github": ""
   }
 ]
