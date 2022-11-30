@@ -5193,5 +5193,19 @@
     "telegram": "BasMons",
     "operatorName": "Bas Mons",
     "github": "BaasMons"
+  },
+  {
+    "ticker": "BREW",
+    "poolId": "e86fd25073a2636d91ff5561c6062a28435f964fc5485df11c5a444d",
+    "social": {
+      "website": "https://brewclub.io",
+      "twitter": "brewclubio",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "abashai",
+    "operatorName": "Abashai",
+    "github": "TheBrewClub"
   }
 ]
