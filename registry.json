@@ -152,6 +152,20 @@
     "github": "conraddit"
   },
   {
+    "ticker": "BEGIN",
+    "poolId": "b59bf139701b8cdae5c997225f438db7603ef1d9fd9a1f62dc5821eb",
+    "social": {
+      "website": "https://begin.is"
+      "twitter": "BeginWallet",
+      "facebook": "beginwallet",
+      "instagram": "beginwallet",
+      "youtube": "beginwallet"
+    },
+    "telegram": "francisluz",
+    "operatorName": "B58 Finance",
+    "github": "B58-Finance"
+  },
+  {
     "ticker": "APOLO",
     "poolId": "c6074d596a4d1629304bfd92715ec1677aeb378e4932723616d575f1",
     "social": {
