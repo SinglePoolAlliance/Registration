@@ -5193,6 +5193,20 @@
     "telegram": "BasMons",
     "operatorName": "Bas Mons",
     "github": "BaasMons"
+  },
+  {
+    "ticker": "000",
+    "poolId": "01df29429173d263c7533a22742dae19f16a08798b7a57873c34cf58",
+    "social": {
+      "website": "https://ispool.live",
+      "twitter": "ISP_Cardano",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Leo_spo",
+    "operatorName": "",
+    "github": "cardanoinvest"
 },
 {
     "ticker": "YACP",
