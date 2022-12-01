@@ -5193,8 +5193,22 @@
     "telegram": "BasMons",
     "operatorName": "Bas Mons",
     "github": "BaasMons"
-  },
-  {
+},
+{
+    "ticker": "YACP",
+    "poolId": "30923de78639f58b376acdad15c4d9562f4d6b5bf08ddd356f10d3ba",
+    "social": {
+      "website": "https://github.com/dodopontocom/yacp",
+      "twitter": "rodolfotiago",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "rodolfotiago",
+    "operatorName": "Rodolfo Neto",
+    "github": "https://github.com/dodopontocom/yacp"
+},
+{
     "ticker": "DOTAR",
     "poolId": "7cd510133850b195b1f989bc96c88d86203fe574806eaba169c78d41",
     "social": {
