@@ -5195,6 +5195,20 @@
     "github": "BaasMons"
   },
   {
+    "ticker": "DRSTK",
+    "poolId": "8ef3c4596d7fc97a3accc132d24a39af1635c399084d1dbfbdc665ee",
+    "social": {
+      "website": "https://doctorstake.network",
+      "twitter": "TheDoctorStake",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "doctorstake",
+    "operatorName": "Odair Trujillo",
+    "github": "OdairTrujillo"
+},
+{
     "ticker": "PPWMT",
     "poolId": "a037775b77616d7bab8a34019b6bb020479a0e76aba800ca1232eda1",
     "social": {
