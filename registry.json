@@ -5195,6 +5195,20 @@
     "github": "BaasMons"
   },
   {
+    "ticker": "PPWMT",
+    "poolId": "a037775b77616d7bab8a34019b6bb020479a0e76aba800ca1232eda1",
+    "social": {
+      "website": "https://www.pool-party.co",
+      "twitter": "ADApoolparty",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "root_poolparty",
+    "operatorName": "",
+    "github": ""
+},
+{
     "ticker": "000",
     "poolId": "01df29429173d263c7533a22742dae19f16a08798b7a57873c34cf58",
     "social": {
