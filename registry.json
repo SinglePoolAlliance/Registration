@@ -5207,5 +5207,75 @@
     "telegram": "root_poolparty",
     "operatorName": "",
     "github": ""
+},
+{
+    "ticker": "000",
+    "poolId": "01df29429173d263c7533a22742dae19f16a08798b7a57873c34cf58",
+    "social": {
+      "website": "https://ispool.live",
+      "twitter": "ISP_Cardano",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Leo_spo",
+    "operatorName": "",
+    "github": "cardanoinvest"
+},
+{
+    "ticker": "YACP",
+    "poolId": "30923de78639f58b376acdad15c4d9562f4d6b5bf08ddd356f10d3ba",
+    "social": {
+      "website": "https://github.com/dodopontocom/yacp",
+      "twitter": "rodolfotiago",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "rodolfotiago",
+    "operatorName": "Rodolfo Neto",
+    "github": "https://github.com/dodopontocom/yacp"
+},
+{
+    "ticker": "DOTAR",
+    "poolId": "7cd510133850b195b1f989bc96c88d86203fe574806eaba169c78d41",
+    "social": {
+      "website": "https://www.dotare.io",
+      "twitter": "dotareio",
+      "facebook": "dotareio",
+      "instagram": "dotareio",
+      "youtube": "https://www.youtube.com/@dotare"
+    },
+    "telegram": "cgerckert",
+    "operatorName": "Christopher Erckert",
+    "github": "dotareio"
+},
+{
+    "ticker": "ABLE",
+    "poolId": "dacf06a23e4aaf119024e63deb79861ca175b24e7d44d97fb92b1a22",
+    "social": {
+      "website": "https://www.able-pool.io",
+      "twitter": "AbleStake",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Hornan7",
+    "operatorName": "Hornan",
+    "github": "Hornan7"
+ },
+  {
+    "ticker": "NINJZ",
+    "poolId": "3e0da05e5924c706f82cc0d9ecc49aa5a041239dc85555785cde0eb5",
+    "social": {
+      "website": "https://www.adaninjaz.com/",
+      "twitter": "NinjaZPool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "NinjaVivid",
+    "operatorName": "Michael Phillips",
+    "github": "Vivid4516"
   }
 ]
