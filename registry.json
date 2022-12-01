@@ -5195,6 +5195,20 @@
     "github": "BaasMons"
   },
   {
+    "ticker": "DOTAR",
+    "poolId": "7cd510133850b195b1f989bc96c88d86203fe574806eaba169c78d41",
+    "social": {
+      "website": "https://www.dotare.io",
+      "twitter": "dotareio",
+      "facebook": "dotareio",
+      "instagram": "dotareio",
+      "youtube": "https://www.youtube.com/@dotare"
+    },
+    "telegram": "cgerckert",
+    "operatorName": "Christopher Erckert",
+    "github": "dotareio"
+},
+{
     "ticker": "ABLE",
     "poolId": "dacf06a23e4aaf119024e63deb79861ca175b24e7d44d97fb92b1a22",
     "social": {
