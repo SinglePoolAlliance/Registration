@@ -1862,6 +1862,11 @@
         "pool_id": "a037775b77616d7bab8a34019b6bb020479a0e76aba800ca1232eda1",
         "member_since": "2022-11-30",
         "name": "PPWMT"
+      },
+      "369": {
+        "pool_id": "e86fd25073a2636d91ff5561c6062a28435f964fc5485df11c5a444d",
+        "member_since": "2022-12-02",
+        "name": "BREW"
       }
     }
   }
