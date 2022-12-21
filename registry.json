@@ -5318,5 +5318,19 @@
     "telegram": "abashai",
     "operatorName": "Jason Seibert",
     "github": "TheBrewClub"
+  },
+  {
+    "ticker": "HWRLD",
+    "poolId": "50a7d6c3ad4aaf5668d749e4e063481c8d01b67a4d237a6603b76540",
+    "social": {
+      "website": "https://www.helloworldpool.com/",
+      "twitter": "helloworldpool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "hello_world_pool",
+    "operatorName": "Alex Langevin",
+    "github": "alexlangev"
   }
 ]
