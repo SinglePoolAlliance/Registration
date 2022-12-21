@@ -1872,6 +1872,11 @@
         "pool_id": "07b5253fa93b08b85ac7cc9ea8d493b8b23ec3fea7ce6b5b46606611",
         "member_since": "2022-12-08",
         "name": "BAR"
+      },
+      "371": {
+        "pool_id": "940d6893606290dc6b7705a8aa56a857793a8ae0a3906d4e2afd2119",
+        "member_since": "2022-12-15",
+        "name": "WYAM"
       }
     }
   }
