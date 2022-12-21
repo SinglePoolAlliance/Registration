@@ -5291,6 +5291,21 @@
     "github": "Vivid4516"
   },
   {
+    "ticker": "WYAM",
+    "poolId": "940d6893606290dc6b7705a8aa56a857793a8ae0a3906d4e2afd2119",
+    "social": {
+      "facebook": "",
+      "twitter": "WYAM_StakePool",
+      "website": "https://wyam-stakepool.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Akyo_3",
+    "operatorName": "Akyo",
+    "github": "akyo3"
+  },
+  {
     "ticker": "BREW",
     "poolId": "e86fd25073a2636d91ff5561c6062a28435f964fc5485df11c5a444d",
     "social": {
