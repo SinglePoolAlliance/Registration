@@ -5332,5 +5332,19 @@
     "telegram": "hello_world_pool",
     "operatorName": "Alex Langevin",
     "github": "alexlangev"
+  },
+   {
+    "ticker": "MONKI",
+    "poolId": "3e83527db3abcd7c819899523e60d74bc7f6981c9c06fe09a46e23a3",
+    "social": {
+      "website": "https://69ingMonkeys.com/",
+      "twitter": "69ingMonkeys_",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "69ingMonkeys"
+    },
+    "telegram": "Monkeyzzz",
+    "operatorName": "",
+    "github": ""
   }
 ]
