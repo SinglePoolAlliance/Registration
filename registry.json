@@ -5332,5 +5332,20 @@
     "telegram": "hello_world_pool",
     "operatorName": "Alex Langevin",
     "github": "alexlangev"
+  },
+   {
+    "ticker": "MEDA🌌",
+    "poolId": "1aee47982a812687e08d09e8e608be8c05b02a703f281addb96d9df2",
+    "social": {
+      "website": "https://sites.google.com/view/andromedaway/projects/andromeda-stake-pool?authuser=0",
+      "twitter": "PoolAndromeda",
+      "facebook": "https://www.facebook.com/groups/1172142893230568",
+      "discord": "https://discord.gg/QpyuCyAhwj",
+      "instagram": "https://www.instagram.com/bulgarian_cardano_community/",
+      "youtube": "https://www.youtube.com/@andromedaway" 
+    },
+    "telegram": "LeBlanc6",
+    "operatorName": "Martin Marinov",
+    "github": "6LeBlanc6"
   }
 ]
