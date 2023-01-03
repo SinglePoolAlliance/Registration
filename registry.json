@@ -5361,5 +5361,18 @@
     "telegram": "LeBlanc6",
     "operatorName": "Martin Marinov",
     "github": "6LeBlanc6"
-  }
+  },
+   { 
+ "ticker": "LAKE",                                                      
+ "poolId": "abcd27d5ee8f838e24cdb8653cbe309a86d7a4c48576ac3e0893a810", 
+ "social": {                                                           
+   "twitter": "StakeLake",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": "channel/UC3ddCa4-HM3v4ndt5tknIjw"
+ },
+ "telegram": "avgustinkastelic",                                            
+ "operatorName": "LAKE Admin",                                
+ "github": "Testernode"
+ }
 ]
