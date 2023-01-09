@@ -1892,6 +1892,11 @@
         "pool_id": "1aee47982a812687e08d09e8e608be8c05b02a703f281addb96d9df2",
         "member_since": "2023-01-01",
         "name": "MEDA\ud83c\udf0c"
+      },
+      "375": {
+        "pool_id": "abcd27d5ee8f838e24cdb8653cbe309a86d7a4c48576ac3e0893a810",
+        "member_since": "2023-01-03",
+        "name": "LAKE"
       }
     }
   }
