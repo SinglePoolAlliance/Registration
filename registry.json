@@ -5388,5 +5388,20 @@
  "telegram": "avgustinkastelic",                                            
  "operatorName": "",                                
  "github": "Testernode"
- }
+ },
+  {
+    "ticker": "JNGL",
+    "poolId": "09fa1d3156d3ed6eb2370631777d66bf1c14b9405c8eb361d58603ed",
+    "social": {
+      "website": "https://junglestakepool.com",
+      "twitter": "junglestakepool",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/@workwithcardano"
+    },
+    "telegram": "caikejungle",
+    "operatorName": "Carlos Souza",
+    "github": "wowica"
+  }
 ]
