@@ -1902,6 +1902,11 @@
         "pool_id": "abcd27d5ee8f838e24cdb8653cbe309a86d7a4c48576ac3e0893a810",
         "member_since": "2023-01-03",
         "name": "LAKE"
+      },
+      "377": {
+        "pool_id": "09fa1d3156d3ed6eb2370631777d66bf1c14b9405c8eb361d58603ed",
+        "member_since": "2023-01-09",
+        "name": "JNGL"
       }
     }
   }
