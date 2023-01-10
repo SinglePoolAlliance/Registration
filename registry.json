@@ -1,5 +1,19 @@
 [
    {
+    "ticker": "STPZ1",
+    "poolId": "f218d7c550fecc856bdf09c6ec12d64f68a59b6727f29bedb06d88b1",
+    "social": {
+      "website": "https://www.facebook.com/STPZpool/",
+      "twitter": "STackingPiZza",
+      "facebook": "STPZpool",
+      "instagram": "",
+      "youtube": "" 
+      },
+    "telegram": "StakingPizzaADAPool_STPZ1",
+    "operatorName": "Stefano",
+    "github": "stefanosu-code"
+   },
+   {
  "ticker": "BAR",                                                       
  "poolId": "07b5253fa93b08b85ac7cc9ea8d493b8b23ec3fea7ce6b5b46606611",  
  "social": {                                                            
