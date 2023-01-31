@@ -5403,5 +5403,20 @@
     "telegram": "caikejungle",
     "operatorName": "Carlos Souza",
     "github": "wowica"
+  },
+  {
+    "ticker": "501C3",
+    "poolId": "878172ba067b3decf89d8c8eaebab23c66f716e7028686202d58bd44",
+    "social": {
+      "website": "https://www.cardanosolution.org",
+      "twitter": "solutioncardano",
+      "facebook": "",
+      "discord": "https://discord.gg/CbJqF42ePX",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "",
+    "operatorName": "",
+    "github": "ben-csoln"
   }
 ]
