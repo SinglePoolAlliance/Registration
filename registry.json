@@ -5403,5 +5403,20 @@
     "telegram": "caikejungle",
     "operatorName": "Carlos Souza",
     "github": "wowica"
+  },
+     {
+    "ticker": "SCM",
+    "poolId": "2ce9bfc4e0a732d21ec8739cbfc3b10957b4e3297fd320d556f48ada",
+    "social": {
+      "website": "https://sickcity.xyz",
+      "twitter": "sickcity7",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "SickCityNFT",
+    "operatorName": "Fred Tarasevicius",
+    "github": "SickCityNFT"
   }
 ]
