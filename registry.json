@@ -5403,5 +5403,20 @@
     "telegram": "caikejungle",
     "operatorName": "Carlos Souza",
     "github": "wowica"
+  },
+     {
+    "ticker": "GOKEY",
+    "poolId": "c3c27acc9633f75202050d99f475178cff31cfde6d059696cc2d97f9",
+    "social": {
+      "website": "https://gokey.finance",
+      "twitter": "GoKeyFinance",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "CraigImmel",
+    "operatorName": "Craig Immel",
+    "github": "SickCityNFT"
   }
 ]
