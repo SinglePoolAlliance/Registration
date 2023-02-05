@@ -1,5 +1,19 @@
 [
    {
+    "ticker": "STPZ1",
+    "poolId": "f218d7c550fecc856bdf09c6ec12d64f68a59b6727f29bedb06d88b1",
+    "social": {
+      "website": "https://www.facebook.com/STPZpool/",
+      "twitter": "STackingPiZza",
+      "facebook": "STPZpool",
+      "instagram": "",
+      "youtube": "" 
+      },
+    "telegram": "StakingPizzaADAPool_STPZ1",
+    "operatorName": "Stefano",
+    "github": "stefanosu-code"
+   },
+   {
  "ticker": "BAR",                                                       
  "poolId": "07b5253fa93b08b85ac7cc9ea8d493b8b23ec3fea7ce6b5b46606611",  
  "social": {                                                            
@@ -5305,12 +5319,12 @@
     "github": "Vivid4516"
   },
   {
-    "ticker": "WYAM",
+    "ticker": "AKYO",
     "poolId": "940d6893606290dc6b7705a8aa56a857793a8ae0a3906d4e2afd2119",
     "social": {
       "facebook": "",
-      "twitter": "WYAM_StakePool",
-      "website": "https://wyam-stakepool.com",
+      "twitter": "AKYO_POOL",
+      "website": "https://akyo.org",
       "reddit": "",
       "instagram": "",
       "youtube": ""
@@ -5404,7 +5418,7 @@
     "operatorName": "Carlos Souza",
     "github": "wowica"
   },
-     {
+  {
     "ticker": "SCM",
     "poolId": "2ce9bfc4e0a732d21ec8739cbfc3b10957b4e3297fd320d556f48ada",
     "social": {
@@ -5418,5 +5432,20 @@
     "telegram": "SickCityNFT",
     "operatorName": "Fred Tarasevicius",
     "github": "SickCityNFT"
+},
+  {
+    "ticker": "501C3",
+    "poolId": "878172ba067b3decf89d8c8eaebab23c66f716e7028686202d58bd44",
+    "social": {
+      "website": "https://www.cardanosolution.org",
+      "twitter": "solutioncardano",
+      "facebook": "",
+      "discord": "https://discord.gg/CbJqF42ePX",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "bmoore117",
+    "operatorName": "",
+    "github": "ben-csoln"
   }
 ]
