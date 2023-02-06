@@ -5447,5 +5447,21 @@
     "telegram": "bmoore117",
     "operatorName": "",
     "github": "ben-csoln"
-  }
+  },
+  {
+    "ticker": "BALNC",
+    "poolId": "a43ceac028a673e9f8611de0f683c70fdcadde560f28c2fb8cfabc81",
+    "social": {
+      "website": "https://balanceanalytics.io",
+      "twitter": "BalanceData22",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "BalanceAnalytics",
+    "operatorName": "",
+    "github": "Balance-Analytics-io"
+  },
+  
 ]
