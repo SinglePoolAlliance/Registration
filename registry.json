@@ -5418,6 +5418,21 @@
     "operatorName": "Carlos Souza",
     "github": "wowica"
   },
+   {
+    "ticker": "PUFF",
+    "poolId": "ff5940e0061e5c8c3e37f76c47bd7be5ab8eb9dfe43f6c2d1b74f028",
+    "social": {
+      "website": "https://puffinpool.com",
+      "twitter": "PuffinPool",
+      "facebook": "",
+      "discord": "https://discord.gg/Ef7tUVrmqN",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "puffinpool",
+    "operatorName": "",
+    "github": ""
+   },
   {
     "ticker": "SCM",
     "poolId": "2ce9bfc4e0a732d21ec8739cbfc3b10957b4e3297fd320d556f48ada",
@@ -5432,7 +5447,7 @@
     "telegram": "SickCityNFT",
     "operatorName": "Fred Tarasevicius",
     "github": "SickCityNFT"
-},
+  },
   {
     "ticker": "501C3",
     "poolId": "878172ba067b3decf89d8c8eaebab23c66f716e7028686202d58bd44",
