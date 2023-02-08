@@ -1,5 +1,19 @@
 [
    {
+    "ticker": "STPZ1",
+    "poolId": "f218d7c550fecc856bdf09c6ec12d64f68a59b6727f29bedb06d88b1",
+    "social": {
+      "website": "https://www.facebook.com/STPZpool/",
+      "twitter": "STackingPiZza",
+      "facebook": "STPZpool",
+      "instagram": "",
+      "youtube": "" 
+      },
+    "telegram": "StakingPizzaADAPool_STPZ1",
+    "operatorName": "Stefano",
+    "github": "stefanosu-code"
+   },
+   {
  "ticker": "BAR",                                                       
  "poolId": "07b5253fa93b08b85ac7cc9ea8d493b8b23ec3fea7ce6b5b46606611",  
  "social": {                                                            
@@ -5305,12 +5319,12 @@
     "github": "Vivid4516"
   },
   {
-    "ticker": "WYAM",
+    "ticker": "AKYO",
     "poolId": "940d6893606290dc6b7705a8aa56a857793a8ae0a3906d4e2afd2119",
     "social": {
       "facebook": "",
-      "twitter": "WYAM_StakePool",
-      "website": "https://wyam-stakepool.com",
+      "twitter": "AKYO_POOL",
+      "website": "https://akyo.org",
       "reddit": "",
       "instagram": "",
       "youtube": ""
@@ -5404,18 +5418,78 @@
     "operatorName": "Carlos Souza",
     "github": "wowica"
   },
+   {
+    "ticker": "PUFF",
+    "poolId": "ff5940e0061e5c8c3e37f76c47bd7be5ab8eb9dfe43f6c2d1b74f028",
+    "social": {
+      "website": "https://puffinpool.com",
+      "twitter": "PuffinPool",
+      "facebook": "",
+      "discord": "https://discord.gg/Ef7tUVrmqN",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "puffinpool",
+    "operatorName": "",
+    "github": ""
+   },
+  {
+    "ticker": "SCM",
+    "poolId": "2ce9bfc4e0a732d21ec8739cbfc3b10957b4e3297fd320d556f48ada",
+    "social": {
+      "website": "https://sickcity.xyz",
+      "twitter": "sickcity7",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "SickCityNFT",
+    "operatorName": "Fred Tarasevicius",
+    "github": "SickCityNFT"
+  },
+  {
+    "ticker": "501C3",
+    "poolId": "878172ba067b3decf89d8c8eaebab23c66f716e7028686202d58bd44",
+    "social": {
+      "website": "https://www.cardanosolution.org",
+      "twitter": "solutioncardano",
+      "facebook": "",
+      "discord": "https://discord.gg/CbJqF42ePX",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "bmoore117",
+    "operatorName": "",
+    "github": "ben-csoln"
+  },
+  {
+    "ticker": "BALNC",
+    "poolId": "a43ceac028a673e9f8611de0f683c70fdcadde560f28c2fb8cfabc81",
+    "social": {
+      "website": "https://balanceanalytics.io",
+      "twitter": "BalanceData22",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "BalanceAnalytics",
+    "operatorName": "",
+    "github": "Balance-Analytics-io"
+  },
   {
     "ticker": "1JPN",
     "poolId": "54a7cf8a1e91ff0b72a3577c0d2f39d2d7ad1fca63ae0b9e4662053d",
     "social": {
-      "website": "https://nihon-ichi-cardano.medium.com/",
+      "website": "https://t.co/shJ1RvCgs6",
       "twitter": "sakakibara1JPN",
       "facebook": "",
       "discord": "",
       "instagram": "",
       "youtube": ""
     },
-    "telegram": "",
+    "telegram": "sakakibara_1JPN",
     "operatorName": "sakakibara",
     "github": "sakakibaraakio"
   }
