@@ -5477,5 +5477,18 @@
     "telegram": "BalanceAnalytics",
     "operatorName": "",
     "github": "Balance-Analytics-io"
-  }
+  },
+   {
+ "ticker": "JGRX",                                                       
+ "poolId": "70a96f885282fe2d810ca500713ba64998491257054bc2dd114d9f13",  
+ "social": {                                                         
+   "website": "https://jaguares.org",
+   "facebook": "",  
+   "instagram": "@jaguares_pool",
+   "youtube": " "
+ },
+ "telegram": "Danvegamo",                                            
+ "operatorName": "",                              
+ "github": "danvegamo"                                              
+}
 ]
