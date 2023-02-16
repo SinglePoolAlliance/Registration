@@ -5491,5 +5491,20 @@
     "telegram": "BalanceAnalytics",
     "operatorName": "",
     "github": "Balance-Analytics-io"
+  },
+  {
+    "ticker": "1JPN",
+    "poolId": "54a7cf8a1e91ff0b72a3577c0d2f39d2d7ad1fca63ae0b9e4662053d",
+    "social": {
+      "website": "https://t.co/shJ1RvCgs6",
+      "twitter": "sakakibara1JPN",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "sakakibara_1JPN",
+    "operatorName": "sakakibara",
+    "github": "sakakibaraakio"
   }
 ]
