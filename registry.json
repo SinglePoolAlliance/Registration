@@ -5477,5 +5477,19 @@
     "telegram": "BalanceAnalytics",
     "operatorName": "",
     "github": "Balance-Analytics-io"
-  }
+  },
+  {
+    "ticker": "PREEB",
+    "poolId": "2873902b027727676630f3c9c63830183049b7e09998bd7b90114e13",
+    "social": {
+      "website": "https://preeb.cloud/",
+      "twitter": "PREEB_Pool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "" 
+    },
+    "telegram": "PREEBPool",
+    "operatorName": "Aaron",
+    "github": "36thchambersoftware"
+  },
 ]
