@@ -5477,5 +5477,20 @@
     "telegram": "BalanceAnalytics",
     "operatorName": "",
     "github": "Balance-Analytics-io"
-  }
+  },
+  {
+    "ticker": "RTIST",
+    "poolId": "0df0f6e5a3191520aa0a58268c38fe608d1d931766fc006635f3f2b1",
+    "social": {
+      "website": "https://rtistpool.carrd.co",
+      "twitter": "RTIST_ADAPool",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "None",
+    "operatorName": "",
+    "github": ""
+}
 ]
