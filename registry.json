@@ -5520,5 +5520,20 @@
     "telegram": "sakakibara_1JPN",
     "operatorName": "sakakibara",
     "github": "sakakibaraakio"
-  }
+  },
+  {
+    "ticker": "BAKE",
+    "poolId": "1af9675471ebcf3dd3d6eac7cafb8e3e1df10c82bbccae5dca0e26fc",
+    "social": {
+      "website": "bakeempirestaking.com",
+      "twitter": "BakeEmpireStake",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": "bakeEmpireStaking"
+    },
+    "telegram": "BakeEmpireStaking",
+    "operatorName": "Tiago",
+    "github": "T-Kido1"
+  } 
 ]
