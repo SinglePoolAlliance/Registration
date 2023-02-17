@@ -5520,5 +5520,16 @@
     "telegram": "sakakibara_1JPN",
     "operatorName": "sakakibara",
     "github": "sakakibaraakio"
+  },
+  {
+     "ticker": "1Mate",
+     "poolId": "19ffb80dbc1e627a5c5aafadf50257210d66ff35ef2961cb10065b53",
+     "social": {
+       "website": "https://1mate.io",
+       "twitter": "1mate_io",
+       "facebook": "",
+       "discord": "",
+       "instagram": "",
+       "youtube": ""
   }
 ]
