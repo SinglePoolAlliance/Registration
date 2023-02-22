@@ -1,5 +1,19 @@
 [
    {
+    "ticker": "BIRTH",
+    "poolId": "7e0bf8d9e2a3c8b5d6c3b272bf3a287058569660afad62e704562895",
+    "social": {
+      "website": "https://larissa.health",
+      "twitter": "larissa_health",
+      "facebook": "larissahealth.org",
+      "instagram": "larissa.health",
+      "youtube": "larissa.health"
+    },
+    "telegram": "larissa_health",
+    "operatorName": "Larissa.Health",
+    "github": "Larissa-Health"
+  },
+   {
     "ticker": "STPZ1",
     "poolId": "f218d7c550fecc856bdf09c6ec12d64f68a59b6727f29bedb06d88b1",
     "social": {
