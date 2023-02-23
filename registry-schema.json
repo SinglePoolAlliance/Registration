@@ -1,31 +1,17 @@
 {
-    "verification":"6253dfbd3acf829a85",
-    "info": {
-        "url_png_icon_64x64": "http://1337.chiplife.art/pictures/eddie64x64.png?raw=true",
-        "url_png_logo": "http://1337.chiplife.art/pictures/eddie.png?raw=true",
-        "location": "Stockholm, Sweden",
-        "social": {
-            "discord_handle": "Tobbe#9641",
-            "twitter_handle": "__Tobbe__",
-            "telegram_handle": "Tobbe1337"
-        },
-        "company": {
-            "name": "1337",
-            "addr": "",
-            "city": "Stockholm",
-            "country": "SE",
-            "company_id": "",
-			"verification":"6253dfbd3acf829a85",
-            "vat_id": ""
-        },
-        "about": {
-            "me": "Single pool operator. Keep Calm and Stake ADA!",
-            "server": "Bare-metal server",
-            "company": ""
-        },
-    "my-pool-ids": {
-        "0": "a84d7b46aef878ae8873710bdb9ee3119094dc0bbe0d80e94f53cb9e"
-      }
+    "ticker": "1337",
+                "poolId": "a84d7b46aef878ae8873710bdb9ee3119094dc0bbe0d80e94f53cb9e",
+                "social": {
+                    "twitter": "__Tobbe__",
+                    "facebook": " ",
+                    "instagram": " ",
+                    "youtube": " ",
+		    "discord": "Tobbe#9641"
+                },
+                "telegram": "Tobbe1337",
+                "operatorName": "Tobbe",
+                "github": "krypt01337"
+	      }
     }
 }
 {
