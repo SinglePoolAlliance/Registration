@@ -1,4 +1,16 @@
 [
+    {
+    "ticker": "ADP",
+    "poolId": "90454dd6894d47a5cc1e9d16ed4536b876e8e08c3c274d15caa98ff9",
+    "social": {
+      "website": "https://www.adapolis.io/",
+      "twitter": "@Adapolis_ADP",
+      "youtube": "" 
+      },
+    "telegram": "https://t.me/Adapolis_Stakepools",
+    "operatorName": "Ramon SC",
+    "github": "Adapolis-ADP"
+   },        
    {
     "ticker": "STPZ1",
     "poolId": "f218d7c550fecc856bdf09c6ec12d64f68a59b6727f29bedb06d88b1",
