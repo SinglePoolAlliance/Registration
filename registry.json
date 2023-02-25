@@ -5535,5 +5535,20 @@
     "telegram": "BakeEmpireStaking",
     "operatorName": "Tiago",
     "github": "T-Kido1"
-  } 
+  },
+  {
+    "ticker": "THRAD",
+    "poolId": "09c932d2d572053c44f9162dfc8cf5e271ab1b3bdc1815b3d51c5151",
+    "social": {
+      "website": "https://sites.google.com/view/thrvdada/home",
+      "twitter": "TheravadaPool",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "tabbycatsg",
+    "operatorName": "ODYNG",
+    "github": "odyng"
+  }
 ]
