@@ -1,5 +1,19 @@
 [
    {
+    "ticker": "1337",
+    "poolId": "a84d7b46aef878ae8873710bdb9ee3119094dc0bbe0d80e94f53cb9e",
+    "social": { 
+      "twitter": "__Tobbe__",
+      "facebook": " ",
+      "instagram": " ",
+      "youtube": " ",
+      "discord": "Tobbe#9641"
+    },
+    "telegram": "Tobbe1337",
+    "operatorName": "Tobbe",
+    "github": "krypt01337"
+  },
+   {
     "ticker": "BIRTH",
     "poolId": "7e0bf8d9e2a3c8b5d6c3b272bf3a287058569660afad62e704562895",
     "social": {
