@@ -1,5 +1,19 @@
 [
    {
+    "ticker": "BIRTH",
+    "poolId": "7e0bf8d9e2a3c8b5d6c3b272bf3a287058569660afad62e704562895",
+    "social": {
+      "website": "https://larissa.health",
+      "twitter": "larissa_health",
+      "facebook": "larissahealth.org",
+      "instagram": "larissa.health",
+      "youtube": "https://www.youtube.com/@larissa.health"
+    },
+    "telegram": "larissa_health",
+    "operatorName": "Marcus Ubani",
+    "github": "Larissa-Health"
+  },
+   {
     "ticker": "STPZ1",
     "poolId": "f218d7c550fecc856bdf09c6ec12d64f68a59b6727f29bedb06d88b1",
     "social": {
@@ -5531,5 +5545,39 @@
        "discord": "",
        "instagram": "",
        "youtube": ""
+    },
+    "telegram": "qfedesq",
+    "operatorName": "Fede",
+    "github": ""
+   },
+=======
+    "ticker": "BAKE",
+    "poolId": "1af9675471ebcf3dd3d6eac7cafb8e3e1df10c82bbccae5dca0e26fc",
+    "social": {
+      "website": "bakeempirestaking.com",
+      "twitter": "BakeEmpireStake",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": "bakeEmpireStaking"
+    },
+    "telegram": "BakeEmpireStaking",
+    "operatorName": "Tiago",
+    "github": "T-Kido1"
+  },
+  {
+    "ticker": "THRAD",
+    "poolId": "09c932d2d572053c44f9162dfc8cf5e271ab1b3bdc1815b3d51c5151",
+    "social": {
+      "website": "https://sites.google.com/view/thrvdada/home",
+      "twitter": "TheravadaPool",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "tabbycatsg",
+    "operatorName": "ODYNG",
+    "github": "odyng"
   }
 ]
