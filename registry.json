@@ -5564,5 +5564,20 @@
     "telegram": "tabbycatsg",
     "operatorName": "ODYNG",
     "github": "odyng"
+  },
+  {
+    "ticker": "SOCAL",
+    "poolId": "2f5750897a45f2bbf3f0f66e37b286d5308f6e4f1727e2e733ca7aff",
+    "social": {
+      "website": "https://socalstakepool.com",
+      "twitter": "socalstakepool",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "SoCalStakePool",                                             
+    "operatorName": "Jim Sumner",                                   
+    "github": "jimwsumner"
   }
 ]
