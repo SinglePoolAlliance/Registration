@@ -1,4 +1,17 @@
 [
+    {
+        "ticker": "HAPPY",
+        "poolId": "e9e7e497cdda1681cff48e4d8c5a726e2e030c65a3cf7f9be8007466",
+        "social": {
+            "twitter": "happystaking",
+            "reddit": "happystaking",
+            "instagram": "happystaking",
+            "discord": "Léon [HAPPY]"
+        },
+        "telegram": "happystaking",
+        "operatorName": "Léon",
+        "github": "happystaking"
+    },
    {
     "ticker": "BIRTH",
     "poolId": "7e0bf8d9e2a3c8b5d6c3b272bf3a287058569660afad62e704562895",
