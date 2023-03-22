@@ -5564,5 +5564,20 @@
     "telegram": "tabbycatsg",
     "operatorName": "ODYNG",
     "github": "odyng"
+  },
+  {
+    "ticker": "HAPPY",
+    "poolId": "e9e7e497cdda1681cff48e4d8c5a726e2e030c65a3cf7f9be8007466",
+    "social": {
+      "website": "https://happystaking.io",
+      "twitter": "happystaking",
+      "medium": "happystaking",
+      "discord": "Leon [HAPPY]",
+      "instagram": "happystaking",
+      "reddit": "happystaking"
+    },
+    "telegram": "happystaking",
+    "operatorName": "Leon",
+    "github": "happystaking"
   }
 ]
