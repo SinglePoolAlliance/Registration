@@ -1,5 +1,19 @@
 [
     {
+    "ticker": "TETON",
+    "poolId": "a2a7050e1ef0618dc76bdcc9bbba0c01f88fe1b88e19cc3218acacd8",
+    "social": {
+      "website": "https://tetonpool.com/",
+      "twitter": "RockingHatLLC",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "" 
+      },
+    "telegram": "RockingHat",
+    "operatorName": "Rocking Hat LLC",
+    "github": "heathdrobertson"
+   },        
+    {
     "ticker": "ADP",
     "poolId": "90454dd6894d47a5cc1e9d16ed4536b876e8e08c3c274d15caa98ff9",
     "social": {
