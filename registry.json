@@ -5593,5 +5593,20 @@
     "telegram": "tabbycatsg",
     "operatorName": "ODYNG",
     "github": "odyng"
+  },
+  {
+    "ticker": "ANVIL",
+    "poolId": "9c6120440ce518cc375de37536e1c0f0e28beedd4e11a7a053fb923b",
+    "social": {
+      "website": "https://ada-anvil.io",
+      "twitter": "ada_anvil",
+      "facebook": "",
+      "discord": "agjD5mwZ",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "BenjaminAnvil",
+    "operatorName": "",
+    "github": "Cardano-Forge"
   }
 ]
