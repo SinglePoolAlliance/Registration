@@ -5564,5 +5564,20 @@
     "telegram": "tabbycatsg",
     "operatorName": "ODYNG",
     "github": "odyng"
-  }
+  },
+  {
+    "ticker": "EULP",
+    "poolId": "7cdca5168129ace5883b56b2e9f8ac8ed59128825c840e43079eac03",
+    "social": {
+      "website": "https://metamorphys.github.io/EucalyptusPool/",
+      "twitter": "EucalyptusPool",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "EucalyptusPool",
+    "operatorName": "Srini",
+    "github": "MetaMorphys"
+  }   
 ]
