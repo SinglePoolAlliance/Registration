@@ -1,4 +1,18 @@
 [
+    {
+    "ticker": "ADP",
+    "poolId": "90454dd6894d47a5cc1e9d16ed4536b876e8e08c3c274d15caa98ff9",
+    "social": {
+      "website": "https://www.adapolis.io/",
+      "twitter": "Adapolis_ADP",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "" 
+      },
+    "telegram": "zubiz81",
+    "operatorName": "Ramon SC",
+    "github": "Adapolis-ADP"
+   },        
    {
     "ticker": "BIRTH",
     "poolId": "7e0bf8d9e2a3c8b5d6c3b272bf3a287058569660afad62e704562895",
