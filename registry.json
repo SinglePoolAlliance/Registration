@@ -5550,6 +5550,21 @@
     "github": "sakakibaraakio"
   },
   {
+     "ticker": "1Mate",
+     "poolId": "19ffb80dbc1e627a5c5aafadf50257210d66ff35ef2961cb10065b53",
+     "social": {
+       "website": "https://1mate.io",
+       "twitter": "1mate_io",
+       "facebook": "",
+       "discord": "",
+       "instagram": "",
+       "youtube": ""
+    },
+    "telegram": "qfedesq",
+    "operatorName": "Fede",
+    "github": ""
+   },
+   {
     "ticker": "BAKE",
     "poolId": "1af9675471ebcf3dd3d6eac7cafb8e3e1df10c82bbccae5dca0e26fc",
     "social": {
