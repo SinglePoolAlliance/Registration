@@ -1,4 +1,18 @@
 [
+    {
+    "ticker": "ADP",
+    "poolId": "90454dd6894d47a5cc1e9d16ed4536b876e8e08c3c274d15caa98ff9",
+    "social": {
+      "website": "https://www.adapolis.io/",
+      "twitter": "Adapolis_ADP",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "" 
+      },
+    "telegram": "zubiz81",
+    "operatorName": "Ramon SC",
+    "github": "Adapolis-ADP"
+   },        
    {
     "ticker": "BIRTH",
     "poolId": "7e0bf8d9e2a3c8b5d6c3b272bf3a287058569660afad62e704562895",
@@ -5536,6 +5550,21 @@
     "github": "sakakibaraakio"
   },
   {
+     "ticker": "1Mate",
+     "poolId": "19ffb80dbc1e627a5c5aafadf50257210d66ff35ef2961cb10065b53",
+     "social": {
+       "website": "https://1mate.io",
+       "twitter": "1mate_io",
+       "facebook": "",
+       "discord": "",
+       "instagram": "",
+       "youtube": ""
+    },
+    "telegram": "qfedesq",
+    "operatorName": "Fede",
+    "github": ""
+   },
+   {
     "ticker": "BAKE",
     "poolId": "1af9675471ebcf3dd3d6eac7cafb8e3e1df10c82bbccae5dca0e26fc",
     "social": {
@@ -5579,5 +5608,52 @@
     "telegram": "EucalyptusPool",
     "operatorName": "Srini",
     "github": "MetaMorphys"
-  }   
+  },
+  {
+    "ticker": "HAPPY",
+    "poolId": "e9e7e497cdda1681cff48e4d8c5a726e2e030c65a3cf7f9be8007466",
+    "social": {
+      "website": "https://happystaking.io",
+      "twitter": "happystaking",
+      "medium": "happystaking",
+      "discord": "Leon [HAPPY]",
+      "instagram": "happystaking",
+      "reddit": "happystaking",
+      "facebook": "",
+      "youtube": ""
+    },
+    "telegram": "happystaking",
+    "operatorName": "Leon",
+    "github": "happystaking"
+},
+{
+    "ticker": "DAPP",
+    "poolId": "076c483d263502a49b138614b24820e9ce0f010b6de8b8f62ab87ecd",
+    "social": {
+      "website": "https://www.dappcentral.net/",
+      "twitter": "dapp_central",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/@DappCentral"
+    },
+    "telegram": "dapp_central_crypto",
+    "operatorName": "",
+    "github": ""
+  },
+  {
+    "ticker": "ANVIL",
+    "poolId": "9c6120440ce518cc375de37536e1c0f0e28beedd4e11a7a053fb923b",
+    "social": {
+      "website": "https://ada-anvil.io",
+      "twitter": "ada_anvil",
+      "facebook": "",
+      "discord": "agjD5mwZ",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "BenjaminAnvil",
+    "operatorName": "",
+    "github": "Cardano-Forge"
+  }
 ]
