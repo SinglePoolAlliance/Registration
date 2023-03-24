@@ -5595,6 +5595,23 @@
     "github": "odyng"
   },
   {
+    "ticker": "HAPPY",
+    "poolId": "e9e7e497cdda1681cff48e4d8c5a726e2e030c65a3cf7f9be8007466",
+    "social": {
+      "website": "https://happystaking.io",
+      "twitter": "happystaking",
+      "medium": "happystaking",
+      "discord": "Leon [HAPPY]",
+      "instagram": "happystaking",
+      "reddit": "happystaking",
+      "facebook": "",
+      "youtube": ""
+    },
+    "telegram": "happystaking",
+    "operatorName": "Leon",
+    "github": "happystaking"
+},
+{
     "ticker": "DAPP",
     "poolId": "076c483d263502a49b138614b24820e9ce0f010b6de8b8f62ab87ecd",
     "social": {
