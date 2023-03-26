@@ -5655,5 +5655,20 @@
     "telegram": "BenjaminAnvil",
     "operatorName": "",
     "github": "Cardano-Forge"
+  },
+  {
+    "ticker": "VIVID",
+    "poolId": "9baaa3027d0fcd034520a917fa9aa0032f0f229c26e7b2bf414b0d4d",
+    "social": {
+      "website": "https://vividpool.io",
+      "twitter": "thevividpool",
+      "facebook": "",
+      "discord": "https://discord.gg/P5q7bNJrjc",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "",
+    "operatorName": "Nick",
+    "github": "vividpool"
   }
 ]
