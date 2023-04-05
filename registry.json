@@ -5671,6 +5671,21 @@
     "github": "Cardano-Forge"
   },
   {
+    "ticker": "VIVID",
+    "poolId": "9baaa3027d0fcd034520a917fa9aa0032f0f229c26e7b2bf414b0d4d",
+    "social": {
+      "website": "https://vividpool.io",
+      "twitter": "thevividpool",
+      "facebook": "",
+      "discord": "https://discord.gg/P5q7bNJrjc",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "thevividpool",
+    "operatorName": "Nick",
+    "github": "vividpool"
+  },
+  {
     "ticker": "PFL01",
     "poolId": "24bfb62716d755bbf035fcb3f7e87a8d325fde0f04062e692aff3216",
     "social": {
