@@ -5671,6 +5671,21 @@
     "github": "Cardano-Forge"
   },
   {
+    "ticker": "BEEHI",
+    "poolId": "707cc05abbb19ee7b8c2090fd65d2ba81d8469e6fb5d9dab972cea17",
+    "social": {
+      "website": "https://twitter.com/beehivepool",
+      "twitter": "beehivepool",
+      "facebook": "",
+      "discord": "[BEEHI] BeehiveStakingPool",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "beehivestakingpool",
+    "operatorName": "Roger",
+    "github": "BeehiveStakingPool"
+},
+{
     "ticker": "VIVID",
     "poolId": "9baaa3027d0fcd034520a917fa9aa0032f0f229c26e7b2bf414b0d4d",
     "social": {
