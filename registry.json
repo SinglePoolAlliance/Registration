@@ -12,7 +12,21 @@
     "telegram": "zubiz81",
     "operatorName": "Ramon SC",
     "github": "Adapolis-ADP"
-   },        
+   }, 
+   {
+    "ticker": "ROCKY",
+    "poolId": "f4762ca1dce3c32c0d7a7e6d9f8a54bf40338e99ae5f3ad0172c9a2f",
+    "social": {
+      "website": "https://stakecardano.net",
+      "twitter": "RockyStaking",
+      "instagram": "",
+      "youtube": "",
+      "facebook": ""
+    },
+    "telegram": "Rocky_Mountain_Staking",
+    "operatorName": "Ken",
+    "github": "kakerley"
+  }, 
    {
     "ticker": "BIRTH",
     "poolId": "7e0bf8d9e2a3c8b5d6c3b272bf3a287058569660afad62e704562895",
@@ -5670,5 +5684,35 @@
     "telegram": "beehivestakingpool",
     "operatorName": "Roger",
     "github": "BeehiveStakingPool"
+},
+{
+    "ticker": "VIVID",
+    "poolId": "9baaa3027d0fcd034520a917fa9aa0032f0f229c26e7b2bf414b0d4d",
+    "social": {
+      "website": "https://vividpool.io",
+      "twitter": "thevividpool",
+      "facebook": "",
+      "discord": "https://discord.gg/P5q7bNJrjc",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "thevividpool",
+    "operatorName": "Nick",
+    "github": "vividpool"
+  },
+  {
+    "ticker": "PFL01",
+    "poolId": "24bfb62716d755bbf035fcb3f7e87a8d325fde0f04062e692aff3216",
+    "social": {
+      "website": "https://poolforlovelace.me",
+      "twitter": "PFL_pool",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "pfl_01",
+    "operatorName": "Marc L.",
+    "github": "poolforlovelace"
   }    
 ]
