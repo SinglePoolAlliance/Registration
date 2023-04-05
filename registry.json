@@ -12,7 +12,21 @@
     "telegram": "zubiz81",
     "operatorName": "Ramon SC",
     "github": "Adapolis-ADP"
-   },        
+   }, 
+   {
+    "ticker": "ROCKY",
+    "poolId": "f4762ca1dce3c32c0d7a7e6d9f8a54bf40338e99ae5f3ad0172c9a2f",
+    "social": {
+      "website": "https://stakecardano.net",
+      "twitter": "RockyStaking",
+      "instagram": "",
+      "youtube": "",
+      "facebook": ""
+    },
+    "telegram": "Rocky_Mountain_Staking",
+    "operatorName": "Ken",
+    "github": "kakerley"
+  }, 
    {
     "ticker": "BIRTH",
     "poolId": "7e0bf8d9e2a3c8b5d6c3b272bf3a287058569660afad62e704562895",
