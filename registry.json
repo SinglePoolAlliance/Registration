@@ -5671,6 +5671,21 @@
     "github": "Cardano-Forge"
   },
   {
+    "ticker": "KTOP",
+    "poolId": "8d2fef46df5f9b2fcb64ebad739f27062b4f38c04df1a916fa216752",
+    "social": {
+      "website": "https://cardanoktop.tistory.com/137",
+      "twitter": "KTOP_Pool",
+      "facebook": "",
+      "discord": "KTOP_ADA Staking Pool#5660",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCKw6BCLEWeDK89IspET_Jpw"
+    },
+    "telegram": "KTOP_Pool",
+    "operatorName": "Oh",
+    "github": ""
+  },
+  {
     "ticker": "BEEHI",
     "poolId": "707cc05abbb19ee7b8c2090fd65d2ba81d8469e6fb5d9dab972cea17",
     "social": {
