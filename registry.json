@@ -3,10 +3,15 @@
     "ticker": "LAPO",
     "poolId": "8b7a0faa3fb61ce93d1013db3e157c53c3c4060e4872d8d82fa66c6b",
     "social": {
-    "twitter": "Laponia_pool"
+      "website": "https://www.laponia.io/",
+      "twitter": "Laponia_pool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "" 
               },
     "telegram": "Laponia_stakepool",
-    "operatorName": "Loïc"
+    "operatorName": "Loïc",
+    "github": ""
     },
     {
     "ticker": "ADP",
