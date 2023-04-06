@@ -5729,5 +5729,18 @@
     "telegram": "pfl_01",
     "operatorName": "Marc L.",
     "github": "poolforlovelace"
-  }    
+  },
+  {
+    "ticker": "SAFST",
+    "poolId": "85896fc473c6f3e009c47ae94759543deb9ac0ad27703dc6f3813b1e",
+    "social": {
+      "website": "https://safestake.cc",
+      "twitter": "adasafestake",
+      "facebook": "",
+      "discord": "https://discord.gg/NE5zxwRe",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "marius_tmn"
+  }
 ]
