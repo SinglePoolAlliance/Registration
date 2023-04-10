@@ -1,5 +1,19 @@
 [
   {
+    "ticker": "REETG",
+    "poolId": "6c3c35c806ef129a5664af590f00db662f90f19ae78b6421f049ebb9",
+    "social": {
+      "website": "https://reetgoodcardano.co.uk/",
+      "twitter": "ReetGoodCardano",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "https://t.me/+eTHLeZCWMuhlYjQ0",
+    "operatorName": "Sean",
+    "github": ""
+  },
+  {
     "ticker": "LAPO",
     "poolId": "8b7a0faa3fb61ce93d1013db3e157c53c3c4060e4872d8d82fa66c6b",
     "social": {
