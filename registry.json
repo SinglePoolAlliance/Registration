@@ -5328,5 +5328,20 @@
     "telegram": "Clover_Nodes",
     "operatorName": "CloverNodes",
     "github": "clovernodes"
+  },
+  {
+    "ticker": "VICIS",
+    "poolId": "8881495966f1b73427233aa761c0fd04adfd91b3599a012d7d845472",
+    "social": {
+      "website": "https://vicispool.com",
+      "twitter": "VICISpool",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "VICISPaul",
+    "operatorName": "Paul",
+    "github": ""
   }
 ]
