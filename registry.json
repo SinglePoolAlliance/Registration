@@ -1,4 +1,18 @@
 [
+   {
+   "ticker": "TETON",
+   "poolId": "a2a7050e1ef0618dc76bdcc9bbba0c01f88fe1b88e19cc3218acacd8",
+   "social": {
+     "website": "https://tetonpool.com/",
+     "twitter": "RockingHatLLC",
+     "facebook": "",
+     "instagram": "",
+     "youtube": "" 
+     },
+   "telegram": "RockingHat",
+   "operatorName": "Heath Robertson",
+   "github": "heathdrobertson"
+  },
   {
     "ticker": "REETG",
     "poolId": "6c3c35c806ef129a5664af590f00db662f90f19ae78b6421f049ebb9",
