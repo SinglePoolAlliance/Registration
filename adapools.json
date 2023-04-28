@@ -1779,106 +1779,111 @@
         "name": "ANVIL"
       },
       "352": {
+        "pool_id": "2f5750897a45f2bbf3f0f66e37b286d5308f6e4f1727e2e733ca7aff",
+        "member_since": "2023-03-06",
+        "name": "SOCAL"
+      },
+      "353": {
         "pool_id": "e9e7e497cdda1681cff48e4d8c5a726e2e030c65a3cf7f9be8007466",
         "member_since": "2023-03-22",
         "name": "HAPPY"
       },
-      "353": {
+      "354": {
         "pool_id": "076c483d263502a49b138614b24820e9ce0f010b6de8b8f62ab87ecd",
         "member_since": "2023-03-22",
         "name": "DAPP"
       },
-      "354": {
+      "355": {
         "pool_id": "7cdca5168129ace5883b56b2e9f8ac8ed59128825c840e43079eac03",
         "member_since": "2023-03-24",
         "name": "EULP"
       },
-      "355": {
+      "356": {
         "pool_id": "24bfb62716d755bbf035fcb3f7e87a8d325fde0f04062e692aff3216",
         "member_since": "2023-03-24",
         "name": "PFL01"
       },
-      "356": {
+      "357": {
         "pool_id": "9baaa3027d0fcd034520a917fa9aa0032f0f229c26e7b2bf414b0d4d",
         "member_since": "2023-03-26",
         "name": "VIVID"
       },
-      "357": {
+      "358": {
         "pool_id": "f4762ca1dce3c32c0d7a7e6d9f8a54bf40338e99ae5f3ad0172c9a2f",
         "member_since": "2023-03-31",
         "name": "ROCKY"
       },
-      "358": {
+      "359": {
         "pool_id": "707cc05abbb19ee7b8c2090fd65d2ba81d8469e6fb5d9dab972cea17",
         "member_since": "2023-04-03",
         "name": "BEEHI"
       },
-      "359": {
+      "360": {
         "pool_id": "8d2fef46df5f9b2fcb64ebad739f27062b4f38c04df1a916fa216752",
         "member_since": "2023-04-05",
         "name": "KTOP"
       },
-      "360": {
+      "361": {
         "pool_id": "8b7a0faa3fb61ce93d1013db3e157c53c3c4060e4872d8d82fa66c6b",
         "member_since": "2023-04-06",
         "name": "LAPO"
       },
-      "361": {
+      "362": {
         "pool_id": "159b8d33259cdb6f30d397fbfb8175b8e973f782a0052b7be390c0b6",
         "member_since": "2023-04-06",
         "name": "CLOVR"
       },
-      "362": {
+      "363": {
         "pool_id": "6c3c35c806ef129a5664af590f00db662f90f19ae78b6421f049ebb9",
         "member_since": "2023-04-10",
         "name": "REETG"
       },
-      "363": {
+      "364": {
         "pool_id": "4a4e69f422ffe7f75e22cb05658372351b702b8630ab9a9a7c3f8e60",
         "member_since": "2023-04-10",
         "name": "PRO"
       },
-      "364": {
+      "365": {
         "pool_id": "97a01b8ee302ff28aad1efef39cc310a4c07cf5b767f0292134f5d4d",
         "member_since": "2023-04-10",
         "name": "PAPER"
       },
-      "365": {
+      "366": {
         "pool_id": "4f3410f074e7363091a1cc1c21b128ae423d1cce897bd19478e534bb",
         "member_since": "2023-04-10",
         "name": "9000"
       },
-      "366": {
+      "367": {
         "pool_id": "2ce9bfc4e0a732d21ec8739cbfc3b10957b4e3297fd320d556f48ada",
         "member_since": "2023-04-10",
         "name": "SCM"
       },
-      "367": {
+      "368": {
         "pool_id": "a59e2c8422ed40242742f3b6e8219fa0c454eaa7288d71981d3b65a9",
         "member_since": "2023-04-10",
         "name": "DDOS"
       },
-      "368": {
+      "369": {
         "pool_id": "abcd27d5ee8f838e24cdb8653cbe309a86d7a4c48576ac3e0893a810",
         "member_since": "2023-04-10",
         "name": "LAKE"
       },
-      "370": {
+      "371": {
         "pool_id": "19ffb80dbc1e627a5c5aafadf50257210d66ff35ef2961cb10065b53",
         "member_since": "2023-04-10",
         "name": "1Mate"
       },
-      "371": {
+      "372": {
         "pool_id": "8881495966f1b73427233aa761c0fd04adfd91b3599a012d7d845472",
         "member_since": "2023-04-18",
         "name": "VICIS"
       },
-      "372": {
+      "373": {
         "pool_id": "a2a7050e1ef0618dc76bdcc9bbba0c01f88fe1b88e19cc3218acacd8",
         "member_since": "2023-04-19",
         "name": "TETON"
       },
-      "373": {
+      "374": {
         "pool_id": "41996c3e9ed67d47ea81a59f8831dbc948a00f296d11dd6a6678b543",
         "member_since": "2023-04-26",
         "name": "CLINK"
