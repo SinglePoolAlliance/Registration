@@ -5343,5 +5343,20 @@
     "telegram": "VICISPaul",
     "operatorName": "Paul",
     "github": ""
+  },
+{
+    "ticker": "CLINK",
+    "poolId": "41996c3e9ed67d47ea81a59f8831dbc948a00f296d11dd6a6678b543",
+    "social": {
+      "website": "https://www.cardanolink.net/",
+      "twitter": "_Cardanolink",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Not_Mick374",
+    "operatorName": "Michele",
+    "github": "https://github.com/NotMick3"
   }
 ]
