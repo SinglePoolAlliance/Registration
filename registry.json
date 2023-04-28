@@ -5193,6 +5193,21 @@
     "github": "odyng"
   },
   {
+    "ticker": "SOCAL",
+    "poolId": "2f5750897a45f2bbf3f0f66e37b286d5308f6e4f1727e2e733ca7aff",
+    "social": {
+      "website": "https://socalstakepool.com",
+      "twitter": "socalstakepool",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "SoCalStakePool",                                             
+    "operatorName": "Jim Sumner",                                   
+    "github": "jimwsumner"
+},
+{
     "ticker": "EULP",
     "poolId": "7cdca5168129ace5883b56b2e9f8ac8ed59128825c840e43079eac03",
     "social": {
