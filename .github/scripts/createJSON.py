@@ -18,8 +18,12 @@ registryfile = repository + "/" + 'registry.json'
 aboutfile = repository + "/" + 'spa_about.json'
 
 # Setup cexplorer vars
+headers = {
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+    "cookie": "db=969fc02da570d9ba8923d39b08de509396f0250c; cf_clearance=6tJAwdGgxoGw7PedPK_ac56YWJEw.LPlR4RXcAvrV0s-1673204781-0-160"}
+
 url = "https://js.cexplorer.io/api-static/pool/hex2bech.json"
-resp = requests.get(url=url)
+resp = requests.get(url=url, headers=headers)
 conversion_data = resp.json()
 mapping = conversion_data["data"]
 cex_list = []
