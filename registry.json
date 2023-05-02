@@ -5374,4 +5374,17 @@
     "operatorName": "Michele",
     "github": "https://github.com/NotMick3"
   }
+ "ticker": "CCCC",                                                       
+ "poolId": "1dv7t03e8yqmcln04pyf4tygh8wtnftat32tv4jul2zzjsk2vggr", 
+ "social": {  
+   "website": "https://ccccoin.io/",                                                          
+   "twitter": "CCCCoinio",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "Cardano Community Charity Coin",                                             
+ "operatorName": "",                                   
+ "github": "CharityDA0"                                                    
+}
 ]
