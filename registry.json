@@ -5375,17 +5375,17 @@
     "github": "https://github.com/NotMick3"
   },
   {
-	 "ticker": "DISCO",                                                      
-	 "poolId": "e76cf5ef93b5c650db92026b1c5fd802e4b4913a66efb96d410a92ae",   
-	 "social": {                                                             
-	   "website": "https://docs.discoin.family/tokenomics/readme",
-	   "twitter": "https://twitter.com/JaelCartel",
+    "ticker": "DISCO",                                                      
+    "poolId": "e76cf5ef93b5c650db92026b1c5fd802e4b4913a66efb96d410a92ae",   
+    "social": {                                                             
+      "website": "https://docs.discoin.family/tokenomics/readme",
+      "twitter": "JaelCartel",
       "facebook": "",
       "discord": "",
       "instagram": "",
       "youtube": ""
-	 },
-	 "telegram": "jaelcartel",
+    },
+    "telegram": "jaelcartel",
     "operatorName": "",
     "github": ""
   }
