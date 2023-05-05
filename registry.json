@@ -5343,5 +5343,18 @@
     "telegram": "VICISPaul",
     "operatorName": "Paul",
     "github": ""
-  }
+  },
+   {
+ "ticker": "CORAL",                                                       
+ "poolId": "5cf6dd741a1ce3859000038f8833f467c13c1a297741638e0686c13a", 
+ "social": {                                                           
+   "twitter": "CoralStake",
+   "facebook": " ",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "MarianoL10",                                            
+ "operatorName": " ",                                 
+ "github": " "                                                 
+}
 ]
