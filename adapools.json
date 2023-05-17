@@ -1894,6 +1894,11 @@
         "name": "SAFST"
       },
       "376": {
+        "pool_id": "5cf6dd741a1ce3859000038f8833f467c13c1a297741638e0686c13a",
+        "member_since": "2023-05-17",
+        "name": "CORAL"
+      },
+      "377": {
         "pool_id": "e76cf5ef93b5c650db92026b1c5fd802e4b4913a66efb96d410a92ae",
         "member_since": "2023-05-17",
         "name": "DISCO"
