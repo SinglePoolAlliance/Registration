@@ -5,7 +5,6 @@
    "social": {
      "website": "https://tetonpool.com/",
      "twitter": "RockingHatLLC",
-     "facebook": "",
      "instagram": "",
      "youtube": "" 
      },
@@ -5373,7 +5372,8 @@
     "telegram": "Not_Mick374",
     "operatorName": "Michele",
     "github": "https://github.com/NotMick3"
-  }
+  },
+   {
  "ticker": "CCCC",                                                       
  "poolId": "6b3cb7c72720378fcdf509135591173b9734afab8a96cacb9f508528", 
  "social": {  
