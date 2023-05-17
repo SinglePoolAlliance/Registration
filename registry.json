@@ -5330,6 +5330,21 @@
     "github": "poolforlovelace"
   },
   {
+    "ticker": "SAFST",
+    "poolId": "85896fc473c6f3e009c47ae94759543deb9ac0ad27703dc6f3813b1e",
+    "social": {
+      "website": "https://safestake.cc",
+      "twitter": "adasafestake",
+      "facebook": "",
+      "discord": "https://discord.gg/NE5zxwRe",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "marius_tmn",
+    "operatorName": "Marius",
+    "github": ""
+  },
+  {
     "ticker": "CLOVR",
     "poolId": "159b8d33259cdb6f30d397fbfb8175b8e973f782a0052b7be390c0b6",
     "social": {
@@ -5359,7 +5374,7 @@
     "operatorName": "Paul",
     "github": ""
   },
-{
+  {
     "ticker": "CLINK",
     "poolId": "41996c3e9ed67d47ea81a59f8831dbc948a00f296d11dd6a6678b543",
     "social": {
@@ -5387,5 +5402,35 @@
  "telegram": "Cardano Community Charity Coin",                                             
  "operatorName": "",                                   
  "github": "CharityDA0"                                                    
-}
+},
+{
+    "ticker": "CORAL",
+    "poolId": "5cf6dd741a1ce3859000038f8833f467c13c1a297741638e0686c13a",
+    "social": {
+      "website": "https://www.coralstake.com/",
+      "twitter": "CoralStake",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "MarianoL10",
+    "operatorName": "Mariano",
+    "github": ""
+  },
+  {
+    "ticker": "DISCO",                                                      
+    "poolId": "e76cf5ef93b5c650db92026b1c5fd802e4b4913a66efb96d410a92ae",   
+    "social": {                                                             
+      "website": "https://docs.discoin.family/tokenomics/readme",
+      "twitter": "JaelCartel",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "jaelcartel",
+    "operatorName": "",
+    "github": ""
+  }
 ]
