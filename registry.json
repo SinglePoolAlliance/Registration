@@ -5418,5 +5418,19 @@
     "telegram": "jaelcartel",
     "operatorName": "",
     "github": ""
+  },
+  {
+    "ticker": "DACH",
+    "poolId": "4a8befe87f296f465346a9e550a05df3c9d8ff71f105c7ce41c4e1f9",
+    "social": {
+      "website": "https://cardanokanal.at/",
+      "twitter": "CardanoKanal",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "cardanokanalambassador5457"
+    },
+    "telegram": "solobenholo",
+    "operatorName": "",
+    "github": ""
   }
 ]
