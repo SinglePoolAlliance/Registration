@@ -1919,6 +1919,11 @@
         "name": "STACK"
       },
       "381": {
+        "pool_id": "4a8befe87f296f465346a9e550a05df3c9d8ff71f105c7ce41c4e1f9",
+        "member_since": "2023-05-25",
+        "name": "DACH"
+      },
+      "382": {
         "pool_id": "47cc66d164f7db25f3a660a555c464badabe5d1b46f48c78edb1ac28",
         "member_since": "2023-05-25",
         "name": "HOLO"
