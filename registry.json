@@ -1,4 +1,18 @@
 [
+    {
+    "ticker": "BBO",
+    "poolId": "21cb022b2557aec62f5a74f96350d398fa31186ba53240ad7d7466fd",
+    "social": {
+      "website": "https://ada-bamboo.com/",
+      "twitter": "DucChauB",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "ducchau18",
+    "operatorName": "Chau Do Duc",
+    "github": "chaudoduckt"
+    },
    {
    "ticker": "TETON",
    "poolId": "a2a7050e1ef0618dc76bdcc9bbba0c01f88fe1b88e19cc3218acacd8",
@@ -5389,6 +5403,20 @@
     "operatorName": "Michele",
     "github": "https://github.com/NotMick3"
   },
+   {
+ "ticker": "CCCC",                                                       
+ "poolId": "6b3cb7c72720378fcdf509135591173b9734afab8a96cacb9f508528", 
+ "social": {  
+   "website": "https://ccccoin.io/",                                                          
+   "twitter": "CCCCoinio",
+   "facebook": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "ccccoinio",                                             
+ "operatorName": "",                                   
+ "github": "CharityDA0"                                                    
+},
 {
     "ticker": "CORAL",
     "poolId": "5cf6dd741a1ce3859000038f8833f467c13c1a297741638e0686c13a",
@@ -5403,6 +5431,21 @@
     "telegram": "MarianoL10",
     "operatorName": "Mariano",
     "github": ""
+  },
+  {
+    "ticker": "STACK",
+    "poolId": "94864d27407c1dd0569e4acb9c7fa6ec2cc19a6193d9171f2d811232",
+    "social": {
+      "website": "https://adastack.net",
+      "twitter": "ADA_STACK",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": "" 
+    },
+    "telegram": "KnoZiggeh",
+    "operatorName": "Daniel Epstein",
+    "github": "adastack"
   },
   {
     "ticker": "DISCO",                                                      
@@ -5432,5 +5475,20 @@
     "telegram": "solobenholo",
     "operatorName": "",
     "github": ""
+  },
+  {
+  "ticker": "HOLO",
+   "poolId": "47cc66d164f7db25f3a660a555c464badabe5d1b46f48c78edb1ac28",
+   "social": {
+     "website": "https://www.holomorphix.xyz/",
+     "twitter": "holomorphix",
+     "facebook": "",
+     "instagram": "",
+     "youtube": "" 
+     },
+   "telegram": "holomorphix",
+   "operatorName": "Ryan & Jorden",
+   "github": "holomorphix"
+
   }
 ]
