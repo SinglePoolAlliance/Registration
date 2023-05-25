@@ -5447,5 +5447,19 @@
     "telegram": "jaelcartel",
     "operatorName": "",
     "github": ""
+  },
+  {
+   "ticker": "HOLO",
+   "poolId": "47cc66d164f7db25f3a660a555c464badabe5d1b46f48c78edb1ac28",
+   "social": {
+     "website": "https://www.holomorphix.xyz/",
+     "twitter": "holomorphix",
+     "facebook": "",
+     "instagram": "",
+     "youtube": "" 
+     },
+   "telegram": "holomorphix",
+   "operatorName": "Ryan & Jorden",
+   "github": "holomorphix"
   }
 ]
