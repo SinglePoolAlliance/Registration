@@ -5405,6 +5405,21 @@
     "github": ""
   },
   {
+    "ticker": "STACK",
+    "poolId": "94864d27407c1dd0569e4acb9c7fa6ec2cc19a6193d9171f2d811232",
+    "social": {
+      "website": "https://adastack.net",
+      "twitter": "ADA_STACK",
+      "facebook": "",
+      "discord": "",
+      "instagram": "",
+      "youtube": "" 
+    },
+    "telegram": "KnoZiggeh",
+    "operatorName": "Daniel Epstein",
+    "github": "adastack"
+  },
+  {
     "ticker": "DISCO",                                                      
     "poolId": "e76cf5ef93b5c650db92026b1c5fd802e4b4913a66efb96d410a92ae",   
     "social": {                                                             
