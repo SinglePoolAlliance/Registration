@@ -1904,16 +1904,21 @@
         "name": "DISCO"
       },
       "378": {
+        "pool_id": "21cb022b2557aec62f5a74f96350d398fa31186ba53240ad7d7466fd",
+        "member_since": "2023-05-25",
+        "name": "BBO"
+      },
+      "379": {
         "pool_id": "6b3cb7c72720378fcdf509135591173b9734afab8a96cacb9f508528",
         "member_since": "2023-05-25",
         "name": "CCCC"
       },
-      "379": {
+      "380": {
         "pool_id": "94864d27407c1dd0569e4acb9c7fa6ec2cc19a6193d9171f2d811232",
         "member_since": "2023-05-25",
         "name": "STACK"
       },
-      "380": {
+      "381": {
         "pool_id": "47cc66d164f7db25f3a660a555c464badabe5d1b46f48c78edb1ac28",
         "member_since": "2023-05-25",
         "name": "HOLO"
