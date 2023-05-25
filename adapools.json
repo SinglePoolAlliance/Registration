@@ -1902,6 +1902,11 @@
         "pool_id": "e76cf5ef93b5c650db92026b1c5fd802e4b4913a66efb96d410a92ae",
         "member_since": "2023-05-17",
         "name": "DISCO"
+      },
+      "378": {
+        "pool_id": "94864d27407c1dd0569e4acb9c7fa6ec2cc19a6193d9171f2d811232",
+        "member_since": "2023-05-25",
+        "name": "STACK"
       }
     }
   }
