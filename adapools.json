@@ -1912,6 +1912,11 @@
         "pool_id": "94864d27407c1dd0569e4acb9c7fa6ec2cc19a6193d9171f2d811232",
         "member_since": "2023-05-25",
         "name": "STACK"
+      },
+      "380": {
+        "pool_id": "47cc66d164f7db25f3a660a555c464badabe5d1b46f48c78edb1ac28",
+        "member_since": "2023-05-25",
+        "name": "HOLO"
       }
     }
   }
