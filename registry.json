@@ -1,4 +1,18 @@
 [
+    {
+    "ticker": "BBO",
+    "poolId": "21cb022b2557aec62f5a74f96350d398fa31186ba53240ad7d7466fd",
+    "social": {
+      "website": "https://ada-bamboo.com/",
+      "twitter": "DucChauB",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "ducchau18",
+    "operatorName": "Chau Do Duc",
+    "github": "chaudoduckt"
+    },
    {
    "ticker": "TETON",
    "poolId": "a2a7050e1ef0618dc76bdcc9bbba0c01f88fe1b88e19cc3218acacd8",
