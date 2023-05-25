@@ -5463,7 +5463,21 @@
     "github": ""
   },
   {
-   "ticker": "HOLO",
+    "ticker": "DACH",
+    "poolId": "4a8befe87f296f465346a9e550a05df3c9d8ff71f105c7ce41c4e1f9",
+    "social": {
+      "website": "https://cardanokanal.at/",
+      "twitter": "CardanoKanal",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "cardanokanalambassador5457"
+    },
+    "telegram": "solobenholo",
+    "operatorName": "",
+    "github": ""
+  },
+  {
+  "ticker": "HOLO",
    "poolId": "47cc66d164f7db25f3a660a555c464badabe5d1b46f48c78edb1ac28",
    "social": {
      "website": "https://www.holomorphix.xyz/",
@@ -5475,5 +5489,6 @@
    "telegram": "holomorphix",
    "operatorName": "Ryan & Jorden",
    "github": "holomorphix"
+
   }
 ]
