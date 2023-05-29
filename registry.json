@@ -1,5 +1,19 @@
 [
     {
+    "ticker": "AMAP",
+    "poolId": "6e5961bb19155e5c836ff6c6a55400dd7b45c729344dee3ebab617e2",
+    "social": {
+      "website": "https://www.amapools.info/",
+      "twitter": "amapools",
+      "facebook": "amapools.info",
+      "instagram": "amapools.info",
+      "youtube": "@amapools"
+    },
+    "telegram": "amapools",
+    "operatorName": "Amarluei Saeed",
+    "github": "amarlueis"
+    },
+    {
     "ticker": "BBO",
     "poolId": "21cb022b2557aec62f5a74f96350d398fa31186ba53240ad7d7466fd",
     "social": {
