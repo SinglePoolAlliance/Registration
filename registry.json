@@ -5490,5 +5490,20 @@
    "operatorName": "Ryan & Jorden",
    "github": "holomorphix"
 
+  },
+  {
+  "ticker": "JOKER",
+   "poolId": "48cfc42a91bfd8f0aeb03722e53c6f88661b5d4e0e5b94069459e703",
+   "social": {
+     "website": "https://thebmorejoker.github.io/",
+     "twitter": "THE_BMORE_JOKER",
+     "facebook": "",
+     "instagram": "",
+     "youtube": "" 
+     },
+   "telegram": "THEBMOREJOKER",
+   "operatorName": "Lee",
+   "github": "THEBMOREJOKER"
+
   }
 ]
