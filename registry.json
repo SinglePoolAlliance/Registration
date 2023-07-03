@@ -5490,5 +5490,19 @@
    "operatorName": "Ryan & Jorden",
    "github": "holomorphix"
 
+  },
+  {
+    "ticker": "BKV",
+    "poolId": "28affa3c001052c65da45811a019f85df9bdc89c9a48cb24062f0c38",
+    "social": {
+      "website": "https://bkvpool.com/",
+      "twitter": "bkvpool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "oxisoft",
+    "operatorName": "Alex",
+    "github": "oxisoft"
   }
 ]
