@@ -5490,5 +5490,19 @@
    "operatorName": "Ryan & Jorden",
    "github": "holomorphix"
 
+  },
+  {
+    "ticker": "STAT",
+    "poolId": "77b0a93c26ac65be36e9a9f220f9a43cbc57d705fc5d8f1de5fdeea1",
+    "social": {
+      "website": "https://adastat.net/",
+      "twitter": "ada_stat",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "dmitry_stas",
+    "operatorName": "",
+    "github": ""
   }
 ]
