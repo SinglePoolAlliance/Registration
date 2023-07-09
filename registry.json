@@ -5489,6 +5489,19 @@
    "telegram": "holomorphix",
    "operatorName": "Ryan & Jorden",
    "github": "holomorphix"
-
+  },
+  {
+  "ticker": "WAX",
+   "poolId": "pool1vurlp3ndgge8avz3h8lu2wzdqcwc8w4l5s43rzlk8p4pz0x5vla",
+   "social": {
+     "website": "https://www.Digitalhoney.io",
+     "twitter": "WAXStakePool",
+     "facebook": "",
+     "instagram": "",
+     "youtube": "" 
+     },
+   "telegram": "Alejandro",
+   "operatorName": "Alejandro",
+   "github": "DrSicks"
   }
 ]
