@@ -5490,5 +5490,19 @@
    "operatorName": "Ryan & Jorden",
    "github": "holomorphix"
 
+  },
+    {
+    "ticker": "MERIT",
+    "poolId": "49a7d7cf28799e20fb0505922bf88821d8104943d9ad5b183c36a1b7",
+    "social": {
+      "website": "https://meritus.work/",
+      "twitter": "MeritusPool ",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "MeritusStakePool" 
+    },
+    "telegram": "MeritusPool",
+    "operatorName": "Matt & Matt",
+    "github": "MattAllen10S"
   }
 ]
