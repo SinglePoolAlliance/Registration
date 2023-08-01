@@ -1,5 +1,19 @@
 [
     {
+    "ticker": "DCONE",
+    "poolId": "333bd4419f2847f1a9f7621406563524214c1ce356ffa9d62ec07213",
+    "social": {
+      "website": "https://dconecrypto.finance",
+      "twitter": "DCOneCrypto",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "dconeservice",
+    "operatorName": "DCOne Service",
+    "github": "DCOneCrypto"
+    },
+    {
     "ticker": "BBO",
     "poolId": "21cb022b2557aec62f5a74f96350d398fa31186ba53240ad7d7466fd",
     "social": {
