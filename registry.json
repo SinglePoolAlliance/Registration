@@ -1,5 +1,19 @@
 [
     {
+    "ticker": "VIP",
+    "poolId": "84a289f6f0dc3d1e18dcac4687604d750baccfcd5c1380274a2f9824",
+    "social": {
+      "website": "http://www.cardano.vip/",
+      "twitter": "",
+      "facebook": "https://www.facebook.com/CardanoADA.RO/",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "6248904260",
+    "operatorName": "Marius Georgescu",
+    "github": "mariusgeorgescu"
+    },
+    {
     "ticker": "BBO",
     "poolId": "21cb022b2557aec62f5a74f96350d398fa31186ba53240ad7d7466fd",
     "social": {
