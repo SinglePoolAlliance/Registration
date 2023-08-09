@@ -1927,6 +1927,16 @@
         "pool_id": "47cc66d164f7db25f3a660a555c464badabe5d1b46f48c78edb1ac28",
         "member_since": "2023-05-25",
         "name": "HOLO"
+      },
+      "383": {
+        "pool_id": "28affa3c001052c65da45811a019f85df9bdc89c9a48cb24062f0c38",
+        "member_since": "2023-08-09",
+        "name": "BKV"
+      },
+      "384": {
+        "pool_id": "48cfc42a91bfd8f0aeb03722e53c6f88661b5d4e0e5b94069459e703",
+        "member_since": "2023-08-09",
+        "name": "JOKER"
       }
     }
   }
