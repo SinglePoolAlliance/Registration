@@ -5504,5 +5504,47 @@
     "telegram": "Hammer_369",
     "operatorName": "Matt & Matt",
     "github": "MattAllen10S"
+    },
+  {
+    "ticker": "STAT",
+    "poolId": "77b0a93c26ac65be36e9a9f220f9a43cbc57d705fc5d8f1de5fdeea1",
+    "social": {
+      "website": "https://adastat.net/",
+      "twitter": "ada_stat",
+       "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+     "telegram": "dmitry_stas",
+    "operatorName": "",
+    "github": ""
+  },
+  {
+    "ticker": "BKV",
+    "poolId": "28affa3c001052c65da45811a019f85df9bdc89c9a48cb24062f0c38",
+    "social": {
+      "website": "https://bkvpool.com/",
+      "twitter": "bkvpool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "oxisoft",
+    "operatorName": "Alex",
+    "github": "oxisoft"
+  },
+  {
+  "ticker": "JOKER",
+   "poolId": "48cfc42a91bfd8f0aeb03722e53c6f88661b5d4e0e5b94069459e703",
+   "social": {
+     "website": "https://thebmorejoker.github.io/",
+     "twitter": "THE_BMORE_JOKER",
+     "facebook": "",
+     "instagram": "",
+     "youtube": "" 
+     },
+   "telegram": "THEBMOREJOKER",
+   "operatorName": "Lee",
+   "github": "THEBMOREJOKER"
   }
 ]
