@@ -5492,6 +5492,20 @@
 
   },
   {
+    "ticker": "BKV",
+    "poolId": "28affa3c001052c65da45811a019f85df9bdc89c9a48cb24062f0c38",
+    "social": {
+      "website": "https://bkvpool.com/",
+      "twitter": "bkvpool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "oxisoft",
+    "operatorName": "Alex",
+    "github": "oxisoft"
+  },
+  {
   "ticker": "JOKER",
    "poolId": "48cfc42a91bfd8f0aeb03722e53c6f88661b5d4e0e5b94069459e703",
    "social": {
@@ -5504,6 +5518,5 @@
    "telegram": "THEBMOREJOKER",
    "operatorName": "Lee",
    "github": "THEBMOREJOKER"
-
   }
 ]
