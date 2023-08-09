@@ -5491,6 +5491,20 @@
    "github": "holomorphix"
 
   },
+    {
+    "ticker": "MERIT",
+    "poolId": "49a7d7cf28799e20fb0505922bf88821d8104943d9ad5b183c36a1b7",
+    "social": {
+      "website": "https://meritus.work/",
+      "twitter": "MeritusPool ",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "MeritusStakePool" 
+    },
+    "telegram": "Hammer_369",
+    "operatorName": "Matt & Matt",
+    "github": "MattAllen10S"
+    },
   {
     "ticker": "STAT",
     "poolId": "77b0a93c26ac65be36e9a9f220f9a43cbc57d705fc5d8f1de5fdeea1",
