@@ -5547,5 +5547,19 @@
    "telegram": "THEBMOREJOKER",
    "operatorName": "Lee",
    "github": "THEBMOREJOKER"
+  },
+  {
+  "ticker": "SVRN",
+   "poolId": "5059d31b0c8c11d6d2404266844e31f13dab05eae77815db8994a598",
+   "social": {
+     "website": "https://commerce.sleepingnatives.org/",
+     "twitter": "SleepingNatives",
+     "facebook": "SleepingNatives",
+     "instagram": "",
+     "youtube": "svrn_sleepingnatives" 
+     },
+   "telegram": "svrn_sleepingnatives",
+   "operatorName": "Philip de Souza",
+   "github": "Sleeping-Natives-Productions"
   }
 ]
