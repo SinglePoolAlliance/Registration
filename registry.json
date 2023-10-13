@@ -5547,5 +5547,19 @@
    "telegram": "THEBMOREJOKER",
    "operatorName": "Lee",
    "github": "THEBMOREJOKER"
-  }
+  },
+    {
+    "ticker": "BLKN",
+    "poolId": "f38375739aac5c4b6446dee394c7a785d11bb880509f04079a19618f",
+    "social": {
+      "website": "https://sites.google.com/view/blkn/home",
+      "twitter": "vulee",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Vukasin_BLKN",
+    "operatorName": "Vukasin Radic",
+    "github": "vukasinradic"
+    }
 ]
