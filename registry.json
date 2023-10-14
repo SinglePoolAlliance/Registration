@@ -5547,5 +5547,19 @@
    "telegram": "THEBMOREJOKER",
    "operatorName": "Lee",
    "github": "THEBMOREJOKER"
+  },
+  {
+      "ticker": "KAPY",
+      "poolId": "3adfc2b13579d2b924a668655f21aeb641190a3201217e6f7e4b169b",
+      "social": {
+          "website": "https://pool.kapybara.io",
+          "twitter": "kapypool",
+          "facebook": "",
+          "instagram": "",
+          "youtube": "" 
+      },
+      "telegram": "zj_andrew",
+      "operatorName": "Andrew",
+      "github": ""
   }
 ]
