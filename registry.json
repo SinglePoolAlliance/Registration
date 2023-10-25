@@ -1,4 +1,18 @@
-[
+[    
+    {
+    "ticker": "ELEMT",
+    "poolId": "2f17551ea621427535afc23e233b2d6a40ef44999ced2b6b7b0ea8fc",
+    "social": {
+      "website": "https://elemt-frontend.vercel.app",
+      "twitter": "elementalpool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "jona_777",
+    "operatorName": "",
+    "github": "solidsnakedev"
+    },
     {
     "ticker": "DCONE",
     "poolId": "333bd4419f2847f1a9f7621406563524214c1ce356ffa9d62ec07213",
