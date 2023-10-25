@@ -5547,5 +5547,19 @@
    "telegram": "THEBMOREJOKER",
    "operatorName": "Lee",
    "github": "THEBMOREJOKER"
+  },
+  {
+  "ticker": "RUMOR",
+   "poolId": "c45ff02e8559e129d3e87d47475a99e60dda5cb893e8681502c1ff34",
+   "social": {
+     "website": "https://anastasialabs.com/",
+     "twitter": "MladenLm",
+     "facebook": "",
+     "instagram": "",
+     "youtube": "" 
+     },
+   "telegram": "mladenlm",
+   "operatorName": "Mladen",
+   "github": "MladenLm"
   }
 ]
