@@ -5549,6 +5549,20 @@
    "github": "THEBMOREJOKER"
   },
   {
+    "ticker": "BLKN",
+    "poolId": "f38375739aac5c4b6446dee394c7a785d11bb880509f04079a19618f",
+    "social": {
+      "website": "https://sites.google.com/view/blkn/home",
+      "twitter": "vksn_",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Vukasin_BLKN",
+    "operatorName": "Vukasin Radic",
+    "github": "vukasinradic"
+    },
+  {
   "ticker": "RUMOR",
    "poolId": "c45ff02e8559e129d3e87d47475a99e60dda5cb893e8681502c1ff34",
    "social": {
