@@ -1,5 +1,19 @@
 [    
     {
+    "ticker": "KUBE",
+    "poolId": "8f8d157c7608c371b5fde9cd59004538b5fc3ddd77f073ddb2c86150",
+    "social": {
+      "website": "https://www.thekuberoom.com/cardano-kube/",
+      "twitter": "jpvegas21",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "jpkube",
+    "operatorName": "JP",
+    "github": "KingStake21"
+    },
+    {
     "ticker": "ELEMT",
     "poolId": "2f17551ea621427535afc23e233b2d6a40ef44999ced2b6b7b0ea8fc",
     "social": {
