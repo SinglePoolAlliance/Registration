@@ -1,4 +1,18 @@
-[
+[    
+    {
+    "ticker": "ELEMT",
+    "poolId": "2f17551ea621427535afc23e233b2d6a40ef44999ced2b6b7b0ea8fc",
+    "social": {
+      "website": "https://elemt-frontend.vercel.app",
+      "twitter": "elementalpool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "jona_777",
+    "operatorName": "",
+    "github": "solidsnakedev"
+    },
     {
     "ticker": "DCONE",
     "poolId": "333bd4419f2847f1a9f7621406563524214c1ce356ffa9d62ec07213",
@@ -5549,17 +5563,45 @@
    "github": "THEBMOREJOKER"
   },
   {
-      "ticker": "KAPY",
-      "poolId": "3adfc2b13579d2b924a668655f21aeb641190a3201217e6f7e4b169b",
-      "social": {
-          "website": "https://pool.kapybara.io",
-          "twitter": "kapypool",
-          "facebook": "",
-          "instagram": "",
-          "youtube": "" 
-      },
-      "telegram": "zj_andrew",
-      "operatorName": "Andrew",
-      "github": ""
+    "ticker": "KAPY",
+    "poolId": "3adfc2b13579d2b924a668655f21aeb641190a3201217e6f7e4b169b",
+    "social": {
+      "website": "https://pool.kapybara.io",
+      "twitter": "kapypool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "" 
+    },
+    "telegram": "zj_andrew",
+    "operatorName": "Andrew",
+    "github": ""
+  },
+  {
+    "ticker": "BLKN",
+    "poolId": "f38375739aac5c4b6446dee394c7a785d11bb880509f04079a19618f",
+    "social": {
+      "website": "https://sites.google.com/view/blkn/home",
+      "twitter": "vksn_",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Vukasin_BLKN",
+    "operatorName": "Vukasin Radic",
+    "github": "vukasinradic"
+  },
+  {
+  "ticker": "RUMOR",
+   "poolId": "c45ff02e8559e129d3e87d47475a99e60dda5cb893e8681502c1ff34",
+   "social": {
+     "website": "https://anastasialabs.com/",
+     "twitter": "MladenLm",
+     "facebook": "",
+     "instagram": "",
+     "youtube": "" 
+     },
+   "telegram": "mladenlm",
+   "operatorName": "Mladen",
+   "github": "MladenLm"
   }
 ]
