@@ -5589,5 +5589,19 @@
    "telegram": "mladenlm",
    "operatorName": "Mladen",
    "github": "MladenLm"
+  },
+  {
+    "ticker": "CDRAG",
+    "poolId": "766e0fb111aa6380cea74f4b105e69b6cc9a323f358a4d8b961ee2b4",
+    "social": {
+      "website": "",
+      "twitter": "KryptoDraci",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "KryptoDraci",
+    "operatorName": "Matias",
+    "github": "KryptoDraci"
   }
 ]
