@@ -5589,5 +5589,19 @@
    "telegram": "mladenlm",
    "operatorName": "Mladen",
    "github": "MladenLm"
-  }
+  },
+    {
+    "ticker": "ISH",
+    "poolId": "8a2895ed00b2d32ebea6711be22f270bfa3cfc442226d22643f14ec8",
+    "social": {
+      "website": "https://indiestakehub.com/",
+      "twitter": "indiestakehub",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "IndieStakeHub",
+    "operatorName": "",
+    "github": "IndieStakeHub"
+    },
 ]
