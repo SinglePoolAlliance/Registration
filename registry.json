@@ -1,5 +1,19 @@
 [    
     {
+    "ticker": "CETF",
+    "poolId": "pool1st58tj7nun3vynlhlmfawrn24ar0pshdle733vtkv43szxt2kq0",
+    "social": {
+      "website": "https://cardanoetf.io/",
+      "twitter": "https://twitter.com/CardanoETF",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "BaronvonCiel",
+    "operatorName": "",
+    "github": "CardanoETF"
+    },
+    {
     "ticker": "ELEMT",
     "poolId": "2f17551ea621427535afc23e233b2d6a40ef44999ced2b6b7b0ea8fc",
     "social": {
