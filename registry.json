@@ -5604,6 +5604,20 @@
    "operatorName": "Mladen",
    "github": "MladenLm"
   },
+    {
+    "ticker": "ISH",
+    "poolId": "8a2895ed00b2d32ebea6711be22f270bfa3cfc442226d22643f14ec8",
+    "social": {
+      "website": "https://indiestakehub.com/",
+      "twitter": "indiestakehub",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "IndieStakeHub",
+    "operatorName": "",
+    "github": "IndieStakeHub"
+    },
   {
     "ticker": "CDRAG",
     "poolId": "766e0fb111aa6380cea74f4b105e69b6cc9a323f358a4d8b961ee2b4",
