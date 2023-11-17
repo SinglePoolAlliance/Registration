@@ -3763,10 +3763,10 @@
     "github": "gallexis"
   },
   {
-    "ticker": "NOMAD",
+    "ticker": "P2PFI",
     "poolId": "bbebbbf81c42de5b84fbbc82c4feab78f8bd8bcf8b5af7c73a06664a",
     "social": {
-      "website": "https://www.nomadpool.io/",
+      "website": "https://github.com/zhekson1/CSL-DeFi-Protocols",
       "twitter": "zhekree",
       "facebook": "",
       "instagram": "",
@@ -3774,7 +3774,7 @@
     },
     "telegram": "zhekree",
     "operatorName": "Jerry",
-    "github": "nomadpool"
+    "github": "zhekson1"
   },
   {
     "ticker": "EZPZ",
@@ -5563,6 +5563,20 @@
    "github": "THEBMOREJOKER"
   },
   {
+    "ticker": "KAPY",
+    "poolId": "3adfc2b13579d2b924a668655f21aeb641190a3201217e6f7e4b169b",
+    "social": {
+      "website": "https://pool.kapybara.io",
+      "twitter": "kapypool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "" 
+    },
+    "telegram": "zj_andrew",
+    "operatorName": "Andrew",
+    "github": ""
+  },
+  {
     "ticker": "BLKN",
     "poolId": "f38375739aac5c4b6446dee394c7a785d11bb880509f04079a19618f",
     "social": {
@@ -5575,7 +5589,7 @@
     "telegram": "Vukasin_BLKN",
     "operatorName": "Vukasin Radic",
     "github": "vukasinradic"
-    },
+  },
   {
   "ticker": "RUMOR",
    "poolId": "c45ff02e8559e129d3e87d47475a99e60dda5cb893e8681502c1ff34",
@@ -5603,5 +5617,19 @@
     "telegram": "IndieStakeHub",
     "operatorName": "",
     "github": "IndieStakeHub"
-    }
+    },
+  {
+    "ticker": "CDRAG",
+    "poolId": "766e0fb111aa6380cea74f4b105e69b6cc9a323f358a4d8b961ee2b4",
+    "social": {
+      "website": "",
+      "twitter": "KryptoDraci",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "KryptoDraci",
+    "operatorName": "Matias",
+    "github": "KryptoDraci"
+  }
 ]
