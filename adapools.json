@@ -1964,16 +1964,21 @@
         "name": "RUMOR"
       },
       "390": {
+        "pool_id": "82e875cbd3e4e2c24ff7fed3d70e6aaf46f0c2edfe7d18b176656301",
+        "member_since": "2023-11-17",
+        "name": "CETF"
+      },
+      "391": {
         "pool_id": "bbebbbf81c42de5b84fbbc82c4feab78f8bd8bcf8b5af7c73a06664a",
         "member_since": "2023-11-17",
         "name": "P2PFI"
       },
-      "391": {
+      "392": {
         "pool_id": "3adfc2b13579d2b924a668655f21aeb641190a3201217e6f7e4b169b",
         "member_since": "2023-11-17",
         "name": "KAPY"
       },
-      "392": {
+      "393": {
         "pool_id": "766e0fb111aa6380cea74f4b105e69b6cc9a323f358a4d8b961ee2b4",
         "member_since": "2023-11-17",
         "name": "CDRAG"
