@@ -1962,6 +1962,11 @@
         "pool_id": "bbebbbf81c42de5b84fbbc82c4feab78f8bd8bcf8b5af7c73a06664a",
         "member_since": "2023-11-17",
         "name": "P2PFI"
+      },
+      "390": {
+        "pool_id": "3adfc2b13579d2b924a668655f21aeb641190a3201217e6f7e4b169b",
+        "member_since": "2023-11-17",
+        "name": "KAPY"
       }
     }
   }
