@@ -3763,10 +3763,10 @@
     "github": "gallexis"
   },
   {
-    "ticker": "NOMAD",
+    "ticker": "P2PFI",
     "poolId": "bbebbbf81c42de5b84fbbc82c4feab78f8bd8bcf8b5af7c73a06664a",
     "social": {
-      "website": "https://www.nomadpool.io/",
+      "website": "https://github.com/zhekson1/CSL-DeFi-Protocols",
       "twitter": "zhekree",
       "facebook": "",
       "instagram": "",
@@ -3774,7 +3774,7 @@
     },
     "telegram": "zhekree",
     "operatorName": "Jerry",
-    "github": "nomadpool"
+    "github": "zhekson1"
   },
   {
     "ticker": "EZPZ",
