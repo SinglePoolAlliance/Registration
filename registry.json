@@ -5659,5 +5659,19 @@
     "telegram": "KryptoDraci",
     "operatorName": "Matias",
     "github": "KryptoDraci"
-  }
+  },
+    {
+     "ticker": "PRX",
+     "poolId": "pool12uu4d74fut72kav7ltxf8ut7w9hzey2k0ee0z9r92f3hjpw73ay",
+     "social": {
+      "website": "",
+      "twitter": "ProximaPRX",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+     "telegram": "Simone1574",
+     "operatorName": "Simone",
+    "github": "simoneant"
+    }
 ]
