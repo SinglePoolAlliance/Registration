@@ -1,5 +1,19 @@
 [    
     {
+    "ticker": "DOD",
+    "poolId": "0b2b7bb0876d99ff8fcfd01ff093850935fc27426b7f577c9371a384",
+    "social": {
+      "website": "https://cardanodesk.com/",
+      "twitter": "rushapoil",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+      "telegram": "rushapoil",
+    "operatorName": "",
+    "github": "rushapoil"
+  },
+    {
     "ticker": "KUBE",
     "poolId": "8f8d157c7608c371b5fde9cd59004538b5fc3ddd77f073ddb2c86150",
     "social": {
