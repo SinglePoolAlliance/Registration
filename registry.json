@@ -5659,5 +5659,19 @@
     "telegram": "KryptoDraci",
     "operatorName": "Matias",
     "github": "KryptoDraci"
+  },
+  {
+    "ticker": "ZAM",
+    "poolId": "c5e367e5fe6dc0ee6cf5f43af56099c0c2f7bfbaca1a639522a0c5d5",
+    "social": {
+      "website": "https://www.missionzambia.org/",
+      "twitter": "missionzampool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": "http://www.youtube.com/@MissionZambiaStakePool-fh1dy"
+    },
+    "telegram": "",
+    "operatorName": "Shane",
+    "github": "drsjlazar"
   }
 ]
