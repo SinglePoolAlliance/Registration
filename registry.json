@@ -5659,5 +5659,19 @@
     "telegram": "KryptoDraci",
     "operatorName": "Matias",
     "github": "KryptoDraci"
+  },
+  {
+    "ticker": "ADAHR",
+    "poolId": "f7811118c400834b2539bd24684266b786e986c97d74a3db104bf049",
+    "social": {
+      "website": "https://adahero.com",
+      "twitter": "AdaheroSPO",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "adahero",
+    "operatorName": "",
+    "github": ""
   }
 ]
