@@ -1987,6 +1987,11 @@
         "pool_id": "766e0fb111aa6380cea74f4b105e69b6cc9a323f358a4d8b961ee2b4",
         "member_since": "2023-11-17",
         "name": "CDRAG"
+      },
+      "395": {
+        "pool_id": "e0079c2670ee8206a962d3c6ffe255b7277c546371fff68c2d624c50",
+        "member_since": "2024-09-01",
+        "name": "AMS"
       }
     }
   }
