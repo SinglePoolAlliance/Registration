@@ -5659,5 +5659,19 @@
     "telegram": "KryptoDraci",
     "operatorName": "Matias",
     "github": "KryptoDraci"
+  },
+  {
+    "ticker": "AMS",
+    "poolId": "e0079c2670ee8206a962d3c6ffe255b7277c546371fff68c2d624c50",
+    "social": {
+      "website": "https://www.amsterdamnode.com/",
+      "twitter": "AmsterdamNode",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "MaxAmsterdamNode",
+    "operatorName": "Syed",
+    "github": "ADATIMESTAMP"
   }
 ]
