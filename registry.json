@@ -5532,7 +5532,20 @@
    "telegram": "holomorphix",
    "operatorName": "Ryan & Jorden",
    "github": "holomorphix"
-
+  },
+  {
+  "ticker": "WAX",
+   "poolId": "6707f0c66d42327eb051b9ffc5384d061d83babfa42b118bf6386a11",
+   "social": {
+     "website": "https://www.Digitalhoney.io",
+     "twitter": "WAXStakePool",
+     "facebook": "",
+     "instagram": "",
+     "youtube": "" 
+     },
+   "telegram": "Alejandro",
+   "operatorName": "Alejandro",
+   "github": "DrSicks"
   },
     {
     "ticker": "MERIT",
@@ -5586,6 +5599,7 @@
      "instagram": "",
      "youtube": "" 
      },
+
    "telegram": "THEBMOREJOKER",
    "operatorName": "Lee",
    "github": "THEBMOREJOKER"
