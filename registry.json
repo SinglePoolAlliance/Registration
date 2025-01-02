@@ -5673,5 +5673,19 @@
     "telegram": "MaxAmsterdamNode",
     "operatorName": "Syed",
     "github": "ADATIMESTAMP"
+  },
+     {
+    "ticker": "MARAC",
+    "poolId": "pool16f95up5u5lyqne5mnxmlhe0rgdgmya27mph288r6gw0ukegjffa",
+    "social": {
+      "website": "https://www.maracuja-pool.com/",
+      "twitter": "maracuja_pool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "maracuja12",
+    "operatorName": "Antje",
+    "github": "maracuja12"
   }
 ]
