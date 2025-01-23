@@ -1992,6 +1992,11 @@
         "pool_id": "e0079c2670ee8206a962d3c6ffe255b7277c546371fff68c2d624c50",
         "member_since": "2024-09-01",
         "name": "AMS"
+      },
+      "396": {
+        "pool_id": "4e11b5772f9447b622eeea9faa8d26c33887754059cb8c564e5c9f9c",
+        "member_since": "2025-01-22",
+        "name": "CSPHD"
       }
     }
   }
