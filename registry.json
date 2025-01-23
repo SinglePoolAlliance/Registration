@@ -56,6 +56,20 @@
     "github": "DCOneCrypto"
     },
     {
+    "ticker": "TRADE",
+    "poolId": "b99b81d78a57c8b467c5b8e976c225c95f283777ea4376a273adfe06",
+    "social": {
+      "website": "https://adatradepool.com/",
+      "twitter": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "adatradepool",
+    "operatorName": "Franck",
+    "github": ""
+    },
+    {
     "ticker": "BBO",
     "poolId": "21cb022b2557aec62f5a74f96350d398fa31186ba53240ad7d7466fd",
     "social": {
