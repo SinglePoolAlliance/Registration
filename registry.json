@@ -5674,7 +5674,7 @@
     "operatorName": "Syed",
     "github": "ADATIMESTAMP"
   },
-     {
+  {
     "ticker": "MARAC",
     "poolId": "pool16f95up5u5lyqne5mnxmlhe0rgdgmya27mph288r6gw0ukegjffa",
     "social": {
@@ -5687,5 +5687,19 @@
     "telegram": "maracuja12",
     "operatorName": "Antje",
     "github": "maracuja12"
+  },
+  {
+    "ticker": "CSPHD",
+    "poolId": "4e11b5772f9447b622eeea9faa8d26c33887754059cb8c564e5c9f9c",
+    "social": {
+      "website": "https://calmepro777.github.io/",
+      "twitter": "CSPHD_ADA",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Callmepro777",
+    "operatorName": "",
+    "github": "Calmepro777"
   }
 ]
