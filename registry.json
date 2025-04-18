@@ -5687,5 +5687,19 @@
     "telegram": "Callmepro777",
     "operatorName": "",
     "github": "Calmepro777"
+  },
+   {
+    "ticker": "SAMOS",
+    "poolId": "a1e59d51a58a2e65432d67458104d264ccfb6b6e33b813b19ae1a625",
+    "social": {
+      "website": "https://samos-staking.github.io/samos/",
+      "twitter": "Samos Staking",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Samos_Staking",
+    "operatorName": "Christos",
+    "github": "samos-staking"
   }
 ]
