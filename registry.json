@@ -5675,6 +5675,20 @@
     "github": "ADATIMESTAMP"
   },
   {
+    "ticker": "MARAC",
+    "poolId": "d24b4e069ca7c809e69b99b7fbe5e34351b2755ed86ea39c7a439fcb",
+    "social": {
+      "website": "https://www.maracuja-pool.com/",
+      "twitter": "maracuja_pool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "maracuja12",
+    "operatorName": "Antje",
+    "github": "maracuja12"
+  },
+  {
     "ticker": "CSPHD",
     "poolId": "4e11b5772f9447b622eeea9faa8d26c33887754059cb8c564e5c9f9c",
     "social": {
@@ -5687,5 +5701,5 @@
     "telegram": "Callmepro777",
     "operatorName": "",
     "github": "Calmepro777"
-  }
+   }
 ]
