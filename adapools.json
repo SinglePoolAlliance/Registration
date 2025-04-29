@@ -1994,6 +1994,11 @@
         "name": "AMS"
       },
       "396": {
+        "pool_id": "d24b4e069ca7c809e69b99b7fbe5e34351b2755ed86ea39c7a439fcb",
+        "member_since": "2025-01-02",
+        "name": "MARAC"
+      },
+      "397": {
         "pool_id": "4e11b5772f9447b622eeea9faa8d26c33887754059cb8c564e5c9f9c",
         "member_since": "2025-01-22",
         "name": "CSPHD"
