@@ -5688,5 +5688,19 @@
     "telegram": "Callmepro777",
     "operatorName": "",
     "github": "Calmepro777"
+   },
+   {
+    "ticker": "APL",
+    "poolId": "504aff7150f5ee7ae26734d5ab9c8b6ad2b1b2bc3a73a30a7fa9bb06",
+    "social": {
+      "website": "https://aplpool.org/",
+      "twitter": "CardanoAPLPool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "osenv",
+    "operatorName": "",
+    "github": "sp213"
    }
 ]
