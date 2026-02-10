@@ -1083,21 +1083,6 @@
     "github": "dynamicstrategies"
   },
   {
-    "ticker": "SNAKE",
-    "poolId": "342350284fd76ba9dbd7fd4ed579b2a2058d5ee558f8872b37817b28",
-    "social": {
-      "facebook": "",
-      "twitter": "adasnakepool",
-      "website": "https://www.adasnakepool.com/",
-      "reddit": "",
-      "instagram": " ",
-      "youtube": ""
-    },
-    "telegram": "adasnakepool",
-    "operatorName": "Emanuele Concotelli",
-    "github": "asnakep"
-  },
-  {
     "ticker": "SMART",
     "poolId": "c1bc5c701c149bb7e346b47b8cc631160078b2b50e8ec37b2d0a7891",
     "social": {
