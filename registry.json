@@ -1,4 +1,18 @@
 [    
+     {
+    "ticker": "EUR",
+    "poolId": "3a0903012e156471ee2cfdf5af79902cd5108d891f90ec9cfbbce9ce",
+    "social": {
+      "website": "https://adapool-europe.com/",
+      "twitter": "EuropePool",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+      "telegram": "charlesADApoolEurope",
+    "operatorName": "Charles",
+    "github": "AdaPoolEuropeCharles"
+  },
     {
     "ticker": "KUBE",
     "poolId": "8f8d157c7608c371b5fde9cd59004538b5fc3ddd77f073ddb2c86150",
